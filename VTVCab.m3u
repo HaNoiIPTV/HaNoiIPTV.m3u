@@ -1,5 +1,21 @@
 #EXTINF:-1,VTV1 HD
 dtv://cable:85/dvb/1
+#EXTINF:-1,VTV2 HD
+dtv://cable:84/dvb/2
+#EXTINF:-1,VTV3 HD
+dtv://cable:86/dvb/3
+#EXTINF:-1,VTV4 HD
+dtv://cable:84/dvb/4
+#EXTINF:-1,VTV5 HD
+dtv://cable:84/dvb/5
+#EXTINF:-1,VTV6 HD
+dtv://cable:85/dvb/6
+#EXTINF:-1,VTV7 HD
+dtv://cable:85/dvb/7
+#EXTINF:-1,VTV8 HD
+dtv://cable:84/dvb/8
+#EXTINF:-1,VTV9 HD
+dtv://cable:84/dvb/9
 #EXTINF:-1,Hà Nội 1 HD
 dtv://cable:98/dvb/77
 #EXTINF:-1,Hà Nội 2 HD
