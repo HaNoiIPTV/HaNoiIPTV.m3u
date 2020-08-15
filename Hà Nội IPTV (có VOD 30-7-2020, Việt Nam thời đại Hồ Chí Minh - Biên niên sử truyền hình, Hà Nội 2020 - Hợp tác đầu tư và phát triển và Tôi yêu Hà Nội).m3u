@@ -271,12 +271,18 @@ http://61.238.6.49:8000/bysid/99
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo.png",HKIBC 香港國際財經台 1080
 http://116.49.135.177:9981/stream/channelid/142893056
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png",有線新聞台 HD
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png",有線新聞台 HD
 http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png",有線財經資訊台 HD
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png",有線財經資訊台 HD
 http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png",有線綜合娛樂台 HD
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png",有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門 720
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育 720
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_entertainment_yellow_tc_2.png",澳門綜藝 720
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png",民視第一台 HD
@@ -493,26 +499,12 @@ http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_
 http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://static.iptv-epg.com/cn/GZTVJingsai.cn.png",广州综合频道高清
 http://aplay.gztv.com/sec/zhonghe.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png",翡翠台
-http://113.254.225.68:9981/stream/channelid/5
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://static.iptv-epg.com/hk/TVBJ2.hk.png",J2
-http://113.254.225.68:9981/stream/channelid/9
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://static.iptv-epg.com/hk/ViuTV99.hk.png",ViuTV
-http://113.254.225.68:9981/stream/channelid/4
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",有線18台
 rtmp://xiaoyu.speedws.com/sat/hk041
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",Bein Sports 1 香港
 rtmp://xiaoyu.speedws.com/sat/hk011
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",Bein Sports 2 香港
 rtmp://xiaoyu.speedws.com/sat/hk021
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://www.tdm.com.mo/c_images/title_entertainment_yellow_tc_2.png",澳門綜藝
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv066_pc.png",台視高清
 rtmp://xiaoyu.speedws.com/sat/tv071
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視高清
