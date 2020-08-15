@@ -197,7 +197,7 @@ https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang HD
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945338657.png",Thái Nguyên 1 HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/203.png",Thái Nguyên 1 HD
 http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/221.png",Tuyên Quang HD
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
@@ -205,9 +205,9 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244539061.png",Quảng Ninh 3 HD
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569758171.png",Phú Thọ HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/191.png",Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",Bắc Ninh HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/992.png",Bắc Ninh HD
 http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist_w41963893_b864000_slVIE.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
@@ -221,7 +221,7 @@ http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist_w199182990_b86400
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình HD
 https://livecdn.fptplay.net/sda/ninhbinh_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",Thanh Hóa HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpjPP4UJ_5eccd2259b9cb.png",Thanh Hóa HD
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png",Nghệ An HD
 https://livecdn.fptplay.net/sda/nghean_2000.stream/chunklist.m3u8
@@ -247,7 +247,7 @@ http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist_w551210684_b864000_sl
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944927118.png",Đồng Tháp 1 HD
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://i.imgur.com/vXriu0n.png",Trà Vinh HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/841.png",Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://soctrangtv.vn/Content/images/stv1.png",Sóc Trăng 1 HD
 rtmp://115.78.3.164:1936/live/stv1
