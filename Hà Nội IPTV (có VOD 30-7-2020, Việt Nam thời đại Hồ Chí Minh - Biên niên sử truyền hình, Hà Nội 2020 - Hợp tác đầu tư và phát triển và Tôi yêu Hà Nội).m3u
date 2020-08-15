@@ -1,4 +1,10 @@
 ﻿#EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
+
+http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
+
+http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
+
+http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
@@ -250,9 +256,9 @@ https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/841.png",Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://soctrangtv.vn/Content/images/stv1.png",Sóc Trăng 1 HD
-rtmp://115.78.3.164:1936/live/stv1
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://soctrangtv.vn/Content/images/stv2.png",Sóc Trăng 2 HD
-rtmp://115.78.3.164:1936/live/stv2
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://thbl.vn/btv.png",Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/e0b8ec361b997db4c89eee8baa497fb9.png",港台電視31 1080
@@ -285,7 +291,7 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png",民視第一台 HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
 http://seb.sason.top/ptv/ftv.php?id=tw
@@ -401,7 +407,7 @@ http://220.85.148.178:9981/stream/channelid/39
 http://220.85.148.178:9981/stream/channelid/85
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://cubetv.tv/data/homepage/20160816100836.jpg",CUBE TV 1080
 http://220.85.148.178:9981/stream/channelid/38
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Sky (스카이) 1080
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Sky 1080
 http://220.85.148.178:9981/stream/channelid/3
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://ont.hyundaimedia.com/Contents/O/images/header/logo.jpg",ONT 1080
 http://220.85.148.178:9981/stream/channelid/54
@@ -413,16 +419,6 @@ http://220.85.148.178:9981/stream/channelid/89
 https://livecdn-vtvcab.vieon.vn/hls/d29be7ecd57aea7fef06476f95072301/1587548864957/live/hd_vtvcab_1_1080p/index.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD
 https://livecdn-vtvcab.vieon.vn/hls/10ed8d2589abc82a1fed6b8c71433b48/1587548957242/live/hd_vtvcab_10_1080p/index.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/BONG_DA_TV_SD_M.png",VTVCab16 - Bóng Đá TV
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_b2692000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/SCTV2_M.png",SCTV2 HD - Amc TV
-https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD.smil/chunklist_b2692000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/SCTV3_M.png",SCTV3 HD - See TV
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi.smil/chunklist_b2692000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/SCTV11_M.png",SCTV11 HD - TV Star
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_b2692000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/SCTV14_M.png",SCTV14 HD - Kênh Phim Việt
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_PhimViet.smil/chunklist_b2692000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies HD
@@ -6112,6 +6108,10 @@ http://xhalive.qwmedia.cn/hdratv-live/xha-yspd.flv
 http://xhalive.qwmedia.cn/hdratv-live/xha-shpd.flv
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUANGDAOJY/HUANGDAOJY.jpg?1",黄岛教育频道
 http://xhalive.qwmedia.cn/hdratv-live/xha-jypd.flv
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JMXWZH/JMXWZH.jpg?1",即墨新闻频道
+http://jsylivealone302.iqilu.com/live/jimo_tv01.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JMSHZH/JMSHZH.jpg?1",即墨生活频道
+http://jsylivealone302.iqilu.com/live/jimo_tv02.m3u8
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg?1",济南新闻综合频道
 http://www.dszbdq.cn/play/jntv.html?id=14
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg?1",济南新闻综合高清
@@ -6217,13 +6217,13 @@ http://l3.weihai.tv:8081/hls/nZ93xKu5Ld.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/WEIHAI3/WEIHAI3.jpg?1",威海海洋频道
 http://l2.weihai.tv:8081/hls/haiyangpd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANTAI1/YANTAI1.jpg?1",烟台新闻综合频道
-http://www.dszbdq.cn/play/sdyt.php?id=2
+http://www.qqdszb.com/play/sdyt.php?id=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANTAI2/YANTAI2.jpg?1",烟台公共频道
-http://www.dszbdq.cn/play/sdyt.php?id=3
+http://www.qqdszb.com/play/sdyt.php?id=3
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANTAI3/YANTAI3.jpg?1",烟台影视频道
-http://www.dszbdq.cn/play/sdyt.php?id=5
+http://www.qqdszb.com/play/sdyt.php?id=5
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANTAI4/YANTAI4.jpg?1",烟台经济科技频道
-http://www.dszbdq.cn/play/sdyt.php?id=4
+http://www.qqdszb.com/play/sdyt.php?id=4
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",海阳综合频道
 http://pili-live-rtmp.131.i2863.com/i2863-131/live_131_258808.flv
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LAIZHOUZH/LAIZHOUZH.jpg?1",莱州电视台
@@ -6510,6 +6510,10 @@ http://jsby.chinashadt.com:2035/live/by1.stream/chunklist_w1620423689.m3u8
 http://jsby.chinashadt.com:2035/live/by2.stream/chunklist_w522415960.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GAOYOUXW/GAOYOUXW.jpg?1",高邮新闻频道
 http://gaoyou-hls-tv-yf.cm.jstv.com/live/gaoyouxw/online.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YIZHENGXW/YIZHENGXW.jpg?1",仪征新闻频道
+http://yizheng-hls-tv-yf.cm.jstv.com/live/yzxwzh/online.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",仪征生活频道
+http://yizheng-hls-tv-yf.cm.jstv.com/live/yzshsh/online.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LYG1/LYG1.jpg?1",连云港新闻综合频道
 http://live.lyg1.com/zhpd/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LYG2/LYG2.jpg?1",连云港公共频道
@@ -6534,6 +6538,10 @@ http://jsdh.chinashadt.com:2035/live/8.stream/chunklist.m3u8
 http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227503/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",滨海新闻综合频道
 http://jsbh.chinashadt.com:2036/live/bh11.stream/chunklist_w315262767.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",灌云综合频道
+https://37425-cdn-1.hlsplay.aodianyun.com/tv_radio_37425/tv_channel_777.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",灌云影视频道
+https://lss-afb6151bf6a1e545.hlsplay.aodianyun.com/tv_radio_37425/tv_channel_774__redirect__37425.m3u8
 #EXTINF:-1 group-title="盐城网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANCHENGTV1/YANCHENGTV1.jpg?1",盐城新闻综合频道
 http://1016.jilu8.cn/jsyc.php?id=1
 #EXTINF:-1 group-title="盐城网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANCHENGTV2/YANCHENGTV2.jpg?1",盐城经济生活频道
@@ -6548,6 +6556,8 @@ http://1016.jilu8.cn/jsyc.php?id=6
 http://1016.jilu8.cn/jsyc.php?id=7
 #EXTINF:-1 group-title="盐城网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANCHENGTV1/YANCHENGTV1.jpg?1",盐城广播 FM98
 http://1016.jilu8.cn/jsyc.php?id=8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SYXWZH/SYXWZH.jpg?1",射阳新闻综合频道
+http://sheyang-hls-tv-yf.cm.jstv.com/live/syzh/online.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TZTV1/TZTV1.jpg?1",泰州新闻综合频道
 http://1016.jilu8.cn/jstz.php?id=5
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TZTV2/TZTV2.jpg?1",泰州经济生活频道
@@ -6586,6 +6596,10 @@ http://402173193.cloudvdn.com/a.m3u8?domain=pili-live-hls.tvzhibo.jshmtv.com&pla
 http://402173193.cloudvdn.com/a.m3u8?domain=pili-live-hls.tvzhibo.jshmtv.com&player=qnwAAO9ehsOA8x0W&secondToken=secondToken%3A7pp2lnADJMdG-whSZTeubXpjFuM&sign=316ff68ce67df895390ec6b1d4df6622&streamid=haimentvzhibo%3Ahaimentvzhibo%2Fjiaoyurenwen%2Fjiaoyurenwen&t=5efdf334&v3=1
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DONGTAIXW/DONGTAIXW.jpg?1",东台新闻综合频道
 http://dongtai-hls-tv-yf.cm.jstv.com/live/dttv1/online.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",海安新闻综合频道
+http://haian-hls-tv-yf.cm.jstv.com/live/haaxwzh/online.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/RGXWZH/RGXWZH.jpg?1",如皋新闻综合频道
+http://zhibo.erugao.cn/video/s10001-RGTV/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZHENJIANGTV1/ZHENJIANGTV1.jpg?1",镇江新闻综合频道
 http://live.zjmc.tv/1/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZHENJIANGTV2/ZHENJIANGTV2.jpg?1",镇江民生频道
@@ -6600,6 +6614,8 @@ http://218.3.92.100:1937/live/shenghuo/chunklist_w570220422.m3u8
 http://218.3.92.100:1937/live/yingshi/chunklist_w900276126.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JURONGDJ/JURONGDJ.jpg?1",句容党建频道
 http://218.3.92.100:1937/live/dangjian/chunklist_w128623224.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANGZHONGXW/YANGZHONGXW.jpg?1",杨中电视台
+http://58.241.125.210:9192/live/hls/6.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SQXX/SQXX.jpg?1",宿迁综合频道
 http://183.207.248.136/ott.js.chinamobile.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SQGG/SQGG.jpg?1",宿迁公共频道
@@ -8913,11 +8929,11 @@ rtmp://scdytv.com/live/m_ggpd_livevideo
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/MZXWZH/MZXWZH.jpg?1",绵竹电视台
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合高清
-http://www.dszbdq.cn/play/scmy.php?id=1
+http://www.qqdszb.com/play/scmy.php?id=1
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
-http://www.dszbdq.cn/play/scmy.php?id=2
+http://www.qqdszb.com/play/scmy.php?id=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道高清
-http://www.dszbdq.cn/play/scmy.php?id=3
+http://www.qqdszb.com/play/scmy.php?id=3
 #EXTINF:-1  tvg-logo=" ",绵阳电信：5个卫视频道高清 1个是四川影视文艺高清 和 3个是卫视频道标清？您来看下：东南卫视 广西卫视 和 海南卫视是标清频道 仍然北京卫视 天津卫视 广东卫视 本地（四川）卫视 和 重庆卫视是高清频道
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=027&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1  tvg-logo=" ",绵阳电信：5个卫视频道高清 1个是四川影视文艺高清 和 3个是卫视频道标清？您来看下：云南卫视 吉林卫视 和 贵州卫视是标清频道 仍然辽宁卫视 天津卫视 黑龙江卫视 本地（四川）卫视 和 重庆卫视是高清频道
@@ -10342,8 +10358,6 @@ https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 group-title="影音直播" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv17_mobile.png",Good TV2 真理台
 https://live.streamingfast.net/osmflivech2.m3u8
-
-http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 group-title="影音直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="影音直播" tvg-logo="https://yt3.ggpht.com/a/AATXAJynZaeeV5diJ4Zbcn-sShl7kZBZy6mG5ZbcxQ=s100-c-k-c0xffffffff-no-rj-mo",三立LIVE新聞台 HD
