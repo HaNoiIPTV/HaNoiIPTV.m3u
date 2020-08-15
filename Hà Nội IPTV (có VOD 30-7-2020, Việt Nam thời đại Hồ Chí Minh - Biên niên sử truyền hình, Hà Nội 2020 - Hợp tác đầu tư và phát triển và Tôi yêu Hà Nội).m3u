@@ -1,10 +1,4 @@
 ﻿#EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
-
-http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
-
-http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
-
-http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
@@ -283,6 +277,12 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 http://livetv.dnsfor.me:80/channel.6.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png",有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/610.png?rand=368",香港美亞電影台 HD
+http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.facebook.com/214228761968049/photos/214565598601032/",有線18台
+http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/612.png?rand=68",香港星衛電影台 HD
+http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門 720
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育 720
@@ -495,8 +495,6 @@ http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_
 http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://static.iptv-epg.com/cn/GZTVJingsai.cn.png",广州综合频道高清
 http://aplay.gztv.com/sec/zhonghe.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",有線18台
-rtmp://xiaoyu.speedws.com/sat/hk041
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",Bein Sports 1 香港
 rtmp://xiaoyu.speedws.com/sat/hk011
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",Bein Sports 2 香港
@@ -11182,8 +11180,6 @@ http://122.155.180.8:5021/live/457
 
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/628.png?rand=795",壹電視電影台高清
 
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/610.png?rand=368",美亞電影台 （香港和台灣電視版）
-http://bbdd.228888888.xyz:8081/hls/ch306.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch2.png",嘉義縣公用頻道
 http://61.58.60.230:9319/live/2.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch3.png",嘉義市公用頻道
