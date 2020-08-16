@@ -303,7 +303,9 @@ http://p06.iptv2asia.com:18888/http/001
 http://p06.iptv2asia.com:18888/http/004
 #EXTINF:-1  group-title="華文電視直播" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv033_mobile.png",中天綜合台 HD
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台 HD
+#EXTINF:-1  group-title="華文電視直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台 HD
+http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台 FHD
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1  group-title="華文電視直播" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch77.png",中天娛樂台 HD
 http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -321,9 +323,11 @@ http://p06.iptv2asia.com:18888/http/009
 http://p06.iptv2asia.com:18888/http/010
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/096.png?rand=995",華視教育體育文化台 HD
 http://p06.iptv2asia.com:18888/http/011
-#EXTINF:-1  group-title="影音直播" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS 新聞台 HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS 新聞台 HD
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 HD
+#EXTINF:-1  group-title="華文電視直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 HD
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 FHD
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1  group-title="華文電視直播" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch66.png",東森洋片台 HD
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
