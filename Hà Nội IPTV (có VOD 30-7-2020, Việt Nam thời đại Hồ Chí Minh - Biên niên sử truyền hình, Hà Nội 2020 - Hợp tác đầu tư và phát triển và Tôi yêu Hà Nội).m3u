@@ -195,10 +195,14 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/251.png",Lai Châu
+http://gg.gg/laichau
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/271.png",Điện Biên HD
 https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La HD
 http://118.107.68.17:1935/VTC/smil:SonllaTV.smil/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/281.png",Hòa Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",Lạng Sơn HD
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang HD
@@ -2631,29 +2635,23 @@ https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8?token=eyJzZ
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo=" ",An Ninh Thế Giới
 http://vod.avg.vn:1935/live/antg.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH VIP" tvg-logo="https://mytv.com.vn/upload/channel/251.png",Lai Châu
-http://113.172.75.158:2806/rtp/232.84.3.133:9174
+
 
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/241.png",Lào Cai
 http://live.laocaitv.vn:1935//live_/LCTV/chunklist_w802648470.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/241.png",Lào Cai DB
 https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La DB
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La HD DB
 https://livecdn.fptplay.net/sdc/sonla_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La FM
 http://118.107.68.10:1935/radio/Sonla.stream/chunklist_w181180713.m3u8
 #EXTINF:-1  group-title="Giải trí" tvg-logo="http://sonlatv.vn/Uploaded/Users/Haubt/Ads/2020/Gameshow%20ve%20ban%20em%20chuan.jpg",Gameshow Về Bản Em
 
-
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/281.png",Hòa Bình
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/281.png",Hòa Bình DB
 https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjUyNDEsICJyZXNvdXJjZV9pZCI6ICJob2FiaW5oXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiYzcyYTI0ZDUxZGNiNGYyNTViZGZmZDBkZGNlODNhNzkiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ4NTE2NDEsICJybWlwIjogIjI3Ljc5LjE2Ny40In0=
 
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",Lạng Sơn
 https://livecdn.fptplay.net/sdc/langson_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODUwMzYxMzEsICJyZXNvdXJjZV9pZCI6ICJsYW5nc29uXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiZTY5OGNkZDJiNjNiYzM2NjFkZDE0ZmYzMzBlZTE2ZDUiLCAidmFsaWRfbWludXRlcyI6IDE1ODUxMjI1MzEsICJybWlwIjogIjI3Ljc5LjI1MS41NCJ9
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",Lạng Sơn
-https://livecdn-htv.vieon.vn/hls/4df21ef90bd12c6db7ac0b5f802130d7/1587549139269/live/lang_son_360p/index.m3u8
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://clip.langsontv.vn/thumb/480x270/upload/video/thumb/chuong_trinh_thoi_su_tong_hop_ngay_6_6_2020_08021007062020.jpg",Chương trình thời sự tối ngày 7/6/2020
 http://2clip.langsontv.vn/upload/video/file/chuong_trinh_thoi_su_tong_hop_ngay_7_6_2020_07390008062020.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://clip.langsontv.vn/thumb/480x270/upload/video/thumb/chuong_trinh_thoi_su_tong_hop_ngay_6_6_2020_08021007062020.jpg",Chương trình thời sự tối ngày 8/6/2020
