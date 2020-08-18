@@ -342,10 +342,14 @@ http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 group-title="華文電視直播" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",KBS1 1080
+http://220.85.148.178:9981/stream/channelid/103
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",KBS1 1M1080
 http://221.146.83.223:9981/stream/channelid/99
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",KBS1 2M1080
 http://59.28.86.246:9981/stream/channelid/92
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",KBS2 1080
+http://220.85.148.178:9981/stream/channelid/102
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",KBS2 1M1080
 http://221.146.83.223:9981/stream/channelid/101
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",KBS2 2M1080
 http://59.28.86.246:9981/stream/channelid/96
@@ -354,27 +358,39 @@ http://220.85.148.178:9981/stream/channelid/1
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",KBSN Sports 1080
 http://220.85.148.178:9981/stream/channelid/5
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",SBS 1080
+http://220.85.148.178:9981/stream/channelid/101
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",SBS 1M1080
 http://221.146.83.223:9981/stream/channelid/100
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",SBS Sports 1080
+http://220.85.148.178:9981/stream/channelid/6
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",SBS Sports 1M1080
 http://221.146.83.223:9981/stream/channelid/63
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/298ece5481105100844.png",SBS Golf 1080
-http://220.85.148.178:9981/stream/channelid/21
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",MBC 1080
+http://220.85.148.178:9981/stream/channelid/104
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",MBC 1M1080
 http://221.146.83.223:9981/stream/channelid/84
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",MBC 2M1080
 http://59.28.86.246:9981/stream/channelid/4
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_05.png",MBCM 1080
+http://220.85.148.178:9981/stream/channelid/26
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_05.png",MBCM 1M1080
 http://221.146.83.223:9981/stream/channelid/4
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png",MBC Sports+ 1080
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png",MBC Sports+ 1M1080
 http://220.85.148.178:9981/stream/channelid/52
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",OBS 1080
+http://220.85.148.178:9981/stream/channelid/61
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",OBS 1M1080
 http://221.146.83.223:9981/stream/channelid/13
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01723.png",연합뉴스TV 1080
+http://220.85.148.178:9981/stream/channelid/30
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01723.png",연합뉴스TV 1M1080
 http://221.146.83.223:9981/stream/channelid/32
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01723.png",연합뉴스TV 2M1080
 http://59.28.86.246:9981/stream/channelid/27
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C17142.png",MBN+ 1080
 http://220.85.148.178:9981/stream/channelid/98
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png",TV Chosun 1080
+http://220.85.148.178:9981/stream/channelid/79
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png",TV Chosun 1M1080
 http://221.146.83.223:9981/stream/channelid/25
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png",TV Chosun 2M1080
@@ -382,43 +398,65 @@ http://59.28.86.246:9981/stream/channelid/22
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00585.png",TV Chosun 2 1080
 http://220.85.148.178:9981/stream/channelid/90
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://www.imtcast.com/echannel/images/channel/logo_m.jpg",E Channel 1080
+http://220.85.148.178:9981/stream/channelid/42
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://www.imtcast.com/echannel/images/channel/logo_m.jpg",E Channel 1M1080
 http://221.146.83.223:9981/stream/channelid/28
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A 1080
+http://220.85.148.178:9981/stream/channelid/76
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A 1M1080
 http://221.146.83.223:9981/stream/channelid/23
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A 2M1080
 http://59.28.86.246:9981/stream/channelid/18
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C17141.png",Channel A Plus 1080
 http://220.85.148.178:9981/stream/channelid/100
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN 1080
+http://220.85.148.178:9981/stream/channelid/80
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN 1M1080
 http://221.146.83.223:9981/stream/channelid/92
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN 2M1080
 http://59.28.86.246:9981/stream/channelid/21
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN 1080
+http://220.85.148.178:9981/stream/channelid/48
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN 1M1080
 http://221.146.83.223:9981/stream/channelid/75
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN 2M1080
 http://59.28.86.246:9981/stream/channelid/42
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",MNet 1080
+http://220.85.148.178:9981/stream/channelid/37
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",MNet 1M1080
 http://221.146.83.223:9981/stream/channelid/76
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",MNet 2M1080
 http://59.28.86.246:9981/stream/channelid/31
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN 1080
+http://220.85.148.178:9981/stream/channelid/34
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN 1M1080
 http://221.146.83.223:9981/stream/channelid/40
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN 2M1080
 http://59.28.86.246:9981/stream/channelid/30
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies 1080
+http://220.85.148.178:9981/stream/channelid/36
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies 1M1080
 http://221.146.83.223:9981/stream/channelid/37
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies 2M1080
 http://59.28.86.246:9981/stream/channelid/29
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC 1080
+http://220.85.148.178:9981/stream/channelid/73
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC 1M1080
 http://221.146.83.223:9981/stream/channelid/26
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC 2M1080
 http://59.28.86.246:9981/stream/channelid/20
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 1080
+http://220.85.148.178:9981/stream/channelid/2
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 1M1080
 http://221.146.83.223:9981/stream/channelid/66
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 2M1080
 http://59.28.86.246:9981/stream/channelid/51
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4 1080
+http://220.85.148.178:9981/stream/channelid/40
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4 1M1080
 http://59.28.86.246:9981/stream/channelid/79
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive 1080
+http://220.85.148.178:9981/stream/channelid/86
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive 1M1080
 http://221.146.83.223:9981/stream/channelid/82
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive 2M1080
@@ -428,10 +466,16 @@ http://59.28.86.246:9981/stream/channelid/53
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png",中华TV 1080
 http://220.85.148.178:9981/stream/channelid/25
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/102.png",Channel China 1080
+http://220.85.148.178:9981/stream/channelid/32
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/102.png",Channel China 1M1080
 http://221.146.83.223:9981/stream/channelid/47
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo=""http://comedytv.ihq.co.kr/img_2011/log_cu.jpg",Comedy TV 1080
+http://220.85.148.178:9981/stream/channelid/33
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo=""http://comedytv.ihq.co.kr/img_2011/log_cu.jpg",Comedy TV 1M1080
 http://221.146.83.223:9981/stream/channelid/46
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://dramax.ihq.co.kr/img_2011/log_cu.jpg",Dramax 1080
+http://220.85.148.178:9981/stream/channelid/82
+#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://dramax.ihq.co.kr/img_2011/log_cu.jpg",Dramax 1M1080
 http://221.146.83.223:9981/stream/channelid/45
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/87.png",K STAR 1080
 http://220.85.148.178:9981/stream/channelid/39
@@ -4242,26 +4286,38 @@ http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225870/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV2/HUNANTV2.jpg?1",金鹰卡通频道高清
 http://kjol.cc/proxy/hunan.php?id=287
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV3/HUNANTV3.jpg?1",湖南娱乐频道
+http://58.20.64.92:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV3/HUNANTV3.jpg?1",湖南娱乐频道高清
 http://kjol.cc/proxy/hunan.php?id=344
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV4/HUNANTV4.jpg?1",湖南电视剧频道
+http://58.20.64.92:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV4/HUNANTV4.jpg?1",湖南电视剧高清
 http://kjol.cc/proxy/hunan.php?id=484
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV5/HUNANTV5.jpg?1",湖南公共频道高清
 http://kjol.cc/proxy/hunan.php?id=261
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV5/HUNANTV5.jpg?1",湖南公共频道高清 （长沙联通）
+http://58.20.64.92:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV6/HUNANTV6.jpg?1",湖南电影频道高清
 http://58.20.64.92:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV7/HUNANTV7.jpg?1",湖南国际频道高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV7/HUNANTV7.jpg?1",湖南国际频道
 http://kjol.cc/proxy/hunan.php?id=229
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAPPIGO/HAPPIGO.jpg",快乐购
 http://cg0.hunancatv.cn:9090/live/KLG_8000.m3u8?ci=123
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNEDUTV1/HNEDUTV1.jpg?1",湖南教育高清
 http://pull.hnedutv.com/live/edutv.m3u8?wsSession=b5179d756290de69ad0bb69a-158739513187785&wsIPSercert=ba8f59b29067f76886a8248e22886a23&wsMonitor=0
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV1/HNETV1.jpg?1",湖南经视频道
+http://111.40.196.25/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV1/HNETV1.jpg?1",湖南经视频道高清
 http://kjol.cc/proxy/hunan.php?id=280
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV2/HNETV2.jpg?1",湖南都市频道高清
 http://kjol.cc/proxy/hunan.php?id=346
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV2/HNETV2.jpg?1",湖南都市频道高清 （长沙联通）
+http://58.20.64.92:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV3/HNETV3.jpg?1",湖南金鹰纪实高清
 http://kjol.cc/proxy/hunan.php?id=316
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV3/HNETV3.jpg?1",湖南金鹰纪实高清 （长沙联通）
+http://58.20.64.92:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV3/HNETV3.jpg?1",金鹰纪实频道高清 （大学线路）
 http://ivi.bupt.edu.cn/hls/gedocu.m3u8
 #EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV3/HNETV3.jpg?1",金鹰纪实频道高清 （兰州大学）
@@ -6430,14 +6486,24 @@ http://live.plus.3ch.net.cn/xnzb/sd/live.m3u8
 http://v.www.njlhtv.com/LiveVideoServer/streams/s12/lhtv1/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",六合影视生活频道
 http://v.www.njlhtv.com/LiveVideoServer/streams/s12/lhtv2/live.m3u8
+
+
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV1/SUZHOUTV1.jpg?1",苏州新闻综合高清
+http://1017.jilu8.cn/jssz.php?id=60
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV1/SUZHOUTV1.jpg?1",苏州新闻综合高清 （昆山联通）
 http://221.6.85.150:9000/live/szxwzh_800/szxwzh_800.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV2/SUZHOUTV2.jpg?1",苏州社会经济频道
 rtmp://csztv.2500sz.com/live/c02
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV2/SUZHOUTV2.jpg?1",苏州社会经济高清
+http://1017.jilu8.cn/jssz.php?id=51
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV3/SUZHOUTV3.jpg?1",苏州文化生活频道
 rtmp://csztv.2500sz.com/live/c03
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV3/SUZHOUTV3.jpg?1",苏州文化生活高清
+http://1017.jilu8.cn/jssz.php?id=52
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV5/SUZHOUTV5.jpg?1",苏州生活资讯频道
 rtmp://csztv.2500sz.com/live/c04
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SUZHOUTV5/SUZHOUTV5.jpg?1",苏州生活资讯高清
+http://1017.jilu8.cn/jssz.php?id=53
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJGXWZH/ZJGXWZH.jpg?1",张家港新闻综合频道
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/chunklist_w1261299056.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJGSHSH/ZJGSHSH.jpg?1",张家港民生频道
@@ -6619,11 +6685,11 @@ http://live.rdxmt.com/channels/rudong/shfw/flv:sd/live
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/RUDONGYS/RUDONGYS.jpg?1",如东影视娱乐频道
 http://live.rdxmt.com/channels/rudong/yswh/flv:sd/live
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAIMENXW/HAIMENXW.jpg?1",海门新闻综合频道
-http://402173207.cloudvdn.com/a.m3u8?domain=pili-live-hls.tvzhibo.jshmtv.com&player=4TYAAPpgVfa88h0W&secondToken=secondToken%3AswAdKojDGk0fNcZbQSE3GL24b10&sign=bf7b763210bd185a75b0e57afd1392c5&streamid=haimentvzhibo%3Ahaimentvzhibo%2Fxinwenzonghe%2Fxinwenzonghe&t=5efdefeb&v3=1
+http://1017.jilu8.cn/jshm.php?id=17
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAIMENXW/HAIMENXW.jpg?1",海门经济生活频道
-http://402173193.cloudvdn.com/a.m3u8?domain=pili-live-hls.tvzhibo.jshmtv.com&player=qnwAAHTZDbPt8h0W&secondToken=secondToken%3AG443wdi0fPaeIA438zMNF4jcKNg&sign=d407ee9f98060419777fa24db86f54c6&streamid=haimentvzhibo%3Ahaimentvzhibo%2Fjingjishenghuo%2Fjingjishenghuo&t=5efdf0bc&v3=1
+http://1017.jilu8.cn/jshm.php?id=29
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAIMENXW/HAIMENXW.jpg?1",海门人文教育频道
-http://402173193.cloudvdn.com/a.m3u8?domain=pili-live-hls.tvzhibo.jshmtv.com&player=qnwAAO9ehsOA8x0W&secondToken=secondToken%3A7pp2lnADJMdG-whSZTeubXpjFuM&sign=316ff68ce67df895390ec6b1d4df6622&streamid=haimentvzhibo%3Ahaimentvzhibo%2Fjiaoyurenwen%2Fjiaoyurenwen&t=5efdf334&v3=1
+http://1017.jilu8.cn/jshm.php?id=13
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DONGTAIXW/DONGTAIXW.jpg?1",东台新闻综合频道
 http://dongtai-hls-tv-yf.cm.jstv.com/live/dttv1/online.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",海安新闻综合频道
@@ -7891,7 +7957,7 @@ http://dslive.grtn.cn/yjzh/sd/live.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo=" ",云浮新闻综合频道 （荔枝网）
 http://dslive.grtn.cn/yfzh/sd/live.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo=" ",云浮新闻综合频道
-http://27.36.62.163:9090/live/yunfuyitao_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+http://402173194.cloudvdn.com/a.m3u8?domain=pili-live-hls.ysx.tianma3600.com&player=XrkAANpiyY0SXCwW&secondToken=secondToken%3AfNek31Vxt6d-FOyYOcjGmwkywlM&streamid=gdyf%3Agdyf%2Fgdyfzh&v3=1
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo=" ",云浮公共频道
 http://27.36.62.163:9090/live/yunfuertao_1500.m3u8?ci=123&srchost=172.16.149.181:8060
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUANXI2/GUANXI2.jpg?1",广西综艺旅游频道
@@ -9744,6 +9810,20 @@ http://metroradio-lh.akamaihd.net/i/1044_h@349800/index_48_a-p.m3u8
 rtmp://xiaoyu.speedws.com/sat/hk011
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Bein Sports 2 香港 （香港小雨速度版）
 rtmp://xiaoyu.speedws.com/sat/hk021
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=1
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=3
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=4
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=5
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=12
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=16
+#EXTINF:-1  group-title="肥米TV" tvg-logo=" ",
+http://2020.shao.store/daili666666666666/hk/hk2.php?id=17
 #EXTINF:-1 group-title="香港戲劇" tvg-logo="https://img.tvb.com/mytvs/poster/1282/128121_128.jpg",純熟意外 第1集
 https://vip.bage-zuida.com/20200722/8980_14b09967/1100k/hls/index.m3u8
 #EXTINF:-1 group-title="香港戲劇" tvg-logo="https://img.tvb.com/mytvs/poster/1282/128121_128.jpg",純熟意外 第2集
@@ -13904,6 +13984,8 @@ http://219.250.105.94:9981/stream/channelid/348007095
 http://219.250.105.94:9981/stream/channelid/429540608
 #EXTINF:-1 group-title="KÊNH VIP" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00590.png",OGN
 http://59.11.138.25:9981/stream/channelid/1847577622
+#EXTINF:-1 group-title="KÊNH VIP" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png",Tooniverse
+http://ucc.zhibiaogu.com/tconvers/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIP" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png",Tooniverse (Trạm 3)
 http://175.113.154.14:9981/stream/channelid/135644887
 #EXTINF:-1 group-title="KÊNH VIP" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00611.png",Life Time
