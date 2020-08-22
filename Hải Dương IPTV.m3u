@@ -17,9 +17,9 @@ https://ucdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
-#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/992.png",BTV - Truyền hình Bắc Ninh HD
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/992.png",BTV - Truyền hình Bắc Ninh HD
 http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist.m3u8
-#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BGTV - Truyền hình Bắc Giang HD
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BGTV - Truyền hình Bắc Giang HD
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
