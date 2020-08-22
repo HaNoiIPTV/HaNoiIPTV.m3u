@@ -20,3 +20,5 @@ http://lives.hungyentv.vn:1935/live/HYTV/chunklist_w542715108.m3u8
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên FM
 http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",Hải Dương HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
