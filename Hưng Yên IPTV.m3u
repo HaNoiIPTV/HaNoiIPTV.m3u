@@ -1,4 +1,4 @@
-﻿#EXTINF:-1  group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
+#EXTINF:-1  group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV2_HD_M.png",VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
@@ -18,5 +18,15 @@ https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên FM
 http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN1_M.png",H1 - Truyền hình Hà Nội 1 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",H2 - Truyền hình Hà Nội 2 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://mytv.com.vn/upload/channel/992.png",BTV - Truyền hình Bắc Ninh HD
+http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",TBTV - Truyền hình Thái Bình HD
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",THHN - Truyền hình Hà Nam
+http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
