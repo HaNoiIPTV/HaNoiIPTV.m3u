@@ -30,3 +30,9 @@ http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://mytv.com.vn/upload/channel/phpjPP4UJ_5eccd2259b9cb.png",TTV - Truyền hình Thanh Hóa HD
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
+#EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944937642.png",ĐNRTV1 - Truyền hình Đồng Nai 1 HD
+https://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://imgstatic.vtvcab.vn/logos/H7_M.png",HTV7 HD
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png",HTV9 HD
+https://livecdn.fptplay.net/hda/htv9hd_2000.stream/chunklist.m3u8
