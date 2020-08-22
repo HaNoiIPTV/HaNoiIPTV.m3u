@@ -1,5 +1,5 @@
-﻿#EXTM3U
-﻿﻿#EXTINF:-1 group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
+#EXTM3U
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV2_HD_M.png",VTV2 HD
 https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
@@ -17,6 +17,22 @@ https://ucdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/992.png",BTV - Truyền hình Bắc Ninh HD
+http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BGTV - Truyền hình Bắc Giang HD
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên HD
+http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945039445.png",QTV1 - Truyền hình Quảng Ninh 1 HD
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244539061.png",QTV3 - Truyền hình Quảng Ninh 3 HD
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",THP - Truyền hình Hải Phòng HD
+https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ - Truyền hình Hải Phòng HD
+http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh giáp ranh tỉnh Hải Dương" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",TBTV - Truyền hình Thái Bình HD
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
