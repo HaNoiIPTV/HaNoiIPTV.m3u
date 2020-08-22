@@ -24,3 +24,5 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Quảng Bình" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QRTV - Truyền hình Quảng Trị HD
 http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh khác đang phát sóng" tvg-logo="https://mytv.com.vn/upload/channel/phpjPP4UJ_5eccd2259b9cb.png",TTV - Truyền hình Thanh Hóa HD
+http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
