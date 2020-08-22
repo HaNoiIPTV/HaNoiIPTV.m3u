@@ -2570,6 +2570,14 @@ http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/20002
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=82&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清 （贵州移动）
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4k
+#EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 （央视网成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 （央视网成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 （央视网成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225793/index.m3u8
 #EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 （央视网绵阳电信）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1  group-title="CCTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
@@ -2652,7 +2660,9 @@ http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://117.169.120.160:8080/live/cctv-12/1.m3u8
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV13 新闻频道
 http://117.169.120.160:8080/live/cctv-13/1.m3u8
-#EXTINF:-1  group-title="中国IPTV" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV13 新闻频道
+#EXTINF:-1  group-title="中国IPTV" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV13 新闻频道 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225658/index.m3u8
+#EXTINF:-1  group-title="中国IPTV" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV13 新闻频道 （绵阳电信）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=023&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV13 新闻频道
 http://220.158.149.28:8180/live/TV00000000000000000014@HHZT
@@ -4272,6 +4282,8 @@ http://220.158.149.28:8180/live/TV00000000000000000055@HHZT
 http://live.v.jxnews.com.cn:5021/live_hls/11/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视
 http://219.153.252.50/PLTV/88888888/224/3221225537/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225596/index.m3u8
 #EXTINF:-1 group-title="央视网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
 http://cctvalih5ca.v.myalicdn.com/wstv/jiangxi_2/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （上海多线）
@@ -4374,15 +4386,17 @@ http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
 http://182.138.51.79/PLTV/88888920/224/3221225594/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUANXI1/GUANXI1.jpg?1",广西卫视高清
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视 （兰州大学）
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/yntv.m3u8
-#EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225601/index.m3u8
+#EXTINF:-1  group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视
 http://220.158.149.28:8180/live/TV00000000000000000023@HHZT
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视高清 （昭通移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清 （昭通移动）
 http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视高清 （福州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清 （福州移动）
 rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
 #EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
 http://hdtv.lzu6.edu.cn/hls/jltv.m3u8
@@ -4432,8 +4446,10 @@ http://vfile2.jlntv.cn/2020/1591/8427/5580/159184275580.ssm/159184275580.m3u8
 http://vfile2.jlntv.cn/2020/1591/9292/8745/159192928745.ssm/159192928745.m3u8
 #EXTINF:-1 group-title="延边发表" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANBIAN1/YANBIAN1.jpg?1",延边卫视高清
 http://live.ybtvyun.com/video/s10006-a772df604950/index.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225606/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视
 http://220.158.149.28:8180/live/TV00000000000000000006@HHZT
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视高清
@@ -4510,27 +4526,29 @@ http://vfile2.hljtv.com/2020/1591/7437/0984/159174370984.ssm/159174370984.m3u8
 http://vfile2.hljtv.com/2020/1591/8301/0967/159183010967.ssm/159183010967.m3u8
 #EXTINF:-1 group-title="新闻节目" tvg-logo="http://images.hljtv.com/material/livmedia/img/162x100/2019/10/6f8d244b8ddb2e92d446573995a33576.jpg",共度晨光 2020年6月12日
 http://vfile2.hljtv.com/2020/1591/9165/0927/159191650927.ssm/159191650927.m3u8
-#EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+#EXTINF:-1 group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视
 http://220.158.149.28:8180/live/TV00000000000000000049@HHZT
-#EXTINF:-1 group-title="央视网" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+#EXTINF:-1 group-title="央视网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视
 http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视 （南京移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视 （南京移动）
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视 （宜春移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视 （宜春移动）
 http://117.169.120.130:8080/live/henanstv/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清
 http://39.134.215.39:18890/PLTV/88888888/224/3221226130/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清 （大连天途有线）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （大连天途有线）
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000312.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清 （大学线路）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （大学线路）
 http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清 （杭州联通）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （杭州联通）
 http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清 （广州联通）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （广州联通）
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视高清　（成都移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清　（成都移动）
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视超高清 （测试）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视超高清 （测试）
 http://39.134.215.39:18890/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NXTV2/NXTV2.jpg?1",宁夏卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/nxtv.m3u8
@@ -4584,8 +4602,10 @@ http://video.tcloud.sxrtv.com/38/58/3858bca0-f0c4-6cd1-cf0b-12dc4cd1d83c/mp4h.mp
 http://video.tcloud.sxrtv.com/4c/31/4c31a27b-aad7-4894-92d3-e3394ac27388/mp4h.mp4
 #EXTINF:-1 group-title="新闻联播" tvg-logo="http://www.sxrtv.com/images/SXXWLB.jpg",山西新闻联播 2020年6月11日
 http://video.tcloud.sxrtv.com/99/cb/99cbb832-2a59-c9e7-52a3-c33a335b0d31/mp4h.mp4
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/QHTV1/QHTV1.jpg?1",青海卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225589/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
 http://220.158.149.28:8180/live/TV00000000000000000005@HHZT
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视高清
@@ -4634,19 +4654,21 @@ http://vfile.qhbtv.com/2020/1591/9243/7121/159192437121.ssm/159192437121.m3u8
 http://vfile.qhbtv.com/2020/1591/6077/8658/159160778658.ssm/159160778658.m3u8
 #EXTINF:-1 group-title="新闻节目" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",守望 2020年6月7日
 http://vfile.qhbtv.com/2020/1591/5976/4584/159159764584.ssm/159159764584.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/gstv.m3u8
-#EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225602/index.m3u8
+#EXTINF:-1 group-title="K+" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视
 http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清
 http://stream.gstv.com.cn/gsws/sd/live.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视高清 （兰州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清 （兰州移动）
 http://39.134.39.39/270000001322/69900158041111100000002160/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视高清 （天水移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清 （天水移动）
 http://117.156.28.119/270000001111/1110000072/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视高清 （天水移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清 （天水移动）
 http://117.156.28.88/270000001111/1110000072/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视高清 （易视腾成都移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清 （易视腾成都移动）
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/gansustv/index.m3u8
 #EXTINF:-1 group-title="新闻联播" tvg-logo="http://img.gstv.com.cn/material/publishcontent/img/180x110/2018/07/20180719151257oqgf.png",甘肃新闻 2020年6月8日
 http://vfile1.gstv.com.cn/2020/1591/6171/5117/159161715117.ssm/159161715117.m3u8
@@ -4684,14 +4706,16 @@ http://vfile1.gstv.com.cn/2020/1591/7142/0391/159171420391.ssm/159171420391.m3u8
 http://vfile1.gstv.com.cn/2020/1591/8006/0375/159180060375.ssm/159180060375.m3u8
 #EXTINF:-1 group-title="新闻节目" tvg-logo="http://img.gstv.com.cn/material/publishcontent/img/180x110/2018/07/20180719151355Isel.png",新闻晚高峰 2020年6月11日
 http://vfile1.gstv.com.cn/2020/1591/8870/0030/159188700030.ssm/159188700030.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视 （西安移动）
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225565/index.m3u8
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SHXITV1/SHXITV1.jpg?1",陕西卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225587/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视 （青海移动）
+http://39.134.156.17/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
 http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225565/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
-http://39.134.156.17/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
 http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视高清 （大学线路）
@@ -4714,10 +4738,16 @@ http://videoplus.cjyun.org/20200610/893875_893875_1591792901_transv.mp4
 http://videoplus.cjyun.org/20200611/895687_895687_1591879295_transv.mp4
 #EXTINF:-1 group-title="新闻节目" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北十分 2020年6月8日
 http://videoplus.cjyun.org/20200609/890554_890554_1591635164_transv.mp4
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225695/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视
 http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
 #EXTINF:-1 group-title="四川观察" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清
 http://118.123.238.86/scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225539/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225696/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （绵阳电信）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=085&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （大学线路）
@@ -4898,17 +4928,21 @@ http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gzwshd
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GUIZOUTV1/GUIZOUTV1.jpg?1",贵州卫视高清 （杭州联通）
 http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XIZANGTV1/XIZANGTV1.jpg?1",西藏卫视
 http://117.136.154.98/PLTV/88888888/224/3221225771/index.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视 （兰州大学）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XIZANGTV1/XIZANGTV1.jpg?1",西藏卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XIZANGTV1/XIZANGTV1.jpg?1",西藏卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏藏语卫视
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XIZANGTV1/XIZANGTV1.jpg?1",西藏藏语卫视
 http://117.136.154.98/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XJTV1/XJTV1.jpg?1",新疆卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225608/index.m3u8
 #EXTINF:-1 group-title="丝路视听" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视高清
 http://tv.boye.ml/iptv/xjtv.php?id=1
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/bttv.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TCTC1/TCTC1.jpg?1",海南卫视 （成都电信）
 http://182.138.51.79/PLTV/88888920/224/3221225592/index.m3u8
@@ -7526,6 +7560,20 @@ http://hnqf.chinashadt.com:2036/live/6.stream_360p/chunklist.m3u8
 http://39.134.215.39:18890/PLTV/88888888/224/3221226051/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰电视台
 http://39.134.215.39:18890/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",没有信号
+http://hnqf.chinashadt.com:2036/live/1.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰未订购频道
+http://hnqf.chinashadt.com:2036/live/2.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",没有信号
+http://hnqf.chinashadt.com:2036/live/3.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰未订购频道
+http://hnqf.chinashadt.com:2036/live/4.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰未订购频道
+http://hnqf.chinashadt.com:2036/live/5.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰未订购频道
+http://hnqf.chinashadt.com:2036/live/7.stream_360p/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",清丰未订购频道
+http://hnqf.chinashadt.com:2036/live/8.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZMDTV1/ZMDTV1.jpg?1",驻马店新闻综合频道
 http://39.134.215.39:18890/PLTV/88888888/224/3221226076/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZMDTV2/ZMDTV2.jpg?1",驻马店科教频道
@@ -7932,30 +7980,46 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1  tvg-logo=" ",湖北省荆门市樱花
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230352/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游频道
+http://182.138.51.79/PLTV/88888920/224/3221225553/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济频道
+http://182.138.51.79/PLTV/88888920/224/3221225552/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济频道高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225551/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道 （绵阳电信）
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=061&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",四川影视文艺高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",四川影视文艺高清 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225538/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583604507485.png",四川星空购物高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",四川妇女儿童频道
+http://182.138.51.79/PLTV/88888920/224/3221225615/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",四川妇女儿童高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村频道 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225614/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村频道 （绵阳电信）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=058&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道
 http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/d98ad37763a24f05be5112a7aab62c63-1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道 （绵阳电信）
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=020&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",四川峨眉电影高清
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225586/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视
 http://111.40.205.82/wh7f454c46tw3049947779_1632065994/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视
@@ -7964,6 +8028,10 @@ http://39.134.156.17/PLTV/88888888/224/3221225543/index.m3u8
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",四川国际频道
 http://61.58.60.230:9319/live/238.m3u8
+#EXTINF:-1 group-title="四川观察" tvg-logo=" ",熊猫新闻 （成都电信）
+http://182.138.51.79/PLTV/88888920/224/3221225693/index.m3u8
+#EXTINF:-1 group-title="四川观察" tvg-logo=" ",熊猫新闻 （绵阳电信）
+http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="四川熊猫频道" tvg-logo=" ",成都
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 #EXTINF:-1  tvg-logo=" ",绵阳电信体育频道
@@ -7972,8 +8040,8 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=038&Prov
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=089&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1  tvg-logo=" ",四川省阿坝藏族羌族自治州九塞构县的风景 （第2版）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=092&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 group-title="四川观察" tvg-logo=" ",熊猫新闻
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1  tvg-logo=" ",日
+http://182.138.51.79/PLTV/88888920/224/3221225794/index.m3u8
 #EXTINF:-1 group-title="综艺节目" tvg-logo="http://show.sctv.com/ttsdp/202006/W020200605412024368471.jpg",天天耍大牌 2020：“健身”攻擂成功
 http://h264.sctv.com/WCM/vesue/202006/05/a0b9ccc717c73000_WEB_HD_1280X720_1500_CBR.mp4
 #EXTINF:-1 group-title="综艺节目" tvg-logo="http://show.sctv.com/2018sjnmd/202001/W020200105518294277781.png",世界那么大 2020 第1集：遇见珙县
@@ -8096,6 +8164,12 @@ http://www.qqdszb.com/play/cdtv-az-hd.php?id=2763-18
 http://www.qqdszb.com/play/cdtv-az.php?id=2762-557
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XDZH/XDZH.jpg?1",新都综合频道
 http://www.qqdszb.com/play/cdtv-apple.php?id=2762-1712
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",成都电信
+http://182.138.51.79/PLTV/88888920/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",成都电信
+http://182.138.51.79/PLTV/88888920/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",成都电信
+http://182.138.51.79/PLTV/88888920/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCPZHTV1/SCPZHTV1.jpg?1",攀枝花新闻综合频道
 rtmp://zb.pzhgd.com:5935/live/xwzh
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/PZHGG/PZHGG.jpg?1",攀枝花公共频道
@@ -15458,101 +15532,3 @@ http://219.250.105.94:9981/stream/channelid/318815895
 http://219.250.105.94:9981/stream/channelid/952763991
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",KBS1 (Cấp độ 9)
 http://219.250.105.94:9981/stream/channelid/764370470
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv4-1408525529858.png",VTV4
-
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv010_pc.png",非凡新聞台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMTQ_
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS 新聞台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Qy
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv073_pc.png",TVBS HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q4OA__
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS 歡樂台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MA__
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/311.png?rand=992",TVBS 精采台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q2Ng__
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEZm1pdHYlMjNpZCUzRGRzZmluYW5jZQ__
-#EXTINF:-1  group-title="LLV99" tvg-logo="tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch25.png",東森幼幼台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzNzE_
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch32.png",東森綜合台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzNzI_
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch33.png",東森超視 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q4MA__
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch40.png",東森戲劇台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMjE_
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/312.png?rand=136",壹電視綜合台
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMDU_
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://www.cns.net.tw/web/upload/20181101112248ZrJAQ86.png",八大第一台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMTg_
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/GTV_Drama_logo_2018.png/220px-GTV_Drama_logo_2018.png",八大戲劇台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q4MQ__
-#EXTINF:-1  group-title="LLV99" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv034_pc.png",八大精彩台
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDI0
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/501.png?rand=142",寰宇新聞台
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMDQ_
-#EXTINF:-1  group-title="LLV99" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/502.png?rand=868",寰宇新聞台灣台
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q4Nw__
-#EXTINF:-1 group-title="LLV99" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/305.png?rand=484",Smart 知識
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzNTI_
-#EXTINF:-1 group-title="LLV99" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv060_mobile.png",中華財經台 HD
-https://live.llv99.cn/live.php?qq5009581&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMTc_
-四川新闻频道
-http://182.138.51.79/PLTV/88888920/224/3221225551/index.m3u8
-四川经济频道
-http://182.138.51.79/PLTV/88888920/224/3221225552/index.m3u8
-四川文化旅游频道
-http://182.138.51.79/PLTV/88888920/224/3221225553/index.m3u8
-四川影视文艺高清
-http://182.138.51.79/PLTV/88888920/224/3221225538/index.m3u8
-四川卫视高清 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225539/index.m3u8
-康巴卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225586/index.m3u8
-甘肃卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225602/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/SHXITV1/SHXITV1.jpg?1",陕西卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225587/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225604/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/XJTV1/XJTV1.jpg?1",新疆卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225608/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225606/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/QHTV1/QHTV1.jpg?1",青海卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225589/index.m3u8
-成都电信
-http://182.138.51.79/PLTV/88888920/224/3221225611/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225596/index.m3u8
-成都电信
-http://182.138.51.79/PLTV/88888920/224/3221225612/index.m3u8
-四川公共农村频道
-http://182.138.51.79/PLTV/88888920/224/3221225614/index.m3u8
-成都电信
-http://182.138.51.79/PLTV/88888920/224/3221225613/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225601/index.m3u8
-http://pix1.tvzhe.com/images/logo/channel/XIZANGTV1/XIZANGTV1.jpg?1"西藏卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225603/index.m3u8
-四川妇女儿童频道
-http://182.138.51.79/PLTV/88888920/224/3221225615/index.m3u8
-四川科教频道
-http://182.138.51.79/PLTV/88888920/224/3221225644/index.m3u8
-CCTV13 新闻频道 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225658/index.m3u8
-四川卫视高清 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225696/index.m3u8
-CCTV1 综合频道 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225698/index.m3u8
-熊猫新闻
-http://182.138.51.79/PLTV/88888920/224/3221225693/index.m3u8
-四川卫视 （成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225695/index.m3u8
-CCTV1 综合频道高清 （央视网成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225697/index.m3u8
-CCTV1 综合频道高清 （央视网成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225792/index.m3u8
-CCTV1 综合频道高清 （央视网成都电信）
-http://182.138.51.79/PLTV/88888920/224/3221225793/index.m3u8
-日
-http://182.138.51.79/PLTV/88888920/224/3221225794/index.m3u8
