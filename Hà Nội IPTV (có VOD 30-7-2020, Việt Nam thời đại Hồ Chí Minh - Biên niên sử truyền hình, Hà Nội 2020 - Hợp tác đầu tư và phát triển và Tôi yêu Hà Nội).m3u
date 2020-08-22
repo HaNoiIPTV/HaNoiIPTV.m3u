@@ -491,6 +491,16 @@ http://p06.iptv2asia.com:18888/http/009
 http://p06.iptv2asia.com:18888/http/010
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/096.png?rand=995",華視教育體育文化台 HD
 http://p06.iptv2asia.com:18888/http/011
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/013.png?rand=941",公視 HD
+http://p06.iptv2asia.com:18888/http/016
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/014.png?rand=423",公視台語台 HD
+http://p06.iptv2asia.com:18888/http/017
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/098.png?rand=27",公視三台 HD
+http://p06.iptv2asia.com:18888/http/018
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv043_pc.png",客家電視台 HD
+http://p06.iptv2asia.com:18888/http/019
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/016.png?rand=124",原住民頻道 HD
+http://p06.iptv2asia.com:18888/http/020
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS 新聞台 HD
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1  group-title="華文電視直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 HD
@@ -503,13 +513,13 @@ http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163220Pdikxdi.png",三立新聞台 HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-
-
+#EXTINF:-1  group-title="華文電視直播" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch50.png",年代新聞台 HD
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/506.png?rand=775",壹電視新聞台 HD
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 group-title="華文電視直播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/220px-GTV_Variety_logo_2018.png",八大綜合台 HD
+#EXTINF:-1  group-title="華文電視直播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/220px-GTV_Variety_logo_2018.png",八大綜合台 HD
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 group-title="華文電視直播" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
+#EXTINF:-1  group-title="華文電視直播" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",KBS1 1080
 http://220.85.148.178:9981/stream/channelid/103
@@ -9942,8 +9952,6 @@ http://nb.iptv88888.xyz/hls/dilipeople.m3u8
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="華文電視直播" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/012.png?rand=974",華視高清
 http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 group-title="華文電視直播" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch50.png",年代新聞台高清
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="華文電視直播" tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png",龍祥時代
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 group-title="華文電視直播" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/250.png?rand=608",國家地理頻道
@@ -9966,16 +9974,6 @@ http://p06.iptv2asia.com:18888/http/013
 http://p06.iptv2asia.com:18888/http/014
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞台 （中華電信桃園源）
 http://p06.iptv2asia.com:18888/http/015
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/013.png?rand=941",公視頻道 （中華電信桃園源）
-http://p06.iptv2asia.com:18888/http/016
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/014.png?rand=423",公視台語台 （中華電信桃園源）
-http://p06.iptv2asia.com:18888/http/017
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/098.png?rand=27",公視三台 （中華電信桃園源）
-http://p06.iptv2asia.com:18888/http/018
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv043_pc.png",客家電視台 （中華電信桃園源）
-http://p06.iptv2asia.com:18888/http/019
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/016.png?rand=124",原住民頻道 （中華電信桃園源）
-http://p06.iptv2asia.com:18888/http/020
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視頻道高清 （中國聯通台中有線源）
 http://153.99.180.70:5021/live/450/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視頻道高清 （台數科哈TV）
