@@ -13,37 +13,37 @@ http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV7_HD_M.png",VTV7 HD
 https://ucdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",Hải Dương
+#EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",Hải Dương HD
+#EXTINF:-1 group-title="Hải Dương" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
-#EXTINF:-1 tvg-logo=" ",Channel A
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
-#EXTINF:-1 tvg-logo=" ",JTBC
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
 http://59.28.86.246:9981/stream/channelid/20
-#EXTINF:-1 tvg-logo=" ",tvN
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN
 http://59.28.86.246:9981/stream/channelid/21
-#EXTINF:-1 tvg-logo=" ",OCN Movies
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies
 http://59.28.86.246:9981/stream/channelid/29
-#EXTINF:-1 tvg-logo=" ",OCN
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN
 http://59.28.86.246:9981/stream/channelid/30
-#EXTINF:-1 tvg-logo=" ",We are KPop - MNet
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",We are KPop - MNet
 http://59.28.86.246:9981/stream/channelid/31
-#EXTINF:-1 tvg-logo=" ",E Channel
+#EXTINF:-1 tvg-logo="http://www.imtcast.com/echannel/images/channel/logo_m.jpg",E Channel
 http://59.28.86.246:9981/stream/channelid/33
-#EXTINF:-1 tvg-logo=" ",Olive
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive
 http://59.28.86.246:9981/stream/channelid/37
-#EXTINF:-1 tvg-logo=" ",XtvN
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN
 http://59.28.86.246:9981/stream/channelid/42
-#EXTINF:-1 tvg-logo=" ",K Star
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/87.png",K Star
 http://59.28.86.246:9981/stream/channelid/45
-#EXTINF:-1 tvg-logo=" ",JTBC2
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2
 http://59.28.86.246:9981/stream/channelid/51
-#EXTINF:-1 tvg-logo=" ",On Style
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",On Style
 http://59.28.86.246:9981/stream/channelid/53
-#EXTINF:-1 tvg-logo=" ",Sky
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Sky
 http://59.28.86.246:9981/stream/channelid/71
-#EXTINF:-1 tvg-logo=" ",JTBC4
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4
 http://59.28.86.246:9981/stream/channelid/79
 #EXTINF:-1 tvg-logo=" ",NQQ
 http://59.28.86.246:9981/stream/channelid/84
