@@ -108,6 +108,39 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3
 #EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 HD
+http://124.165.212.56:1024/hls/001/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道 HD
+http://124.165.212.56:1024/hls/002/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道 HD
+http://124.165.212.56:1024/hls/003/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/7bc1aa2566296a4b5989c952b73050a7.png",CCTV4 中文国际 HD
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道 HD
+http://124.165.212.56:1024/hls/005/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道 HD
+http://124.165.212.56:1024/hls/006/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png",CCTV7 国防军事 HD
+http://124.165.212.56:1024/hls/007/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧 HD
+http://124.165.212.56:1024/hls/008/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道 HD
+http://124.165.212.56:1024/hls/009/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 HD
+http://124.165.212.56:1024/hls/010/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道 HD
+http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法 HD
+http://124.165.212.56:1024/hls/012/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 HD
+http://cg0.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道 HD
+http://124.165.212.56:1024/hls/014/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道 HD
+http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村 HD
+http://111.20.45.157/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV
@@ -192,10 +225,18 @@ http://153.99.180.70:5021/live/137/playlist.m3u8
 http://153.99.180.70:5021/live/266/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout955_pc_20180522.png",空中英語教室台 HD
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/204.png?rand=923",博斯高球一台 HD
+http://153.99.180.70:5021/live/265/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn04_pc.png",博斯魅力台 HD
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.axn-taiwan.com/sites/axn-taiwan.com/files/axn_new_0.png",AXN 台灣
+http://153.99.180.70:5021/live/2/playlist.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch22.png",迪士尼卡通
+http://153.99.180.70:5021/live/361/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/600.png?rand=738",CNex
 http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.tlc-tw.com/images/logo.png",TLC 旅遊生活
+http://153.99.180.70:5021/live/103/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv008_mobile.png",人間衛視 HD
 http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.sjtv.com.tw/images/logo/logo2020.png",信吉衛視 HD
@@ -226,6 +267,7 @@ http://153.99.180.70:5021/live/441/playlist.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
