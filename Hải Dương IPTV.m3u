@@ -67,6 +67,30 @@ http://hatinhtv.vn:82/hls/httv.m3u8
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.m3u8
 #EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QRTV - Truyền hình Quảng Trị HD
 http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://danangtv.vn/images/drt1.png",Đà Nẵng TV 1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://danangtv.vn/images/drt2.png",Đà Nẵng TV 2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png",QRT - Truyền hình Quảng Nam HD
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://quangngaitv.vn/images/no_pic.png",PTQ - Truyền hình Quảng Ngãi HD
+https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP - Truyền hình Phú Yên HD
+https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",KTV - Truyền hình Khánh Hòa HD
+https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/851.png",NTV - Truyền hình Ninh Thuận HD
+https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944884192.png",BRT - Truyền hình Bà Rịa - Vũng Tàu HD
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944937642.png",ĐNRTV1 - Truyền hình Đồng Nai 1 HD
+http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png",ĐNRTV2 - Truyền hình Đồng Nai 2 HD
+http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1 - Truyền hình Bình Dương HD
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 - Truyền hình Bình Dương HD
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
