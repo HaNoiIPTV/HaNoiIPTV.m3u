@@ -91,6 +91,22 @@ http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 - Truyền hình Bình Dương HD
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp1.png",BPTV1 - Truyền hình Bình Phước 1 HD
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",TTV11 - Truyền hình Tây Ninh HD
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944927118.png",THĐT1 - Truyền hình Đồng Tháp 1 HD
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944829403.png",ATV - Truyền hình An Giang HD
+http://221.133.9.35:1935/live/1.stream_240p/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/841.png",THTV - Truyền hình Trà Vinh HD
+https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://soctrangtv.vn/Content/images/stv1.png",STV1 - Truyền hình Sóc Trăng 1 HD
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://soctrangtv.vn/Content/images/stv2.png",STV2 - Truyền hình Sóc Trăng 2 HD
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
 #EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
