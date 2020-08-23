@@ -107,33 +107,48 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
+
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
+http://p06.iptv2asia.com:18888/http/012
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
+http://p06.iptv2asia.com:18888/http/014
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
+http://p06.iptv2asia.com:18888/http/013
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Channel A
 http://59.28.86.246:9981/stream/channelid/18
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC
 http://59.28.86.246:9981/stream/channelid/20
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",tvN
 http://59.28.86.246:9981/stream/channelid/21
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png",OCN Movies
 http://59.28.86.246:9981/stream/channelid/29
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png",OCN
 http://59.28.86.246:9981/stream/channelid/30
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",We are KPop - MNet
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",We are KPop - MNet
 http://59.28.86.246:9981/stream/channelid/31
-#EXTINF:-1 tvg-logo="http://www.imtcast.com/echannel/images/channel/logo_m.jpg",E Channel
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.imtcast.com/echannel/images/channel/logo_m.jpg",E Channel
 http://59.28.86.246:9981/stream/channelid/33
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive
 http://59.28.86.246:9981/stream/channelid/37
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png",XtvN
 http://59.28.86.246:9981/stream/channelid/42
-#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/87.png",K Star
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/87.png",K Star
 http://59.28.86.246:9981/stream/channelid/45
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2
 http://59.28.86.246:9981/stream/channelid/51
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",On Style
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",On Style
 http://59.28.86.246:9981/stream/channelid/53
-#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Sky
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Sky
 http://59.28.86.246:9981/stream/channelid/71
-#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4
 http://59.28.86.246:9981/stream/channelid/79
-#EXTINF:-1 tvg-logo=" ",NQQ
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo=" ",NQQ
 http://59.28.86.246:9981/stream/channelid/84
