@@ -162,6 +162,8 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.cns.net.tw/web/upload/20161229114125LaJgyTM.png",衛視中文台
 https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv010_pc.png",非凡新聞台 HD
+http://153.99.180.70:5021/live/443/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv033_mobile.png",中天綜合台 HD
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台 HD
@@ -172,14 +174,20 @@ http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png",TVBS 歡樂台 HD
 http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv073_pc.png",TVBS HD
+http://153.99.180.70:5021/live/349/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 HD
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
+http://153.99.180.70:5021/live/456/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch66.png",東森洋片台 HD
 http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch62.png",東森電影台 HD
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
 http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://drama.vl.com.tw/images/Drama-LOGO-2.png",緯來戲劇台 HD
+http://153.99.180.70:5021/live/137/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/200.png?rand=468",愛爾達體育1台
 http://153.99.180.70:5021/live/266/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout955_pc_20180522.png",空中英語教室台 HD
@@ -204,10 +212,16 @@ http://211.21.214.7:8808/live/dali/index.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.cns.net.tw/web/upload/20150401163220Pdikxdi.png",三立新聞台 HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會台 HD
+http://153.99.180.70:5021/live/226/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch50.png",年代新聞台 HD
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://www.eracom.com.tw/t/icon/201903/20190322143132ORTH.png",年代MUCH台 HD
+http://153.99.180.70:5021/live/439/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/506.png?rand=775",壹電視新聞台 HD
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.cns.net.tw/web/upload/20181101112248ZrJAQ86.png",八大第一台 HD
+http://153.99.180.70:5021/live/441/playlist.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/220px-GTV_Variety_logo_2018.png",八大綜合台 HD
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
