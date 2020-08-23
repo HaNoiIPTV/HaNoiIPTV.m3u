@@ -140,6 +140,31 @@ http://124.165.212.56:1024/hls/014/index.m3u8
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村 HD
 http://111.20.45.157/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png",CETV1 中国教育 HD
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/1.m3u8
+
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视 HD
+http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV2/HUNANTV2.jpg?1",金鹰卡通 HD
+http://kjol.cc/proxy/hunan.php?id=287
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV3/HUNANTV3.jpg?1",湖南娱乐 HD
+http://kjol.cc/proxy/hunan.php?id=344
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV4/HUNANTV4.jpg?1",湖南电视剧 HD
+http://kjol.cc/proxy/hunan.php?id=484
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV5/HUNANTV5.jpg?1",湖南公共 HD
+http://kjol.cc/proxy/hunan.php?id=261
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV6/HUNANTV6.jpg?1",湖南电影 HD
+http://58.20.64.92:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV1/HNETV1.jpg?1",湖南经视 HD
+http://kjol.cc/proxy/hunan.php?id=280
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV2/HNETV2.jpg?1",湖南都市 HD
+http://kjol.cc/proxy/hunan.php?id=346
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNETV3/HNETV3.jpg?1",金鹰纪实 HD
+http://kjol.cc/proxy/hunan.php?id=316
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HUNANTV7/HUNANTV7.jpg?1",湖南国际
+http://kjol.cc/proxy/hunan.php?id=229
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNEDUTV1/HNEDUTV1.jpg?1",湖南教育 HD
+http://pull.hnedutv.com/live/edutv.m3u8?wsSession=b5179d756290de69ad0bb69a-158739513187785&wsIPSercert=ba8f59b29067f76886a8248e22886a23&wsMonitor=0
 
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 http://61.238.6.49:8000/bysid/1
