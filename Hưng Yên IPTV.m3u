@@ -12,12 +12,14 @@ http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="VTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV7_HD_M.png",VTV7 HD
 https://ucdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
+
 #EXTINF:-1  group-title="Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYFM - Phát thanh Hưng Yên
 http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
+
 #EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN1_M.png",H1 - Truyền hình Hà Nội 1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",H2 - Truyền hình Hà Nội 2 HD
@@ -30,3 +32,16 @@ http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist.m3u8
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",THHN - Truyền hình Hà Nam
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
+
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://media.hanoitv.vn/thumb_x350x250/upload/Anh_FM90.jpg",HNFM - Phát thanh Hà Nội (FM 90)
+http://media.mediatech.vn:1935/hntvRadio/fm90live/chunklist.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://media.hanoitv.vn/thumb_x350x250/upload/Anh_FM90.jpg",HNFM - Phát thanh Hà Nội (FM 96)
+http://cdn.mediatech.vn/hntvRadio/fm96.sdp_aac/chunklist.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://media.hanoitv.vn/thumb_x350x250/upload/Anh_FM90.jpg",Joy FM - Phát thanh Hà Nội
+http://cdn.mediatech.vn/hntvRadio/joyfm.stream_aac/chunklist.m3u8
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDFM - Phát thanh Hải Dương
+http://113.160.131.11:8000
+#EXTINF:-1  group-title="Kênh giáp ranh tỉnh Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",BNFM - Phát thanh Bắc Ninh
+http://118.107.68.10:1935/radio/Bacninh.stream/chunklist.m3u8
+tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",TBFM - Phát thanh Thái Bình
+http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
