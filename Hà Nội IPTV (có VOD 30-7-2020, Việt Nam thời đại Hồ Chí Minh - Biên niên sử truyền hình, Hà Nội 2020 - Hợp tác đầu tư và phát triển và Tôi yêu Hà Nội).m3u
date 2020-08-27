@@ -256,9 +256,9 @@ http://118.107.68.17:1935/VTC/smil:Hagiang.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/111.png",Cao Bằng
 http://118.107.68.17:1935/VTC/smil:Caobang.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945039445.png",Quảng Ninh 1 HD
-https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244539061.png",Quảng Ninh 3 HD
-https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/191.png",Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/211.png",Yên Bái
@@ -266,35 +266,53 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",Vĩnh Phúc
 https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/992.png",Bắc Ninh HD
-http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist_w41963893_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:Bacninh.smil/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",Bắc Ninh FM
+http://118.107.68.10:1935/radio/Bacninh.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên FM
+http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ HD
-http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist_w199182990_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng FM 93.7
+http://118.107.68.17:1935/VTC/PTHP/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng FM 102.2
+http://118.107.68.17:1935/VTC/FFHP/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",Thái Bình FM
+http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",Hà Nam
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/06/857648-ntv_nam_dinh.png",Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình HD
 https://livecdn.fptplay.net/sda/ninhbinh_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình FM
+https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpjPP4UJ_5eccd2259b9cb.png",Thanh Hóa HD
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png",Nghệ An HD
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",Nghệ An FM
+https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh FM
+http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244998421.png",Quảng Bình HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/741.png",Quảng Trị HD
-http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist_w1176549217_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/741.png",Quảng Trị FM
+http://118.107.68.17:1935/VTC/qrtv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Thừa Thiên - Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://quangngaitv.vn/images/no_pic.png",Quảng Ngãi
-http://118.107.68.17:1935/VTC/smil:QNgai.smil/chunklist_w642471521_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:QNgai.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",Khánh Hòa HD
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận HD
@@ -1458,11 +1476,11 @@ https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8?toke
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/PWbjWQg.jpg",Tuyên Quang FM
 https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang DB
-https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3MDc2OTAsICJyZXNvdXJjZV9pZCI6ICJoYWdpYW5nXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNmNkNTY0ZTBmMTE0NjZjY2YxYmE2NTgyY2I2MzU5ZmIiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ3OTQwOTAsICJybWlwIjogIjEwMC4xMjAuMC4xMDcifQ==
+https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang FM
 http://118.107.68.10:1935/radio/HaGiang.stream/chunklist_w1023141457.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/111.png",Cao Bằng DB
-https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjQ3MjksICJyZXNvdXJjZV9pZCI6ICJjYW9iYW5nXzEwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiMmI4NTE1ZGJmNTZiZDMzNDAzNjg5MjJlYzgxYjRjMzkiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ4NTExMjksICJybWlwIjogIjI3Ljc5LjE2Ny40In0=
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 1
 rtmp://123.29.68.44/hctv/vsrd001
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 2
@@ -1471,36 +1489,18 @@ rtmp://123.29.68.44/hctv/vsrd004
 https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjQ2NTMsICJyZXNvdXJjZV9pZCI6ICJ5ZW5iYWlfMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJlNDNjODIzYmU3NDRmMzhkNDdkZTg0MmZhOGY1YjNhMSIsICJ2YWxpZF9taW51dGVzIjogMTU4NDg1MTA1MywgInJtaXAiOiAiMjcuNzkuMTY3LjQifQ==
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",Vĩnh Phúc DB
 rtmp://117.6.162.63/live//thvp
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",Bắc Ninh FM
-http://118.107.68.10:1935/radio/Bacninh.stream/chunklist_w12861071.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",Hưng Yên FM
-http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng HD DB
 http://118.107.68.17:1935/VTC/smil:Haiphong1TV.smil/chunklist_w689681153_b864000_slVIE.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng FM 93.7
-http://118.107.68.17:1935/VTC/PTHP/chunklist_w1850018400.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng FM 102.2
-http://118.107.68.17:1935/VTC/FFHP/chunklist_w1886137597.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",Thái Bình FM
-http://118.70.118.191:1935/tbtvlive/radio/chunklist_w56885292.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",Hà Nam DB
 https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình
 https://vtsstr3.tv24.vn/elive/_definst_/smil:ninhbinh_SD.smil/chunklist_w192810301_b2292000.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình HD DB
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình FM
-https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
 #EXTINF:-1  group-title="SỰ KIỆN" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",Hội tụ
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",Nghệ An FM
-https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh HD DB
 https://livecdn.fptplay.net/sdc/hatinh_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh FM
-http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/741.png",Quảng Trị FM
-http://118.107.68.17:1935/VTC/qrtv/chunklist_w1627989388.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Thừa Thiên - Huế FM
 rtmp://118.69.176.149:1936/live/radio
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948272922.png",Đà Nẵng TV 1 HD DB
@@ -6061,6 +6061,8 @@ http://db.jmtv.cn/2020/06/08/uHYtv9o_1591614679723_P9ISSJP_2.mp4
 http://db.jmtv.cn/2020/06/09/uHYtv9o_1591701080090_wLftQ0h_2.mp4
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo=" ",新会综合频道
 http://27.36.62.163:9090/live/xinhui_1500.m3u8?ci=123&srchost=172.16.149.181:8060
+#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TAISHANTV/TAISHANTV.jpg?1",台山电视台
+http://1018.jilu8.cn/gdts.php?id=2
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/KAIPINGZH/KAIPINGZH.jpg?1",开平综合频道高清
 http://31355.hlsplay.aodianyun.com/tv_radio_31355/tv_channel_1434.flv
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/KAIPINGSH/KAIPINGSH.jpg?1",开平生活频道高清
