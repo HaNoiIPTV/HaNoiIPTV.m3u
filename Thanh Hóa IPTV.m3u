@@ -18,10 +18,11 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa HD
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa HD
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
+
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",NBTV - Truyền hình Ninh Bình HD
 https://livecdn.fptplay.net/sda/ninhbinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Thanh Hóa" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png",NTV - Truyền hình Nghệ An HD
@@ -31,24 +32,68 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Thanh Hóa" tvg-logo="https://mytv.com.vn/upload/channel/261.png",STV - Truyền hình Sơn La HD
 http://118.107.68.17:1935/VTC/smil:SonllaTV.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" ",VTC2
-https://livecdn.fptplay.net/sdb/vtc2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" ",VTC4
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo=" ",VTC5
-https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/VTC1_M.png",VTC1 HD DB
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTC1_M.png",VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/692541-VTC3HD.png",VTC3 HD DB
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/21.png",VTC2 - Reidius TV
+https://livecdn.fptplay.net/sdb/vtc2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/692541-VTC3HD.png",VTC3 HD
 https://livecdn.fptplay.net/hda/vtc3hd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",VTC7 HD
+#EXTINF:-1 group-title="VTC" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567242032198.png",VTC4 HD
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/187.png",VTC5 HD
+https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/23.png",VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC7_M.png",VTC7 HD - TodayTV
 https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/TC9_M.png",VTC9 HD
+#EXTINF:-1 group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/164.png",VTC8
+https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC9_M.png",VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/723/1567221323112.png",VOVTV HD
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/TC14_M.png",VTC14 HD
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC10_M.png",VTC10 HD
+https://livecdn.fptplay.net/sdb/vtc10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/26.png",VTC11 - Kids TV
+https://livecdn.fptplay.net/sdb/vtc11_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/phpWgYcFl_5e1d3209b5e25.png",VTC12 - VTCK
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC13_M.png",VTC13 HD
+https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC14_M.png",VTC14 HD
 https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/206.png",VTC16 HD
+https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://rsstv.gviet.vn/sctv/157/723/1567221323112.png",VOV - Vietnam Journey HD
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://mytv.com.vn/upload/channel/110.png",VOV1
+https://5a6872aace0ce.streamlock.net/nghevov1/vov1.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://mytv.com.vn/upload/channel/112.png",VOV2
+https://5a6872aace0ce.streamlock.net/nghevov2/vov2.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://mytv.com.vn/upload/channel/113.png",VOV3
+https://5a6872aace0ce.streamlock.net/nghevov3/vov3.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo=" ",VOV5
+https://5a6872aace0ce.streamlock.net/nghevov5/vov5.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo=" ",VOV6
+https://5a6872aace0ce.streamlock.net/nghevov2/vov2.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo=" ",VOV 24/7
+https://5a6872aace0ce.streamlock.net/nghevov247/vov247.stream_aac/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/H7_M.png",HTV7 HD
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png",HTV9 HD
+https://livecdn.fptplay.net/hda/htv9hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/ANTV_M.png",ANTV  - Truyền hình Công an Nhân dân HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh cơ quan" tvg-logo="http://quochoitv.vn/images/logo-qhtv.png",Quốc hội TV - Truyền hình Quốc hội Việt Nam HD
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh cơ quan" tvg-logo="https://imgstatic.vtvcab.vn/logos/QPVN_M.png",QPVN - Truyền hình Quốc phòng Việt Nam HD
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://imgstatic.vtvcab.vn/logos/VNEWS_HD_M.png",Truyền hình Thông tấn - VNews HD
+http://live.vnanet.vn/720P/playlist.m3u8
+#EXTINF:-1 group-title="Kênh phổ biến" tvg-logo="https://img.nhandantv.vn//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV - Truyền hình Nhân Dân HD
+https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 
 #EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ - Truyền hình Hải Phòng HD
 http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist.m3u8
