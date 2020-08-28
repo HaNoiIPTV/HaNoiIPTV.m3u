@@ -45,9 +45,9 @@ FPT学院河内分校位于河内国际学院之后，位于河内南杜列姆�
 - 强制参加Vovinam-越南体育武术。
 
 Hoang Huy Manh是目前在FPT学院学习的河内IPTV的官方供应商，因此在学习过程中，自2020年9月1日起，将为全国所有学生提供特别礼物。如下：
-1.红日元IPTV：http：//gg.gg/hungyeniptv
-2.海防IPTV：http：//gg.gg/haiphongiptv
-3.广平IPTV：http：//gg.gg/quangbinhiptv
+1. 红日元IPTV：http：//gg.gg/hungyeniptv
+2. 海防IPTV：http：//gg.gg/haiphongiptv
+3. 广平IPTV：http：//gg.gg/quangbinhiptv
 
 2020-2021年新學年是給學生的禮物！
 
