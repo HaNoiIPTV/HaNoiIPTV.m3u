@@ -471,10 +471,10 @@ https://livecdn.fptplay.net/world/tv5_2000.stream/chunklist.m3u8
 http://116.49.135.177:9981/stream/channelid/937757987
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",港台電視33 1080
 http://116.49.135.177:9981/stream/channelid/306146248
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2 1080
-http://116.49.135.177:9981/stream/channelid/1720989042
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台 1080
-http://116.49.135.177:9981/stream/channelid/1375828671
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/2
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV 1080
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix 1080
@@ -490,7 +490,7 @@ http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/610.png?rand=368",香港美亞電影台 HD
 http://ff05.vipub1818.com/live/375/f986bce5616dac7e4b8c09011c699f1d/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.facebook.com/214228761968049/photos/214565598601032/",有線18台
-http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/17
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/612.png?rand=68",香港星衛電影台 HD
 http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
@@ -505,12 +505,24 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://p06.iptv2asia.com:18888/http/012
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 FHD
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
 http://p06.iptv2asia.com:18888/http/014
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 FHD
+http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
 http://p06.iptv2asia.com:18888/http/013
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 FHD
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1  group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1  group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1  group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
 http://p06.iptv2asia.com:18888/http/001
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv051_pc.png",台視新聞台 HD
@@ -4161,10 +4173,24 @@ http://live4.wisetv.com.cn/hls/TJSJ_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
 http://402173207.cloudvdn.com/a.m3u8?domain=pili-live-rtmp.181.i2863.com&player=4TYAAPipAQcpeBoW&secondToken=secondToken%3ADWqP-BWNuIaR8PFaOhdCzdtfp4A&streamid=i2863-181%3Ai2863-181%2Fdspdzb1&v3=1
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NINGHE1/NINGHE1.jpg?1",宁河新闻频道
 http://wshls.live.migucloud.com/live/RQXD0636_C0/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",滨海新闻综合频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7bec9202a998382eb9389a503e86?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",滨海新闻综合频道
 rtmp://60.30.52.41:80/live//bhtv1
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",西青新闻综合频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://bkimg.cdn.bcebos.com/pic/00e93901213fb80e7bec9202a998382eb9389a503e86?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",滨海公共频道
+http://60.30.52.41/live/bhtv2/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XIQING1/XIQING1.jpg?1",西青新闻综合频道
 rtmp://221.238.209.44/live/live1
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEDONG/HEDONG.jpg?1",河东电视台
+https://39911.hlsplay.aodianyun.com/tv_radio_39911/tv_channel_1106.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NANKAI/NANKAI.jpg?1",南开电视台
+http://live.nankai.tjrmtzx.com/live/nankai.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i0.hdslb.com/bfs/archive/b431494f3778fcb23ae6160c87550d220abea0ef.jpg@320w_200h.webp",东丽电视台
+http://live.dongli.tjrmtzx.com/live/dltv.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/2195126384_200200/0",宝坻电视台
+
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",津南新闻综合频道
+http://play.patv123.com/live/JJ01/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.patv123.com/images/pengan/images/logo.png",蓬安电视台
+http://play.patv123.com/live/xwpd/playlist.m3u8?wsSession=7d29e61b086b91c57cbc518c-159853985615347&wsIPSercert=d7cb565ee2cb37bdc8fce8b6a630898e&wsMonitor=0
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HBSSZN/HBSSZN.jpg?1",河北收视指南频道
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel13010/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI2/HEBEI2.jpg?1",河北经济生活频道
@@ -4414,21 +4440,21 @@ http://jsylivealone302.iqilu.com/live/jimo_tv01.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JMSHZH/JMSHZH.jpg?1",即墨生活频道
 http://jsylivealone302.iqilu.com/live/jimo_tv02.m3u8
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg?1",济南新闻综合频道
-http://www.dszbdq.cn/play/jntv.html?id=14
+http://www.qqdszb.com//play/sdjn.php?id=14
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV1/JNTV1.jpg?1",济南新闻综合高清
-http://www.dszbdq.cn/play/jntv.html?id=13
+http://www.qqdszb.com//play/sdjn.php?id=13
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV2/JNTV2.jpg?1",济南都市频道
-http://www.dszbdq.cn/play/jntv.html?id=6
+http://www.qqdszb.com/play/sdjn.php?id=6
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV3/JNTV3.jpg?1",济南影视频道
-http://www.dszbdq.cn/play/jntv.html?id=7
+http://www.qqdszb.com/play/sdjn.php?id=7
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV4/JNTV4.jpg?1",济南娱乐频道
-http://www.dszbdq.cn/play/jntv.html?id=8
+http://www.qqdszb.com/play/sdjn.php?id=8
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV5/JNTV5.jpg?1",济南生活频道
-http://www.dszbdq.cn/play/jntv.html?id=9
+http://www.qqdszb.com/play/sdjn.php?id=9
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV6/JNTV6.jpg?1",济南商务频道
-http://www.dszbdq.cn/play/jntv.html?id=10
+http://www.qqdszb.com/play/sdjn.php?id=10
 #EXTINF:-1 group-title="济南网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNTV7/JNTV7.jpg?1",济南少儿频道
-http://www.dszbdq.cn/play/jntv.php?id=11
+http://www.qqdszb.com/play/sdjn.php?id=11
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JNETV/JNETV.jpg?1",济南教育电视台
 http://123.168.202.47:9981/stream/channel/c08f2b072395effe76c25b772bb8e9d9?profile=matroska
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZQZHPD/ZQZHPD.jpg?1",章丘新闻综合频道
@@ -4440,11 +4466,11 @@ http://120.221.5.111:8089/PLTV/88888888/224/3221225986/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZBRT2/ZBRT2.jpg?1",淄博公共频道高清
 http://120.221.5.166:8089/ucdn.sd.chinamobile.com/2/00/SNM/CHANNEL00001037/index.m3u8
 #EXTINF:-1 group-title="淄博手机台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZBRT3/ZBRT3.jpg?1",淄博生活频道
-http://www.dszbdq.cn/play/sdzb.php?id=103
+http://www.qqdszb.com/play/sdzb.php?id=103
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZBRT4/ZBRT4.jpg?1",淄博都市频道
 http://120.221.5.108:8089/PLTV/88888888/224/3221226061/1.m3u8
 #EXTINF:-1 group-title="淄博手机台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZBRT5/ZBRT5.jpg?1",淄博科教频道
-http://www.dszbdq.cn/play/sdzb.php?id=102
+http://www.qqdszb.com/play/sdzb.php?id=102
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",临淄新闻综合频道
 http://jsylivealone302.iqilu.com/live/linzi_tv01.flv
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",临淄公共频道
@@ -6395,12 +6421,18 @@ http://stream2.jlntv.cn/jlyb/sd/live.m3u8
 http://live.ybtvyun.com/video/s10006-2830394bd713/index.m3u8
 #EXTINF:-1 group-title="延边发表" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YBTV2/YBTV2.jpg?1",延边汉语经济生活频道
 http://live.ybtvyun.com/video/s10006-8b0aa301cdd8/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JLCTV1/JLCTV1.jpg?1",吉林新闻综合频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JLCTV1/JLCTV1.jpg?1",吉林市新闻综合频道
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JLCTV2/JLCTV2.jpg?1",吉林市科教频道
+http://living.muzhifm.com/jilinshi/jl_v_gonggong.m3u8?auth_key=1683944014-0-0-d715901b852b7cb2dc1f9e14018deadb
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JLCTV3/JLCTV3.jpg?1",吉林市公共频道
+http://living.muzhifm.com/jilinshi/jl_v_kejiao.m3u8?auth_key=1683944014-0-0-5ad77c5c1580cbf942639e90352d520b
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SYTV1/SYTV1.jpg?1",松原新闻综合频道
 http://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/THXWZH/THXWZH.jpg?1",通化新闻综合频道
 http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://bkimg.cdn.bcebos.com/pic/1e30e924b899a9014c083d0facdc1d7b02087bf45ffa?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",集安综合频道
+http://stream2.jlntv.cn/ja/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://template.jlntv.cn/template/1/153/img/bc_di.png",白城新闻综合频道
 http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LYXWZH/LYXWZH.jpg?1",辽源新闻综合频道
@@ -6489,7 +6521,7 @@ http://ms3.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8
 http://ms3.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/MOUDANJIAN1/MOUDANJIAN1.jpg?1",牡丹江新闻综合频道
 http://stream.mdjmtv.com/jyt/sd/live.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",七台河新闻综合频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://bkimg.cdn.bcebos.com/pic/91529822720e0cf3066a1ba30546f21fbf09aacd?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",七台河新闻综合频道
 rtmp://vod.qthtv.com/live/live2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道高清
 http://39.134.215.39:18890/PLTV/88888888/224/3221225941/index.m3u8
@@ -8721,12 +8753,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
-#EXTINF:-1 group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民視影劇台
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",民視綜藝台
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",民視旅遊台
-http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 group-title="影音直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv051_pc.png",台視新聞台高清
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 group-title="影音直播" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台高清
