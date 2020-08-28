@@ -99,3 +99,60 @@ Hoang Huy Manhは、現在FPTカレッジで学んでいるハノイIPTVの公�
 1. Hung Yen IPTV：http://gg.gg/hungyeniptv
 2. ハイフォンIPTV：http://gg.gg/haiphongiptv
 3. クアンビンIPTV：http://gg.gg/quangbinhiptv
+
+Новый 2020-2021 учебный год - подарок школьникам!
+
+FPT College Hanoi расположен на улице Тринь Ван Бо, приход Фуонг Кань, район Нам Ту Лием, Ханой, после Ханойского международного колледжа и является головным офисом колледжа FPT. Здесь они станут учениками школы на четыре года, а затем будут считаться выпускниками средней школы в последнем году обучения.
+
+Основное содержание:
+
+- Ориентация проводится в первую неделю учебы в школе.
+- Первые три года они изучают общую культуру (включая математику, литературу, физику, химию) и социальные навыки. В частности, в первый год они имеют право на профессиональную ориентацию, со второго года до конца четвертого года они могут участвовать в профессиональном обучении.
+- 100% безопасность в процессе посещения школы и занятий.
+- Студенты выучат традиционную песню FPT «Река клятвы FPT».
+- Есть лифты, лестницы, телевизоры, рабочие столы, кондиционеры, потолочные вентиляторы, противопожарное оборудование, камеры, уже установленные вокруг школы, мужские / женские туалеты в соответствии с правилами, ...
+- Обязательное участие в Вовинам - вьетнамских боевых искусствах в физкультуре.
+
+Hoang Huy Manh является официальным поставщиком Hanoi IPTV, который в настоящее время учится в FPT College, поэтому с 1 сентября 2020 года для всех студентов по всей стране будет вручен специальный подарок. следующим образом:
+
+1. Hang Yen IPTV: http://gg.gg/hungyeniptv
+2. Хайфон IPTV: http://gg.gg/haiphongiptv
+3. Куанг Бинь IPTV: http://gg.gg/quangbinhiptv
+
+Das neue Schuljahr 2020 - 2021 ist ein Geschenk für die Schüler!
+
+Das FPT College Hanoi befindet sich in der Trinh Van Bo Straße, Bezirk Phuong Canh, Bezirk Nam Tu Liem, Hanoi, nach dem Hanoi International College und ist der Hauptsitz des FPT College. Hier werden sie vier Jahre lang Schüler der Schule sein und dann im letzten Jahr für den Abschluss der High School in Betracht gezogen.
+
+Hauptinhalt:
+
+- Die Kinder werden in der ersten Schulwoche orientiert.
+- In den ersten drei Jahren lernen sie allgemeine Kultur (einschließlich Mathematik, Literatur, Physik, Chemie) und Soft Skills. Insbesondere im ersten Jahr haben sie eine Berufsberatung, im zweiten Jahr bis zum Ende des vierten Jahres können sie an einer Berufsausbildung teilnehmen.
+- 100% sicher beim Schul- und Klassenbesuch.
+- Die Schüler lernen das traditionelle Lied von FPT mit dem Titel "FPT River of Oath".
+- Es gibt Aufzüge, Treppen, Fernseher, Schreibtische, Klimaanlagen, Deckenventilatoren, Brandschutzgeräte, bereits in der Schule installierte Kameras, Toiletten für Männer und Frauen gemäß den Vorschriften, ...
+- Obligatorische Teilnahme an Vovinam - Vietnamesischen Kampfkünsten im Sportunterricht.
+
+Hoang Huy Manh ist der offizielle Anbieter von IPTV in Hanoi, der derzeit am FPT College studiert. Während des Lernprozesses wird es daher ab dem 1. September 2020 ein besonderes Geschenk für alle Studenten im ganzen Land geben. wie folgt:
+
+1. Hung Yen IPTV: http://gg.gg/hungyeniptv
+2. Hai Phong IPTV: http://gg.gg/haiphongiptv
+3. Quang Binh IPTV: http://gg.gg/quangbinhiptv
+
+La rentrée 2020-2021 est un cadeau pour les étudiants!
+
+Le FPT College Hanoi est situé rue Trinh Van Bo, quartier Phuong Canh, district Nam Tu Liem, Hanoi, après le Hanoi International College et est le siège social du FPT College. Ici, ils deviendront étudiants de l'école pendant quatre ans et seront ensuite considérés pour l'obtention du diplôme du lycée en dernière année.
+
+Contenu principal:
+
+- Les enfants reçoivent une orientation au cours de la première semaine d'école.
+- Pendant les trois premières années, ils apprennent la culture générale (y compris les mathématiques, la littérature, la physique, la chimie) et les compétences générales. En particulier la première année, ils ont une orientation professionnelle, de la deuxième à la fin de la quatrième année, ils peuvent participer à une formation professionnelle.
+- 100% sûr dans le processus d'aller à l'école et en classe.
+- Les élèves apprendront la chanson traditionnelle de FPT intitulée «FPT River of Oath».
+- Il y a des ascenseurs, des escaliers, des télévisions, des bureaux d'étude, des climatiseurs, des ventilateurs de plafond, des équipements de protection incendie, des caméras déjà installées autour de l'école, des toilettes hommes / femmes selon la réglementation, ...
+- Participation obligatoire à Vovinam - arts martiaux vietnamiens en éducation physique.
+
+Hoang Huy Manh est le fournisseur officiel de Hanoi IPTV qui étudie actuellement au FPT College, donc pendant le processus d'apprentissage, il y aura un cadeau spécial pour tous les étudiants du pays à partir du 1er septembre 2020. comme suit:
+
+1. Hung Yen IPTV: http://gg.gg/hungyeniptv
+2. Hai Phong IPTV: http://gg.gg/haiphongiptv
+3. IPTV de Quang Binh: http://gg.gg/quangbinhiptv
