@@ -290,7 +290,7 @@ http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/06/857648-ntv_nam_dinh.png",Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình HD
-https://livecdn.fptplay.net/sda/ninhbinh_2000.stream/chunklist.m3u8
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình FM
 https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpjPP4UJ_5eccd2259b9cb.png",Thanh Hóa HD
@@ -505,15 +505,15 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://p06.iptv2asia.com:18888/http/012
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 FHD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD （來源： 四李線上）
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
 http://p06.iptv2asia.com:18888/http/014
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 FHD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD （來源： 四李線上）
 http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
 http://p06.iptv2asia.com:18888/http/013
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 FHD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD （來源： 四李線上）
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -1505,10 +1505,6 @@ rtmp://117.6.162.63/live//thvp
 http://118.107.68.17:1935/VTC/smil:Haiphong1TV.smil/chunklist_w689681153_b864000_slVIE.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",Hà Nam DB
 https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình
-https://vtsstr3.tv24.vn/elive/_definst_/smil:ninhbinh_SD.smil/chunklist_w192810301_b2292000.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948249966.png",Ninh Bình HD DB
-https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="SỰ KIỆN" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",Hội tụ
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh HD DB
@@ -1549,12 +1545,6 @@ https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
 http://118.69.161.9:8134/liveevent.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/481.png",Đắk Nông
 https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/live/dak_nong_360p/index.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944884192.png",Bà Rịa - Vũng Tàu HD DB
-https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944937642.png",Đồng Nai 1 HD DB
-https://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png",Đồng Nai 2 HD DB
-https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",BTV3 HD
 http://42.115.218.181:6606/udp/225.1.1.31:30120
 #EXTINF:-1  group-title="BTV" tvg-logo="http://avg.vn/wp-content/uploads/2020/03/uyiioyughnb.jpg",BTV9 - An Viên TV
@@ -1761,7 +1751,9 @@ http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清
 http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
-#EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清
+#EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清 （宁波移动）
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
+#EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清 （广州联通）
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=82&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1  group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 超高清 （贵州移动）
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=cctv4k
