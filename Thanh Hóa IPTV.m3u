@@ -19,6 +19,8 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a.m3u8
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa (Dành cho FPT)
 https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Thanh Hóa" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",TTV - Truyền hình Thanh Hóa HD
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
