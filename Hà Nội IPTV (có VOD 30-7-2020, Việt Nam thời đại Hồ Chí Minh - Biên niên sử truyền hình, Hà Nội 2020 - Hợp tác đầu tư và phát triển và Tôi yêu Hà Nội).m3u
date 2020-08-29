@@ -234,7 +234,7 @@ http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/271.png",Điện Biên HD
 https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/271.png",Điện Biên FM
-https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/%C4%90FM%20-%20Ph%C3%A1t%20thanh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90FM%20-%20Ph%C3%A1t%20thanh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La HD
 http://118.107.68.17:1935/VTC/smil:SonllaTV.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/281.png",Hòa Bình
@@ -246,7 +246,7 @@ http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244017560.png",Bắc Kạn
 http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244017560.png",Bắc Kạn FM
-http://113.160.162.131:8080/hls/radio/index.m3u8
+http://113.160.162.131:8080/hls/radio.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/203.png",Thái Nguyên 1 HD
 http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/221.png",Tuyên Quang HD
@@ -313,8 +313,12 @@ http://118.107.68.17:1935/VTC/qrtv/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://quangngaitv.vn/images/no_pic.png",Quảng Ngãi
 http://118.107.68.17:1935/VTC/smil:QNgai.smil/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/771.png",Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/781.png",Phú Yên
+http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",Khánh Hòa HD
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận HD
 https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận
@@ -330,9 +334,9 @@ https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944884192.png",Bà Rịa - Vũng Tàu HD
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944937642.png",Đồng Nai 1 HD
-http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/chunklist_w1691064002_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:Dongnai1.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png",Đồng Nai 2 HD
-http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist_w551210684_b864000_slVIE.m3u8
+http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist.m3u8
 #EXTINF:-1  group-title="BTV" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1 HD
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="BTV" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 HD
@@ -347,6 +351,8 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp1.png",Bình Phước 1 HD
 http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp2.png",Bình Phước 2
+http://118.69.197.145/hls/bptv2.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png",Long An
@@ -1475,96 +1481,45 @@ http://118.107.68.10:1935/radio/Sonla.stream/chunklist_w181180713.m3u8
 https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjUyNDEsICJyZXNvdXJjZV9pZCI6ICJob2FiaW5oXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiYzcyYTI0ZDUxZGNiNGYyNTViZGZmZDBkZGNlODNhNzkiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ4NTE2NDEsICJybWlwIjogIjI3Ljc5LjE2Ny40In0=
 
 
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang HD DB
-https://livecdn.fptplay.net/sdc/bacgiang_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ0MjkyMTMsICJyZXNvdXJjZV9pZCI6ICJiYWNnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjQ5ZjVmMmMxNDEyM2UxZDEyNzZjMjFkMDM5MjNhYzg1IiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0NTE1NjEzLCAicm1pcCI6ICIyNy43OS4yMjcuNTAifQ==
+
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang FM
 http://cdn.mediatech.vn/bgtvlive/radiolive/chunklist_w80530702.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945338657.png",Thái Nguyên 1 HD DB
-https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODMxMTczNjksICJyZXNvdXJjZV9pZCI6ICJ0aGFpbmd1eWVuXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNTRkMGRmMzk2OTk0YjdjYzJhNmQ5OTlkYTI2ZTU2OTMiLCAidmFsaWRfbWludXRlcyI6IDE1ODMyMDM3NjksICJybWlwIjogIjI3Ljc5LjE2My4xNiJ9
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo="https://mytv.com.vn/upload/channel/202.png",Thái Nguyên 2 HD
 http://113.172.75.158:2806/rtp/232.84.3.123:9168
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/221.png",Tuyên Quang HD DB
-https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODMyOTY2NjAsICJyZXNvdXJjZV9pZCI6ICJ0dXllbnF1YW5nX2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI2MTc5MGE2MmJmYjg5MzI4N2IxNTJmZmZiN2E5Yzc1YSIsICJ2YWxpZF9taW51dGVzIjogMTU4MzM4MzA2MCwgInJtaXAiOiAiMjcuNzkuMTYzLjE2In0=
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/PWbjWQg.jpg",Tuyên Quang FM
 https://live.tuyenquangtv.vn/hls/radio.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang DB
-https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang FM
 http://118.107.68.10:1935/radio/HaGiang.stream/chunklist_w1023141457.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/111.png",Cao Bằng DB
-https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 1
 rtmp://123.29.68.44/hctv/vsrd001
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 2
 rtmp://123.29.68.44/hctv/vsrd004
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/211.png",Yên Bái DB
-https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjQ2NTMsICJyZXNvdXJjZV9pZCI6ICJ5ZW5iYWlfMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJlNDNjODIzYmU3NDRmMzhkNDdkZTg0MmZhOGY1YjNhMSIsICJ2YWxpZF9taW51dGVzIjogMTU4NDg1MTA1MywgInJtaXAiOiAiMjcuNzkuMTY3LjQifQ==
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",Vĩnh Phúc DB
 rtmp://117.6.162.63/live//thvp
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",Hải Phòng HD DB
-http://118.107.68.17:1935/VTC/smil:Haiphong1TV.smil/chunklist_w689681153_b864000_slVIE.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/07/30/226568-HaNam.png",Hà Nam DB
-https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="SỰ KIỆN" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",Hội tụ
 http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh HD DB
-https://livecdn.fptplay.net/sdc/hatinh_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Thừa Thiên - Huế FM
 rtmp://118.69.176.149:1936/live/radio
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948272922.png",Đà Nẵng TV 1 HD DB
-https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ1OTM0NzMsICJyZXNvdXJjZV9pZCI6ICJkYW5hbmcxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNDE0ZjJjMmM2YWY5ODUxMmYwNGI1YjA4OTdhN2U4MzYiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ2Nzk4NzMsICJybWlwIjogIjI3Ljc5LjE5NC4yMjEifQ==
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/861526-DN2.png",Đà Nẵng TV 2 HD DB
-https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3MDc1MjksICJyZXNvdXJjZV9pZCI6ICJkYW5hbmcyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiYTU3ZTE2MjU5OWM0MDZjZDkwZjhlOGMxMjc1NzEwM2QiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ3OTM5MjksICJybWlwIjogIjEwMC4xMjAuMC4xMDcifQ==
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png",Quảng Nam HD DB
-https://livecdn.fptplay.net/sdc/quangnam_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjQ5NTIsICJyZXNvdXJjZV9pZCI6ICJxdWFuZ25hbV8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjAxYjBlZjI5NWRjMjlmZGU2MWQwNjAxYTNkOWJiMGJkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0ODUxMzUyLCAicm1pcCI6ICIyNy43OS4xNjcuNCJ9
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://quangngaitv.vn/images/no_pic.png",Quảng Ngãi DB
-https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/771.png",Bình Định
-https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/781.png",Phú Yên
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/781.png",Phú Yên DB
-https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944990283.png",Khánh Hòa HD DB
-http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận
 rtmp://203.113.166.233/live/NTV_VIDEO
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận FM
 rtmp://203.113.166.233/live//NTV_AUDIO
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận DB
-https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận FM
 http://202.43.109.142:1935/thbtradio/btradio/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",BTV6 - Quê hương HomeShopping
 http://42.115.218.181:6606/udp/225.1.1.90:30120
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png",Kon Tum DB
-https://livecdn.fptplay.net/sdc/kontum_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948222751.png",Gia Lai DB
-https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",Đắk Lắk DB
-http://118.69.161.9:8134/liveevent.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/481.png",Đắk Nông
 https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/live/dak_nong_360p/index.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",BTV3 HD
 http://42.115.218.181:6606/udp/225.1.1.31:30120
 #EXTINF:-1  group-title="BTV" tvg-logo="http://avg.vn/wp-content/uploads/2020/03/uyiioyughnb.jpg",BTV9 - An Viên TV
 http://42.115.218.181:6606/udp/225.1.2.189:30120
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp2.png",Bình Phước 2
-http://118.69.197.145/hls/bptv2.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",Bình Phước FM 89.4
 http://118.69.197.145/hls/radio.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",Tây Ninh FM
-http://202.43.109.142:1935/radio11/tnradio/chunklist_w274692145.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/09/852099-long-an.png",Long An DB
-https://livecdn.fptplay.net/sdc/longan_2000.stream/chunklist.m3u8
+http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945046409.png",Sóc Trăng FM 100.4
 rtmp://115.78.3.164:1936/live/FMsoctrang
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://thbl.vn/btv.png",Bạc Liêu
-http://118.69.205.213/thbl/thbl.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948305194.png",Cần Thơ DB
-https://livecdn.fptplay.net/sda/cantho_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/691.png",Cà Mau DB
-https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/691.png",Cà Mau FM
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",VBS (Vietnam Broadcast Station)
