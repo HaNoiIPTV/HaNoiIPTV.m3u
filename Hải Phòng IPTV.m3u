@@ -280,10 +280,16 @@ http://p06.iptv2asia.com:18888/http/012
 http://p06.iptv2asia.com:18888/http/014
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
 http://p06.iptv2asia.com:18888/http/013
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞台
+http://p06.iptv2asia.com:18888/http/015
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
 http://p06.iptv2asia.com:18888/http/001
+#EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVG_LOGO_36.png",台視綜合台
+http://p06.iptv2asia.com:18888/http/002
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVF_LOGO_36.png",台視財經台
+http://p06.iptv2asia.com:18888/http/003
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv051_pc.png",台視新聞台 HD
 http://p06.iptv2asia.com:18888/http/004
 #EXTINF:-1 group-title="Kênh thế giới" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視 HD
