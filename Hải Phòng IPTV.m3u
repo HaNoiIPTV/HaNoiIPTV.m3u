@@ -77,6 +77,8 @@ https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",THP - Truyền hình Hải Phòng HD
 http://118.107.68.17:1935/VTC/smil:Haiphong1TV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",THP - Truyền hình Hải Phòng HD (Dành cho VTVCab)
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",THP - Truyền hình Hải Phòng HD (Dành cho FPT)
 https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ - Truyền hình Hải Phòng HD
