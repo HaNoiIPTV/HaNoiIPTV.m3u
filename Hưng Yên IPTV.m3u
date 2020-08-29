@@ -17,6 +17,8 @@ https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 
 #EXTINF:-1  group-title="Đài Phát thanh và Truyền hình Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="Đài Phát thanh và Truyền hình Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên (Dành cho VTC)
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn.m3u8
 #EXTINF:-1  group-title="Đài Phát thanh và Truyền hình Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="Đài Phát thanh và Truyền hình Hưng Yên" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245238522.png",HYFM - Phát thanh Hưng Yên
