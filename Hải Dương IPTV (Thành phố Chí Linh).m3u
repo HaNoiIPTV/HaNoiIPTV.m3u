@@ -87,3 +87,5 @@ http://118.69.161.9:8134/liveevent.m3u8
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Các kênh khác" tvg-logo="https://mytv.com.vn/upload/channel/841.png",THTV - Truyền hình Trà Vinh
 http://travinhlive.07b99c25.cdnviet.com/travinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Các kênh khác" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu
+http://118.69.205.213/thbl/thbl.m3u8
