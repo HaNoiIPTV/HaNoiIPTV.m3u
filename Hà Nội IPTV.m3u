@@ -27,6 +27,12 @@ https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",Hà Nội 2 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",Hà Nội IPTV 1 - tvN HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EC%A6%90%EA%B1%B0%EC%9B%80%EC%97%94%20%EB%81%9D%EC%9D%B4%20%EC%97%86%EB%8B%A4%20tvN.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png",Hà Nội IPTV 13 - TV Chosun HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV%20Chosun.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.ichannela.com/images/common/site_logo_index.png",Hà Nội IPTV 15 - Channel A HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EA%BF%88%EC%9D%84%20%EB%8B%B4%EB%8A%94%20%EC%BA%94%EB%B2%84%EC%8A%A4%20%EC%B1%84%EB%84%90A.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
