@@ -14,11 +14,11 @@ https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV5_HD_M.png",VTV5 HD
 https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV6_HD_M.png",VTV6 HD
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV7_HD_M.png",VTV7 HD
 https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV8_HD_M.png",VTV8 HD
-https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://img.nhandantv.vn//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV HD
@@ -27,6 +27,8 @@ https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",Hà Nội 2 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584928898239.png",VTVCab4 HD
@@ -35,6 +37,8 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_b2692000.m
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist_w1683618297.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVCab6 - Hay TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD.smil/chunklist_b2692000.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20Vie%20Dramas.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/STYLE_TV_HD_M.png",VTVCab12 - Style TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/E_CHANNEL_M.png",VTVCab5 - E Channel
@@ -73,7 +77,7 @@ https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 https://kplus-livecdn.fptplay.net/drmlive/kplus1_720p.stream/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpO3oCDF_5d765a11e9783.png",K+NS HD
 https://kplus-livecdn.fptplay.net/drmlive/kns_720p.stream/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpO3oCDF_5d765a11e9783.png",K+PM HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM HD
 https://kplus-livecdn.fptplay.net/drmlive/kpm_720p.stream/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png",K+PC HD
 https://kplus-livecdn.fptplay.net/drmlive/kpc_720p.stream/playlist.m3u8
@@ -125,6 +129,8 @@ https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV19_HD.smil/chunklist_b2692000.m3
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/577/1565767887100.png",SCTV HD Phim Tổng Hợp
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944845970.png",BTV5 HD
+https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/playlist.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTC1_M.png",VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/21.png",VTC2 - Reidius TV
@@ -193,6 +199,8 @@ https://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1  group-title="HTVC" tvg-logo=" ",Phim Hay HD
 https://livecdn.fptplay.net/sda/phimhay_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="HTVC" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_355x2002.jpg",Paramount Channel HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://quochoitv.vn/images/logo-qhtv.png",Truyền hình Quốc hội Việt Nam HD
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/QPVN_M.png",Truyền hình Quốc phòng Việt Nam HD
@@ -200,13 +208,13 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/ANTV_M.png",ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VNEWS_HD_M.png",Truyền hình Thông tấn - VNews HD
-http://live.vnanet.vn/720P/playlist.m3u8
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN1_M.png",H1 - Truyền hình Hà Nội HD
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",H2 - Truyền hình Hà Nội HD
 https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VINHLONG1_HD_M.png",Truyền hình Vĩnh Long 1 HD
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="TRUYỀN HÌNH VĨNH LONG" tvg-logo="https://imgstatic.vtvcab.vn/logos/VINHLONG2_HD_M.png",Truyền hình Vĩnh Long 2 HD
 https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946831604.png",Truyền hình Vĩnh Long 3 HD
@@ -279,13 +287,15 @@ https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="BTV" tvg-logo="https://mytv.com.vn/upload/channel/615.png",BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="BTV" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 - An Viên TV
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/thbp1.png",BPTV1 - Truyền hình Bình Phước 1 HD
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",TTV11 - Truyền hình Tây Ninh HD
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944927118.png",THĐT1 - Truyền hình Đồng Tháp 1 HD
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/841.png",THTV Truyền hình Trà Vinh HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/841.png",THTV - Truyền hình Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://soctrangtv.vn/Content/images/stv1.png",STV1 - Truyền hình Sóc Trăng 1 HD
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -293,6 +303,8 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/MTV_355x2003.jpg",
+
 #EXTINF:-1  group-title="ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://media.hanoitv.vn/thumb_x350x250/upload/Anh_FM90.jpg",Hà Nội FM90
 http://media.mediatech.vn:1935/hntvRadio/fm90live/chunklist.m3u8
 #EXTINF:-1  group-title="ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://media.hanoitv.vn/thumb_x350x250/upload/Anh_FM90.jpg",Hà Nội FM96
@@ -443,9 +455,9 @@ http://live.crhoy.ml:8080/Yucuanli/Yucuanli/17
 http://ff05.vipub1818.com/live/496/53b571a84dd5a3af85dca2b697b8e904/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_tdm_yellow_text.png",TDM Macau
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_tdm_yellow_text.png",TDM Macau
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
@@ -463,7 +475,7 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://p06.iptv2asia.com:18888/http/013
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD （來源： 四李線上）
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞台 （中華電信桃園）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞台 （來源： 中華電信桃園）
 http://p06.iptv2asia.com:18888/http/015
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -475,9 +487,9 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
 http://p06.iptv2asia.com:18888/http/001
-#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVG_LOGO_36.png",台視綜合台 （中華電信桃園源）
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVG_LOGO_36.png",台視綜合台 （來源： 中華電信桃園市站）
 http://p06.iptv2asia.com:18888/http/002
-#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVF_LOGO_36.png",台視財經台 （中華電信桃園源）
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.ttv.com.tw/group/15/images/TTVF_LOGO_36.png",台視財經台 （來源： 中華電信桃園市站）
 http://p06.iptv2asia.com:18888/http/003
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv051_pc.png",台視新聞台 HD
 http://p06.iptv2asia.com:18888/http/004
@@ -1103,10 +1115,6 @@ https://ncov.moh.gov.vn/documents/20182/6863405/video002/484ab56c-f315-4bb7-b136
 http://t5g.org.vn/uploads/audio/audioncov(ok).mp3
 #EXTINF:-1  group-title="Music I Like" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/VOD_M/201909190001/%E6%B0%91%E8%A6%96VOD_%E6%88%B2%E5%8A%87_%E5%A4%9A%E6%83%85%E5%9F%8E%E5%B8%82%20300X424.jpg",多情城市片尾曲
 
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
-https://livecdn-vtvcab.vieon.vn/hls/d29be7ecd57aea7fef06476f95072301/1587548864957/live/hd_vtvcab_1_1080p/index.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD
-https://livecdn-vtvcab.vieon.vn/hls/10ed8d2589abc82a1fed6b8c71433b48/1587548957242/live/hd_vtvcab_10_1080p/index.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",Kênh giới thiệu gói VIP của Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",Kênh giới thiệu gói VIP của Hà Nội IPTV HD
@@ -1133,12 +1141,10 @@ http://219.250.105.94:9981/stream/channelid/966975477
 
 #EXTINF:-1  group-title="PHÒNG CHỐNG COVID-19" tvg-logo="https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/8/1/4/7814c94cee10940335b04242bee88254.jpg",Việt Nam Ơi! Đánh Bay Covid
 
-#EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
-https://livecdn-vtvcab.vieon.vn/hls/d29be7ecd57aea7fef06476f95072301/1587548864957/live/hd_vtvcab_1_1080p/index.m3u8
+
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/VAN_HOA_M.png",IPTV3 - Văn hóa HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
-#EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD
-https://livecdn-vtvcab.vieon.vn/hls/10ed8d2589abc82a1fed6b8c71433b48/1587548957242/live/hd_vtvcab_10_1080p/index.m3u8
+
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/BIBIPLUS_HD_M.png",IPTV14 - BiBi Plus
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo="https://imgstatic.vtvcab.vn/logos/THETHAO_M.png",VTVCab3 - Thể Thao TV
@@ -1405,33 +1411,22 @@ https://5a6872aace0ce.streamlock.net/nghevov5/vov5.stream_aac/chunklist_w5935706
 https://5a6872aace0ce.streamlock.net/nghevov2/vov2.stream_aac/chunklist_w228435948.m3u8
 #EXTINF:-1  group-title="VOV" tvg-logo=" ",VOV 24/7
 https://5a6872aace0ce.streamlock.net/nghevov247/vov247.stream_aac/chunklist_w80272355.m3u8
-#EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo="https://login.nhandantv.vn/cloud/timthumb.php?src=https://login.nhandantv.vn/cloud/cdn/logo_29072019.png&h=80&w=300&zc=2",Truyền hình Nhân Dân HD DB
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODM5OTQyMTAsICJyZXNvdXJjZV9pZCI6ICJ0cnV5ZW5oaW5obmhhbmRhbl8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjlhOWM4NTY1YWE4Mjk2OGNlNGU2NDBjZjJlNmU5NWU2IiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0MDgwNjEwLCAicm1pcCI6ICIyNy43OS4xNzguMTA2In0=
 #EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo="https://login.nhandantv.vn/cloud/timthumb.php?src=https://login.nhandantv.vn/cloud/cdn/logo_29072019.png&h=80&w=300&zc=2",Truyền hình Nhân Dân HD
 http://vietcago.net/vstv/thnd.m3u8
 #EXTINF:-1  group-title="SỰ KIỆN" tvg-logo="https://cloud.streamvideo.thienvietjsc.vn/timthumb.php?src=https://cloud.streamvideo.thienvietjsc.vn/data/img/2020/02/03/03-02-2020-11-16-56-trailer-bien-nien-su-tap-1-jpg.jpg&h=141&w=253&zc=1",Việt Nam thời đại Hồ Chí Minh - Biên niên sử truyền hình
-https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1204924402_b1544100_sleng.m3u8
-#EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo="http://quochoitv.vn/images/logo-qhtv.png",Truyền hình Quốc hội Việt Nam DB
-https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ0Mjg4MjcsICJyZXNvdXJjZV9pZCI6ICJxdW9jaG9pdm5fMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI3ZjZkYzgzOGU5YWJmMzNiODk2ODZjNmRhMTRjYzZlZSIsICJ2YWxpZF9taW51dGVzIjogMTU4NDUxNTIyNywgInJtaXAiOiAiMjcuNzkuMjI3LjUwIn0
-#EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo="https://imgstatic.vtvcab.vn/logos/ANTV_M.png",ANTV HD DB
-https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo=" ",An Ninh Thế Giới
 http://vod.avg.vn:1935/live/antg.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/241.png",Lào Cai DB
-https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La HD DB
-https://livecdn.fptplay.net/sdc/sonla_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La FM
 http://118.107.68.10:1935/radio/Sonla.stream/chunklist_w181180713.m3u8
 #EXTINF:-1  group-title="Giải trí" tvg-logo="http://sonlatv.vn/Uploaded/Users/Haubt/Ads/2020/Gameshow%20ve%20ban%20em%20chuan.jpg",Gameshow Về Bản Em
 
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/281.png",Hòa Bình DB
-https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3NjUyNDEsICJyZXNvdXJjZV9pZCI6ICJob2FiaW5oXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiYzcyYTI0ZDUxZGNiNGYyNTViZGZmZDBkZGNlODNhNzkiLCAidmFsaWRfbWludXRlcyI6IDE1ODQ4NTE2NDEsICJybWlwIjogIjI3Ljc5LjE2Ny40In0=
+
 
 
 
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang FM
-http://cdn.mediatech.vn/bgtvlive/radiolive/chunklist_w80530702.m3u8
+http://cdn.mediatech.vn/bgtvlive/radiolive/chunklist.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/PWbjWQg.jpg",Tuyên Quang FM
 https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang FM
@@ -1458,8 +1453,6 @@ http://42.115.218.181:6606/udp/225.1.1.90:30120
 https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/live/dak_nong_360p/index.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",BTV3 HD
 http://42.115.218.181:6606/udp/225.1.1.31:30120
-#EXTINF:-1  group-title="BTV" tvg-logo="http://avg.vn/wp-content/uploads/2020/03/uyiioyughnb.jpg",BTV9 - An Viên TV
-http://42.115.218.181:6606/udp/225.1.2.189:30120
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",Bình Phước FM 89.4
 http://118.69.197.145/hls/radio.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",Tây Ninh FM
