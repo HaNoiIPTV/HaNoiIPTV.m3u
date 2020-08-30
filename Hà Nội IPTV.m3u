@@ -2,23 +2,23 @@
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV1_HD_M.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV2_HD_M.png",VTV2 HD
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV3_HD_M.png",VTV3 HD
 https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV4_HD_M.png",VTV4 HD
-https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV5_HD_M.png",VTV5 HD
 https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV6_HD_M.png",VTV6 HD
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV7_HD_M.png",VTV7 HD
 https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV8_HD_M.png",VTV8 HD
-https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist.m3u8
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/VTV9_HD_M.png",VTV9 HD
 https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://img.nhandantv.vn//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png",Nhân Dân TV HD
@@ -27,12 +27,23 @@ https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI" tvg-logo="https://imgstatic.vtvcab.vn/logos/HN2_M.png",Hà Nội 2 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",Hà Nội IPTV 1 - tvN HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EC%A6%90%EA%B1%B0%EC%9B%80%EC%97%94%20%EB%81%9D%EC%9D%B4%20%EC%97%86%EB%8B%A4%20tvN.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",Hà Nội IPTV 4 - tvN HD
+http://222.237.74.141:9981/playlist/channelid/93
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
+http://222.237.74.141:9981/playlist/channelid/91
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
+http://222.237.74.141:9981/stream/channelid/92
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
+http://222.237.74.141:9981/playlist/channelid/89
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png",Hà Nội IPTV 13 - TV Chosun HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV%20Chosun.m3u8
+http://222.237.74.141:9981/playlist/channelid/73
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.ichannela.com/images/common/site_logo_index.png",Hà Nội IPTV 15 - Channel A HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EA%BF%88%EC%9D%84%20%EB%8B%B4%EB%8A%94%20%EC%BA%94%EB%B2%84%EC%8A%A4%20%EC%B1%84%EB%84%90A.m3u8
+http://222.237.74.141:9981/playlist/channelid/74
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png",Hà Nội IPTV 17 - XtvN HD
+http://222.237.74.141:9981/playlist/channelid/79
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png",Hà Nội IPTV 18 - OtvN HD
+http://222.237.74.141:9981/playlist/channelid/77
+
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
@@ -903,18 +914,34 @@ http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutoi_20200821.mp4
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutoi_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Chương trình thời sự tối ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutoi_20200823.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Chương trình thời sự tối ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutoi_20200829.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Chương trình thời sự tối ngày 30/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutoi_20200830.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/H9KY6Q76P1.JPG",Hà Nội buổi sáng ngày 21/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/hanoibuoisang_20200821.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/H9KY6Q76P1.JPG",Hà Nội buổi sáng ngày 22/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/hanoibuoisang_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/H9KY6Q76P1.JPG",Hà Nội buổi sáng ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/hanoibuoisang_20200823.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/H9KY6Q76P1.JPG",Hà Nội buổi sáng ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/hanoibuoisang_20200829.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/H9KY6Q76P1.JPG",Hà Nội buổi sáng ngày 30/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/hanoibuoisang_20200830.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/BKUQO4FSI6.jpg",Nhịp sống số ngày 21/08/2020
+http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/Nhip_song_so/nhipsongso_20200821.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/BKUQO4FSI6.jpg",Nhịp sống số ngày 22/08/2020
+http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/Nhip_song_so/nhipsongso_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 9h ngày 21/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisu9h_20200821.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 9h ngày 22/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin9h_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 9h ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin9h_20200823.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 9h ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin9h_20200829.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 9h ngày 30/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin9h_20200830.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự trưa ngày 20/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantintrua_20200820.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự trưa ngày 21/8/2020
@@ -923,12 +950,10 @@ http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutrua_20200821.mp4
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutrua_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự trưa ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantintrua_20200823.mp4
-#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/BKUQO4FSI6.jpg",Nhịp sống số ngày 21/08/2020
-http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/Nhip_song_so/nhipsongso_20200821.mp4
-#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/BKUQO4FSI6.jpg",Nhịp sống số ngày 22/08/2020
-http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/Nhip_song_so/nhipsongso_20200822.mp4
-
-
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự trưa ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantintrua_20200829.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự trưa ngày 30/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/thoisutrua_20200830.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 15h ngày 20/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200820.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 15h ngày 21/8/2020
@@ -937,6 +962,10 @@ http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200821.mp4
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 15h ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200823.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 15h ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200828_it.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự 15h ngày 30/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantin15h_20200830.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự cuối ngày 20/8/2020
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantincuoingay_20200820_it.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự cuối ngày 21/8/2020
@@ -945,6 +974,8 @@ http://1clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantincuoingay_20200821.
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantincuoingay_20200822.mp4
 #EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự cuối ngày 23/8/2020
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantincuoingay_20200823.mp4
+#EXTINF:-1  group-title="Thời sự" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/8/3/VDX8OFQQ8N.JPG",Bản tin thời sự cuối ngày 29/8/2020
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/THOI_SU/bantincuoingay_20200829.mp4
 #EXTINF:-1  group-title="Hà Nội 2020 - Hợp tác đầu tư và phát triển" tvg-logo="https://scontent.fhan2-2.fna.fbcdn.net/v/t15.5256-10/104705666_709020623227108_5250575414594341355_n.jpg?_nc_cat=106&_nc_sid=f2c4d5&_nc_ohc=6XPsSvDLdu0AX_9Q5KZ&_nc_ht=scontent.fhan2-2.fna&oh=669ba52c939511d19f963f3b9e0a8924&oe=5F1F6289",Hội nghị "Hà Nội 2020 - Hợp tác đầu tư và phát triển" - Phần 1
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang06/Truyen_hinh_truc_tiep/hanoi2020htdt1.mp4
 #EXTINF:-1  group-title="Hà Nội 2020 - Hợp tác đầu tư và phát triển" tvg-logo="https://scontent.fhan2-2.fna.fbcdn.net/v/t15.5256-10/104705666_709020623227108_5250575414594341355_n.jpg?_nc_cat=106&_nc_sid=f2c4d5&_nc_ohc=6XPsSvDLdu0AX_9Q5KZ&_nc_ht=scontent.fhan2-2.fna&oh=669ba52c939511d19f963f3b9e0a8924&oe=5F1F6289",Hội nghị "Hà Nội 2020 - Hợp tác đầu tư và phát triển" - Phần 2
@@ -965,6 +996,8 @@ http://2clip.hntv.mediatech.vn/CLIP2020/Thang07/Truyen_hinh_truc_tiep/thaoluanho
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang06/Truyen_hinh_truc_tiep/tuvants1.mp4
 #EXTINF:-1  group-title="Giáo dục và đào tạo" tvg-logo="https://scontent.fhan2-2.fna.fbcdn.net/v/t15.5256-10/105759406_950514965398623_2841425157348371638_n.jpg?_nc_cat=106&_nc_sid=f2c4d5&_nc_ohc=zRn3xRyhzsIAX8Tnmh1&_nc_ht=scontent.fhan2-2.fna&oh=a689721438314e73640b55a77be1ac88&oe=5F1F26A4",Chương trình tư vấn tuyển sinh – hướng nghiệp cho học sinh và sinh viên - Phần 2
 http://2clip.hntv.mediatech.vn/CLIP2020/Thang06/Truyen_hinh_truc_tiep/tuvants2.mp4
+#EXTINF:-1  group-title="Ca nhạc" tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Video/2020/5/4/IFUWKNH3P6.JPG",Những ca khúc hay về Hà Nội trong chương trình "Muôn ánh sao vàng" mừng Tết Độc Lập
+http://clip.hntv.mediatech.vn/CLIP2020/Thang08/Phong_su_ngan/NhungcakhucveHaNoi.mp4
 #EXTINF:-1  group-title="Hà Nội đẹp và chưa đẹp" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Video/2019/1/3/QI6J6C7PA2.JPG",Đi xe buýt không còn lo tiền lẻ
 http://1clip.hntv.mediatech.vn/CLIP2020/Thang06/Hanoi_dep_chuadep/hanoidepchuadep_20200617.mp4
 #EXTINF:-1  group-title="Hà Nội đẹp và chưa đẹp" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Video/2019/1/3/QI6J6C7PA2.JPG",Trèo cây hái sấu - ai quản?
