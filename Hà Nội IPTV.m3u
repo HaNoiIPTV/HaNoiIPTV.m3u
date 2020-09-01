@@ -377,7 +377,7 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948305194.png",THTPCT - Truyền hình Thành phố Cần Thơ
 https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/TN1_HD_Thai_Nguyen.png/revision/latest/scale-to-width-down/220?cb=20200604084049",TN1 - Truyền hình Thái Nguyên HD
-http://thainguyentv.vn/hls/livestream.m3u8
+https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/af/TN2_HD_Thai_Nguyen.png/revision/latest/scale-to-width-down/220?cb=20191110094933",TN2 - Truyền hình Thái Nguyên HD
 http://113.172.75.158:2806/rtp/232.84.3.123:9168
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",VPTV - Truyền hình Vĩnh Phúc
