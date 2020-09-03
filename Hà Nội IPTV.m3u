@@ -513,10 +513,12 @@ https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8
 http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/741.png",Quảng Trị FM
 http://118.107.68.17:1935/VTC/qrtv/chunklist.m3u8
+
+http://118.107.68.10:1935/radio/dnrtv/chunklist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/e0b8ec361b997db4c89eee8baa497fb9.png",港台電視31 1080
-http://116.49.135.177:9981/stream/channelid/937757987
+http://205.215.28.171:9981/stream/channelid/1061434376
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg/revision/latest/scale-to-width-down/260?cb=20200511233655",港台電視33 1080
-http://116.49.135.177:9981/stream/channelid/306146248
+http://205.215.28.171:9981/stream/channelid/1550400683
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
@@ -2301,6 +2303,8 @@ http://124.165.212.56:1024/hls/013/index.m3u8
 http://219.153.252.50/PLTV/88888888/224/3221225555/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 （海南移动）
 http://221.179.217.70/PLTV/88888888/224/3221225768/www-dszbdq-cn-3.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （北京移动）
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （北方广电）
 http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （安徽广电）
