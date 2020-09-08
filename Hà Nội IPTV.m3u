@@ -26,7 +26,7 @@ https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",Hà Nội IPTV 4 - tvN HD
 http://219.250.105.94:9981/stream/channelid/1846157344
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
-http://219.250.105.94:9981/stream/channelid/1846157344
+http://219.250.105.94:9981/stream/channelid/898983026
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
 http://219.250.105.94:9981/stream/channelid/2730145
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",Hà Nội IPTV 9 - KBS1 HD
@@ -65,6 +65,8 @@ http://219.250.105.94:9981/stream/channelid/1321075756
 http://219.250.105.94:9981/stream/channelid/1559598099
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 6 - MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 6 - MBN HD
+http://219.250.105.94:9981/stream/channelid/1175927034
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png",Hà Nội IPTV 7 - TV Chosun HD
 http://219.250.105.94:9981/stream/channelid/636272785
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Hà Nội IPTV 8 - Channel A HD
