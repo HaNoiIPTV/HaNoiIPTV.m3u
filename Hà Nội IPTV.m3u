@@ -434,7 +434,7 @@ http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN1-RTV_HD.png",ĐNRTV1 - Truyền hình Đồng Nai HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN2-RTV_HD.png",ĐNRTV2 - Truyền hình Đồng Nai HD
-http://118.107.68.17:1935/VTC/smil:Dongnai2.smil/chunklist.m3u8
+https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/100px-BRT_HD.png",BRT - Truyền hình Bà Rịa - Vũng Tàu HD
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%253FT1_HD.png",THĐT1 - Truyền hình Đồng Tháp HD
@@ -457,16 +457,6 @@ http://gg.gg/vtv5taynguyenhd
 http://gg.gg/vtv5taynambo
 #EXTINF:-1  group-title="PHÒNG CHỐNG COVID-19" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Trực tiếp thời sự VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="Thời sự" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Chương trình thời sự tối ngày 7/6/2020
-http://222.255.2.66/vgp/_define_/mp4:062020/TS_0706.mp4/chunklist_w2032251043.m3u8
-#EXTINF:-1  group-title="Thời sự" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Chương trình thời sự tối ngày 8/6/2020
-http://222.255.2.66/vgp/_define_/mp4:062020/TS-0806.mp4/chunklist_w1645510054.m3u8
-#EXTINF:-1  group-title="Thời sự" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Chương trình thời sự tối ngày 9/6/2020
-http://222.255.2.66/vgp/_define_/mp4:062020/TS_0906.mp4/chunklist_w1485034661.m3u8
-#EXTINF:-1  group-title="Thời sự" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Chương trình thời sự tối ngày 10/6/2020
-http://222.255.2.66/vgp/_define_/mp4:062020/TS_1006.mp4/chunklist_w823157891.m3u8
-#EXTINF:-1  group-title="Thời sự" tvg-logo="https://rsstv.gviet.vn/sctv/159/410/1584093645043.png",Chương trình thời sự tối ngày 11/6/2020
-http://222.255.2.66/vgp/_define_/mp4:062020/TS_1106.mp4/chunklist_w186594309.m3u8
 #EXTINF:-1  group-title="PHÒNG CHỐNG COVID-19" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Video/2020/4/1/TEH97AZDNN.JPG",Trực tiếp thời sự Hà Nội
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="PHÒNG CHỐNG COVID-19" tvg-logo=" ",Hướng dẫn cách ly dịch Covid-19 của Bộ Y tế (Phát sóng tất cả 9 kênh VTV của Đài Truyền hình Việt Nam)
