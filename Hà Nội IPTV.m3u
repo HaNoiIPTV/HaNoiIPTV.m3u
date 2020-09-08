@@ -24,53 +24,75 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/17.png",VTVCab13 - VTV Hyundai Homeshopping
 https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/635034452367707500.png",Hà Nội IPTV 4 - tvN HD
-http://222.237.74.141:9981/playlist/channelid/93
+http://219.250.105.94:9981/stream/channelid/1846157344
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
-http://222.237.74.141:9981/playlist/channelid/70
+http://219.250.105.94:9981/stream/channelid/1846157344
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
-http://222.237.74.141:9981/playlist/channelid/91
+http://219.250.105.94:9981/stream/channelid/2730145
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://padmin.s3-website.ap-northeast-2.amazonaws.com/live/2018/10/11/1539237809933_114600.png",Hà Nội IPTV 9 - KBS1 HD
-http://222.237.74.141:9981/playlist/channelid/90
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png",Hà Nội IPTV 10 - KBS Drama
-http://222.237.74.141:9981/playlist/channelid/67
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png",Hà Nội IPTV 11 - KBS Joy
-http://222.237.74.141:9981/playlist/channelid/83
+http://219.250.105.94:9981/stream/channelid/178453704
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png",Hà Nội IPTV 10 - KBS Drama HD
+http://219.250.105.94:9981/stream/channelid/1872785276
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png",Hà Nội IPTV 11 - KBS Joy HD
+http://219.250.105.94:9981/stream/channelid/231227707
+#EXTINF:-1 group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_w.png",Hà Nội IPTV 31 - KBSW HD
+http://219.250.105.94:9981/stream/channelid/1612250304
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",Hà Nội IPTV 12 - KBSN Sports HD
-http://222.237.74.141:9981/stream/channelid/58
+http://219.250.105.94:9981/stream/channelid/276926482
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
-http://222.237.74.141:9981/stream/channelid/92
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png",Hà Nội IPTV 13 - SBS Plus
-http://222.237.74.141:9981/playlist/channelid/81
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png",Hà Nội IPTV 14 - SBS funE
-http://222.237.74.141:9981/playlist/channelid/82
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",Hà Nội IPTV 15 - SBS Sports HD
-http://222.237.74.141:9981/playlist/channelid/57
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C43242.png",Hà Nội IPTV 16 - SBS MTV
-http://222.237.74.141:9981/playlist/channelid/69
+http://219.250.105.94:9981/stream/channelid/1829683892
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png",Hà Nội IPTV 13 - SBS Plus HD
+http://219.250.105.94:9981/stream/channelid/119937701
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png",Hà Nội IPTV 13+ - SBS F!L UHD
+http://58.229.38.125:9981/stream/channelid/1998526477
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png",Hà Nội IPTV 14 - SBS funE HD
+http://219.250.105.94:9981/stream/channelid/645390174
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15846.png",Hà Nội IPTV 15 - SBS CNBC HD
+http://219.250.105.94:9981/stream/channelid/1252094685
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C43242.png",Hà Nội IPTV 16 - SBS MTV HD
+http://219.250.105.94:9981/stream/channelid/836082577
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
-http://222.237.74.141:9981/playlist/channelid/89
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png",Hà Nội IPTV 17 - MBC Every 1
-http://222.237.74.141:9981/playlist/channelid/84
+http://219.250.105.94:9981/stream/channelid/1518300355
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png",Hà Nội IPTV 17 - MBC Every 1 HD
+http://219.250.105.94:9981/stream/channelid/878875147
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png",Hà Nội IPTV 18 - MBC Drama HD
-http://222.237.74.141:9981/playlist/channelid/66
+http://219.250.105.94:9981/stream/channelid/683273854
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_05.png",Hà Nội IPTV 19 - MBCM HD
-http://222.237.74.141:9981/playlist/channelid/68
+http://219.250.105.94:9981/stream/channelid/1518300355
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 20 - OBS HD
-http://222.237.74.141:9981/playlist/channelid/50
+http://219.250.105.94:9981/stream/channelid/1321075756
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 5 - JTBC HD
-http://222.237.74.141:9981/playlist/channelid/87
+http://219.250.105.94:9981/stream/channelid/1559598099
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 6 - MBN
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.tvchosun.com/upload_img/n2017/images/common/h1_logo.png",Hà Nội IPTV 7 - TV Chosun HD
-http://222.237.74.141:9981/playlist/channelid/73
+http://219.250.105.94:9981/stream/channelid/636272785
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Hà Nội IPTV 8 - Channel A HD
-http://222.237.74.141:9981/playlist/channelid/74
+http://219.250.105.94:9981/stream/channelid/379879927
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png",Hà Nội IPTV 21 - XtvN HD
-http://222.237.74.141:9981/playlist/channelid/79
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png",Hà Nội IPTV 22 - OtvN
-http://222.237.74.141:9981/playlist/channelid/77
+http://219.250.105.94:9981/stream/channelid/621010328
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636422945132629057.png",Hà Nội IPTV 22 - OtvN HD
+http://219.250.105.94:9981/stream/channelid/366354238
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/21.png",Hà Nội IPTV 24 - OCN HD
-http://222.237.74.141:9981/playlist/channelid/52
+http://219.250.105.94:9981/stream/channelid/75366710
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/13b0012700302094654.png",Hà Nội IPTV 25 - OCN Movies HD
+http://219.250.105.94:9981/stream/channelid/385149967
+#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",Hà Nội IPTV 27 - JTBC2 HD
+http://59.28.86.246:9981/stream/channelid/51
+#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",Hà Nội IPTV 28 - JTBC4 HD
+http://219.250.105.94:9981/stream/channelid/386460997
+#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 29 - Olive HD
+http://219.250.105.94:9981/stream/channelid/1215244974
+#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 30 - On Style HD
+http://219.250.105.94:9981/stream/channelid/1831773748
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20Gi%E1%BA%A3i%20Tr%C3%AD.m3u8
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
@@ -485,6 +507,8 @@ https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",ĐRT - Truyền hình Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/481.png",PTD - Truyền hình Đắk Nông
+https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/live/dak_nong_360p/index.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/771.png",BTV - Truyền hình Bình Định
 https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 HD
@@ -567,47 +591,41 @@ http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244017560.png",BKFM - Phát thanh Bắc Kạn
 http://113.160.162.131:8080/hls/radio.m3u8
-#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTFM - Phát thanh Hà Tĩnh
-http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://dnrtv.org.vn/images/no_pic.png",ĐNFM - Phát thanh Đồng Nai
-http://118.107.68.10:1935/radio/dnrtv/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGFM - Phát thanh Hà Giang
+http://118.107.68.10:1935/radio/HaGiang.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/90px-Logo_%C4%90TV_Dien_Bien_New.png",ĐFM - Phát thanh Điện Biên
 http://123.29.68.44/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/981.png",BGFM - Phát thanh Bắc Giang
+http://cdn.mediatech.vn/bgtvlive/radiolive/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://i.imgur.com/PWbjWQg.jpg",TQFM - Phát thanh Tuyên Quang
+https://live.tuyenquangtv.vn/hls/radio.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/261.png",SLFM - Phát thanh Sơn La
+http://118.107.68.10:1935/radio/Sonla.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr1.png",QNR1 - Phát thanh Quảng Ninh
+http://117.7.238.178:8080/radio/index.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr2.png",QNR2 - Phát thanh Quảng Ninh
+http://117.7.238.178:8081/radio/index.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://dnrtv.org.vn/images/no_pic.png",ĐNFM - Phát thanh Đồng Nai
+http://118.107.68.10:1935/radio/dnrtv/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTFM - Phát thanh Hà Tĩnh
+http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QTFM - Phát thanh Quảng Trị
 http://118.107.68.17:1935/VTC/qrtv/chunklist.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/261.png",Sơn La FM
-http://118.107.68.10:1935/radio/Sonla.stream/chunklist.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/981.png",Bắc Giang FM
-http://cdn.mediatech.vn/bgtvlive/radiolive/chunklist.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/PWbjWQg.jpg",Tuyên Quang FM
-https://live.tuyenquangtv.vn/hls/radio.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/231.png",Hà Giang FM
-http://118.107.68.10:1935/radio/HaGiang.stream/chunklist_w1023141457.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 1
-rtmp://123.29.68.44/hctv/vsrd001
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo=" ",Quảng Ninh FM 2
-rtmp://123.29.68.44/hctv/vsrd004
-#EXTINF:-1  group-title="SỰ KIỆN" tvg-logo="https://rsstv.gviet.vn/sctv/157/757/1567569912696.png",Hội tụ
-http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Thừa Thiên - Huế FM
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TTHFM - Phát thanh Thừa Thiên - Huế
 rtmp://118.69.176.149:1936/live/radio
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận
-rtmp://203.113.166.233/live/NTV_VIDEO
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/851.png",Ninh Thuận FM
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/851.png",NTFM - Phát thanh Ninh Thuận
 rtmp://203.113.166.233/live//NTV_AUDIO
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận FM
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",BTFM - Phát thanh Bình Thuận
 http://202.43.109.142:1935/thbtradio/btradio/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",BTV6 - Quê hương HomeShopping
 http://42.115.218.181:6606/udp/225.1.1.90:30120
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/481.png",Đắk Nông
-https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/live/dak_nong_360p/index.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",Bình Phước FM 89.4
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",BPFM 89.4 - Phát thanh Bình Phước
 http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",Tây Ninh FM
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",TNFM - Phát thanh Tây Ninh
 http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945046409.png",Sóc Trăng FM 100.4
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945046409.png",STFM 100.4 - Phát thanh Sóc Trăng
 rtmp://115.78.3.164:1936/live/FMsoctrang
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/691.png",Cà Mau FM
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG (RADIO MIỄN PHÍ)" tvg-logo="https://mytv.com.vn/upload/channel/691.png",CMFM - Phát thanh Cà Mau
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/e0b8ec361b997db4c89eee8baa497fb9.png",港台電視31 1080
 http://205.215.28.171:9981/stream/channelid/1061434376
@@ -645,22 +663,8 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_entertainment_yellow_tc_2.png",澳門綜藝
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
-http://p06.iptv2asia.com:18888/http/012
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD （來源： 四李線上）
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD
-http://p06.iptv2asia.com:18888/http/014
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/316.png?rand=150",民視第一台 HD （來源： 四李線上）
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD
-http://p06.iptv2asia.com:18888/http/013
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png",民視台灣台 HD （來源： 四李線上）
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png",民視新聞台 （來源： 中華電信桃園）
 http://p06.iptv2asia.com:18888/http/015
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1  group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1  group-title="影音直播" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png",民視綜藝台
@@ -739,8 +743,7 @@ http://220.85.148.178:9981/stream/channelid/102
 http://221.146.83.223:9981/stream/channelid/101
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",KBS2 2M1080
 http://59.28.86.246:9981/stream/channelid/96
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://www.kbsn.co.kr/images/ch_w.png",KBSW 1080
-http://220.85.148.178:9981/stream/channelid/1
+
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",KBSN Sports 1080
 http://220.85.148.178:9981/stream/channelid/5
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",SBS 1080
@@ -831,12 +834,6 @@ http://220.85.148.178:9981/stream/channelid/73
 http://221.146.83.223:9981/stream/channelid/26
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",JTBC 2M1080
 http://59.28.86.246:9981/stream/channelid/20
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 1080
-http://220.85.148.178:9981/stream/channelid/2
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 1M1080
-http://221.146.83.223:9981/stream/channelid/66
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",JTBC2 2M1080
-http://59.28.86.246:9981/stream/channelid/51
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4 1080
 http://220.85.148.178:9981/stream/channelid/40
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",JTBC4 1M1080
@@ -847,8 +844,6 @@ http://220.85.148.178:9981/stream/channelid/86
 http://221.146.83.223:9981/stream/channelid/82
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Olive 2M1080
 http://59.28.86.246:9981/stream/channelid/37
-#EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",On Style 1080
-http://59.28.86.246:9981/stream/channelid/53
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png",中华TV 1080
 http://220.85.148.178:9981/stream/channelid/25
 #EXTINF:-1 group-title="DLive Hanoi" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/102.png",Channel China 1080
