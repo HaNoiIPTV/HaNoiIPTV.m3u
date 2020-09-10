@@ -1466,6 +1466,8 @@ http://221.179.217.70/PLTV/88888888/224/3221225768/www-dszbdq-cn-3.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （北方广电）
 http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （南京移动）
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （安徽广电）
 http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000216.m3u8&ts=50&auth=no
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 （东南频宽）
@@ -2178,17 +2180,17 @@ http://cctvalih5ca.v.myalicdn.com/wstv/jiangxi_2/index.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （杭州联通）
 http://101.71.255.229:6610/zjhs/2/10097/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （宜春移动）
 http://117.169.120.160:8080/live/hdjiangxistv/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （广州联通）
 http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=40&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=40&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （七台河移动）
 http://39.134.65.162/PLTV/88888888/224/3221225512/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （湖南
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （湖南有线）
 http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000238.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
 http://117.156.28.21/PLTV/88888888/224/3221225605/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXTV1/JXTV1.jpg?1",江西卫视高清 （陕西移动）
 http://111.20.45.155/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225564/1.m3u8
 #EXTINF:-1 group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GDTV1/GDTV1.jpg?1",广东卫视
 http://220.158.149.28:8180/live/TV00000000000000000022@HHZT
@@ -2230,20 +2232,22 @@ https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清 （福州移动）
 rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://hdtv.lzu6.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
 http://stream1.jlntv.cn/jlws/sd/live.m3u8
-http://pix1.tvzhe.com/images/logo/channel/JILIN1/JILIN1.jpg?1",吉林卫视 （成都电信）
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视 （兰州大学）
+http://hdtv.lzu6.edu.cn/hls/jltv.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JILIN1/JILIN1.jpg?1",吉林卫视 （成都电信）
 http://182.138.51.79/PLTV/88888920/224/3221225599/index.m3u8
-#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清
-http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清
+http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （大学线路）
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （杭州联通）
 http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （福州移动）
 rtsp://183.252.166.199/PLTV/88888888/224/3221226792/48616745.smil
+#EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （兰州大学）
+http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清　（易视腾成都移动）
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8
 #EXTINF:-1 group-title="延边发表" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YANBIAN1/YANBIAN1.jpg?1",延边卫视高清
