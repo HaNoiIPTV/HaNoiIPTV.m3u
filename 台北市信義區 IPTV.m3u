@@ -17,9 +17,13 @@ http://116.49.135.177:9981/stream/channelid/142893056
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
-https://cdn.hkdtmb.com/82a/playlist.m3u8
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
 http://61.238.6.49:8001/bysid/2
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png",無綫新聞台
+http://livetv.dnsfor.me:80/channel.10.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png",無綫財經資訊台
+http://livetv.dnsfor.me:80/channel.11.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
@@ -130,3 +134,11 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png",民視旅遊台
 http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1  group-title="越南電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="越南電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3_HD_logo.png",VTV3 HD
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="越南電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4_HD.png",VTV4 HD
+https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="越南電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6_HD-0.png",VTV6 HD
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
