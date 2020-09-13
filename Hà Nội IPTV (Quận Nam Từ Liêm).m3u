@@ -273,8 +273,8 @@ http://118.107.68.17:1935/VTC/smil:SonllaTV.smil/chunklist.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",TN1 - Truyền hình Thái Nguyên HD
 http://thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN2_HD_Thai_Nguyen.png",TN2 HD
-http://14.178.153.143:9876/rtp/232.84.2.70:9168
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN2_HD_Thai_Nguyen.png",TN2 - Truyền hình Thái Nguyên HD
+http://14.178.153.143:9876/rtp/232.84.3.123:9168
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_HD_Hai_Duong.png",HDTV - Truyền hình Hải Dương HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",THP - Truyền hình Hải Phòng HD
@@ -339,14 +339,14 @@ https://livecdn-htv.vieon.vn/hls/74549de4e36cb99260b7009ba1f83bf1/1587549237339/
 https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/613.png",BTV1 - Truyền hình Bình Dương HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 - Truyền hình Bình Dương HDHD
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="BTV" tvg-logo=" ",BTV6
-https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3_Binh_Duong.webp",BTV3 HD
-http://1.52.231.202:13579/udp/225.1.1.31:30120
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3_Binh_Duong.webp",BTV3 - Truyền hình Bình Dương HD
+http://42.112.249.63:13579/udp/225.1.1.31:30120
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/615.png",BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="BTV" tvg-logo=" ",BTV6
+https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/250px-BPTV1.png",BPTV1 - Truyền hình Bình Phước HD
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png",TTV11 - Truyền hình Tây Ninh HD
