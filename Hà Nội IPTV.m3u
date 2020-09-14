@@ -5137,26 +5137,54 @@ http://hncn.chinashadt.com:1936/live/3.stream/chunklist_w1084697666.m3u8
 http://hncn.chinashadt.com:1936/live/4.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",信号中断
 http://hncn.chinashadt.com:1936/live/1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",衡山综合频道
+http://hls.dszbdq.cn/hny.php?id=92
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",耒阳电视台
+http://hls.dszbdq.cn/hny.php?id=107
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",衡东电视台
+http://hls.dszbdq.cn/hny.php?id=122
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNCZTV1/HNCZTV1.jpg?1",郴州新闻综合频道
-http://sk.live.otvcloud.com/otv/skcc/live/channel43067/1300.m3u8
+http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000267.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNCZTV1/HNCZTV1.jpg?1",郴州新闻综合高清
+https://32130.hlsplay.aodianyun.com/tv_radio_32130/tv_channel_680.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNCZTV2/HNCZTV2.jpg?1",郴州公共频道高清
+http://58.51.151.2/tv_radio_32130/tv_channel_679__redirect__32130.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pic.rmb.bdstatic.com/2eefef800ff7e8008330640e46999e37.png@c_1,w_200,h_200,x_0,y_0",永兴电视台
+http://hls.dszbdq.cn/hny.php?id=65
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.tvyan.com/uploads/dianshi/lingwuxian.jpg",临武综合频道
+http://hls.dszbdq.cn/hny.php?id=85
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",桂阳电视台
+http://hls.dszbdq.cn/hny.php?id=128
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNXTTV1/HNXTTV1.jpg?1",湘潭新闻综合高清
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNXTTV2/HNXTTV2.jpg?1",湘潭公共频道
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",湘乡电视台
+http://hls.dszbdq.cn/hny.php?id=113
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",湘乡新闻资讯频道
+http://hls.dszbdq.cn/hny.php?id=146
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNZZTV1/HNZZTV1.jpg?1",株洲新闻综合频道
 http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000270.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNZZTV2/HNZZTV2.jpg?1",株洲公共法制频道
 http://47.97.96.69:1935/live/ZZFaZhiMinSheng/chunklist_w472212113.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNCDTV1/HNCDTV1.jpg?1",常德新闻综合频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43071/1300.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://file.tvsou.com/f/0bab3d6a419b",鼎城电视台
+http://hls.dszbdq.cn/hny.php?id=90
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",安乡新闻综合频道
+http://hls.dszbdq.cn/hny.php?id=125
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YYRTVXW/YYRTVXW.jpg?1",益阳新闻综合频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43088/1300.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YYGG/YYGG.jpg?1",益阳公共频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43090/1300.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YYRTVJYZF/YYRTVJYZF.jpg?1",益阳教育频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43089/1300.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",沅江电视台
+http://hls.dszbdq.cn/hny.php?id=102
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HBYYTV1/HBYYTV1.jpg?1",岳阳新闻综合频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43075/1300.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",汨罗新闻综合频道
+http://hls.dszbdq.cn/hny.php?id=118
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",怀化新闻综合频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43074/1300.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJJTV1/ZJJTV1.jpg?0",张家界新闻综合频道
@@ -5165,8 +5193,14 @@ http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000271.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZJJTV2/ZJJTV2.jpg?0",张家界公共频道
 http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",桑植电视台
+http://hls.dszbdq.cn/hny.php?id=195
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LDTV1/LDTV1.jpg?1",娄底综合频道高清
 rtmp://mms.ldntv.cn/live/zonghe
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",冷水江新闻综合频道
+http://hls.dszbdq.cn/hny.php?id=111
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",新化电视台
+http://hls.dszbdq.cn/hny.php?id=112
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",双峰电视台
 http://hnsf.chinashadt.com:2036/zhuanma/tv1.stream_360p/chunklist_w1675434474.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",双峰未知一频道
@@ -5179,8 +5213,12 @@ http://58.51.151.2/tv_radio_36514/tv_channel_1381__redirect__36514.m3u8
 http://hnlsx.chinashadt.com:2037/tuiliu/tv1.stream/chunklist_w907203644.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",永州新闻综合频道
 http://sk.live.otvcloud.com/otv/skcc/live/channel43068/1300.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanshantai.jpg",蓝山电视台
+http://hls.dszbdq.cn/hny.php?id=83
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SHAOYANGXW/SHAOYANGXW.jpg?1",邵阳新闻综合频道
 http://httpdvb.slave.homed.hunancatv.com:13164/playurl?playtype=live&protocol=hls&accesstoken=R5DEE27D0U309B3089K7735A23DIC56EFF0APBM2FFCD29V0Z69015W15DEAE8ECE8A23EB&playtoken=ABCDEFGH&programid=4200000269.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",新邵新闻综合频道
+http://hls.dszbdq.cn/hny.php?id=133
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/QHTV2/QHTV2.jpg?1",青海生活频道
 http://144.48.240.144:2019/SunTv.php?name=QingHaiLife
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",海南州电视台高清
