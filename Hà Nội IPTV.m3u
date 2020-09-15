@@ -4022,6 +4022,14 @@ http://stream.wifizs.cn/shpd_sd/live.m3u8
 http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZSPTTV1/ZSPTTV1_140x140.png",普陀新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",温岭综合频道
+http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",温岭民生频道
+http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",玉环综合频道高清
+http://liveyuhuan.chinamcache.com/yuhuan/zb01.m3u8?auth_key=1609321370-0-0-521fcb0e45dbecb319ce9f53712efd45
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",玉环生活频道高清
+http://liveyuhuan.chinamcache.com/yuhuan/zb02.m3u8?auth_key=1609321443-0-0-9552bc32d9a9076fca3cbe14f03be82b
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LSXW/LSXW.jpg?1",丽水新闻综合高清
 http://video.lsol.com.cn/lszh-hd/header.f4v
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/LSGG/LSGG.jpg?1",丽水公共频道高清
