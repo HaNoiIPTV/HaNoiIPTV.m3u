@@ -1,4 +1,6 @@
 ﻿#EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
+
+
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
@@ -176,8 +178,8 @@ https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/723/1567221323112.png",VOV - Vietnam Journey HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B_HD.webp",THP+ HD
-https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",Truyền hình Hải Phòng HD
+http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist_w775945620_b864000_slVIE.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",THP - Truyền hình Hải Phòng HD
 https://live.thhp.vn:8443/hls/thp/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV1_%25282016-present%2529.png",Truyền hình Hà Nội 1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
