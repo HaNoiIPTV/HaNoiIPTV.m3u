@@ -387,7 +387,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 http://14.178.153.143:9876/rtp/232.84.1.55:8310
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945347544.png",VP - Truyền hình Vĩnh Phúc
 https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV_Cao_B%253Fng.png",CRTV - Truyền hình Cao Bằng HD (Thử nghiệm)
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%253Fng_Y%253Fn_HD.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
@@ -686,11 +686,11 @@ http://f.ok2.se:80/noah01/noah01/1754
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4033.png",Sky Cinema Hits HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160777
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1199.png",Sky Cinema Animation HD
-
+http://epicv3.net:80/DEagT6di1g/LdQsoGybnl/30547
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png",Sky Cinema Sci-fi & Horror HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160784
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4020.png",Sky Cinema Musicals HD
-
+http://epicv3.net:80/DEagT6di1g/LdQsoGybnl/30550
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4021.png",Sky Cinema Premiere HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160782
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4015.png",Sky Cinema Greats HD
@@ -736,13 +736,13 @@ http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160856
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/BBC_One_2006.svg/revision/latest/scale-to-width-down/300?cb=20130401232330",BBC One HD
 http://81.103.190.61:9981/stream/channelid/808366658
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/BBC_Two_unboxing.svg/revision/latest/scale-to-width-down/200?cb=20181002144943",BBC Two HD
-http://81.103.190.61:9981/stream/channelid/808366658
+http://81.103.190.61:9981/stream/channelid/960246773
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/91aa3d6abbdf17df9733dfe125befbb2.png",BBC Three HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160386
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/BBC_Four.svg/revision/latest/scale-to-width-down/200?cb=20171130190003",BBC Four HD
 http://ingrid.ltd:25461/Yesenia01/Yesenia01/3447
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/BBC_News_2019.svg/revision/latest/scale-to-width-down/200?cb=20190703222708",BBC News HD
-http://ingrid.ltd:25461/Yesenia01/Yesenia01/39723
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160399
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/BBC_Parliament_2016.svg/revision/latest/scale-to-width-down/300?cb=20161025002656",BBC Parliament HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160401
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Box_hits.svg/revision/latest/scale-to-width-down/300?cb=20160530090531",Box Hits HD
@@ -778,7 +778,7 @@ http://ingrid.ltd:25461/Yesenia01/Yesenia01/3452
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/BoxNation2.png/revision/latest/scale-to-width-down/200?cb=20150705003828",Box Nation HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160419
 #EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Channel_4_2015.svg/revision/latest/scale-to-width-down/128?cb=20181107235925",Channel 4 HD
-http://81.103.190.61:9981/stream/channelid/1616598435
+http://81.103.190.61:9981/stream/channelid/1450961615
 #EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/E4_2018.svg/revision/latest/scale-to-width-down/150?cb=20180927102528",E4 HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160544
 #EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/Film4_2018.svg/revision/latest/scale-to-width-down/200?cb=20180927102710",Film 4 HD
@@ -874,9 +874,9 @@ http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/199663
 #EXTINF:-1  group-title="CBS (Thử nghiệm)" tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png",CBS Action HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160472
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://www.mylifetime.com/assets/images/lifetime/logo-white.svg",LifeTime HD
-http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12014
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160638
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/UTV_2019.svg/revision/latest/scale-to-width-down/185?cb=20190104010933",UTV HD
-http://ingrid.ltd:25461/Yesenia01/Yesenia01/42368
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160917
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg/revision/latest/scale-to-width-down/200?cb=20180527191914",Zee HD
 http://ingrid.ltd:25461/Yesenia01/Yesenia01/3182
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Sky_Arte_HD.png/revision/latest?cb=20151101183228",Sky Arte HD
