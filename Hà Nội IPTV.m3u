@@ -392,7 +392,7 @@ http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%253Fng_Y%253Fn_HD.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_HD_Hai_Duong.png",HDTV - Truyền hình Hải Dương HD
-http://118.107.85.13:1935/tvnet/smil:hdtv.smil/chunklist_w456880922_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNDEwNjc2JnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA0OTcwNzYmdnRjZGlnaWNvbWhhc2g9MXItLXlpZlo1SURXTUZqOU9IQU5QUFluN3FjWGxwZlQ4YlI4TjhYOU9MUT0=.m3u8
+http://118.107.85.32:1935/tvnet/smil:hdtv.smil/chunklist_w356885931_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNTk3NDU4JnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA2ODM4NTgmdnRjZGlnaWNvbWhhc2g9MW1KTlZobVUyakV2SEtDZ1ZJb1hOdGlMa2tFUENabDFpemtTekFheFFWVT0=.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/100px-Logo_TBTV_Th%C3%A1i_B%C3%ACnh_HD_2017.png",TBTV - Truyền hình Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_HD_Ninh_Binh.png",NBTV - Truyền hình Ninh Bình HD
@@ -414,7 +414,7 @@ http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",QBTV - Truyền hình Quảng Bình HD
-http://118.107.85.11:1935/tvnet/smil:qbtv.smil/chunklist_w753921903_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNDEwODM0JnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA0OTcyMzQmdnRjZGlnaWNvbWhhc2g9RTdOTHJUa0V5YVhfWnJWR29sLS1tT080MWU4cE9DVWFuRDZrU25ZY1RZTT0=.m3u8
+http://118.107.85.32:1935/tvnet/smil:qbtv.smil/chunklist_w588428535_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNTk3NzMzJnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA2ODQxMzMmdnRjZGlnaWNvbWhhc2g9OXFwVXdYdzdUN0pYMVF3elBCUlYtR1hyV2FiSGdLVEJqNlZGdlA3alpDdz0=.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên - Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng HD
