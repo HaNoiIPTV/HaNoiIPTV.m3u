@@ -392,7 +392,7 @@ http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%253Fng_Y%253Fn_HD.png",HYTV - Truyền hình Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_HD_Hai_Duong.png",HDTV - Truyền hình Hải Dương HD
-http://118.107.85.32:1935/tvnet/smil:hdtv.smil/chunklist_w356885931_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNTk3NDU4JnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA2ODM4NTgmdnRjZGlnaWNvbWhhc2g9MW1KTlZobVUyakV2SEtDZ1ZJb1hOdGlMa2tFUENabDFpemtTekFheFFWVT0=.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/100px-Logo_TBTV_Th%C3%A1i_B%C3%ACnh_HD_2017.png",TBTV - Truyền hình Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_HD_Ninh_Binh.png",NBTV - Truyền hình Ninh Bình HD
@@ -404,9 +404,9 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",TN1 - Truyền hình Thái Nguyên HD
 http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1_HD.png",QTV1 - Truyền hình Quảng Ninh 1 HD
-https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3_HD.png",QTV3 - Truyền hình Quảng Ninh 3 HD
-http://117.7.238.178:8081/hls/qtv3/index.m3u8
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo-footer_0.png?itok=gA_XQHHR",PTV - Truyền hình Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_TTV_HD.png",TTV - Truyền hình Thanh Hóa HD
@@ -414,12 +414,12 @@ http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",QBTV - Truyền hình Quảng Bình HD
-http://118.107.85.32:1935/tvnet/smil:qbtv.smil/chunklist_w588428535_b1000000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNjAwNTk3NzMzJnZ0Y2RpZ2ljb21lbmR0aW1lPTE2MDA2ODQxMzMmdnRjZGlnaWNvbWhhc2g9OXFwVXdYdzdUN0pYMVF3elBCUlYtR1hyV2FiSGdLVEJqNlZGdlA3alpDdz0=.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên - Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_2_HD_%25282019-present%2529.png",Đà Nẵng TV 2 - Truyền hình Đà Nẵng HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_2_HD_%25282019-present%2529.png",Đà Nẵng TV 2 - Truyền hình Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",KTV - Truyền hình Khánh Hòa HD
 http://210.245.20.94/hls/ktv1.m3u8
@@ -433,13 +433,13 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="BTV" tvg-logo=" ",BTV6 - Dành cho giới trẻ
 https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/250px-BPTV1.png",BPTV1 - Truyền hình Bình Phước HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/250px-BPTV1.png",BPTV1 - Truyền hình Bình Phước 1 HD
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png",TTV11 - Truyền hình Tây Ninh HD
 http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN1-RTV_HD.png",ĐNRTV1 - Truyền hình Đồng Nai HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN1-RTV_HD.png",ĐNRTV1 - Truyền hình Đồng Nai 1 HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN2-RTV_HD.png",ĐNRTV2 - Truyền hình Đồng Nai HD
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN2-RTV_HD.png",ĐNRTV2 - Truyền hình Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://skyshoptv.vn/image/catalog/logo.png",ĐNRTV9 - Sky Shop TV
 http://14.178.153.143:9876/rtp/232.84.3.135:10476
@@ -2975,35 +2975,21 @@ http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226641/1
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",中国交通频道
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV2/TJTV2.jpg?1",天津新闻频道
-http://live4.wisetv.com.cn/hls/TJXW_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津新闻频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv1
+http://hls.dszbdq.cn/tjtv.php?id=TJXW
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV3/TJTV3.jpg?1",天津文艺频道
-http://live4.wisetv.com.cn/hls/TJWY_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津文艺频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv2
+http://hls.dszbdq.cn/tjtv.php?id=TJWY
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV4/TJTV4.jpg?1",天津影视频道
-http://live4.wisetv.com.cn/hls/TJYS_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津影视频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv3
+http://hls.dszbdq.cn/tjtv.php?id=TJYS
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV5/TJTV5.jpg?1",天津都市频道
-http://live4.wisetv.com.cn/hls/TJDS_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津都市频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv4
+http://hls.dszbdq.cn/tjtv.php?id=TJDS
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV6/TJTV6.jpg?1",天津体育频道
-http://live4.wisetv.com.cn/hls/TJTY_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津体育频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv5
+http://hls.dszbdq.cn/tjtv.php?id=TJDS
 #EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV7/TJTV7.jpg?1",天津科教频道
-http://live4.wisetv.com.cn/hls/TJKJ_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津科教频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv6
-#EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV8/TJTV8.jpg?1",天津少儿频道
-http://live4.wisetv.com.cn/hls/TJSE_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津少儿频道
-http://player.200877926.top/18/tv.php?tv=tjyx&id=tjtv7
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV9/TJTV9.jpg?1",天津购物频道
-http://live4.wisetv.com.cn/hls/TJSJ_hd/index.m3u8?k=TJIPTV&clientip=1.55.94.130
+http://hls.dszbdq.cn/tjtv.php?id=TJKJ
+#EXTINF:-1 group-title="万视达" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津少儿频道
+http://hls.dszbdq.cn/tjtv.php?id=TJSE
+#EXTINF:-1 group-title="万视达" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/TJTV9/TJTV9.jpg?1",天津购物频道
+http://hls.dszbdq.cn/tjtv.php?id=TJKJ
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",蓟州电视台
 http://402173207.cloudvdn.com/a.m3u8?domain=pili-live-rtmp.181.i2863.com&player=4TYAAPipAQcpeBoW&secondToken=secondToken%3ADWqP-BWNuIaR8PFaOhdCzdtfp4A&streamid=i2863-181%3Ai2863-181%2Fdspdzb1&v3=1
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NINGHE1/NINGHE1.jpg?1",宁河新闻频道
