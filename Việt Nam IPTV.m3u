@@ -30,6 +30,8 @@ http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist_w775945620_b86400
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo-footer_0.png?itok=gA_XQHHR",PTV - Truyền hình Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/251.png",LTV - Truyền hình Lai Châu
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u%20SD.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV1_%25282016-present%2529.png",Truyền hình Hà Nội 1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV2_%25282016-present%2529.png",Truyền hình Hà Nội 2 HD
