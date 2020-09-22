@@ -404,7 +404,7 @@ http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",LSTV - Truyền hình Lạng Sơn HD
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",TN1 - Truyền hình Thái Nguyên HD
-http://thainguyentv.vn/hls/livestream.m3u8
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1_HD.png",QTV1 - Truyền hình Quảng Ninh 1 HD
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3_HD.png",QTV3 - Truyền hình Quảng Ninh 3 HD
@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên - Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_2_HD_%25282019-present%2529.png",Đà Nẵng TV 2 - Truyền hình Đà Nẵng 2 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",KTV - Truyền hình Khánh Hòa HD
