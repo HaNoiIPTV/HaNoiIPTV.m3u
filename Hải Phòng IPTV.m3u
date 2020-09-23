@@ -86,8 +86,12 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ - Truyền hình Hải Phòng HD (Dành cho VTVCab)
 http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist_w775945620_b864000_slVIE.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",RHP - Phát thanh Hải Phòng (FM 93.7)
+https://live.thhp.vn:8443/radio/937/index.m3u8
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",RHP - Phát thanh Hải Phòng (FM 93.7 dành cho VTC)
 http://118.107.68.17:1935/VTC/PTHP/chunklist.m3u8
 #EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",RHP - Phát thanh Hải Phòng (FM 102.2)
+https://live.thhp.vn/radio/102/index.m3u8
+#EXTINF:-1 group-title="Đài Phát thanh và Truyền hình Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565945199842.png",RHP - Phát thanh Hải Phòng (FM 102.2 dành cho VTC)
 http://118.107.68.17:1935/VTC/FFHP/chunklist.m3u8
 
 #EXTINF:-1 group-title="Kênh giáp ranh thành phố Hải Phòng" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944958841.png",HDTV - Truyền hình Hải Dương HD
