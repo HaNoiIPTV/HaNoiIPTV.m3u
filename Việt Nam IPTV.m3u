@@ -80,8 +80,16 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-S
 https://5a6872aace0ce.streamlock.net/nghevovgthn/vovgthn.stream_aac/chunklist.m3u8
 #EXTINF:-1  group-title="HTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/H1_M.png",HTV1
 https://livecdn.fptplay.net/sdb/htv1_2000.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
+http://gg.gg/VieGiaiTri
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD
+http://gg.gg/VieDrama
+#EXTINF:-1  group-title="VTVCab" tvg-logo="https://mytv.com.vn/upload/channel/8.png",VTVCab11 - VGS SHOP
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/692541-VTC3HD.png",VTC3 HD
+https://livecdn.fptplay.net/hda/vtc3hd_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",ĐRT - Truyền hình Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/481.png",PTD - Truyền hình Đắk Nông
