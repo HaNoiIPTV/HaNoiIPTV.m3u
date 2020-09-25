@@ -278,7 +278,7 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/241.png",THLC - Truyền hình Lào Cai
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/261.png",STV - Truyền hình Sơn La HD
-http://118.107.68.17:1935/VTC/smil:SonllaTV.smil/chunklist.m3u8
+http://203.171.21.216:1935/live/smil:STV.smil/chunklist_w911964166_b600000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/211.png",YTV - Truyền hình Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",TN1 - Truyền hình Thái Nguyên HD
@@ -320,7 +320,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png",QRT - Truyền hình Quảng Nam HD
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QRTV - Truyền hình Quảng Trị HD
-http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist.m3u8
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://quangngaitv.vn/images/no_pic.png",PTQ - Truyền hình Quảng Ngãi HD
 https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên - Huế
