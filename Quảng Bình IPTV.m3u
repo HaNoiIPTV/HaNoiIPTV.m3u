@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Quảng Bình" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="Kênh giáp ranh tỉnh Quảng Bình" tvg-logo="https://mytv.com.vn/upload/channel/741.png",QRTV - Truyền hình Quảng Trị HD
-http://118.107.68.17:1935/VTC/smil:QuangtriTV.smil/chunklist.m3u8
+http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243851127.png",THP+ - Truyền hình Hải Phòng HD
 http://118.107.68.17:1935/VTC/smil:Haiphongplus.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Các kênh khác đang phát sóng trên đầu thu DVB-T2" tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",TBTV - Truyền hình Thái Bình HD
