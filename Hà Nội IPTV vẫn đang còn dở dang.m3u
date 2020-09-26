@@ -1,6 +1,4 @@
 ﻿#EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
-
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
@@ -420,7 +418,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://phuthotv.vn/sites/default/files/styles/quang_cao/public/file_anhquangcao/logo-footer_0.png?itok=gA_XQHHR",PTV - Truyền hình Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_TTV_HD.png",TTV - Truyền hình Thanh Hóa HD
-https://10685685c.vws.vegacdn.vn/f8842882a9f6b0a7b3a92afe568f2c10242ede68/1601139273/cliptv_live/amlst:thanhhoasd/chunklist_b1628000.m3u8
+http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",QBTV - Truyền hình Quảng Bình HD
