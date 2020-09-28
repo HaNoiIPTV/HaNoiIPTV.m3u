@@ -162,7 +162,7 @@ https://livecdn.fptplay.net/sdb/htvcthethao_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948222751.png",THGL - Truyền hình Gia Lai HD
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png",KRT - Truyền hình Kon Tum HD
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+http://117.2.88.22/tv/kontumtv.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_STV1_HD.png",STV1 - Truyền hình Sóc Trăng HD
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV_HD.png",THTV - Truyền hình Trà Vinh HD
