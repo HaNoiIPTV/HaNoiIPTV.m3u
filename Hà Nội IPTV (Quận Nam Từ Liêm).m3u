@@ -98,13 +98,13 @@ http://211.178.72.29:9981/stream/channelid/96115939
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 - Kênh thông tin tình hình Covid-19 Hà Nội HD
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpoFg1VQ_5d7659f638821.png",K+1 HD
-https://kplus-livecdn.fptplay.net/drmlive/kplus1_720p.stream/playlist.m3u8
+http://42.115.218.195:6606/udp/225.1.1.5:30120
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpO3oCDF_5d765a11e9783.png",K+NS HD
-https://kplus-livecdn.fptplay.net/drmlive/kns_720p.stream/playlist.m3u8
+http://42.115.218.195:6606/udp/225.1.1.6:30120
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM HD
-https://kplus-livecdn.fptplay.net/drmlive/kpm_720p.stream/playlist.m3u8
+http://42.115.218.195:6606/udp/225.1.1.73:30120
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png",K+PC HD
-https://kplus-livecdn.fptplay.net/drmlive/kpc_720p.stream/playlist.m3u8
+http://42.115.218.195:6606/udp/225.1.1.77:30120
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",Fox Family Movies HD
@@ -275,7 +275,7 @@ http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://fboximages.fptplay.net.vn/Channel/iconChannel/tuyenquang_vdsl.png",TTV - Truyền hình Tuyên Quang HD
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
-#EXTINF:-1  group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://mytv.com.vn/upload/channel/241.png",THLC - Truyền hình Lào Cai
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/241.png",THLC - Truyền hình Lào Cai HD
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/261.png",STV - Truyền hình Sơn La HD
 http://203.171.21.216:1935/live/smil:STV.smil/chunklist_w911964166_b600000.m3u8
@@ -352,7 +352,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUON
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/612.png",BTV2 - Truyền hình Bình Dương HD
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3_Binh_Duong.webp",BTV3 - Truyền hình Bình Dương HD
-http://42.112.249.63:13579/udp/225.1.1.31:30120
+http://42.115.218.195:6606/udp/225.1.2.22:30120
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://mytv.com.vn/upload/channel/615.png",BTV4 - iMovie HD
 https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="BTV" tvg-logo=" ",BTV6
