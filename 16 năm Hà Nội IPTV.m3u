@@ -913,6 +913,18 @@ http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/50
 http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/52
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702163550",Sky Cinema Comedy HD
 http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/51
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
+http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.iyingshi6.tv/Uploads/tv/2017-07-30/0f98572683edf08c52cc32de494b1fd0.png",鳳凰衛視資訊台 HD
+http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 HD
+http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 HD
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道 HD
+http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 HD
+http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/e0b8ec361b997db4c89eee8baa497fb9.png",港台電視31
 http://205.215.28.171:9981/stream/channelid/1061434376
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg/revision/latest/scale-to-width-down/260?cb=20200511233655",港台電視33
@@ -936,109 +948,109 @@ http://61.238.6.49:8000/bysid/96
 #EXTINF:-1  tvg-id="台灣的眼睛" group-title="港澳台電視直播頻道" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
-http://520574.xyz/dl/htv.php?id=7
+http://tangyuanya.pw/dl/htv.php?id=7
 #EXTINF:-1  tvg-id="CTV 中視" group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視 HD
-http://520574.xyz/dl/htv.php?id=9
+http://tangyuanya.pw/dl/htv.php?id=9
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/009.png?rand=791",大愛一台 HD
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/012.png?rand=974",華視 HD
-http://520574.xyz/dl/htv.php?id=11
+http://tangyuanya.pw/dl/htv.php?id=11
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.discoverychannel.com.tw/images/logo/channel/animal.png",animal planet 動物星球頻道 HD
-http://520574.xyz/dl/htv.php?id=12
+http://tangyuanya.pw/dl/htv.php?id=12
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/016.png?rand=124",公視 HD
-http://520574.xyz/dl/htv.php?id=13
+http://tangyuanya.pw/dl/htv.php?id=13
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/015.png?rand=529",Good TV 綜合台
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/016.png?rand=177",原住民頻道 HD
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tlc-tw.com/images/logo.png",TLC 旅遊生活頻道 HD
-http://520574.xyz/dl/htv.php?id=21
+http://tangyuanya.pw/dl/htv.php?id=21
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live205_mobile.png",CN 卡通頻道 HD
-http://520574.xyz/dl/htv.php?id=22
+http://tangyuanya.pw/dl/htv.php?id=22
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch22.png",Disney Channel 迪士尼卡通 HD
-http://520574.xyz/dl/htv.php?id=23
+http://tangyuanya.pw/dl/htv.php?id=23
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv107_mobile.png",Momo 親子台 HD
-http://520574.xyz/dl/htv.php?id=24
+http://tangyuanya.pw/dl/htv.php?id=24
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch25.png",東森幼幼台 HD
-http://520574.xyz/dl/htv.php?id=25
+http://tangyuanya.pw/dl/htv.php?id=25
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://ontv.videoland.com.tw/images/topontv_logo.png",緯來綜合台 HD
-http://520574.xyz/dl/htv.php?id=26
+http://tangyuanya.pw/dl/htv.php?id=26
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.cns.net.tw/web/upload/20181101112248ZrJAQ86.png",八大第一台 HD
-http://520574.xyz/dl/htv.php?id=27
+http://tangyuanya.pw/dl/htv.php?id=27
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch28.png",八大綜合台 HD
-http://520574.xyz/dl/htv.php?id=28
+http://tangyuanya.pw/dl/htv.php?id=28
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立台灣台 HD
-http://520574.xyz/dl/htv.php?id=29
+http://tangyuanya.pw/dl/htv.php?id=29
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都會台 HD
-http://520574.xyz/dl/htv.php?id=30
+http://tangyuanya.pw/dl/htv.php?id=30
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.cns.net.tw/web/upload/20161229114125LaJgyTM.png",衛視中文台 HD
-http://520574.xyz/dl/htv.php?id=31
+http://tangyuanya.pw/dl/htv.php?id=31
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch32.png",東森綜合台 HD
-http://520574.xyz/dl/htv.php?id=32
+http://tangyuanya.pw/dl/htv.php?id=32
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch34.png",東森超視 HD
-http://520574.xyz/dl/htv.php?id=33
+http://tangyuanya.pw/dl/htv.php?id=33
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv103_pc.png",東森購物2台 HD
-http://520574.xyz/dl/htv.php?id=34
+http://tangyuanya.pw/dl/htv.php?id=34
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/348.png?rand=330",Momo 2台
-http://520574.xyz/dl/htv.php?id=35
+http://tangyuanya.pw/dl/htv.php?id=35
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv033_mobile.png",中天綜合台 HD
-http://520574.xyz/dl/htv.php?id=36
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch37.png",東風衛視
-http://520574.xyz/dl/htv.php?id=37
+http://tangyuanya.pw/dl/htv.php?id=36
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch37.png",東風衛視 HD
+http://tangyuanya.pw/dl/htv.php?id=37
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.eracom.com.tw/t/icon/201903/20190322143132ORTH.png",年代MUCH台 HD
-http://520574.xyz/dl/htv.php?id=38
+http://tangyuanya.pw/dl/htv.php?id=38
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch40.png",東森戲劇台 HD
-http://520574.xyz/dl/htv.php?id=40
+http://tangyuanya.pw/dl/htv.php?id=40
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch108.png",八大戲劇台 HD
-http://520574.xyz/dl/htv.php?id=41
+http://tangyuanya.pw/dl/htv.php?id=41
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png",TVBS 歡樂台 HD
-http://520574.xyz/dl/htv.php?id=42
+http://tangyuanya.pw/dl/htv.php?id=42
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://drama.vl.com.tw/images/Drama-LOGO-2.png",緯來戲劇台 HD
-http://520574.xyz/dl/htv.php?id=43
+http://tangyuanya.pw/dl/htv.php?id=43
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.cns.net.tw/web/upload/20160912163340cUkpMt6.jpg",高點綜合台 HD
-http://520574.xyz/dl/htv.php?id=44
+http://tangyuanya.pw/dl/htv.php?id=44
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch45.png",JET 綜合台 HD
-http://520574.xyz/dl/htv.php?id=45
+http://tangyuanya.pw/dl/htv.php?id=45
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel43_pc_20200423.png",東森購物3台 HD
-http://520574.xyz/dl/htv.php?id=46
+http://tangyuanya.pw/dl/htv.php?id=46
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv102_pc.png",東森購物1台 HD
-http://520574.xyz/dl/htv.php?id=47
+http://tangyuanya.pw/dl/htv.php?id=47
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/398.png?rand=461",Momo 購物1台 HD
-http://520574.xyz/dl/htv.php?id=48
+http://tangyuanya.pw/dl/htv.php?id=48
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/506.png?rand=775",壹電視新聞台 HD
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch50.png",年代新聞台 HD
-http://520574.xyz/dl/htv.php?id=50
+http://tangyuanya.pw/dl/htv.php?id=50
 #EXTINF:-1  tvg-id="EBC 東森新聞" group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv152_pc.png",東森新聞台 HD
-http://520574.xyz/dl/htv.php?id=51
+http://tangyuanya.pw/dl/htv.php?id=51
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv009_pc.png",中天新聞台 HD
-http://520574.xyz/dl/htv.php?id=52
+http://tangyuanya.pw/dl/htv.php?id=52
 #EXTINF:-1  tvg-id="台灣的眼睛" group-title="港澳台電視直播頻道" tvg-logo="https://www.cns.net.tw/web/upload/20150401163102aLgGg3T.png",民視新聞台 HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.cns.net.tw/web/upload/20150401163220Pdikxdi.png",三立新聞台 HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS 新聞台 HD
-http://520574.xyz/dl/htv.php?id=55
+http://tangyuanya.pw/dl/htv.php?id=55
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv073_pc.png",TVBS HD
-http://520574.xyz/dl/htv.php?id=56
+http://tangyuanya.pw/dl/htv.php?id=56
 #EXTINF:-1  tvg-id="EBC 東森財經新聞" group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
-http://520574.xyz/dl/htv.php?id=57
+http://tangyuanya.pw/dl/htv.php?id=57
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv010_pc.png",非凡新聞台 HD
-http://520574.xyz/dl/htv.php?id=58
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/545.png?rand=707",美好1台
-http://520574.xyz/dl/htv.php?id=59
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel43_pc_20200423.png",東森購物5台
-http://520574.xyz/dl/htv.php?id=60
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch61.png",台灣衛視電影台高清 （台數科哈TV）
-http://520574.xyz/dl/htv.php?id=61
+http://tangyuanya.pw/dl/htv.php?id=58
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/545.png?rand=707",美好1台 HD
+http://tangyuanya.pw/dl/htv.php?id=59
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel43_pc_20200423.png",東森購物5台 HD
+http://tangyuanya.pw/dl/htv.php?id=60
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch61.png",衛視電影台 HD
+http://tangyuanya.pw/dl/htv.php?id=61
 #EXTINF:-1  tvg-id="EBC 東森電影" group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch62.png",東森電影台 HD
-http://520574.xyz/dl/htv.php?id=62
+http://tangyuanya.pw/dl/htv.php?id=62
 #EXTINF:-1  tvg-id="Hollywood Classics HD" group-title="港澳台電視直播頻道" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_91,h_74,al_c,q_85,usm_0.66_1.00_0.01/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.webp",好萊塢電影台 HD
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1  tvg-id="EBC 東森洋片" group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch66.png",東森洋片台 HD
-http://520574.xyz/dl/htv.php?id=66
+http://tangyuanya.pw/dl/htv.php?id=66
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch77.png",中天娛樂台 HD
-http://520574.xyz/dl/htv.php?id=77
+http://tangyuanya.pw/dl/htv.php?id=77
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
 http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/099.png?rand=352",大愛二台 HD
@@ -1383,8 +1395,6 @@ http://182.138.51.79/PLTV/88888920/224/3221225792/index.m3u8
 http://182.138.51.79/PLTV/88888920/224/3221225793/index.m3u8
 #EXTINF:-1 group-title="中国IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 （央视网绵阳电信）
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1  group-title="CCTV" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
-http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://117.169.120.160:8080/live/hdcctv01/1.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道
@@ -1403,8 +1413,6 @@ http://117.169.120.160:8080/live/cctv-3/1.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000015@HHZT
 #EXTINF:-1 group-title="KÊNH VIP" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 （韩国版）
 http://219.250.105.94:9981/stream/channelid/1900478047
-#EXTINF:-1  group-title="CCTV" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际高清
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际高清
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际高清
@@ -1439,14 +1447,10 @@ http://220.158.149.28:8180/live/TV00000000000000000103@HHZT
 http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-8_180817.png",CCTV8 电视剧高清
 http://117.169.120.160:8080/live/cctv-8/1.m3u8
-#EXTINF:-1  group-title="CCTV" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-9_180817.png",CCTV9 纪录频道高清
-http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-9_180817.png",CCTV9 纪录频道高清
 http://117.169.120.160:8080/live/cctv-news/1.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-10_180817.png",CCTV10 科教频道
 http://220.158.149.28:8180/live/TV00000000000000000009@HHZT
-#EXTINF:-1  group-title="CCTV" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-10_180817.png",CCTV10 科教频道高清
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-10_180817.png",CCTV10 科教频道高清
 http://117.169.120.160:8080/live/cctv-10/1.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-11_180817.png",CCTV11 戏曲频道
@@ -2831,8 +2835,8 @@ http://182.138.51.79/PLTV/88888920/224/3221225536/index.m3u8
 http://182.138.51.79/PLTV/88888920/224/3221225695/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视
 http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
-#EXTINF:-1 group-title="四川观察" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清
-http://118.123.238.86/scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 group-title="四川观察" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （四川观察）
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （成都电信）
 http://182.138.51.79/PLTV/88888920/224/3221225539/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视高清 （成都电信）
