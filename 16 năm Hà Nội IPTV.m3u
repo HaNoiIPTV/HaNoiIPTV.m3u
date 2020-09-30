@@ -506,8 +506,6 @@ http://randomserver.site:2086/123456789/123456789/64138
 http://randomserver.site:2086/123456789/123456789/64137
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="http://www.cmt.com/sitewide/images/cmt-logo.png",CMT HD
 http://randomserver.site:2086/123456789/123456789/64143
-#EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="http://www.cc.com/sitewide/images/logos/cc_site_logo_2018.png",Comedy Central HD
-http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31142
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://www.comettv.com/wp-content/themes/comet/images/comet_blue.png",Comet HD
 http://randomserver.site:2086/123456789/123456789/64163
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cooking%20Channel.png",Cooking Channel HD
@@ -581,7 +579,7 @@ http://randomserver.site:2086/123456789/123456789/64090
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://neulionms-a.akamaihd.net/nba/player/v3/nba/site_4/images/nba_logo.png",NBA HD
 http://randomserver.site:2086/123456789/123456789/64086
 #EXTINF:-1  group-title="Nickelodeon TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/fa/Nickelodeon_logo_2009.png/revision/latest/scale-to-width-down/350?cb=20180623171503",Nickelodeon HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160698
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31271
 #EXTINF:-1  group-title="Nickelodeon TV (Thử nghiệm)" tvg-logo="http://nickjr-intl.mtvnimages.com/intl/img/nav/logo-nickjr-desktop-2x.png",Nick Junior HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160690
 #EXTINF:-1  group-title="Nickelodeon TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/18/Nick_Jr._2_%282010%29.svg/revision/latest/scale-to-width-down/300?cb=20200104221235",Nick Junior 2 HD
@@ -680,46 +678,32 @@ http://randomserver.site:2086/123456789/123456789/64021
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160586
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1195.png",Sky History 2 HD
 http://f.ok2.se:80/noah01/noah01/1754
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4033.png",Sky Cinema Hits HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160777
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1199.png",Sky Cinema Animation HD
-http://epicv3.net:80/DEagT6di1g/LdQsoGybnl/30547
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png",Sky Cinema Sci-fi & Horror HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160784
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4020.png",Sky Cinema Musicals HD
 http://epicv3.net:80/DEagT6di1g/LdQsoGybnl/30550
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4021.png",Sky Cinema Premiere HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160782
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4015.png",Sky Cinema Greats HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160776
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4018.png",Sky Cinema Family HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160774
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4013.png",Sky Cinema Disney HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160770
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4014.png",Sky Cinema Action HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160765
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4019.png",Sky Cinema Comedy HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160767
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4062.png",Sky Cinema Thriller HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160789
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4016.png",Sky Cinema Drama HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160773
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4049.png",Sky Sports News HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31213
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4004.png",Eurosport 1 HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31233
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4009.png",Eurosport 2 HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31234
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4032.png",Sky Sports Racing HD
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160856
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4090.png",Sky Sports Mix HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160848
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31214
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1003.png",Manchester United TV HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31251
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1035.png",Sky Sports Box Office HD
 
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4050.png",Sky News HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31176
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4002.png",Sky Sports Main Event HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160826
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31215
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4010.png",Sky Sports Premier League HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160852
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31222
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3939.png",Sky Sports Football HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160824
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31226
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4081.png",Sky Sports Cricket HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160820
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31217
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4026.png",Sky Sports Golf HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160842
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3835.png",Sky Sports F1 HD
@@ -728,9 +712,7 @@ http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160838
 
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3940.png",Sky Sports Arena HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160834
-#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4032.png",Sky Sports Racing HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160856
-#EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/BBC_One_2006.svg/revision/latest/scale-to-width-down/300?cb=20130401232330",BBC One HD
+#EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2076.png",BBC One HD
 http://81.103.190.61:9981/stream/channelid/808366658
 #EXTINF:-1  group-title="BBC (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2075.png",BBC Two HD
 http://81.103.190.61:9981/stream/channelid/960246773
@@ -745,13 +727,15 @@ http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31128
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4066.png",Sky Witness HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31133
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4053.png",Sky Atlantic HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160761
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31212
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3810.png",W HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160932
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31174
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Gold_HD.png/revision/latest/scale-to-width-down/150?cb=20200608002634",Gold HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160584
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31170
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb3809.png",Dave HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160508
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31132
+#EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4056.png",Comedy Central HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31142
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1143.png",Sky Comedy HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160792
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1136.png",Sky Documentaries HD
@@ -801,7 +785,7 @@ http://iptvuk.ninja:8080/gsY0Js0wMa/vdjbyUwa/86055
 #EXTINF:-1  group-title="ITV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ITVBe_logo_2014-.svg/revision/latest/scale-to-width-down/250?cb=20161018194139",ITVBe HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31136
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/AlibiHD.png/revision/latest/scale-to-width-down/100?cb=20200607234411",Alibi HD
-http://ingrid.ltd:25461/Yesenia01/Yesenia01/3452
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31145
 #EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4076.png",E4 HD
 http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31146
 #EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4043.png",More 4 HD
@@ -831,21 +815,61 @@ http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160726
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4028.png",E! HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160541
 #EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4074.png",SYFY HD
-http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/158385
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31211
 #EXTINF:-1  group-title="Five TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/5Select.svg/revision/latest/scale-to-width-down/250?cb=20190919065146",5 Select HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160341
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Yesterday_logo_2012.svg/revision/latest/scale-to-width-down/200?cb=20200601031408",Yesterday HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160941
 #EXTINF:-1  group-title="Sony TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200803060814",Sony Channel HD
 http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/81633
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Eden_HD_2012.png/revision/latest/scale-to-width-down/150?cb=20200608002052",Eden HD
+http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/199663
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Smithsonian_Channel_2014.svg/revision/latest/scale-to-width-down/300?cb=20171121235002",Smithsonian Channel HD
 http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/158494
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838",DMAX HD
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160535
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/PBS_America_logo.png/revision/latest/scale-to-width-down/250?cb=20120705074901",PBS America
+http://81.103.190.61:9981/stream/channelid/481204975
+#EXTINF:-1  group-title="Discovery (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2407.png",Discovery History
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31299
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb2408.png",Home & Health
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31187
+#EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://www.mylifetime.com/assets/images/lifetime/logo-white.svg",LifeTime HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31170
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4021.png",Sky Cinema Premiere HD
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160782
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4033.png",Sky Cinema Hits HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31192
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4015.png",Sky Cinema Greats HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31190
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb1199.png",Sky Cinema Animation HD
+http://epicv3.net:80/DEagT6di1g/LdQsoGybnl/30547
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4018.png",Sky Cinema Family HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31198
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4013.png",Sky Cinema Disney HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31196
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4014.png",Sky Cinema Action HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31194
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4019.png",Sky Cinema Comedy HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31195
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4062.png",Sky Cinema Thriller HD
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160789
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4016.png",Sky Cinema Drama HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31197
+#EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4017.png",Sky Cinema Sci-fi & Horror HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31201
+#EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/100/40/skychb4044.png",Film 4 HD
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31207
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815211939",Sony Movies
+http://81.103.190.61:9981/stream/channelid/445549455
+#EXTINF:-1  group-title="Sony TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/150?cb=20200608133037",Sony Movies Action
+http://81.103.190.61:9981/stream/channelid/1825274649
+#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Horrorchannel.svg/revision/latest/scale-to-width-down/300?cb=20141218120714",Horror Channel HD
+http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160603
 #EXTINF:-1  group-title="ITV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/77/CITV_logo_2013.svg/revision/latest/scale-to-width-down/250?cb=20190909121023",CITV HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160492
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/BoxNation2.png/revision/latest/scale-to-width-down/200?cb=20150705003828",Box Nation HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160419
-#EXTINF:-1  group-title="Four TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/Film4_2018.svg/revision/latest/scale-to-width-down/200?cb=20180927102710",Film 4 HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160570
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31250
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Pick_2016.svg/revision/latest/scale-to-width-down/250?cb=20181108142001",Pick HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160713
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/QVC_2019.svg/revision/latest/scale-to-width-down/300?cb=20190206123853",QVC
@@ -854,14 +878,8 @@ http://81.103.190.61:9981/stream/channelid/254646781
 http://81.103.190.61:9981/stream/channelid/974520002
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/CCXTV.png/revision/latest/scale-to-width-down/300?cb=20200414132141",CCXTV
 http://81.103.190.61:9981/stream/channelid/1035617699
-#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815211939",Sony Movies
-http://81.103.190.61:9981/stream/channelid/445549455
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/QVC_Beauty.png/revision/latest?cb=20200728222453",QVC Beauty
 http://81.103.190.61:9981/stream/channelid/216710073
-#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/250?cb=20100418162838",DMAX HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160535
-#EXTINF:-1  group-title="Sony TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/150?cb=20200608133037",Sony Movies Action
-http://81.103.190.61:9981/stream/channelid/1825274649
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://www.gemporia.com/global/images/logo-purple.svg",Gems TV
 http://81.103.190.61:9981/stream/channelid/474233902
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Challenge16.png/revision/latest/scale-to-width-down/250?cb=20160623121640",Challenge HD
@@ -869,11 +887,9 @@ http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160481
 #EXTINF:-1  group-title="Sony TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sony_Movies_Classic.jpg/revision/latest/scale-to-width-down/150?cb=20200608132802",Sony Movies Classic
 http://81.103.190.61:9981/stream/channelid/1143533662
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Blaze.svg/revision/latest/scale-to-width-down/250?cb=20161029175136",Blaze HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160413
+http://vip.tvxip.pw:8000/0B0oAVUFOg/DprA6CVGGn/31255
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/TBN_UK_3.jpg/revision/latest/scale-to-width-down/300?cb=20141229202127",TBN UK
 http://81.103.190.61:9981/stream/channelid/358471680
-#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Horrorchannel.svg/revision/latest/scale-to-width-down/300?cb=20141218120714",Horror Channel HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160603
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://static.tv24.co/v2/channels/small/102340.png",Shopping Quarter
 http://81.103.190.61:9981/stream/channelid/832371534
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Dave_ja_vu.svg/revision/latest/scale-to-width-down/103?cb=20091105164244",Dave ja vu
@@ -882,8 +898,6 @@ http://81.103.190.61:9981/stream/channelid/1061511530
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160879
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://hoch.media/elements/icons/hochanda-logo-main.svg",Hochanda
 http://81.103.190.61:9981/stream/channelid/2066702456
-#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/43/PBS_America_logo.png/revision/latest/scale-to-width-down/250?cb=20120705074901",PBS America
-http://81.103.190.61:9981/stream/channelid/481204975
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/TV%20Guide%20Widget%20Logos/EU%20LOGOS/Ideal-Extra.png",Ideal Extra
 http://81.103.190.61:9981/stream/channelid/716706340
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/Create_and_Craft.svg/revision/latest/scale-to-width-down/150?cb=20160214213218",Create & Craft
@@ -892,12 +906,8 @@ http://81.103.190.61:9981/stream/channelid/1647433213
 http://81.103.190.61:9981/stream/channelid/1771346339
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/af/230px-New_Tiny_Pop_Logo_2018.png/revision/latest/scale-to-width-down/180?cb=20180908210722",Tiny Pop HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160889
-#EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Eden_HD_2012.png/revision/latest/scale-to-width-down/150?cb=20200608002052",Eden HD
-http://vipmax-tv.net:8080/hyftsKrl8v/A78PD61Zqd/199663
 #EXTINF:-1  group-title="CBS (Thử nghiệm)" tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png",CBS Action HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160472
-#EXTINF:-1  group-title="HQTV (Thử nghiệm)" tvg-logo="https://www.mylifetime.com/assets/images/lifetime/logo-white.svg",LifeTime HD
-http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160638
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/UTV_2019.svg/revision/latest/scale-to-width-down/185?cb=20190104010933",UTV HD
 http://fast.superstream.best:8080/bspzwcne/Ad33kv1Ai8/160917
 #EXTINF:-1  group-title="Box TV (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Zee_TV_HD_2017-0.jpg/revision/latest/scale-to-width-down/200?cb=20180527191914",Zee HD
@@ -920,44 +930,44 @@ http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/50
 http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/52
 #EXTINF:-1  group-title="Sky (Thử nghiệm)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Sky_Cinema_Comedy_2020.svg/revision/latest/scale-to-width-down/300?cb=20200702163550",Sky Cinema Comedy HD
 http://mondial.cybergroup.top:80/gNeXHPqm5F/sTimakEJVx/51
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
-http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.iyingshi6.tv/Uploads/tv/2017-07-30/0f98572683edf08c52cc32de494b1fd0.png",鳳凰衛視資訊台 HD
-http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 - Truyền hình Trung ương HD
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道 - Kênh Tài chính HD
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道 - Kênh Giải trí HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 - Kênh Quốc tế Tiếng Trung HD
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道 - Kênh Thể thao HD
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道 - Kênh Thể thao và Trận đấu HD
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道 - Kênh Điện ảnh HD
 http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png",CCTV7 国防军事频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png",CCTV7 国防军事频道 - Kênh Quốc phòng và Quân sự HD
 http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道 - Kênh Phim truyện HD
 http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道 - Kênh Ký sự HD
 http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道 - Kênh Kịch HD
 http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道 - Kênh Xã hội và Pháp luật HD
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道- Kênh Thiếu nhi HD
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道 - Kênh Âm nhạc HD
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道 HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道 - Kênh Nông nghiệp và Nông thôn HD
 http://117.148.187.102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 - Truyền hình Phượng Hoàng HD
+http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.iyingshi6.tv/Uploads/tv/2017-07-30/0f98572683edf08c52cc32de494b1fd0.png",鳳凰衛視資訊台 - Kênh Thông tin Truyền hình Phượng Hoàng HD
+http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视 - Truyền hình Hồ Nam HD
 http://117.148.187.93/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228824/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BTV 北京卫视 - Truyền hình Bắc Kinh HD
@@ -970,8 +980,10 @@ http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212306
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视 - Truyền hình Liêu Ninh HD
 http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/01.m3u8?fmt=ts2hls
-
-
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视 - Truyền hình Thiên Tân HD
+http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视 - Truyền hình Hà Bắc HD
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视 - Truyền hình Sơn Đông HD
 http://117.148.187.67/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228834/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视 - Truyền hình An Huy HD
@@ -986,14 +998,22 @@ http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视 - Truyền hình Quảng Tây HD
 http://ivi.bupt.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视 - Truyền hình Vân Nam HD
+rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视 - Truyền hình Cát Lâm HD
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1  tvg-id="NMGWS HD" group-title="KÊNH HD" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",NMTV 内蒙古卫视 - Truyền hình Nội Mông Cổ HD
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视 - Truyền hình Hắc Long Giang HD
 http://117.148.187.88/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视 - Truyền hình Hà Nam HD
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F734DD7U30937010K779BC753I826BBA3APBM3233C4EV1044EZ33519WE9088109E71&playtoken=ABCDEFGHI&programid=4200000312.m3u8
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视 - Truyền hình Ninh Hạ HD
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视 - Truyền hình Sơn Tây HD
+http://springrain.top/shuliyun.php?id=166
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视 - Truyền hình Hồ Bắc HD
 http://117.148.187.75/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228815/index.m3u8
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SXTV1/SXTV1.jpg?1",山西卫视 - Truyền hình Sơn Tây HD
-http://springrain.top/shuliyun.php?id=166
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视 - Truyền hình Thanh Hải HD
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1  tvg-id="SCWS HD" group-title="KÊNH HD" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582849932674.png",四川卫视 - Truyền hình Tứ Xuyên HD
@@ -2543,8 +2563,6 @@ http://182.138.51.79/PLTV/88888920/224/3221225590/index.m3u8
 http://219.153.252.50/PLTV/88888888/224/3221225547/chunklist.m3u8
 #EXTINF:-1 group-title="央视网" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI1/HEBEI1.jpg?1",河北卫视高清
 http://cctvalih5ca.v.myalicdn.com/wstv/hebei_2/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI1/HEBEI1.jpg?1",河北卫视高清
-http://live5.plus.hebtv.com/hbws/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI1/HEBEI1.jpg?1",河北卫视高清 （大学线路）
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEBEI1/HEBEI1.jpg?1",河北卫视高清 （杭州联通）
@@ -2709,16 +2727,12 @@ http://220.158.149.28:8180/live/TV00000000000000000023@HHZT
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清 （昭通移动）
 http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YNTV1/YNTV1.jpg?1",云南卫视高清 （福州移动）
-rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
 http://stream1.jlntv.cn/jlws/sd/live.m3u8
 #EXTINF:-1 group-title="VIETTEL" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视 （兰州大学）
 http://hdtv.lzu6.edu.cn/hls/jltv.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JILIN1/JILIN1.jpg?1",吉林卫视 （成都电信）
 http://182.138.51.79/PLTV/88888920/224/3221225599/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清
-http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （大学线路）
 http://ivi.bupt.edu.cn/hls/jlhd.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视高清 （杭州联通）
@@ -2737,8 +2751,6 @@ http://hdtv.lzu6.edu.cn/hls/nmtv.m3u8
 http://182.138.51.79/PLTV/88888920/224/3221225606/index.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视
 http://220.158.149.28:8180/live/TV00000000000000000006@HHZT
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NMGTV1/NMGTV1.jpg?1",内蒙古卫视高清
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HLJTV1/HLJTV1.jpg?1",黑龙江卫视
 http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HLJTV1/HLJTV1.jpg?1",黑龙江卫视高清
@@ -2781,8 +2793,6 @@ http://hdtv.lzu6.edu.cn/hls/nxtv.m3u8
 http://182.138.51.79/PLTV/88888920/224/3221225583/index.m3u8
 #EXTINF:-1 group-title="K+" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NXTV2/NXTV2.jpg?1",宁夏卫视
 http://220.158.149.28:8180/live/TV00000000000000000050@HHZT
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NXTV2/NXTV2.jpg?1",宁夏卫视高清
-http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1 group-title="山西网络广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SXTV1/SXTV1.jpg?1",山西卫视
 http://live1.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiTV
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SXTV1/SXTV1.jpg?1",山西卫视 （临汾市隰县县）
