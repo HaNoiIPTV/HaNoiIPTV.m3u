@@ -1040,10 +1040,26 @@ http://61.238.6.49:8001/bysid/2
 http://livetv.dnsfor.me:80/channel.10.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png",無綫財經資訊台
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV
-http://61.238.6.49:8000/bysid/99
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_tdm_yellow_text.png",TDM Macau
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_info_yellow_text.png",澳門資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_entertainment_yellow_tc_2.png",澳門綜藝
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_170_122",ViuTVsix
 http://61.238.6.49:8000/bysid/96
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch99_110_80",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.lotustv.cc/Public/images/top_logo.png",蓮花衛視
+http://402173194.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=J7sAAC6Ek_ktGgUW&secondToken=secondToken%3AvnJY3jaKsGQqzyb9MwEQMgpMSeY&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch544_110_80",澳亞衛視
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1  tvg-id="台灣的眼睛" group-title="港澳台電視直播頻道" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
@@ -1190,6 +1206,18 @@ http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/
 http://118.123.238.86/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视高清
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV1
+http://180.94.172.134:8891/stream/channelid/688173690
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV13
+http://180.94.172.134:8891/stream/channelid/645687923
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel2.jpg",澳廣視轉播CGTN
+http://180.94.172.134:8891/stream/channelid/1390194739
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel5.jpg",澳廣視轉播CGTN Documentary
+http://180.94.172.134:8891/stream/channelid/1320560217
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel3.jpg",澳廣視轉播海峡卫视
+http://180.94.172.134:8891/stream/channelid/1266340037
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel4.jpg",澳廣視轉播湖南国际频道
+http://180.94.172.134:8891/stream/channelid/14055353
 #EXTINF:-1  group-title="Music I Like" tvg-logo="https://4gtvimg.4gtv.tv/4gtv-Image/Production/VOD_M/201909190001/%E6%B0%91%E8%A6%96VOD_%E6%88%B2%E5%8A%87_%E5%A4%9A%E6%83%85%E5%9F%8E%E5%B8%82%20300X424.jpg",多情城市片尾曲
 
 #EXTINF:-1  group-title="KÊNH VIP" tvg-logo=" ",Kênh giới thiệu gói VIP của Hà Nội IPTV
@@ -6372,26 +6400,6 @@ http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1  group-title="K+" tvg-logo=" ",澳門衛視
 http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_sports_yellow_text2.png",澳門體育
-http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_info_yellow_text.png",澳門資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_entertainment_yellow_tc_2.png",澳門綜藝
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV1
-http://180.94.172.134:8891/stream/channelid/688173690
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV13
-http://180.94.172.134:8891/stream/channelid/645687923
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel2.jpg",澳廣視轉播CGTN
-http://180.94.172.134:8891/stream/channelid/1390194739
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel5.jpg",澳廣視轉播CGTN Documentary
-http://180.94.172.134:8891/stream/channelid/1320560217
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel3.jpg",澳廣視轉播海峡卫视
-http://180.94.172.134:8891/stream/channelid/1266340037
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel4.jpg",澳廣視轉播湖南国际频道
-http://180.94.172.134:8891/stream/channelid/14055353
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",澳門特別行政區立法會直播
 https://live4.tdm.com.mo/tv/_definst_/ch21.live/chunklist_w889050245.m3u8
 #EXTINF:-1 group-title="交通情況" tvg-logo=" ",沙梨頭海邊街與爹美刁施拿地大馬路交界
@@ -6450,10 +6458,6 @@ http://202.175.127.77/live/show/ch2/index.m3u8
 http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.passiontimes.hk/4.0/img/PASSIONTIMES_C.png",熱血時報
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://www.lotustv.cc/Public/images/top_logo.png",蓮花衛視
-http://402173194.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=J7sAAC6Ek_ktGgUW&secondToken=secondToken%3AvnJY3jaKsGQqzyb9MwEQMgpMSeY&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch544_110_80",澳亞衛視
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 group-title="K+" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch544_110_80",澳亞衛視
 http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch544_110_80",澳亞衛視 （广州有线）
