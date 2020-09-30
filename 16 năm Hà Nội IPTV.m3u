@@ -3,8 +3,7 @@
 #EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=1
-Screen 4K
-http://222.234.50.24:9981/stream/channelid/1378776160
+
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0 HD" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Kênh giới thiệu Hà Nội IPTV HD
@@ -95,6 +94,8 @@ http://220.85.148.178:9981/stream/channelid/24
 http://222.239.213.20:9981/stream/channelid/1260817114
 #EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/13b0012700302094654.png",Hà Nội IPTV 25 - OCN Movies HD
 http://221.146.83.223:9981/stream/channelid/37
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7feded1500225150044.png",Hà Nội IPTV 35 - Screen 4K
+http://222.234.50.24:9981/stream/channelid/1378776160
 #EXTINF:-1  tvg-id="Hà Nội IPTV 27 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",Hà Nội IPTV 27 - JTBC2 HD
 http://221.146.83.223:9981/stream/channelid/66
 #EXTINF:-1  tvg-id="Hà Nội IPTV 28 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",Hà Nội IPTV 28 - JTBC4 HD
@@ -113,7 +114,6 @@ http://59.28.86.246:9981/stream/channelid/84
 http://222.234.50.24:9981/stream/channelid/53987192
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",Hà Nội IPTV 34+ - SPOTV Golf & Health 4K
 http://222.234.50.24:9981/stream/channelid/1761670292
-
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",Hà Nội IPTV 12 - KBSN Sports HD
 http://222.239.213.20:9981/stream/channelid/1167762235
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 - Kênh thông tin tình hình Covid-19 Hà Nội HD
