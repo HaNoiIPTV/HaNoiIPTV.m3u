@@ -207,7 +207,7 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  tvg-id="THP+ HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B_HD.webp",THP+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-id="Hải Phòng HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",THP - Truyền hình Hải Phòng HD
-https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8#https://live.thhp.vn:8443/hls/thp/index.m3u8
+https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH Hà Nội 1 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV1_%25282016-present%2529.png",Truyền hình Hà Nội 1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  tvg-id="TH Hà Nội 2 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV2_%25282016-present%2529.png",Truyền hình Hà Nội 2 HD
