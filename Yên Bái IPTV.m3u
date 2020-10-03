@@ -25,6 +25,15 @@ https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/211.png",Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
+#EXTINF:-1  group-title="QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585728403176.png",AFN
+https://yamcode.com/raw/wq6EPipddn
+#EXTINF:-1  group-title="QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484656440.png",Channel [V] HD
+https://yamcode.com/raw/TxkZHVrrWs
+#EXTINF:-1  group-title="QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies HD
+https://yamcode.com/raw/FnVDr87nsw
+#EXTINF:-1  group-title="QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",FOX Family Movies
+https://yamcode.com/raw/YHN2mzxIEM
+
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",An Viên HD
 https://yamcode.com/raw/JTTXTk5eMr
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL3_HD.png",TH Vĩnh Long 3 HD
