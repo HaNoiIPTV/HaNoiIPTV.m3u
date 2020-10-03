@@ -1,4 +1,4 @@
-﻿﻿#EXTM3U Hoàng Huy Mạnh UPDATE 3/10/2020
+#EXTM3U Hoàng Huy Mạnh UPDATE 3/10/2020
 #EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
@@ -84,6 +84,8 @@ https://yamcode.com/raw/puXFo06mrx
 https://pastebin.com/raw/FqvZKb3M
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_HD_Ninh_Binh.png",Ninh Bình HD
 https://pastebin.com/raw/8Ccru33A
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/971.png",Bắc Kạn
+https://yamcode.com/raw/QtqECE8R7d
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",Lạng Sơn HD
 https://yamcode.com/raw/Uez6Sq9euH
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",Thái Nguyên HD
@@ -98,6 +100,14 @@ https://pastebin.com/raw/jatwbxPZ
 https://pastebin.com/raw/CXMeiS4u
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",Quảng Bình HD
 https://yamcode.com/raw/qWnzOsxWD7
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Huế
+https://yamcode.com/raw/iTBLaA20WY
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng 1 HD
+https://yamcode.com/raw/HkP5GX90Mz
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",Khánh Hòa HD
+https://yamcode.com/raw/VFSwha9QNx
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận
+https://yamcode.com/raw/EajCSEjuak
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN1-RTV_HD.png",Đồng Nai 1 HD
 https://pastebin.com/raw/QsLD5nXB
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN2-RTV_HD.png",Đồng Nai 2 HD
