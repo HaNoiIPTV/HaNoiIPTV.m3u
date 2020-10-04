@@ -1008,7 +1008,7 @@ https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 http://113.191.41.62/live.m3u8?c=vstv369&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
 #EXTINF:-1  tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2018/1/2/YC1URMQCAY.png",TBTV - Truyền hình Thái Bình
 https://livecdn.fptplay.net/sda/thaibinh_2000.stream/chunklist.m3u8
-﻿#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/HYTV_H%C6%B0ng_Y%C3%AAn.png/revision/latest/scale-to-width-down/150?cb=20200927105900",NBTV - Truyền hình Ninh Bình
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_Ninh_Binh.png",NBTV - Truyền hình Ninh Bình
 https://vtsstr3.tv24.vn/elive/_definst_/smil:ninhbinh_SD.smil/chunklist_w935795757_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV_Thanh_Hoa.png",TTV - Truyền hình Thanh Hóa
 http://113.191.41.62/live.m3u8?c=vstv208&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
