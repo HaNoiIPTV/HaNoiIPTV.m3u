@@ -1,8 +1,5 @@
-﻿#EXTM3U Hoàng Huy Mạnh UPDATE 3/10/2020
-#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
+#EXTM3U Hoàng Huy Mạnh UPDATE 5/10/2020
 #EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1  tvg-id="VTV1 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
