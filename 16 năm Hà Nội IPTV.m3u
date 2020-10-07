@@ -1022,6 +1022,8 @@ https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sda/soctrang_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/90px-Logo_%C4%90TV_Dien_Bien_New.png",ĐTV - Truyền hình Điện Biên
 http://113.191.41.62/live.m3u8?c=vstv362&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
+#EXTINF:-1  tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu
+http://118.69.205.213/thbl/thbl.m3u8
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 - Truyền hình Trung ương HD
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道 - Kênh Tài chính HD
