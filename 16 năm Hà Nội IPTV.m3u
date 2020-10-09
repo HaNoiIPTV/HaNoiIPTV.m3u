@@ -1082,9 +1082,9 @@ http://118.69.205.213/thbl/thbl.m3u8
 https://live.thhp.vn:8443/radio/937/index.m3u8
 #EXTINF:-1  tvg-id="THP+ FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%252B_Hai_Phong.png",THPFM 102 - Phát thanh Hải Phòng HD
 https://live.thhp.vn/radio/102/index.m3u8
-#EXTINF:-1  tvg-id="Nghệ An FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",NAFM - Phát thanh Nghệ An HD
-https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8
-#EXTINF:-1  tvg-id="Bắc Ninh FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",BNFM - Phát thanh Bắc Ninh
+#EXTINF:-1  tvg-id="Nghệ An FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",VON - Phát thanh Nghệ An HD
+https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
+#EXTINF:-1  tvg-id="Bắc Ninh FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244788375.png",BNFM - Phát thanh Bắc Ninh HD
 http://203.171.21.203:1935/radio/bacninh_aac/chunklist_w329463523.m3u8
 #EXTINF:-1  tvg-id="Hưng Yên FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%253Fng_Y%253Fn_3D.png",HYFM - Phát thanh Hưng Yên HD
 http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
@@ -1094,20 +1094,20 @@ http://113.160.131.11:8000
 http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1  tvg-id="Ninh Bình FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_Ninh_Binh.png",NBFM - Phát thanh Ninh Bình HD
 https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
-#EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244017560.png",BKFM - Phát thanh Bắc Kạn
+#EXTINF:-1  tvg-id="Bắc Kạn FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567244017560.png",BKFM - Phát thanh Bắc Kạn
 http://113.160.162.131:8080/hls/radio.m3u8
-#EXTINF:-1  tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr1.png",QNR1 - Phát thanh Quảng Ninh HD
+#EXTINF:-1  tvg-id="Quảng Ninh FM" tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr1.png",QNR1 - Phát thanh Quảng Ninh
 http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1  tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr2.png",QNR2 - Phát thanh Quảng Ninh HD
+#EXTINF:-1  tvg-id="QNR2" tvg-logo="http://baoquangninh.com.vn/common/v3/image/qnr2.png",QNR2 - Phát thanh Quảng Ninh HD
 http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTFM - Phát thanh Hà Tĩnh HD
+#EXTINF:-1  tvg-id="Hà Tĩnh FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",HTFM - Phát thanh Hà Tĩnh HD
 http://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
-#EXTINF:-1  tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",BPFM 89.4 - Phát thanh Bình Phước HD
+#EXTINF:-1  tvg-id="Bình Phước FM" tvg-logo="http://bptv.vn/wp-content/themes/VN-News/img/tv-online/ptvl.gif",BPFM 89.4 - Phát thanh Bình Phước HD
 http://118.69.197.145/hls/radio.m3u8
-#EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",TTV11 FM - Phát thanh Tây Ninh HD
+#EXTINF:-1  tvg-id="Tây Ninh FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567243595702.png",TTV11 FM - Phát thanh Tây Ninh HD
 http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV_Soc_Trang.png",STFM 100.4 - Phát thanh Sóc Trăng HD
-rtmp://115.78.3.164:1936/live/FMsoctrang
+#EXTINF:-1  tvg-id="Sóc Trăng FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV_Soc_Trang.png",STFM 100.4 - Phát thanh Sóc Trăng HD
+http://115.78.3.164:8135/liveeventf.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGFM - Phát thanh Hà Giang
 http://118.107.68.10:1935/radio/HaGiang.stream/chunklist.m3u8
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道 - Truyền hình Trung ương HD
