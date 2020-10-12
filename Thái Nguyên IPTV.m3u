@@ -1,27 +1,57 @@
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="https://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1  tvg-id="VTV1 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="VTV2 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2_HD.png",VTV2 HD
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+https://bom.to/vtv1-hd-VTV1_HD
 #EXTINF:-1  tvg-id="VTV3 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3_HD_logo.png",VTV3 HD
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="VTV4 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4_HD.png",VTV4 HD
-https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="VTV5 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5_HD-0.png",VTV5 HD
-https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist_b2500000.m3u8
+https://bom.to/vtv3-hd-VTV3_HD
 #EXTINF:-1  tvg-id="VTV6 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6_HD-0.png",VTV6 HD
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://bom.to/vtv6-hd-VTV6_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 4 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",Hà Nội IPTV 4 - tvN HD
+https://bom.to/tvn-hd-HaNoiIPTV4_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 2 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
+https://bom.to/sbs-hd-HaNoiIPTV2_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 1 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
+https://bom.to/kbs2-hd-HaNoiIPTV1_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 3 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
+https://bom.to/mbc-hd-HaNoiIPTV3_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 5 - JTBC HD
+https://bom.to/jtbc-hd-HaNoiIPTV5_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 6 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 6 - MBN HD
+https://bom.to/mbn-hd-HaNoiIPTV6_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 7 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png",Hà Nội IPTV 7 - TV Chosun HD
+https://bom.to/tv-chosun-hd-HaNoiIPTV7_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 8 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Hà Nội IPTV 8 - Channel A HD
+https://bom.to/channel-a-hd-HaNoiIPTV8_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 29 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 29 - Olive HD
+https://bom.to/olive-hd-HaNoiIPTV29_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 30 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 30 - On Style HD
+https://bom.to/on-style-hd-HaNoiIPTV30_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 23 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
+https://bom.to/mnet-hd-HaNoiIPTV23_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 24 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/21.png",Hà Nội IPTV 24 - OCN HD
+https://bom.to/ocn-hd-HaNoiIPTV24_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 31 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png",Hà Nội IPTV 31 - Phim Trung Quốc HD
+https://bom.to/phim-trung-quoc-hd-HaNoiIPTV31_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 34 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://www.spotv.net/images/onair_spotv.png",Hà Nội IPTV 34 HD - SPOTV 4K
+https://bom.to/spotv-HaNoiIPTV34_HD
+#EXTINF:-1  tvg-id="Hà Nội IPTV 34+ HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",Hà Nội IPTV 34+ - Thể thao và Sức khỏe HD
+https://bom.to/the-thao-va-suc-khoe-HaNoiIPTV34Plus_HD
+
+#EXTINF:-1  tvg-id="VTV2 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2_HD.png",VTV2 HD
+https://bom.to/vtv2-hd-VTV2_HD
+#EXTINF:-1  tvg-id="VTV4 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4_HD.png",VTV4 HD
+https://bom.to/vtv4-hd-VTV4_HD
+#EXTINF:-1  tvg-id="VTV5 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5_HD-0.png",VTV5 HD
+https://bom.to/vtv5-hd-VTV5_HD
 #EXTINF:-1  tvg-id="VTV7 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7_HD-0.png",VTV7 HD
-https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist_b2500000.m3u8
+https://bom.to/vtv7-hd-VTV7_HD
 #EXTINF:-1  tvg-id="VTV8 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8_HD.png",VTV8 HD
-https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://bom.to/vtv8-hd-VTV8_HD
 #EXTINF:-1  tvg-id="VTV9 HD" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9_HD.png",VTV9 HD
-https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",Thái Nguyên HD
-https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",Thái Nguyên FHD
-http://thainguyentv.vn/hls/livestream.m3u8
+https://bom.to/vtv9-hd-VTV9_HD
 
 #EXTINF:-1  group-title="QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585728403176.png",AFN
 https://yamcode.com/raw/wq6EPipddn
@@ -63,9 +93,9 @@ https://yamcode.com/raw/LxtjZPKlf9
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://rsstv.gviet.vn/sctv/157/723/1567221323112.png",Vietnam Journey HD
 https://yamcode.com/raw/yyRng9oWdR
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV1_%25282016-present%2529.png",Hà Nội 1 HD
-https://yamcode.com/raw/RP7VI18aHc
+https://bom.to/th-ha-noi-1-hd-HANOI1_HD
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV2_%25282016-present%2529.png",Hà Nội 2 HD
-https://yamcode.com/raw/iXvJsSFlfm
+https://bom.to/th-ha-noi-2-hd-HANOI2_HD
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL4_HD.png",TH Vĩnh Long 4 HD
 https://yamcode.com/raw/VvaL4H7IIX
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC9_HD_alt.webp",VTC9 HD
@@ -77,73 +107,77 @@ https://yamcode.com/raw/n7JQG1NoCb
 #EXTINF:-1  group-title="TRONG NƯỚC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC14_M.png",VTC14 HD
 https://yamcode.com/raw/a7teg19r8R
 
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",Thái Nguyên HD
+https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1_HD_Thai_Nguyen.png",Thái Nguyên FHD
+http://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B_HD.webp",THP+ HD
-https://yamcode.com/raw/BvCIOmzeLw
+https://bom.to/thp-hd-HAIPHONG2_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",Hải Phòng HD
-https://yamcode.com/raw/1jUom4pqIi
+https://bom.to/hai-phong-hd-HAIPHONG_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_NTV_Ngh%E1%BB%87_An_HD_2018.png",Nghệ An HD
-https://yamcode.com/raw/F5r54RLpUj
+https://bom.to/nghe-an-hd-NGHEAN_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1_HD_Binh_Duong.png",Bình Dương HD
-https://yamcode.com/raw/ZmoytTegbt
+https://bom.to/binh-duong-hd-BINHDUONG_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3_HD.png",QTV3 HD
-https://yamcode.com/raw/1rTrLYTHAw
+https://bom.to/qtv3-hd-QUANGNINH3_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Vinh-Phuc-1536x715.png",Vĩnh Phúc HD
-https://yamcode.com/raw/yfSGThUA1n
+https://bom.to/vinh-phuc-hd-VINHPHUC_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",Bắc Ninh HD
-https://yamcode.com/raw/GnRTaVedbn
+https://bom.to/bac-ninh-hd-BACNINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%C6%B0ng_Y%C3%AAn_HD_fix.png",Hưng Yên HD
-https://yamcode.com/raw/SORboy0jcg
+https://bom.to/hung-yen-hd-HUNGYEN_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_HD_Hai_Duong.png",Hải Dương HD
-https://yamcode.com/raw/puXFo06mrx
+https://bom.to/hai-duong-hd-HAIDUONG_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/100px-Logo_TBTV_Th%C3%A1i_B%C3%ACnh_HD_2017.png",Thái Bình HD
-https://yamcode.com/raw/OIRnj61Yic
+https://bom.to/thai-binh-hd-THAIBINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_HD_Ninh_Binh.png",Ninh Bình HD
-https://yamcode.com/raw/gbNP0O4PFE
+https://bom.to/ninh-binh-hd-NINHBINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/971.png",Bắc Kạn
-https://yamcode.com/raw/QtqECE8R7d
+https://bom.to/bac-kan-BACKAN_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/725/1567245085074.png",Lạng Sơn HD
-https://yamcode.com/raw/Uez6Sq9euH
+https://bom.to/lang-son-hd-LANGSON_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1_HD.png",Quảng Ninh HD
-https://yamcode.com/raw/luGxcT5cpl
+https://bom.to/quang-ninh-hd-QUANGNINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/08/Ph%C3%BA-Th%E1%BB%8D-HD.png",Phú Thọ HD
-https://yamcode.com/raw/easzHH5xCr
+https://bom.to/phu-tho-hd-PHUTHO_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_TTV_HD.png",Thanh Hóa HD
-https://yamcode.com/raw/RK2vmQnPHn
+https://bom.to/thanh-hoa-hd-THANHHOA_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/758/1567570007760.png",Hà Tĩnh HD
-https://yamcode.com/raw/A44WewfrpI
+https://bom.to/ha-tinh-hd-HATINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",Quảng Bình HD
-https://yamcode.com/raw/qWnzOsxWD7
+https://bom.to/quang-binh-hd-QUANGBINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",Huế
-https://yamcode.com/raw/iTBLaA20WY
+https://bom.to/hue-HUE_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng 1 HD
-https://yamcode.com/raw/HkP5GX90Mz
+https://bom.to/da-nang-1-hd-DANANG1_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",Khánh Hòa HD
-https://yamcode.com/raw/VFSwha9QNx
+https://bom.to/khanh-hoa-hd-KHANHHOA_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944894996.png",Bình Thuận
-https://yamcode.com/raw/EajCSEjuak
+https://bom.to/binh-thuan-BINHTHUAN_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948222751.png",Gia Lai
-https://yamcode.com/raw/FDyC1lMElW
+https://bom.to/gia-lai-GIALAI_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/250px-BPTV1.png",Bình Phước 1 HD
-https://yamcode.com/raw/blIeUZQdmi
+https://bom.to/binh-phuoc-1-hd-BINHPHUOC1_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="http://ttv11.vn/public/Home/images/logotayninh.png",Tây Ninh HD
-https://yamcode.com/raw/vugIlmWl66
+https://bom.to/tay-ninh-hd-TAYNINH_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN1-RTV_HD.png",Đồng Nai 1 HD
-https://yamcode.com/raw/Ps3zMw8B0i
+https://bom.to/dong-nai-1-hd-DONGNAI1_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253FN2-RTV_HD.png",Đồng Nai 2 HD
-https://yamcode.com/raw/cl7XMAl3p6
+https://bom.to/dong-nai-2-hd-DONGNAI2_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/100px-BRT_HD.png",Bà Rịa Vũng Tàu HD
-https://yamcode.com/raw/9jY46kJeOu
+https://bom.to/ba-ria-vung-tau-hd-BARIAVUNGTAU_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTPCT_HD_Logo_2020.png",Cần Thơ HD
-https://yamcode.com/raw/dc9bMioiZG
+https://bom.to/can-tho-hd-CANTHO_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%253FT1_HD.png",Đồng Tháp HD
-https://yamcode.com/raw/t6yMMGMvNv
+https://bom.to/dong-thap-hd-DONGTHAP_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948364415.png",Tiền Giang
-https://yamcode.com/raw/GY0e3huryZ
+https://bom.to/tien-giang-TIENGIANG_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT_2020.webp",Bến Tre
-https://yamcode.com/raw/0xNLgJz1j8
+https://bom.to/ben-tre-BENTRE_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV_HD_An_Giang.png",An Giang
-https://yamcode.com/raw/OnIU0sgUcI
+https://bom.to/an-giang-ANGIANG_SD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944966358.png",Hậu Giang HD
-https://yamcode.com/raw/sCCDmgsSiw
+https://bom.to/hau-giang-hd-HAUGIANG_HD
 #EXTINF:-1  group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_STV1_HD.png",Sóc Trăng HD
-https://yamcode.com/raw/rYOHCXCE6R
+https://bom.to/soc-trang-hd-SOCTRANG_HD
