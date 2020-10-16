@@ -418,7 +418,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/photo.png",HanoiCab1 - HiTV
 http://mediaiptvshare.duckdns.org:8889/rtp/232.84.1.55:8310
 #EXTINF:-1  tvg-id="Vĩnh Phúc HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc HD
-https://bsojv7x1zq.vcdn.com.vn/5daaa99c735698018eb55c12/5daaa99c735698018eb55c13/720p/playlist.m3u8
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-id="Bắc Ninh HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
 #EXTINF:-1  tvg-id="Hưng Yên HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%C6%B0ng_Y%C3%AAn_HD_fix.png",HYTV - Truyền hình Hưng Yên HD
@@ -1091,6 +1091,8 @@ http://113.191.41.62/live.m3u8?c=vstv053&q=high&type=tv&token=1111&time=15863958
 http://113.191.41.62/live.m3u8?c=vstv011&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV2_%25282016-present%2529.png",Truyền hình Hà Nội 2
 http://113.191.41.62/live.m3u8?c=vstv012&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc
+https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/HYTV_H%C6%B0ng_Y%C3%AAn.png/revision/latest/scale-to-width-down/150?cb=20200927105900",HYTV - Truyền hình Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_Hai_Duong.png",HDTV - Truyền hình Hải Dương
