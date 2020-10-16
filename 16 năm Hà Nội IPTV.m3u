@@ -409,7 +409,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1  group-title="TRUYỀN HÌNH CÁP HÀ NỘI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/photo.png",HanoiCab1 - HiTV
 http://mediaiptvshare.duckdns.org:8889/rtp/232.84.1.55:8310
-#EXTINF:-1  tvg-id="Vĩnh Phúc HD" group-title="KÊNH HD" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Vinh-Phuc-1536x715.png",VP - Truyền hình Vĩnh Phúc HD
+#EXTINF:-1  tvg-id="Vĩnh Phúc HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc HD
 https://bsojv7x1zq.vcdn.com.vn/5daaa99c735698018eb55c12/5daaa99c735698018eb55c13/720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Bắc Ninh HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
@@ -1257,6 +1257,8 @@ http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV6/FJTV6.jpg?1",福建旅游频道 - Truyền hình Phúc Kiến 6 (Kênh Du lịch)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视 - Truyền hình Khang Ba HD
+http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://iptv.live/images/logo/channel/crops/e0b8ec361b997db4c89eee8baa497fb9.png",港台電視31
 http://42.2.137.166:9981/stream/channelid/127114208
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg/revision/latest/scale-to-width-down/260?cb=20200511233655",港台電視33
@@ -1473,34 +1475,50 @@ http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1  tvg-id="SET 三立財經新聞" group-title="港澳台數字/網路電視直播頻道" tvg-logo="https://yt3.ggpht.com/a/AATXAJyK_EIQNaepFt_Y_57uzVcGPulBPMGchuALySUyvw=s100-c-k-c0xffffffff-no-rj-mo",三立iNews HD
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV5/FJTV5.jpg?1",福建电视剧频道 （福州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV5/FJTV5.jpg?1",福建电视剧频道 - Truyền hình Phúc Kiến 5 (Kênh Phim truyện)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV7/FJTV7.jpg?1",福建经济频道 （福州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV7/FJTV7.jpg?1",福建经济频道 - Truyền hình Phúc Kiến 7 (Kênh Kinh tế)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV8/FJTV8.jpg?1",福建体育频道高清 （福州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV8/FJTV8.jpg?1",福建体育频道 - Truyền hình Phúc Kiến 8 HD (Kênh Thể thao HD)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1",福建少儿频道 （福州移动）
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1",福建少儿频道 - Truyền hình Phúc Kiến 9 (Kênh Thiếu nhi)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游频道 - Truyền hình Tứ Xuyên 2 HD (Kênh Văn hóa và Du lịch HD)
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济频道高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济频道 - Truyền hình Tứ Xuyên 3 HD (Kênh Kinh tế HD)
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583176595774.png",四川新闻频道 - Truyền hình Tứ Xuyên 4 HD (Kênh Thời sự HD)
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",四川影视文艺高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583488284000.png",四川影视文艺频道 - Truyền hình Tứ Xuyên 5 HD (Kênh Phim truyện và Văn nghệ HD)
 http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583604507485.png",四川星空购物高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583604507485.png",四川星空购物频道 - Truyền hình Tứ Xuyên 6 HD (Kênh Ngôi sao Mua sắm HD)
 http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",四川妇女儿童高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583712926914.png",四川妇女儿童频道 - Truyền hình Tứ Xuyên 7 HD (Kênh Phụ nữ và Trẻ em HD)
 http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村高清
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020190505398080699973.png",四川公共农村频道 - Truyền hình Tứ Xuyên 9 HD (Kênh Nông thôn HD)
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道 (Kênh Khoa giáo)
 http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/d98ad37763a24f05be5112a7aab62c63-1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",四川峨眉电影高清
-http://118.123.238.86/scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031600928497907.png",康巴卫视高清
-http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Viasat_Explore_HD.png",Viasat Explore HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Viasat_History.png",Viasat History HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV1000_4.png",TV1000 HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV1000_Action_3.png",TV1000 Action HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV1000_3.png",TV1000 Русское кино HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/84e8e69082b024ede9b0487caf7833de.png",VIP Comedy HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/714821abc056e8e69110c51f60b2212b.png",VIP Megahit HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/1ca3ee2a7a324a4cb5d0c65ee95d8254.png",VIP Premiere HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/392b0b5ac932489dc8f5d0953c26d99e.png",VIP Serial HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/bw5000000/variant.m3u8?version=2
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV1
 http://180.94.172.134:8891/stream/channelid/688173690
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/tv_channel1.jpg",澳廣視轉播CCTV13
@@ -9955,20 +9973,30 @@ http://203.154.243.89:1208
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Racing
 http://222.252.27.201:88/hls/relay/MuMf3uy/index.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS_Russia_2017.png",CТC
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTC_Kids_2018.png",CТC Kids HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS_Love_%2528Russia%2529_%25282019%2529.png",CТC Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.mnb.mn/images/mini/tv.png",МҮОНТ HD
 http://103.14.38.107:1935/live/mnb.stream/chunklist_w1181551246.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.mnb.mn/images/mini/mnews.png",Монголын Мэдээ HD
 http://103.14.38.107:1935/live/mn2.stream/chunklist_w1605756948.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://russiahd.tv/i/logo.png",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/298eb923a4d859d00cb09bb34b20da2a.png",Россия 24
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%253F%253F%253F%253F%253F%253F%253F_%253F%253F%253F%253F%253F%253F%253F%253F%253F%253F_%253F%253F%253F%253F_%253F%253F.png",МАТЧ! HD
+http://95.85.78.99:999/udp/239.191.254.228:15283
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Russia_24%25282016%2529.png",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Россия РТР
 https://a1566398683-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/8b2f6fe0e7972387ccf8c9e2fc155bc2.png",Россия К
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Russia_K%25282017-present%2529.png",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/0ac994453d8a3d84b7cfab0d2890a818.png",Москва 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.tvc.ru/assets/img/logo.svg?v=138",ТВЦ
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",НТВ HD
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/ntv_hd/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",ТНТ HD
@@ -9997,8 +10025,6 @@ http://cdn-fqh3eq51.ott-iptv.club/194y3wik/rtg_hd/playlist.m3u8
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/travel_adventure_hd/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Univer HD
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/univer_hd/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Viasat History HD
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/viasat_history_hd/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Наша Сибирь HD
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/sibir_hd/index-v1-a1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Bolt HD
@@ -10007,22 +10033,8 @@ http://cdn-fqh3eq51.ott-iptv.club/194y3wik/bolt_hd/playlist.m3u8
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/fox_hd/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Fox Life HD
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/fox_life_hd/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/15a2e4765dd519171b8e1bf235dfbfc7.png",TV1000
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/tv1000/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/e59619e9119c545d0f3e76035280e501.png",TV1000 Action
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/tv1000_action/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=""https://iptv.live/images/logo/channel/crops/fbbcca5032a80c4a4dadd8fd26328c2a.png,TV1000 Русское кино
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/tv1000_rus_kino/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",UHD Cinema
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/ultrahd_cinema_hd/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/84e8e69082b024ede9b0487caf7833de.png",VIP Comedy HD
-http://5.43.141.86:81/udp/239.255.0.153:1234
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/714821abc056e8e69110c51f60b2212b.png",VIP Megahit HD
-http://5.43.141.86:81/udp/239.255.0.159:1234
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/1ca3ee2a7a324a4cb5d0c65ee95d8254.png",VIP Premiere HD
-http://5.43.141.86:81/udp/239.255.0.160:1234
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/392b0b5ac932489dc8f5d0953c26d99e.png",VIP Serial HD
-http://cdn-fqh3eq51.ott-iptv.club/194y3wik/vip_serial_hd/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/5538847ef884d4a1cdd0703181fe19f3.png",Дом кино Премиум HD
 http://cdn-fqh3eq51.ott-iptv.club/194y3wik/dom_kino_premium_hd/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/a46b08665b9ae6d4d72ab7f2489a050e.png",Кино ТВ HD
