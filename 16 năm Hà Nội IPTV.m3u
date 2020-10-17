@@ -61,6 +61,10 @@ http://hls111.dszbdq.cn/kbs.php?id=24
 http://222.234.50.24:9981/stream/channelid/1547368515
 #EXTINF:-1  tvg-id="Hà Nội IPTV 15 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15846.png",Hà Nội IPTV 15 - SBS CNBC
 http://220.85.148.178:9981/stream/channelid/11
+#EXTINF:-1  tvg-id="CCTV13 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
+http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-id="CCTV4 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 - Kênh Quốc tế Tiếng Trung HD
+http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.spotv.net/images/onair_spotv.png",Hà Nội IPTV 34 HD - SPOTV 4K
 http://222.234.50.24:9981/stream/channelid/53987192
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",Hà Nội IPTV 34+ HD - SPOTV Golf & Health 4K
@@ -123,7 +127,9 @@ http://59.28.86.246:9981/stream/channelid/84
 http://220.85.148.178:9981/playlist/channelid/86
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 30 - On Style HD
 http://59.28.86.246:9981/playlist/channelid/53
-#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 - Kênh thông tin tình hình Covid-19 Hà Nội HD
+#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
+http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 - Đại hội Đảng bộ tỉnh Hải Dương lần thứ XVII nhiệm kỳ 2020 - 2025
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
 http://mediaiptvshare.duckdns.org:8889/rtp/232.84.1.143:8832
@@ -484,7 +490,7 @@ http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1  tvg-id="Bến Tre" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT_2020.webp",THBT - Truyền hình Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1  tvg-id="An Giang" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV_HD_An_Giang.png",ATV - Truyền hình An Giang
-http://221.133.9.35:1935/live/1.stream_240p/chunklist.m3u8
+http://221.133.9.35:1935/live/1.stream_360p/chunklist_w1279869539.m3u8
 #EXTINF:-1  tvg-id="Cần Thơ HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTPCT_HD_Logo_2020.png",THTPCT - Truyền hình Thành phố Cần Thơ HD
 https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1  tvg-id="Hậu Giang HD" group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944966358.png",HGTV - Truyền hình Hậu Giang HD
@@ -1153,6 +1159,8 @@ http://203.171.21.203:1935/radio/dongnai_aac/chunklist_w1080408476.m3u8
 http://113.163.216.23:1935/live/radio1.sdp_audio/chunklist_w505420977.m3u8
 #EXTINF:-1  tvg-id="Tiền Giang FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_THTG.webp",THTGFM 96.2 - Phát thanh Tiền Giang HD
 http://thtg.vn:8002/radiolive.m3u8
+#EXTINF:-1  tvg-id="Đồng Tháp FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%253FT1_HD.png",THĐTFM - Phát thanh Đồng Tháp HD
+https://202.43.109.144:1935/thdtradio/thdtradio/chunklist_w1680680637.m3u8
 #EXTINF:-1  tvg-id="Sóc Trăng FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV_Soc_Trang.png",STFM 100.4 - Phát thanh Sóc Trăng HD
 http://115.78.3.164:8135/liveeventf.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGFM - Phát thanh Hà Giang
@@ -1163,8 +1171,6 @@ http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212288
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道 - Kênh Giải trí HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 - Kênh Quốc tế Tiếng Trung HD
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道 - Kênh Thể thao HD
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道 - Kênh Thể thao và Trận đấu HD
@@ -1177,14 +1183,10 @@ http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道 - Kênh Ký sự HD
 http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道 - Kênh Kịch HD
 http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道 - Kênh Xã hội và Pháp luật HD
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
-http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道- Kênh Thiếu nhi HD
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道 - Kênh Âm nhạc HD
