@@ -51,6 +51,8 @@ http://222.234.50.24:9981/stream/channelid/275582969
 http://222.234.50.24:9981/stream/channelid/1139023168
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Hà Nội IPTV 8 - Channel A HD
 http://222.234.50.24:9981/stream/channelid/354274814
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道 - Truyền hình Quảng Châu HD
+http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV Live On 2 HD" group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258810807.png",Live ON3 - YTN HD
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV Live On 2 HD" group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258825131.png",Live ON4 - 연합뉴스TV HD
@@ -65,6 +67,10 @@ http://220.85.148.178:9981/stream/channelid/11
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  tvg-id="CCTV4 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道 - Kênh Quốc tế Tiếng Trung HD
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道 - Truyền hình Quảng Châu 2 HD (Kênh Trực tiếp Quảng Châu HD)
+http://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道 - Truyền hình Quảng Châu 6 HD (Kênh Pháp luật HD)
+http://aplay.gztv.com/sec/jingji.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.spotv.net/images/onair_spotv.png",Hà Nội IPTV 34 HD - SPOTV 4K
 http://222.234.50.24:9981/stream/channelid/53987192
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",Hà Nội IPTV 34+ HD - SPOTV Golf & Health 4K
@@ -75,10 +81,14 @@ http://220.85.148.178:9981/playlist/channelid/5
 http://220.85.148.178:9981/playlist/channelid/6
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png",Hà Nội IPTV 37 - MBC Sports Plus HD
 http://220.85.148.178:9981/playlist/channelid/52
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道 - Truyền hình Quảng Châu 3 HD (Kênh Cuộc thi HD)
+http://aplay.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png",Hà Nội IPTV 12 - Tooniverse HD
 http://220.85.148.178:9981/playlist/channelid/10
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://www.kbsn.co.kr/images/ch_kids.png",Hà Nội IPTV 38 - KBS Kids
 http://hls111.dszbdq.cn/kbs.php?id=kids
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV7/GZTV7.jpg?1",广州少儿频道 - Truyền hình Quảng Châu 7 HD (Kênh Thiếu nhi tiếng Quảng Đông HD)
+http://aplay.gztv.com/sec/shaoer.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 16 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C43242.png",Hà Nội IPTV 16 - SBS MTV HD
 http://211.178.72.29:9981/stream/channelid/809468215
 #EXTINF:-1  tvg-id="Hà Nội IPTV 19 HD" group-title="KÊNH HD" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_05.png",Hà Nội IPTV 19 - MBCM HD
@@ -103,6 +113,8 @@ http://220.85.148.178:9981/playlist/channelid/34
 http://220.85.148.178:9981/playlist/channelid/36
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7feded1500225150044.png",Hà Nội IPTV 35 HD - Screen 4K
 http://222.234.50.24:9981/stream/channelid/1378776160
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道 - Truyền hình Quảng Châu 4 (Kênh Phim truyện tiếng Quảng Đông HD)
+http://aplay.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 21 HD" group-title="KÊNH HD" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png",Hà Nội IPTV 21 - XtvN HD
 http://220.85.148.178:9981/playlist/channelid/48
 #EXTINF:-1  tvg-id="Hà Nội IPTV 14 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png",Hà Nội IPTV 14 - SBS funE
@@ -125,6 +137,8 @@ http://220.85.148.178:9981/stream/channelid/100
 http://59.28.86.246:9981/stream/channelid/84
 #EXTINF:-1  tvg-id="Hà Nội IPTV 29 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 29 - Olive HD
 http://220.85.148.178:9981/playlist/channelid/86
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",河内IPTV 31+ - 南国都市4K频道 (Kênh Đô thị Nam Quốc 4K)
+http://aplay.gztv.com/sec/shenghuo.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 30 - On Style HD
 http://59.28.86.246:9981/playlist/channelid/53
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
@@ -448,7 +462,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  tvg-id="Phú Thọ HD" group-title="KÊNH HD" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/08/Ph%C3%BA-Th%E1%BB%8D-HD.png",PTV - Truyền hình Phú Thọ HD
 https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="Thanh Hóa HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_TTV_HD.png",TTV - Truyền hình Thanh Hóa HD
-http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
+https://yamcode.com/raw/RK2vmQnPHn
 #EXTINF:-1  tvg-id="Hà Tĩnh HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/492375-ha-tinh.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  tvg-id="Quảng Bình HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",QBTV - Truyền hình Quảng Bình HD
@@ -1495,6 +1509,8 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226117/1000010000000006000000000235
 rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1",福建少儿频道 - Truyền hình Phúc Kiến 9 (Kênh Thiếu nhi)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",峨眉电影频道 - Kênh điện ảnh Nga Mi HD
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游频道 - Truyền hình Tứ Xuyên 2 HD (Kênh Văn hóa và Du lịch HD)
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031583013117037.png",四川经济频道 - Truyền hình Tứ Xuyên 3 HD (Kênh Kinh tế HD)
@@ -1511,8 +1527,12 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031601081372735.png",四川科教频道 (Kênh Khoa giáo)
 http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/d98ad37763a24f05be5112a7aab62c63-1.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",四川峨眉电影高清
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合频道 - Truyền hình Bông Dương HD
+http://hls111.dszbdq.cn/scmy.php?id=4
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道 - Truyền hình Bông Dương 2 HD (Kênh công cộng HD)
+http://hls111.dszbdq.cn/scmy.php?id=3
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道 - Truyền hình Bông Dương 3 HD (Kênh công nghệ HD)
+http://hls111.dszbdq.cn/scmy.php?id=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Viasat_Explore_HD.png",Viasat Explore HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/bw5000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Viasat_History.png",Viasat History HD
@@ -4812,12 +4832,8 @@ http://dslive.grtn.cn/mzzh/sd/live.m3u8
 http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道
 http://27.36.62.163:9090/live/gzeconomic_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道高清
-http://aplay.gztv.com/sec/jingji.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV7/GZTV7.jpg?1",广州少儿频道
 http://27.36.62.163:9090/live/gzchild_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV7/GZTV7.jpg?1",广州少儿频道高清
-http://aplay.gztv.com/sec/shaoer.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",广州购物频道
 http://aplay.gztv.com/sec/gouwu.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo=" ",羊城交通广播电台
@@ -6054,12 +6070,6 @@ rtmp://scdytv.com/live/m_xwpd_livevideo
 rtmp://scdytv.com/live/m_ggpd_livevideo
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/MZXWZH/MZXWZH.jpg?1",绵竹电视台
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合高清
-http://www.qqdszb.com/play/scmy.php?id=1
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
-http://www.qqdszb.com/play/scmy.php?id=2
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道高清
-http://www.qqdszb.com/play/scmy.php?id=3
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",安州新闻综合高清
 http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",安州公共频道高清
@@ -6516,32 +6526,22 @@ http://27.36.62.163:9090/live/gdnanfang_1500.m3u8?ci=123&srchost=172.16.149.181:
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道
 http://27.36.62.163:9090/live/guangzhou_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道高清
-http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道高清 （广州联通）
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="活动直播" tvg-logo="https://channel.gztv.com/channelf/site/rest/avatar/stream/download/5c983a26e4b041722635d47c?1555398115486",中国城市报道
 http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道（直播广州）
 http://27.36.62.163:9090/live/gznews_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道（直播广州）高清
-http://aplay.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道（直播广州）高清 （广州联通）
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道
 http://27.36.62.163:9090/live/gzcompetition_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清
-http://aplay.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清 （广州联通）
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=0&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道
 http://27.36.62.163:9090/live/gzfilms_1500.m3u8?ci=123&srchost=172.16.149.181:8060
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道高清
-http://aplay.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道高清 （广州联通）
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",南国都市4K超高清
-http://aplay.gztv.com/sec/shenghuo.m3u8
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",南国都市4K超高清 （广东广电网络）
 http://27.36.62.163:9090/live/gzlife_1500.m3u8?ci=123&srchost=172.16.149.181:8060
 #EXTINF:-1 group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",南国都市4K超高清 （广州联通）
