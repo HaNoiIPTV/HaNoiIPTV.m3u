@@ -499,7 +499,7 @@ http://mediaiptvshare.duckdns.org:8889/rtp/232.84.3.135:10476
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist.m3u8
 #EXTINF:-1  tvg-id="Đồng Tháp HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%253FT1_HD.png",THĐT1 - Truyền hình Đồng Tháp HD
 http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
-#EXTINF:-1  tvg-id="Tiền Giang" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_THTG.webp",THTG - Truyền hình Tiền Giang
+#EXTINF:-1  tvg-id="Tiền Giang HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_THTG.webp",THTG - Truyền hình Tiền Giang HD
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1  tvg-id="Bến Tre" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT_2020.webp",THBT - Truyền hình Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
