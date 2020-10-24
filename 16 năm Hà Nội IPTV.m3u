@@ -137,14 +137,14 @@ http://220.85.148.178:9981/stream/channelid/100
 http://59.28.86.246:9981/stream/channelid/84
 #EXTINF:-1  tvg-id="Hà Nội IPTV 29 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 29 - Olive HD
 http://59.28.86.246:9981/playlist/channelid/37
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",河内IPTV 31+ - 南国都市4K频道 (Kênh Đô thị Nam Quốc 4K)
-http://aplay.gztv.com/sec/shenghuo.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 30 - On Style HD
 http://59.28.86.246:9981/playlist/channelid/53
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",河内IPTV 31+ - 南国都市4K频道 (Kênh Đô thị Nam Quốc 4K)
+http://aplay.gztv.com/sec/shenghuo.m3u8
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 - Đại hội Đảng bộ tỉnh Hải Dương lần thứ XVII nhiệm kỳ 2020 - 2025
-https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="https://imgstatic.vtvcab.vn/logos/GIAITRI_TV_HD_M.png",VTVCab1 - Vie Giải Trí HD
 http://mediaiptvshare.duckdns.org:8889/rtp/232.84.1.143:8832
 #EXTINF:-1  group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
@@ -234,7 +234,7 @@ http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  tvg-id="THP+ HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B_HD.webp",THP+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-id="THP - TH Hải Phòng HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_HD_Hai_Phong.webp",THP - Truyền hình Hải Phòng HD
-https://live.thhp.vn:8443/hls/thp/index.m3u8
+https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1  tvg-id="TH Hà Nội 1 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV1_%25282016-present%2529.png",Truyền hình Hà Nội 1 HD
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH Hà Nội 2 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HanoiTV2_%25282016-present%2529.png",Truyền hình Hà Nội 2 HD
@@ -1134,7 +1134,7 @@ http://113.191.41.62/live.m3u8?c=vstv362&q=high&type=tv&token=1111&time=15863958
 #EXTINF:-1  tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu
 http://118.69.205.213/thbl/thbl.m3u8
 #EXTINF:-1  tvg-id="Hải Phòng FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_Hai_Phong.png",THPFM 93.7 - Phát thanh Hải Phòng HD
-https://live.thhp.vn:8443/radio/937/index.m3u8
+https://live.thhp.vn/937/index.m3u8
 #EXTINF:-1  tvg-id="THP+ FM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%252B_Hai_Phong.png",THPFM 102 - Phát thanh Hải Phòng HD
 https://live.thhp.vn/radio/102/index.m3u8
 #EXTINF:-1  tvg-id="Nghệ An FM" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565948242353.png",VON - Phát thanh Nghệ An HD
