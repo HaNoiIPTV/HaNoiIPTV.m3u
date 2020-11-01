@@ -382,9 +382,9 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%
 #EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 5 - JTBC HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20JTBC%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 7 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png",Hà Nội IPTV 7 - TV Chosun HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV%EC%A1%B0%EC%84%A0%20HD.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%207%20-%20TV%20Chosun%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01583.png",Hà Nội IPTV 8 - Channel A HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EC%B1%84%EB%84%90A%20HD.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%208%20-%20Channel%20A%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564483993756.png",Baby TV HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Baby%20TV%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/112.png?rand=652",Baby First
@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/tvN.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 23 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MNet%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 1 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS2%20HD.m3u8
+http://222.234.50.24:9981/stream/channelid/2077392871
 #EXTINF:-1  tvg-id="Hà Nội IPTV 2 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
 http://222.234.50.24:9981/stream/channelid/1370053255
 #EXTINF:-1  tvg-id="Hà Nội IPTV 3 HD" group-title="KÊNH HD" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
@@ -440,7 +440,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%9D%B1%E6%A3
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道 - Truyền hình Quảng Châu HD
 http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 9 - KBS1 HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258825131.png",Live ON4 HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS1%20HD.m3u8
+http://222.234.50.24:9981/stream/channelid/1547368515
 #EXTINF:-1  tvg-id="Hà Nội IPTV 15 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15846.png",Hà Nội IPTV 15 - SBS CNBC
 http://220.85.148.178:9981/stream/channelid/11
 #EXTINF:-1  tvg-id="CCTV13 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
