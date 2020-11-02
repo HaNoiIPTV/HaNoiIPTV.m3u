@@ -1049,8 +1049,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGTV - Truyền hình Hà Giang
 https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/241.png",Truyền hình Lào Cai HD
-http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1  tvg-logo="http://laocaitv.vn/lib/images/footer-logo.png",Truyền hình Lào Cai HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/251.png",LTV - Truyền hình Lai Châu
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u%20SD.m3u8
 #EXTINF:-1  tvg-logo="https://mytv.com.vn/upload/channel/261.png",STV - Truyền hình Sơn La HD
