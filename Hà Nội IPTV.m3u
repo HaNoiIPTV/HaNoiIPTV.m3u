@@ -4,9 +4,9 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0 HD" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Hà Nội IPTV 0 - Kênh 16 năm HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%2016%20n%C4%83m%20H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.mp4
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%201%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0+ HD" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Hà Nội IPTV 0+ - Kênh thời sự & giải trí HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%9Di%20s%E1%BB%B1%20%26%20gi%E1%BA%A3i%20tr%C3%AD%20H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.mp4
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%202%20HD.m3u8
 #EXTINF:-1  tvg-id="VTV1 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="VTV2 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2_HD.png",VTV2 HD
