@@ -420,9 +420,9 @@ https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV6HD.smil/chunklist_w619062
 #EXTINF:-1  tvg-id="Hà Nội IPTV 4" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",Hà Nội IPTV 4 - tvN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/tvN.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 23 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MNet%20HD.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2023%20-%20MNet%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 1 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
-http://222.234.50.24:9981/stream/channelid/2077392871
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%209%20-%20KBS1%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 2 HD" group-title="KÊNH HD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
 http://222.234.50.24:9981/stream/channelid/1370053255
 #EXTINF:-1  tvg-id="Hà Nội IPTV 3 HD" group-title="KÊNH HD" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
@@ -442,7 +442,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%9D%B1%E6%A3
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道 - Truyền hình Quảng Châu HD
 http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 9 - KBS1 HD" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258825131.png",Live ON4 HD
-http://222.234.50.24:9981/stream/channelid/1547368515
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%209%20-%20KBS1%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 15 HD" group-title="KÊNH HD" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15846.png",Hà Nội IPTV 15 - SBS CNBC
 http://220.85.148.178:9981/stream/channelid/11
 #EXTINF:-1  tvg-id="CCTV13 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
@@ -1430,7 +1430,7 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视 - Truyền hình Hắc Long Giang HD
 http://117.148.187.88/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视 - Truyền hình Hà Nam HD
-http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.m3u8
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视 - Truyền hình Ninh Hạ HD
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1  group-title="KÊNH HD" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视 - Truyền hình Sơn Tây HD
@@ -1675,6 +1675,12 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226117/1000010000000006000000000235
 rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1",福建少儿频道 - Truyền hình Phúc Kiến 9 (Kênh Thiếu nhi)
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道 - Truyền hình Hà Nam 2 HD (Kênh Đô thị HD)
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV5/HNTV5.jpg?1",河南电视剧频道 - Truyền hình Hà Nam 5 HD (Kênh Phim truyện HD)
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV8/HNTV8.jpg?1",河南公共频道 - Truyền hình Hà Nam 8 HD (Kênh Công cộng HD)
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",峨眉电影频道 - Kênh điện ảnh Nga Mi HD
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://www.sctv.com/live/pdmk/pdnav/201801/W020181031582930276337.png",四川文化旅游频道 - Truyền hình Tứ Xuyên 2 HD (Kênh Văn hóa và Du lịch HD)
@@ -3288,8 +3294,6 @@ http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 http://117.169.120.130:8080/live/henanstv/1.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视 （成都电信）
 http://182.138.51.79/PLTV/88888920/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/5f2e8db68d814949a271a03aa4694244_transios.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （大连天途有线）
 http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000312.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV1/HNTV1.jpg?1",河南卫视高清 （大学线路）
@@ -5502,22 +5506,16 @@ http://ms3.yichuntv.com/live/e5d7b4b95cf849d79fa3964431dca1f3?fmt=h264_800k_flv
 http://stream.mdjmtv.com/jyt/sd/live.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://bkimg.cdn.bcebos.com/pic/91529822720e0cf3066a1ba30546f21fbf09aacd?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg",七台河新闻综合频道
 rtmp://vod.qthtv.com/live/live2
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道高清
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/e775d12dd48d4731ae8bdea77dd1e9f9_transios.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV3/HNTV3.jpg?1",河南民生频道
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/6b5076ef2e1f4185b629d3d3db4fb476_transios.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV4/HNTV4.jpg?1",河南法治频道
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/88464421a8cd4ae88199f19b4c27ff0d_transios.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV5/HNTV5.jpg?1",河南电视剧高清
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV6/HNTV6.jpg?1",河南新闻频道
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV7/HNTV7.jpg?1",河南欢腾购物频道
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/b40a111425134d96ada9257d6060d19e_transios.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV8/HNTV8.jpg?1",河南公共频道高清
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/64eed945d15c4a55b5962ea3da44f80f_transios.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV9/HNTV9.jpg?1",河南新农村频道
-http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV9/HNTV9.jpg?1",河南乡村频道
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNGJ/HNGJ.jpg?1",河南国际频道
 http://110.42.104.112:299/push.tv.stream3.hndt.com/tv/d7d843b7f7f649d39bc57c8d29e9fe33_transios.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CCTVPAYFEE20/CCTVPAYFEE20.jpg?1",河南梨园频道
