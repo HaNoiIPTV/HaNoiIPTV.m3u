@@ -291,12 +291,12 @@ http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  tvg-id="QBTV - TH Quảng Bình HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Qbtvhdlogopresent.png",QBTV - Truyền hình Quảng Bình HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.m3u8
-#EXTINF:-1  tvg-id="TRT - TH Thừa Thiên Huế" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên - Huế
+#EXTINF:-1  tvg-id="TRT - TH Thừa Thiên Huế" group-title="KÊNH DẠY HỌC TRỰC TUYẾN" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944976400.png",TRT - Truyền hình Thừa Thiên Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="DRT1 - TH Đà Nẵng 1 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_1_HD.png",Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1  tvg-id="DRT2 - TH Đà Nẵng 2 HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DaNangTV_2_HD_%25282019-present%2529.png",Đà Nẵng TV 2 - Truyền hình Đà Nẵng 2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT2%20(%C4%90%C3%A0%20N%E1%BA%B5ng%20TV%202)%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20HD.m3u8
 #EXTINF:-1  tvg-id="KTV - TH Khánh Hòa HD" group-title="KÊNH HD" tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png",KTV - Truyền hình Khánh Hòa HD
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1  tvg-id="NTV - TH Ninh Thuận HD" group-title="KÊNH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_HD_Ninh_Thuan.webp",NTV - Truyền hình Ninh Thuận HD
