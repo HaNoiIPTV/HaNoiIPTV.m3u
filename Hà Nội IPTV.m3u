@@ -610,7 +610,7 @@ rtmp://shoppingflv.x-cdn.com/shoplive/_definst_/live1.stream
 #EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258680516.png",Live ON1 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20ti%E1%BA%BFt.m3u8
 #EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258791618.png",Live ON2 HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV%20HD.mpeg
+http://110.8.188.38:9981/stream/channelid/30
 #EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258810807.png",Live ON3 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
 #EXTINF:-1  tvg-id="VTV1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
