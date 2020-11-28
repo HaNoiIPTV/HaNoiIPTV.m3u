@@ -1,4 +1,2 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://hls222.dszbdq.cn/kbs.php?id=2
+#EXTINF:0 type="stream" channelId="-1"
+http://61.105.240.46:9981/stream/channelid/209791679
