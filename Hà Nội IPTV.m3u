@@ -3,6 +3,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
+http://211.203.0.244:9981/stream/channelid/224032616
+
+http://211.203.0.244:9981/stream/channelid/1333821148
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0 HD" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Hà Nội IPTV 0 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 0+ HD" tvg-logo="https://image.winudf.com/v2/image1/cnUuaXB0dnJlbW90ZS5hbmRyb2lkLmlwdHZfaWNvbl8xNTc2MDcwMTgxXzA0Mw/icon.png?w=130&fakeurl=1",Hà Nội IPTV 0+ HD
@@ -263,7 +266,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/photo.png",HiTV - HanoiCab
 http://14.249.43.94:8889/rtp/232.84.1.55:8310
-#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc HD
+#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-id="BNTV - TH Bắc Ninh HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
@@ -424,11 +427,11 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/tvN.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 23 HD - Kênh 37" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 23 - MNet HD
 http://59.28.86.246:9981/stream/channelid/31
 #EXTINF:-1  tvg-id="Hà Nội IPTV 1 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/15e95b9600224104936.png",Hà Nội IPTV 1 - KBS2 HD
-http://61.105.240.46:9981/stream/channelid/209791679
+http://211.203.0.244:9981/stream/channelid/430506903
 #EXTINF:-1  tvg-id="Hà Nội IPTV 2 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/5.png",Hà Nội IPTV 2 - SBS HD
-http://61.105.240.46:9981/stream/channelid/141423817
+http://211.203.0.244:9981/stream/channelid/2067997377
 #EXTINF:-1  tvg-id="Hà Nội IPTV 3 HD" group-title="HÀ NỘI IPTV" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
-http://61.105.240.46:9981/stream/channelid/494055667
+http://211.203.0.244:9981/stream/channelid/1574501058
 #EXTINF:-1  tvg-id="Hà Nội IPTV 20 HD - Kênh 61" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 20 - OBS HD
 http://110.8.188.38:9981/stream/channelid/61
 #EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 5 - JTBC
@@ -454,7 +457,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%9D%B1%E6%A3
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道 - Truyền hình Quảng Châu HD
 http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 9 - KBS1 HD" group-title="KÊNH TRỰC TIẾP" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258825131.png",Live ON4 HD
-http://61.105.240.46:9981/stream/channelid/76484598
+http://211.203.0.244:9981/stream/channelid/1387682352
 #EXTINF:-1  group-title="KÊNH QUỐC TẾ" tvg-logo="https://www.trtworld.com/images/logo.svg",TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-id="CCTV13 HD" group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道 - Kênh Thời sự HD
@@ -499,14 +502,14 @@ http://59.28.86.246:9981/stream/channelid/68
 http://110.8.188.38:9981/stream/channelid/25
 #EXTINF:-1  tvg-id="87" group-title="港澳台電視直播頻道" tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",緯來育樂台 HD
 rtmp://59.124.75.156/sat/tv701
-#EXTINF:-1  tvg-id="Hà Nội IPTV 24 HD - Kênh 34" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/21.png",Hà Nội IPTV 24 - OCN HD
-http://59.28.86.246:9981/stream/channelid/30
-#EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD - Kênh 36" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/13b0012700302094654.png",Hà Nội IPTV 25 - OCN Movies HD
-http://59.28.86.246:9981/stream/channelid/29
+#EXTINF:-1  tvg-id="Hà Nội IPTV 24 HD - Kênh 34/30" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/21.png",Hà Nội IPTV 24 - OCN HD
+http://211.203.0.244:9981/stream/channelid/454479581
+#EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD - Kênh 36/29" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/13b0012700302094654.png",Hà Nội IPTV 25 - OCN Movies HD
+http://211.203.0.244:9981/stream/channelid/87207488
 #EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD - Kênh 35" group-title="HÀ NỘI IPTV" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png",Hà Nội IPTV 25+ - OCN Thrils HD
-http://59.28.86.246:9981/stream/channelid/35
-#EXTINF:-1  tvg-id="Hà Nội IPTV 35 HD - Kênh 4" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7feded1500225150044.png",Hà Nội IPTV 35 - Screen HD
-http://59.28.86.246:9981/stream/channelid/38
+http://211.203.0.244:9981/stream/channelid/1406402677
+#EXTINF:-1  tvg-id="Hà Nội IPTV 35 HD - Kênh 4/38" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7feded1500225150044.png",Hà Nội IPTV 35 - Screen HD
+http://211.203.0.244:9981/stream/channelid/1137398330
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_w.png",Hà Nội IPTV 31 - KBSW HD
 http://110.8.188.38:9981/stream/channelid/1
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台 （馬來西亞）
@@ -580,23 +583,23 @@ http://59.6.98.191:9981/stream/channelid/349427632
 #EXTINF:-1  group-title="CCTV (Thử nghiệm)" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道 - Kênh Khoa giáo HD
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-id="Hà Nội IPTV 34 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotv.png",SPOTV - Kênh Thể thao HD
-http://59.28.86.246:9981/stream/channelid/69
-#EXTINF:-1  tvg-id="Hà Nội IPTV 8+ HD" group-title="HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",SPOTV Golf & Sức khỏe HD
-http://222.234.50.24:9981/stream/channelid/1761670292
+http://211.203.0.244:9981/stream/channelid/32768418
+#EXTINF:-1  tvg-id="Hà Nội IPTV 8+ HD" group-title="HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",SPOTV Golf & Health HD
+http://211.203.0.244:9981/stream/channelid/1476543686
 #EXTINF:-1  tvg-id="Hà Nội IPTV 12 HD - Kênh 5" group-title="HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",KBSN Sports HD
-http://59.28.86.246:9981/stream/channelid/86
+http://211.203.0.244:9981/stream/channelid/1874916628
 #EXTINF:-1  tvg-id="Hà Nội IPTV 36 HD - Kênh 6" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",SBS Sports HD
-http://59.28.86.246:9981/stream/channelid/59
+http://211.203.0.244:9981/stream/channelid/1821813903
 #EXTINF:-1  tvg-id="Hà Nội IPTV 37 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png",MBC Sports Plus HD
-http://59.28.86.246:9981/stream/channelid/87
+http://211.203.0.244:9981/stream/channelid/492920879
 #EXTINF:-1  tvg-id="Hà Nội IPTV 39 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00805.png",JTBC Golf & Sports HD
 http://59.28.86.246:9981/stream/channelid/57
 #EXTINF:-1  tvg-id="Hà Nội IPTV 34+ HD" group-title="HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotv_2.png",SPOTV2 - Kênh Thể thao HD
-http://59.28.86.246:9981/stream/channelid/58
-#EXTINF:-1  tvg-id="Hà Nội IPTV 41 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/298ece5481105100844.png",SBS Golf
-http://110.8.188.38:9981/stream/channelid/21
+http://211.203.0.244:9981/stream/channelid/784633781
+#EXTINF:-1  tvg-id="Hà Nội IPTV 41 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/298ece5481105100844.png",SBS Golf HD
+http://211.203.0.244:9981/stream/channelid/28955057
 #EXTINF:-1  tvg-id="Hà Nội IPTV 40 HD" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00588.png",JTBC Golf HD
-http://110.8.188.38:9981/stream/channelid/97
+http://211.203.0.244:9981/stream/channelid/1533445258
 #EXTINF:-1  tvg-id="72" group-title="港澳台電視直播頻道" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道 - Truyền hình Quảng Châu 3 HD (Kênh Cuộc thi HD)
