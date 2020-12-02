@@ -631,8 +631,8 @@ http://14.249.43.94:8889/rtp/232.84.3.123:9168
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Tuyen-Quang-HD.png",TTV - Truyền hình Tuyên Quang HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tuy%C3%AAn%20Quang%20HD.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/231.png",HGTV - Truyền hình Hà Giang
-https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truyen_hinh_ha_giang%25282%2529.PNG.png",HGTV - Truyền hình Hà Giang
+http://113.162.84.113:8080/hls/fm/index.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://laocaitv.vn/lib/images/footer-logo.png",Truyền hình Lào Cai HD
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/251.png",LTV - Truyền hình Lai Châu
@@ -649,15 +649,15 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",DRT - Truyền hình Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/481.png",PTD - Truyền hình Đắk Nông
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTD_Dak_Nong.png",PTD - Truyền hình Đắk Nông
 http://14.249.43.94:8889/rtp/232.84.3.140:8874
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/969202-Lamdong.png",LTV - Truyền hình Lâm Đồng HD
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV_Lam_Dong.png",LTV - Truyền hình Lâm Đồng HD
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png",LA34 - Truyền hình Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/KG_Kien_Giang.png/revision/latest/scale-to-width-down/220?cb=20200622095543",KG - Truyền hình Kiên Giang
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG_Kien_Giang.png",KG - Truyền hình Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/KG_Kien_Giang.png/revision/latest/scale-to-width-down/220?cb=20200622095543",KG1 - Truyền hình Kiên Giang
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG1_Kien_Giang.png",KG1 - Truyền hình Kiên Giang
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/691.png",CTV - Truyền hình Cà Mau
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau%20HD.m3u8
@@ -665,13 +665,13 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTV%20-%20Truy%
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://quangngaitv.vn/images/no_pic.png",PTQ - Truyền hình Quảng Ngãi HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i%20HD.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/BTV_Binh_Dinh_Logo_16-9.png/revision/latest/scale-to-width-down/150?cb=20200729003105",BTV - Truyền hình Bình Định
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV_Binh_Dinh_Logo_16-9.png",BTV - Truyền hình Bình Định
 https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP - Truyền hình Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png",KRT - Truyền hình Kon Tum
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/821.png",KRT - Truyền hình Kon Tum
 http://117.2.88.22/tv/kontumtv.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/STV1_Soc_Trang.png/revision/latest/scale-to-width-down/220?cb=20200902112601",STV1 - Truyền hình Sóc Trăng
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1_Soc_Trang.png",STV1 - Truyền hình Sóc Trăng
 https://livecdn.fptplay.net/sda/soctrang_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV_HD.png",Truyền hình Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist_b2500000.m3u8
@@ -683,7 +683,7 @@ https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist_b2500000.m3u8
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png",QRT - Truyền hình Quảng Nam HD
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Logo_k%C3%AAnh_BPTV2.png/revision/latest/scale-to-width-down/220?cb=20200715080251",BPTV2 - Home TV
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_k%253Fnh_BPTV2.png",BPTV2 - Home TV
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
