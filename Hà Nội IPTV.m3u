@@ -110,7 +110,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist_b2500000.m
 #EXTINF:-1  group-title="KÊNH THỂ THAO" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/211.png?rand=395",Fox Sports 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="Internal use: Sử dụng nội bộ" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://mytv.com.vn/upload/channel/phpoFg1VQ_5d7659f638821.png",K+1 HD
-http://51.79.140.243/k+1_hd/index.m3u8
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC" tvg-logo="https://mytv.com.vn/upload/channel/phpO3oCDF_5d765a11e9783.png",K+NS HD
 http://51.79.140.243/k+ns_hd/index.m3u8
 #EXTINF:-1  tvg-id="Internal use: Sử dụng nội bộ" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png",K+PM HD
@@ -263,7 +263,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/photo.png",HiTV - HanoiCab
 http://113.180.52.128:13579/rtp/232.84.1.55:8310
-#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc HD
+#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-id="BNTV - TH Bắc Ninh HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
@@ -662,7 +662,7 @@ https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTD_Dak_Nong.png",PTD - Truyền hình Đắk Nông
 http://113.180.52.128:13579/rtp/232.84.3.140:8874
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV_Lam_Dong.png",LTV - Truyền hình Lâm Đồng HD
-https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist_b2500000.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png",LA34 - Truyền hình Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG_Kien_Giang.png",KG - Truyền hình Kiên Giang
