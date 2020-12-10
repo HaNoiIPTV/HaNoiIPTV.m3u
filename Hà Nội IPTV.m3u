@@ -264,7 +264,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1  tvg-id="HiTV" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_HITV_from_2013.png",HiTV - Hanoicab 1
 http://113.178.113.65:11357/rtp/232.84.1.55:8310
-#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc
+#EXTINF:-1  tvg-id="VP - TH Vĩnh Phúc HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-id="BNTV - TH Bắc Ninh HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/bacninhhd_vdsl.png",BTV - Truyền hình Bắc Ninh HD
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
