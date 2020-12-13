@@ -357,8 +357,8 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/252.png?rand=576",BBC EARTH
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="Hà Nội IPTV 6" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 6 - MBN
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MBN.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korean_Central_Television_2005.svg/revision/latest/scale-to-width-down/200?cb=20180426214949",Đài Truyền hình Trung ương Triều Tiên
+http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://www.disneychannel.ca/wp-content/themes/disney-child/assets/icons/sitelogo.png",Disney Channel
 http://iptvtree.net:8080/b6e3415f/21292aad/157482
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/12/2018/05/29143450/DisneyJr_NavLogo_202x72.png",Disney Junior
@@ -555,10 +555,12 @@ http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4/c
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://dmb.ytn.co.kr/img/top/new_dmblogo.gif",YTN DMB HD
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/chunklist_w1064468191.m3u8
-#EXTINF:-1  tvg-id="Hà Nội IPTV 4" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",Hà Nội IPTV 5 - tvN
+#EXTINF:-1  tvg-id="Hà Nội IPTV 5" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",Hà Nội IPTV 5 - tvN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/tvN.m3u8
-#EXTINF:-1  tvg-id="Hà Nội IPTV 5" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 7 - JTBC
+#EXTINF:-1  tvg-id="Hà Nội IPTV 7" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 7 - JTBC
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/JTBC.m3u8
+#EXTINF:-1  tvg-id="Hà Nội IPTV 8" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png",Hà Nội IPTV 8 - MBN
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MBN.m3u8
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png",Hà Nội IPTV 48 - CJO Shopping
 http://cjmall.live.cdn.visioncloud.co.kr/cjmalllive/stream3/chunklist_w23852317.m3u8
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/4bed76ac71207101533.png",Hà Nội IPTV 53 - NS Shop
@@ -7474,8 +7476,6 @@ http://111.13.111.192/125.227.198.89:8001
 http://111.13.111.192/125.227.198.89:8001
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",中华卫视台湾台
 http://pull.leshantangjt.com/live/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Đài Truyền hình Trung ương Triều Tiên
-http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 group-title="KÊNH UHD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png",SBS F!L UHD (Thử nghiệm: Trung tâm Quản lý Hà Nội IPTV)
 http://180.66.107.179:9981/stream/channelid/1998526477
 #EXTINF:-1 group-title="KÊNH UHD" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png",SBS F!L UHD (Thử nghiệm)
