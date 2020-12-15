@@ -644,16 +644,24 @@ https://rt-usa.secure.footprint.net/1105_400Kb.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
 #EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo=" ",RT Documentary HD
 https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8?stream_start_offset=14000000&stream_dvr_window=0
-#EXTINF:-1  group-title="HÀ NỘI IPTV" tvg-logo=" ",Đài truyền hình Quốc gia Canada
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1  group-title="KÊNH THIẾT YẾU QUỐC GIA" tvg-logo=" ",An Ninh Thế Giới
-http://vod.avg.vn:1935/live/antg.stream/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/39/Logo_ANTG_HD_2019-nay.png/revision/latest/scale-to-width-down/222?cb=20201209095224&path-prefix=vi",An Ninh Thế Giới HD
+https://ott.avg.vn/live/antg/chunklist_1.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c7/Phim_hay_HD.png/revision/latest/scale-to-width-down/220?cb=20201102094743&path-prefix=vi",Phim Hay HD
+https://ott.avg.vn/live/phimhay/chunklist_1.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/VTC2_2018-2019_and_2020-present.png/revision/latest/scale-to-width-down/200?cb=20200630063802",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/VTC4_April_1%2C_2020.png/revision/latest/scale-to-width-down/200?cb=20200630024200",VTC4 HD
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/VTC4_April_1%2C_2020.png/revision/latest/scale-to-width-down/200?cb=20200630024200",VTC4 Yeah1 Family HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/VTC5_2018.png/revision/latest/scale-to-width-down/200?cb=20200821143114",VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/VTC6_HD.png/revision/latest/scale-to-width-down/200?cb=20201014130222",VTC6 HD
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/VTC8_HD.png/revision/latest/scale-to-width-down/200?cb=20201014130555",VTC8 HD
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/VTC11_logo_2018.png/revision/latest/scale-to-width-down/230?cb=20200605161634",VTC11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/VTC12_2018.png/revision/latest/scale-to-width-down/200?cb=20200821143001",VTC12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV_HD_Cao_B%253Fng.png",CRTV - Truyền hình Cao Bằng HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng.m3u8
 #EXTINF:-1  tvg-id="THP+" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%252B_Hai_Phong.png",THP+ - Truyền hình Hải Phòng 2
@@ -682,6 +690,8 @@ https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist_b2500000.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_Hai_Duong.png",HDTV - Truyền hình Hải Dương
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_Ninh_Binh.png",NBTV - Truyền hình Ninh Bình
+https://vtsstr3.tv24.vn/elive/_definst_/smil:ninhbinh_SD.smil/chunklist_w935795757_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV_Thanh_Hoa.png",TTV - Truyền hình Thanh Hóa
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/04/684797-DRT.png",DRT - Truyền hình Đắk Lắk
@@ -736,39 +746,41 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3
 rtmp://117.6.162.63/live/thvp
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://radio.ytn.co.kr/img/comm/new_footer_radio_logo.gif",Hà Nội RADIO 1 - YTN Radio HD
 rtmp://slive.ytn.co.kr/live/_definst_//fmlive_0624_1.sdp
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 - Truyền hình Trung ương HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清 - Truyền hình Trung ương HD
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 - Kênh Thời sự HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清 - Kênh Thời sự HD
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道高清 - Kênh Quốc tế Tiếng Trung HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道高清 - Kênh Quốc tế Tiếng Trung HD
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清 - Kênh Giải trí HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清 - Kênh Giải trí HD
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道高清 - Kênh Thể thao HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道高清 - Kênh Thể thao HD
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道高清 - Kênh Thể thao và Trận đấu HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道高清 - Kênh Thể thao và Trận đấu HD
 http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道高清 - Kênh Phim truyện HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道高清 - Kênh Phim truyện HD
 http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清 - Kênh Tài chính HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清 - Kênh Tài chính HD
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道高清 - Kênh Ký sự HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道高清 - Kênh Ký sự HD
 http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道高清 - Kênh Khoa giáo HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道高清 - Kênh Khoa giáo HD
 http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道高清 - Kênh Xã hội và Pháp luật HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道高清 - Kênh Xã hội và Pháp luật HD
 http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道高清 - Kênh Thiếu nhi HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道高清 - Kênh Thiếu nhi HD
 http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道高清 - Kênh Kịch HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道高清 - Kênh Kịch HD
 http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道高清 - Kênh Âm nhạc HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道高清 - Kênh Âm nhạc HD
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png",CCTV7 国防军事频道高清 - Kênh Quốc phòng và Quân sự HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-7_180817.png",CCTV7 国防军事频道高清 - Kênh Quốc phòng và Quân sự HD
 http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道高清 - Kênh Nông nghiệp và Nông thôn HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道高清 - Kênh Nông nghiệp và Nông thôn HD
 http://117.148.187.102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道高清 - Kênh Điện ảnh HD
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0",加拿大国家电视台 - Đài truyền hình Quốc gia Canada
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道高清 - Kênh Điện ảnh HD
 http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视高清 - Truyền hình Hồ Nam HD
 http://117.148.187.93/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228824/index.m3u8
@@ -836,20 +848,38 @@ http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
 #EXTINF:-1  group-title="上海市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SHHAI7/SHHAI7.jpg?1",上海都市频道高清 - Truyền hình Thượng Hải 7 HD (Kênh Đô thị HD)
 http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清 - Truyền hình Đại Liên HD
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清 - Truyền hình Đại Liên HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%A4%A7%E8%BF%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道 - Truyền hình Đại Liên 2 (Kênh Sinh hoạt)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道 - Truyền hình Đại Liên 2 (Kênh Sinh hoạt)
 http://hls333.dszbdq.cn/lndl.php?id=2
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN3/DALIAN3.jpg?1",大连公共频道 - Truyền hình Đại Liên 3 (Kênh Công cộng)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN3/DALIAN3.jpg?1",大连公共频道 - Truyền hình Đại Liên 3 (Kênh Công cộng)
 http://hls333.dszbdq.cn/lndl.php?id=3
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN1/DALIAN1.jpg?1",大连文体频道 - Truyền hình Đại Liên 4 (Kênh Phong cách)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN1/DALIAN1.jpg?1",大连文体频道 - Truyền hình Đại Liên 4 (Kênh Phong cách)
 http://hls333.dszbdq.cn/lndl.php?id=4
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN5/DALIAN5.jpg?1",大连影视频道 - Truyền hình Đại Liên 5 (Kênh Phim truyện)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN5/DALIAN5.jpg?1",大连影视频道 - Truyền hình Đại Liên 5 (Kênh Phim truyện)
 http://hls333.dszbdq.cn/lndl.php?id=5
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg?1",大连少儿频道 - Truyền hình Đại Liên 6 (Kênh Thiếu nhi)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg?1",大连少儿频道 - Truyền hình Đại Liên 6 (Kênh Thiếu nhi)
 http://hls333.dszbdq.cn/lndl.php?id=6
-#EXTINF:-1 group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN7/DALIAN7.jpg?1",大连财经频道 - Truyền hình Đại Liên 7 (Kênh Tài chính)
+#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN7/DALIAN7.jpg?1",大连财经频道 - Truyền hình Đại Liên 7 (Kênh Tài chính)
 http://hls333.dszbdq.cn/lndl.php?id=7
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV2/AHTV2.jpg?1",安徽经济生活频道
+http://zbbf2.ahtv.cn/live/750.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV3/AHTV3.jpg?1",安徽影视频道
+http://zbbf2.ahtv.cn/live/756.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV4/AHTV4.jpg?1",安徽综艺频道
+http://zbbf2.ahtv.cn/live/758.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV5/AHTV5.jpg?1",安徽公共频道
+http://zbbf2.ahtv.cn/live/752.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV6/AHTV6.jpg?1",安徽农业科教频道
+http://zbbf2.ahtv.cn/live/754.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人物频道
+http://zbbf2.ahtv.cn/live/da9.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV8/AHTV8.jpg?1",安徽国际频道
+http://zbbf2.ahtv.cn/live/dab.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",晴彩安徽频道
+http://zbbf2.ahtv.cn/live/db9.m3u8
+#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",
+http://zbbf2.ahtv.cn/live/760.m3u8
 #EXTINF:-1  group-title="福建省广播影视集团" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV1/FJTV1.jpg?1",福建综合频道高清 - Truyền hình Phúc Kiến HD
 rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
 #EXTINF:-1  group-title="福建省广播影视集团" tvg-logo="http://img1.fjtv.net/material/news/img/640x/2020/01/20200104172337Bg2s.png?pgwN",乡村振兴公共频道高清 - Truyền hình Phúc Kiến 2 HD (Kênh phục hồi nông thôn HD)
@@ -3514,22 +3544,6 @@ rtmp://live1.asihong.cn/live/shys
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHDS/AHDS.jpg?1",安徽导视频道
 http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5ED23C0BU309A0030K77359643I60518A74PBM3000E65V0Z53085W1613C9208AFEB1EB&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000031.m3u8&ts=50&auth=no
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV2/AHTV2.jpg?1",安徽经济生活频道
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV3/AHTV3.jpg?1",安徽影视频道
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV4/AHTV4.jpg?1",安徽综艺频道
-http://zbbf2.ahtv.cn/live/758.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV5/AHTV5.jpg?1",安徽公共频道
-http://zbbf2.ahtv.cn/live/752.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV6/AHTV6.jpg?1",安徽科教频道
-http://zbbf2.ahtv.cn/live/754.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人物频道
-http://zbbf2.ahtv.cn/live/da9.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV8/AHTV8.jpg?1",安徽国际频道
-http://zbbf2.ahtv.cn/live/dab.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",
-http://zbbf2.ahtv.cn/live/760.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",中国交通安徽频道
 http://tv.lanjingfm.com/cctbn/anhui.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HEFEITV1/HEFEITV1.jpg?1",合肥新闻频道
