@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv source-info-name="HaNoiIPTV" source-info-url="http://gg.gg/hanoiiptv" source-data-url="" generator-info-name="jaylinski/xmltv" generator-info-url="https://github.com/jaylinski/xmltv">
+    <channel id="vinhphuchd">
+    <display-name lang="en">VP - Truyền hình Vĩnh Phúc HD</display-name>
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_HD_Vinh_Phuc.png" width="" height=""/>
+    </channel>
+    <channel id="bacninhhd">
+    <display-name lang="en">BTV - Truyền hình Bắc Ninh HD</display-name>
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png" width="" height=""/>
+    </channel>
+    <channel id="hungyenhd">
+    <display-name lang="en">HYTV - Truyền hình Hưng Yên HD</display-name>
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%C6%B0ng_Y%C3%AAn_HD_fix.png" width="" height=""/>
+    </channel>
+    <channel id="haiduonghd">
+    <display-name lang="en">HDTV - Truyền hình Hải Dương HD</display-name>
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%C6%B0ng_Y%C3%AAn_HD_fix.png" width="" height=""/>
+    </channel>
+    <programme start="20200012019230000 +0700" stop="2020012019232000 +0700" channel="hungyenhd">
+    <title lang="en">LỰC LƯỢNG VŨ TRANG HƯNG YÊN</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012019230000 +0700" stop="2020012019232000 +0700" channel="hungyenhd">
+    <title lang="en">THỜI SỰ HƯNG YÊN</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012019232000 +0700" stop="2020012019232500 +0700" channel="hungyenhd">
+    <title lang="en">BẢN TIN QUỐC TẾ</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012019232500 +0700" stop="2020012019233000 +0700" channel="hungyenhd">
+    <title lang="en">GIỚI THIỆU CHƯƠNG TRÌNH TRUYỀN HÌNH HƯNG YÊN CHỦ NHẬT NGÀY 20/12/2020</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012019233000 +0700" stop="2020012020053000 +0700" channel="hungyenhd">
+    <title lang="en">KẾT THÚC CHƯƠNG TRÌNH TRUYỀN HÌNH HƯNG YÊN THỨ BẢY NGÀY 19/12/2020 + NHỮNG NGƯỜI THỰC HIỆN CHƯƠNG TRÌNH + HYTV - GIỚI THIỆU HẠ TẦNG TRUYỀN DẪN PHÁT SÓNG</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020053000 +0700" stop="2020012020054000 +0700" channel="hungyenhd">
+    <title lang="en">SỐNG KHỎE CÙNG YOGA</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020054000 +0700" stop="2020012020060000 +0700" channel="hungyenhd">
+    <title lang="en">ĐẤT VÀ NGƯỜI HƯNG YÊN: ĐỀN CHÙA HIẾN - DI TÍCH LỊCH SỬ VĂN HÓA QUỐC GIA</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020060000 +0700" stop="2020012020062000 +0700" channel="hungyenhd">
+    <title lang="en">THỜI SỰ HƯNG YÊN</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020062000 +0700" stop="2020012020062500 +0700" channel="hungyenhd">
+    <title lang="en">BẢN TIN QUỐC TẾ</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020062500 +0700" stop="2020012020063000 +0700" channel="hungyenhd">
+    <title lang="en">BẢN TIN VĂN HÓA</title>
+    <desc lang="en"/>
+  </programme>
+    <programme start="20200012020063000 +0700" stop="2020012020065000 +0700" channel="hungyenhd">
+    <title lang="en">NHÌN TỪ PHỐ HIẾN</title>
+    <desc lang="en"/>
