@@ -272,7 +272,7 @@ https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="ViTV" group-title="KÊNH TIN TỨC" tvg-logo="https://imgstatic.vtvcab.vn/logos/SCTV8_M.png",SCTV8 - ViTV
 https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV8_SD.smil/chunklist_w2122706753_b2292000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1  tvg-id="Hà Nội IPTV 65 HD - Kênh 11/39" group-title="KÊNH TIN TỨC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15846.png",Hà Nội IPTV 65 - SBS CNBC HD
-http://110.8.188.38:9981/stream/channelid/11?profile=pass
+http://59.28.86.246:9981/stream/channelid/39?profile=pass
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png",Channel News Asia - CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/750.png?rand=180",TV5Monde Asie
@@ -454,7 +454,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Live on Hanoi 7 - YTN DMB HD
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/chunklist_w1064468191.m3u8
 #EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD - Kênh 80/21" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png",Hà Nội IPTV 5 - tvN HD
-http://110.8.188.38:9981/stream/channelid/21?profile=pass
+http://110.8.188.38:9981/stream/channelid/80?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 6 HD - Kênh 37/31" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png",Hà Nội IPTV 6 - MNet HD
 http://110.8.188.38:9981/stream/channelid/37?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 7 HD - Kênh 73/20" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png",Hà Nội IPTV 7 - JTBC HD
@@ -472,11 +472,11 @@ http://211.203.0.244:9981/stream/channelid/454479581
 #EXTINF:-1  tvg-id="Hà Nội IPTV 29 HD - Kênh 86/37" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 13 - Olive HD
 http://110.8.188.38:9981/stream/channelid/86?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 30 HD - Kênh 45/53" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 14 - On Style HD
-http://110.8.188.38:9981/stream/channelid/45?profile=pass
+http://59.28.86.246:9981/stream/channelid/53?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 42 HD - Kênh 42/33" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/d2e3af1500224105207.png",Hà Nội IPTV 15 - E Channel HD
 http://110.8.188.38:9981/stream/channelid/42?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 16 - Kênh 91/48" group-title="HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png",Hà Nội IPTV 16 - KBS Joy HD
-http://110.8.188.38:9981/stream/channelid/91?profile=pass
+http://59.28.86.246:9981/stream/channelid/48?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 21 HD - Kênh 48/42" group-title="HÀ NỘI IPTV" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png",Hà Nội IPTV 17 - XtvN HD
 http://110.8.188.38:9981/stream/channelid/48?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 14 - Kênh 88/5" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png",Hà Nội IPTV 18 - SBS funE
@@ -493,7 +493,7 @@ http://110.8.188.38:9981/stream/channelid/24?profile=pass
 http://110.8.188.38:9981/stream/channelid/2?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 7+ HD" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00585.png",Hà Nội IPTV 24 - TV Chosun 2 HD
 http://110.8.188.38:9981/stream/channelid/90?profile=pass
-#EXTINF:-1  tvg-id="Hà Nội IPTV 2+ HD - Kênh 27" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png",Hà Nội IPTV 25 - SBS Plus
+#EXTINF:-1  tvg-id="Hà Nội IPTV 2+ HD - Kênh 27/30" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png",Hà Nội IPTV 25 - SBS Plus
 http://121.175.171.243:9981/stream/channelid/30?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 6+ HD" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C17142.png",Hà Nội IPTV 26 - MBN+ HD
 http://110.8.188.38:9981/stream/channelid/98?profile=pass
@@ -502,7 +502,7 @@ http://110.8.188.38:9981/stream/channelid/100?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 13 HD - Kênh 25" group-title="HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png",河内IPTV 28 - 中华TV HD
 http://110.8.188.38:9981/stream/channelid/25?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 43 - Kênh 44/68" group-title="HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/2aa08b2271027105851.png",Hà Nội IPTV 29 - Drama Cube HD
-http://110.8.188.38:9981/stream/channelid/44?profile=pass
+http://59.28.86.246:9981/stream/channelid/68?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 10 - Kênh 29" group-title="HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png",Hà Nội IPTV 30 - KBSN Drama
 http://110.8.188.38:9981/stream/channelid/29?profile=pass
 #EXTINF:-1  tvg-id="Hà Nội IPTV 18 HD - Kênh 55/70" group-title="HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png",Hà Nội IPTV 31 - MBC Drama HD
