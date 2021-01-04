@@ -5,8 +5,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=5
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=6
 
-
-
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",Hà Nội IPTV 0 - TH Kinh tế Hàn Quốc HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vinh%20Phuc%20News%20(HD%20High%20Definition).jpg",Hà Nội IPTV 0+ - TH Hà Nội IPTV HD (Vinh Phuc News HD)
@@ -472,7 +470,7 @@ http://110.9.158.173:9981/stream/channelid/1280264880
 #EXTINF:-1  tvg-id="Hà Nội IPTV 10 HD - Kênh 76/18" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2010%20-%20Channel%20A%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 13 - Channel A HD
 http://110.9.158.173:9981/stream/channelid/406192927
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8+ HD - Kênh 100" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2027%20-%20Channel%20A%20Plus%20HD.png",Hà Nội IPTV 14 - Channel A Plus HD
-http://121.161.37.209:9981/stream/channelid/421734010
+http://39.117.101.80:9981/stream/channelid/659870900
 #EXTINF:-1  tvg-id="Hà Nội IPTV 12 HD - Kênh 34/30" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2012%20-%20OCN%20HD.png",Hà Nội IPTV 15 - OCN HD
 http://211.203.0.244:9981/stream/channelid/454479581
 #EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD - Kênh 36/29" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2032%20-%20OCN%20Movies%20HD.png",Hà Nội IPTV 16 - OCN Movies HD
