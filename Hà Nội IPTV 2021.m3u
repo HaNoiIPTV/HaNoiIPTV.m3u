@@ -745,6 +745,20 @@ http://cjoshoppingplus.live.cdn.visioncloud.co.kr/cjosplus/live2/chunklist_w1955
 #EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Live on Hanoi 7 - YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/chunklist_w1064468191.m3u8
 
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png",VOV1
+https://stream.vov.vn/audio/vovvn1_vov1.stream_aac/chunklist_w1563075043.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png",VOV2
+https://stream.vov.vn/audio/vovvn1_vov2.stream_aac/chunklist_w802179189.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3
+https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/chunklist_w1521076795.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4
+https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/chunklist_w1163981877.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5
+https://stream.vov.vn/audio/vovvn1_vov5.stream_aac/chunklist_w199416983.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov6_2.png",VOV6
+https://stream.vov.vn/audio/vovvn1_vov6.stream_aac/chunklist.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-gt.png",VOV Giao thông
+https://stream.vov.vn/audio/vovvn1_vovGT.stream_aac/chunklist_w792499154.m3u8
 #EXTINF:-1  group-title="HẢI PHÒNG RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_Hai_Phong.png",THP RADIO - FM 93,7Mhz
 https://live.thhp.vn/937/index.m3u8
 #EXTINF:-1  group-title="HẢI PHÒNG RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%252B_Hai_Phong.png",THP+ RADIO - FM 102,2Mhz
@@ -764,7 +778,7 @@ http://cdn.hytv.mediatech.vn/hytvlive/radio.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THD_Hai_Duong.png",HDTV RADIO - Phát thanh Hải Dương
 http://113.160.131.11:8000
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV_Thai_Binh.png",TBTV RADIO - Phát thanh Thái Bình
-http://cdn.tbtv.mediatech.vn/tbtvlive/radio.m3u8
+http://118.70.118.191:1935/tbtvlive/radio/chunklist_w806091054.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV_Ninh_Binh.png",NBTV RADIO - Phát thanh Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/radio.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n.png",TBK RADIO - Phát thanh Bắc Kạn
@@ -777,6 +791,8 @@ http://thtg.vn:8002/radiolive.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%20HD.png",STV RADIO - Phát thanh Sóc Trăng
 http://115.78.3.164:8135/liveeventf.m3u8
+#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png",VOV English 24/7
+https://stream.vov.vn/audio/vovvn1_vov247.stream_aac/chunklist_w442319471.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://radio.ytn.co.kr/img/comm/new_footer_radio_logo.gif",Hà Nội RADIO 1 - YTN Radio HD
 rtmp://slive.ytn.co.kr/live/_definst_//fmlive_0624_1.sdp
 
