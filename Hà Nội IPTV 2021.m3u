@@ -8,7 +8,7 @@
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",Hà Nội IPTV 0 - TH Kinh tế Hàn Quốc HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vinh%20Phuc%20News%20(HD%20High%20Definition).jpg",Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD
-https://youtu.be/xC6EetTRrkM
+https://youtu.be/EZjSl1GGaiA
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2_HD.png",VTV2 HD
@@ -856,7 +856,7 @@ http://tv.ctvcamau.vn/live/radio/radio.m3u8
 http://mediatech.vncdn.vn/qrtvlive/radio.m3u8
 #EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/PTQ_Quang_Ngai.png/revision/latest/scale-to-width-down/220?cb=20200214012052",PTQ RADIO - Phát thanh Quảng Ngãi
 http://203.171.21.216:1935/radio/quangngai_aac/chunklist_w1837337941.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV_Binh_Dinh_Logo_16-9.png",BTV RADIO - Phát thanh Bình Định
+#EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV_Binh_Dinh_Logo_16-9.png",BTV RADIO - Phát thanh Bình Định
 http://27.72.1.105:8086/ttp.m3u8
 #EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP RADIO - Phát thanh Phú Yên
 http://113.161.4.48:8080/phuyen/radio.m3u8
