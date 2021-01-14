@@ -5,9 +5,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=5
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=6
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",Hà Nội IPTV 0 - TH Kinh tế Hàn Quốc HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.png",Hà Nội IPTV 0 - TH Kinh tế Hàn Quốc HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vinh%20Phuc%20News%20(HD%20High%20Definition).jpg",Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vinh%20Phuc%20News%20(HD%20High%20Definition).jpg",Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD
 https://youtu.be/EZjSl1GGaiA
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -116,7 +116,7 @@ https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20K%C3%AAnh%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0i%20Ti%E1%BA%BFng%20n%C3%B3i%20Vi%E1%BB%87t%20Nam%20HD.png",VOVTV - TH Đài tiếng nói Việt Nam HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.webp",THP - Truyền hình Hải Phòng HD
-https://live.thhp.vn/thp/index.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%202%20HD%20(THP%2B%20HD).webp",THP+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",Truyền hình Hà Nội 1 HD
@@ -214,7 +214,7 @@ https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV_HD_Hai.smil/chunklist_w101
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL3_HD.png",Truyền hình Vĩnh Long 3 HD
 https://livecdn.fptplay.net/hda/vinhlong3_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL4_HD.png",Truyền hình Vĩnh Long 4 HD
-https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist_b2500000.m3u8
+https://thvl111220.cdn.vnns.io/thvl4/thvl111220/thvl4-720p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC9_HD_alt.webp",VTC9 HD
 https://livecdn.fptplay.net/sdb/vtc9_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC13_M.png",VTC13 HD
@@ -591,6 +591,10 @@ http://gg.gg/beINSports3HD
 http://gg.gg/Eurosport1HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Eurosport_2_HD_%282015%29.svg/revision/latest/scale-to-width-down/185?cb=20200222233925",Hà Nội IPTV 86 - Eurosport 2 HD
 http://gg.gg/Eurosport2HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://i9.ytimg.com/vi_webp/-Jmyk8RMu_U/mqdefault.webp?time=1610630100000&sqp=CNSHgYAG&rs=AOn4CLDxT_yHzd5UAcbWR_y_gGqadPALFQ",Hà Nội IPTV 2021 - Truyền hình Tết Tân Sửu HD
+https://youtu.be/LdOWUpCqkws
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://i9.ytimg.com/vi_webp/-Jmyk8RMu_U/mqdefault.webp?time=1610630100000&sqp=CNSHgYAG&rs=AOn4CLDxT_yHzd5UAcbWR_y_gGqadPALFQ",Hà Nội IPTV 2021+ - Kênh Giới thiệu Chương trình HD
+https://youtu.be/-Jmyk8RMu_U
 #EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Live on Hanoi 3 - YTN Korean HD
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
@@ -773,8 +777,6 @@ https://live.thhp.vn/radio/102/index.m3u8
 http://cdn.mediatech.vn/hntvRadio/fm90.sdp_aac/chunklist_w1119421167.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipO3LhewFelGLjQzh9c7rn_dV_tKexhEXBmIegsM=w408-h544-k-no",Hà Nội RADIO 2 - FM 96Mhz
 http://cdn.mediatech.vn/hntvRadio/fm96.sdp_aac/chunklist_w2009688492.m3u8
-#EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipO3LhewFelGLjQzh9c7rn_dV_tKexhEXBmIegsM=w408-h544-k-no",Hà Nội RADIO 3 - Joy FM
-http://cdn.mediatech.vn/hntvRadio/joyfm.stream_aac/chunklist_w1330898344.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipPNUE4u7mdHDfn0Vx4EN8zHhkoWB3BgDSoY8oif=w203-h270-k-no",VON - Phát thanh Nghệ An
 https://live.truyenhinhnghean.vn/hls/na2/index.m3u8
 #EXTINF:-1  group-title="TP.HCM RADIO" tvg-logo="https://voh.com.vn/images/icons/icon-small-2.png",VOH1 - AM 610Khz
@@ -783,6 +785,8 @@ https://strm.voh.com.vn/radio/channel2/chunklist_w349557567.m3u8
 https://strm.voh.com.vn/radio/channel1/chunklist_w2044115175.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipO3LhewFelGLjQzh9c7rn_dV_tKexhEXBmIegsM=w408-h544-k-no",Hà Nội RADIO 3 - Joy FM
 http://cdn.mediatech.vn/hntvRadio/joyfm.stream_aac/chunklist_w1330898344.m3u8
+#EXTINF:-1  group-title="HÀ NỘI YOUTUBE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjGVnzqPDir1VINOS6f5YxXaT3SU6pZ8z-ISyqeEw=s88-c-k-c0x00ffffff-no-rj",VP Tube - Truyền hình Vĩnh Phúc
+https://youtu.be/Z4nFn40ySvc
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png",BTV RADIO - Phát thanh Bắc Ninh
 http://203.171.21.203:1935/radio/bacninh_aac/chunklist_w1561767668.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV_H%253Fng_Y%253Fn_2020.png",HYTV RADIO - Phát thanh Hưng Yên
@@ -799,8 +803,12 @@ http://113.160.162.131:8080/hls/radio.m3u8
 http://qtv.vncdn.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://lh5.googleusercontent.com/p/AF1QipOUNNzHJw7KhXf42IqW4bbl57gv5IzUzO8QAkVd=w600-h600-p-k-no",QNR2 - Phát thanh Quảng Ninh 2
 http://qtv.vncdn.vn/qtvlive/qnr2.m3u8
+#EXTINF:-1  group-title="HÀ NỘI YOUTUBE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV_Thanh_Hoa.png",TTV Tube - Đài PTTH Thanh Hóa HD
+https://youtu.be/j-GLi7T2uZQ
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",HTTV RADIO - Phát thanh Hà Tĩnh
 http://www.hatinhtv.vn/phatthanh/m3u8/audio.m3u8
+#EXTINF:-1  group-title="HÀ NỘI YOUTUBE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT_HD_Th%253F_nghi%253Fm.png",TRT Tube - Truyền hình Thừa Thiên Huế HD
+
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="http://danangtv.vn/images/radio.png",Đà Nẵng RADIO - Phát thanh Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a.png",KTV RADIO - Phát thanh Khánh Hòa
@@ -829,6 +837,8 @@ http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8
 https://tv.canthotv.vn/live/radio/radio.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/THVL.png/revision/latest/scale-to-width-down/220?cb=20191225034357",THVL RADIO - Phát thanh Vĩnh Long
 https://thvl111220.cdn.vnns.io/thvlradio/chunks.m3u8
+#EXTINF:-1  group-title="HÀ NỘI YOUTUBE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%ADu%20Giang%20HD.png",HGTV Tube - Truyền hình Hậu Giang HD
+https://youtu.be/7hJQMQcl624
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV_Soc_Trang.png",STV RADIO - Phát thanh Sóc Trăng
 http://115.78.3.164:8135/liveeventf.m3u8
 #EXTINF:-1  group-title="HÀ NỘI RADIO" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov-en.png",VOV English 24/7
