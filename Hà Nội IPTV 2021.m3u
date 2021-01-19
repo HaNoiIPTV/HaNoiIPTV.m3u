@@ -67,8 +67,8 @@ http://123.18.0.4:4022/rtp/232.84.1.207:9216
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab3_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20Th%E1%BB%83%20Thao%20TV.png",VTVCab16 - Bóng Đá TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20B%C3%B3ng%20%C4%90%C3%A1%20TV%20HD.png",VTVCab16 - Bóng Đá TV HD
-http://123.18.0.4:4022/rtp/232.84.1.210:9234
+#EXTINF:-1  tvg-id="http://123.18.0.4:4022/rtp/232.84.1.210:9234" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20B%C3%B3ng%20%C4%90%C3%A1%20TV%20HD.png",VTVCab16 - Bóng Đá TV HD
+http://171.231.141.63:9981/stream/channelid/966206990
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab18%20-%20Th%E1%BB%83%20thao%20Tin%20t%E1%BB%A9c%20HD.png",VTVCab18 - Thể thao Tin tức HD
 http://123.18.0.4:4022/rtp/232.84.2.193:10942
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab23%20-%20Th%E1%BB%83%20thao%20Golf%20HD.png",VTVCab23 - Thể thao Golf HD
@@ -387,10 +387,10 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://123.18.0.4:4022/rtp/232.84.1.143:8832
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
 http://123.18.0.4:4022/rtp/232.84.1.168:8982
-#EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/echanneldoitac080816.png",VTVCab5 - E Channel
-http://123.18.0.4:4022/rtp/232.84.1.193:9132
-#EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/haytvdoitac080816.png",VTVCab6 - HayTV
-http://123.18.0.4:4022/rtp/232.84.1.220:9294
+#EXTINF:-1  tvg-id="http://123.18.0.4:4022/rtp/232.84.1.193:9132" group-title="KÊNH VTVCab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/echanneldoitac080816.png",VTVCab5 - E Channel
+http://171.231.141.63:9981/stream/channelid/695806641
+#EXTINF:-1  tvg-id="http://123.18.0.4:4022/rtp/232.84.1.220:9294" group-title="KÊNH VTVCab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/haytvdoitac080816.png",VTVCab6 - HayTV
+http://171.231.141.63:9981/stream/channelid/122628205
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas
 http://123.18.0.4:4022/rtp/232.84.1.205:9204
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVCab9 - InfoTV
