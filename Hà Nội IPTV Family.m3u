@@ -5,23 +5,23 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vinh%20Phuc%20News%20(HD%20High%20Definition).jpg",Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD
 https://youtu.be/fK2evQH3ZQ8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1_HD-0.png",VTV1 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2_HD.png",VTV2 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV2-SD-ABR/HTV-ABR/VTV2-SD-720p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3_HD_logo.png",VTV3 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV3-HD-1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4_HD.png",VTV4 HD
 https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5_HD-0.png",VTV5 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV5-SD-ABR/HTV-ABR/VTV5-SD-720p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6_HD-0.png",VTV6 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7_HD-0.png",VTV7 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV7-SD-ABR/HTV-ABR/VTV7-SD-720p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8_HD.png",VTV8 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/VTV8-SD-ABR/HTV-ABR/VTV8-SD-720p/chunks.m3u8
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9_HD.png",VTV9 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/chunks.m3u8
+https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab13%20-%20VTV%20HYUNDAI%20HOMESHOPPING.png",VTVCab13 - VTV Hyundai Homeshopping
 https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20HD.png",VTVCab1 - Vie Giải Trí HD
