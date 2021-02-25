@@ -409,8 +409,8 @@ http://gg.gg/HaNoiIPTV1_KBS2_HD
 http://gg.gg/HaNoiIPTV2_SBS_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
 http://gg.gg/HaNoiIPTV3_MBC_HD
-#EXTINF:-1  tvg-id="Hà Nội IPTV 4 HD - Kênh 61" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 4 - OBS HD
-http://gg.gg/HaNoiIPTV4_OBS_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1600/C00611.png",Lifetime HD
+http://gg.gg/HaNoiIPTV8Plus_Lifetime_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png",BabyTV HD
 http://gg.gg/BabyTV_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/112.png?rand=652",Baby First
@@ -451,6 +451,8 @@ https://youtu.be/0GN8t2u3flc
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20ti%E1%BA%BFt.m3u8
 #EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15347.png",Live on Hanoi 6 - YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1  tvg-id="Hà Nội IPTV 4 HD - Kênh 61" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 4 - OBS HD
+http://gg.gg/HaNoiIPTV4_OBS_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD - Kênh 80/21" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",Hà Nội IPTV 5 - tvN HD
 http://gg.gg/HaNoiIPTV5_tvN_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 6 HD - Kênh 37/31" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 6 - MNet HD
@@ -459,8 +461,6 @@ http://gg.gg/HaNoiIPTV6_MNet_HD
 http://gg.gg/HaNoiIPTV7_JTBC_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 27 HD - Kênh 2/51" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",Hà Nội IPTV 8 - JTBC2 HD
 http://gg.gg/HaNoiIPTV8_JTBC2_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1600/C00611.png",Hà Nội IPTV 8+ - Lifetime HD
-http://gg.gg/HaNoiIPTV8Plus_Lifetime_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 28 HD - Kênh 40/79" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",Hà Nội IPTV 9 - JTBC4 HD
 http://gg.gg/HaNoiIPTV9_JTBC4_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8 HD - Kênh 77/19" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%208%20-%20MBN%20HD.png",Hà Nội IPTV 11 - MBN HD
