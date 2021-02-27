@@ -1,4 +1,4 @@
-Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xuân Tân Sửu 2021! [http://gg.gg/hanoiiptv] (http://gg.gg/hanoiiptv "http://gg.gg/hanoiiptv")
+Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xuân Tân Sửu 2021! http://gg.gg/hanoiiptv
 =======
 Hà Nội IPTV hoạt đồng với thời lượng tần suất phát sóng 24 giờ trong ngày trên các thiết bị như: Android, iOS, Windows 7, Windows 10, LG WebOS, Samsung Tizen,....; thường xuyên cập nhật và sửa lỗi một số kênh truyền hình giải trí đặc sắc, tổng hợp từ trong nước đến quốc tế.<br />
 
