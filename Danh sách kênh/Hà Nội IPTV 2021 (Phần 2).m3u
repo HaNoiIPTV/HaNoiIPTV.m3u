@@ -74,7 +74,7 @@ http://gg.gg/HaNoiIPTV-VTVCab18-The_thao_Tin_tuc_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab23%20-%20Th%E1%BB%83%20thao%20Golf%20HD.png",VTVCab23 - Thể thao Golf HD
 http://gg.gg/HaNoiIPTV-VTVCab23-The_thao_Golf_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3_HD_2020.png",VTC3 HD
-https://livecdn.fptplay.net/hda/vtc3hd_2000.stream/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FOX%20Movies%20HD.png",Fox Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="https://drm-web.tv24.vn/live/FoxSport_SD_new.smil/chunklist_w1489807640_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=25" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox_Sports_HD.png",Fox Sports HD
@@ -83,14 +83,14 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist_b2500000.m3
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Entertaiment%20HD.png",Blue Ant Entertaiment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV17HD.png",SCTV17 HD
-https://drm-web.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w1169828721_b692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=14
+#EXTINF:-1  tvg-id="https://drm-web.tv24.vn/live/SCTV17_HD_new.smil/chunklist_w1169828721_b692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=14" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV17HD.png",SCTV17 HD
+http://gg.gg/HaNoiIPTV-SCTV17_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FOX%20life%20HD.png",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7_HD.png",VTC7 Today TV HD
-https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
-https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist_w2081031753_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=109
+https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/chunklist_w2081031753_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=109" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
+http://gg.gg/HaNoiIPTV-SCTV4_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL1_HD.png",Truyền hình Vĩnh Long 1 HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_1_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL2_HD.png",Truyền hình Vĩnh Long 2 HD
@@ -112,7 +112,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV_Vietnam.png",ANTV - Truyền hình An Ninh HD
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC1_HD_2018_alt.webp",VTC1 HD
-https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_abr_1080p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20K%C3%AAnh%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0i%20Ti%E1%BA%BFng%20n%C3%B3i%20Vi%E1%BB%87t%20Nam%20HD.png",VOVTV - Đài tiếng nói Việt Nam HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%202%20HD%20(THP%2B%20HD).webp",THP+ HD
@@ -137,8 +137,8 @@ http://14.177.93.203:9981/stream/channelid/132197378?profile=pass
 http://113.160.106.75/hls/relay/NRCzBqe/index.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BPC%20HD.png",K+PC HD
 http://thatslife.cf/stream/channelid/1481311550?ticket=98BD348B1DA09DF02DA558A639F5265ABA4359D8&profile=pass
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
-https://drm-web.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w1248523802_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=22
+#EXTINF:-1  tvg-id="https://drm-web.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist_w1248523802_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=22" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
+http://gg.gg/HaNoiIPTV-SCTV15_HD
 #EXTINF:-1  tvg-id="https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:boxmovies1hd/manifest.mpd" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
 http://gg.gg/Box_Movie_1_HD
 #EXTINF:-1  tvg-id="https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:hollywoodclassichd/manifest.mpd" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classic%20HD.png",Hollywood Classics HD
@@ -175,10 +175,10 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://gg.gg/Planet_Earth_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://rsstv.gviet.vn/sctv/157/577/1565767887100.png",SCTV Phim Tổng Hợp HD
-https://vtsstr7.tv24.vn/live/SCTVHDPhimTH_new.smil/chunklist_w1105208842_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=108
+#EXTINF:-1  tvg-id="https://vtsstr7.tv24.vn/live/SCTVHDPhimTH_new.smil/chunklist_w1105208842_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=108" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://rsstv.gviet.vn/sctv/157/577/1565767887100.png",SCTV Phim Tổng Hợp HD
+http://gg.gg/HaNoiIPTV-SCTV_Phim_Tong_Hop_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png",BTV1 - Truyền hình Bình Dương HD
-https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+http://gg.gg/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS%20WORLD.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4.png",BTV4 iMovies HD
@@ -197,8 +197,8 @@ http://gg.gg/Dreamworks_HD
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANT_BPTV3.png",ANT - BPTV3 (Truyền hình Bình Phước 3)
 http://171.231.141.63:9981/stream/channelid/1781292910
-#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV3HD.png",SCTV3 - SeeTV
-https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w924553007_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=112
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/chunklist_w924553007_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=112" group-title="KÊNH THIẾU NHI" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV3HD.png",SCTV3 - SeeTV
+http://gg.gg/HaNoiIPTV-SCTV3-See_TV_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV3%20-%20DreamsTV.png",HTV3
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Da%20Vinci%20HD.png",Da Vinci Kids
@@ -211,24 +211,24 @@ http://gg.gg/HGTV_HD
 http://gg.gg/Waku_Waku_Japan_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Asian%20Food%20Network.png",Asian Food Channel
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV1%20HD.png",SCTV1 HD
-https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist_w469964789_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=85
+#EXTINF:-1  tvg-id="https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist_w469964789_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=85" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV1%20HD.png",SCTV1 HD
+http://gg.gg/HaNoiIPTV-SCTV1_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL3_HD.png",Truyền hình Vĩnh Long 3 HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_3_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/120px-Logo_THVL4_HD.png",Truyền hình Vĩnh Long 4 HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_4_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC9_HD_alt.webp",VTC9 HD
-https://livecdn.fptplay.net/sdb/vtc9_2000.stream/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC13_M.png",VTC13 HD
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV5.png",SCTV5 - SCJ Life On
-https://vtsstr3.tv24.vn/elive/_definst_/SCTV5_SD.smil/chunklist_w2099059910_b592000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV7HD.png",SCTV7 HD
-https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist_w1825058567_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=107
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV11%20-%20TV%20STAR%20HD.png",SCTV11 - TV Star HD
-https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/chunklist_w1395481376_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=130
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV12HD.png",SCTV12 HD
-https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/chunklist_w1889476453_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=17
+http://gg.gg/HaNoiIPTV-SCTV5-SCJ_Life_on
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist_w1825058567_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=107" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV7HD.png",SCTV7 HD
+http://gg.gg/HaNoiIPTV-SCTV7_HD
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/chunklist_w1395481376_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=130" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV11%20-%20TV%20STAR%20HD.png",SCTV11 - TV Star HD
+http://gg.gg/HaNoiIPTV-SCTV11-TV_Star_HD
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/chunklist_w1889476453_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=17" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV12HD.png",SCTV12 HD
+http://gg.gg/HaNoiIPTV-SCTV12_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YouTV%20-%20Hanoicab%202.png",YouTV - Hanoicab 2
 http://nex.xemtiviviet.com/next.php?id=50
 #EXTINF:-1  tvg-id="https://ott.avg.vn/live/mov/chunklist_1.m3u8" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MOV%20HD%20-%20Hanoicab%204.png",MOV - Hanoicab 4
@@ -248,7 +248,7 @@ https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_new_Ph%253F_N%253F_HD.png",HTVC Phụ Nữ HD
 https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC10_2018.png",VTC10 HD
-https://livecdn.fptplay.net/sdb/vtc10_2000.stream/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Mi%253Fn_T%253Fy_TH%253FT2.png",THĐT2 - Kênh Miền Tây
 http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arirang.png",Arirang
@@ -268,11 +268,11 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 #EXTINF:-1  tvg-id="https://vtsstr3.tv24.vn/elive1/_definst_/ABCAustralia_SD.smil/chunklist_w269191460_b3628000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ABC%20AUSTRALIA.png",ABC AUSTRALIA
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://mytv.com.vn/upload/channel/206.png",VTC16 HD
-https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://imgstatic.vtvcab.vn/logos/TC14_M.png",VTC14 HD
-https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",SCTV8 - ViTV
-https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/chunklist_w261745855_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=205
+https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/chunklist_w261745855_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=205" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",SCTV8 - ViTV
+http://gg.gg/HaNoiIPTV-SCTV8-ViTV
 #EXTINF:-1  tvg-id="Kênh 39" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2065%20-%20SBS%20CNBC%20HD.png",Hà Nội IPTV 58 - SBS Biz HD
 http://gg.gg/HaNoiIPTV47_SBS_Biz_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Channel%20News%20Asia.png",Channel News Asia - CNA
@@ -363,7 +363,7 @@ http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
 http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
 #EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vtv5taynguyen_logo.png",VTV5 Tây Nguyên
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nguy%C3%AAn.m3u8
-#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vtv5tnb_logo.png",VTV5 Tây Nam Bộ
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Vtv5tnb_logo.png",VTV5 Tây Nam Bộ HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.m3u8
 #EXTINF:-1  tvg-id="https://vtsstr3.tv24.vn/elive1/_definst_/AXN_SD.smil/chunklist_w1391974126_b692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://www.axn-asia.com/sites/all/themes/responsive/responsive_axn_2/logo.png",AXN HD
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
@@ -379,8 +379,8 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/252.png?rand=576",BBC EARTH
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV - Truyền hình Trung ương Triều Tiên
-https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://www.france.tv/images/logos/channels/franceinfo-invert.svg?v=1",France Info HD
+http://gg.gg/France_Info_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Disney%20Channel.png",Disney Channel
 http://gg.gg/Disney_Channel_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest/scale-to-width-down/200?cb=20170831161603",Disney Junior
@@ -405,12 +405,12 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVCab15 - M Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.192:10936
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://gg.gg/France_2",France 2 HD
+http://gg.gg/France_2_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://gg.gg/France_3",France 3 HD
+http://gg.gg/France_3_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/KBS_1_logo.svg/revision/latest/scale-to-width-down/250?cb=20200910211749",Hà Nội IPTV 1+ - KBS1 HD
 http://gg.gg/HaNoiIPTV-KBS1_HD
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Hà Nội IPTV 7+ - YTN HD
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-id="Kênh 30/27" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258791618.png",Hà Nội IPTV 13+ - Yonhap News TV HD
-https://youtu.be/0GN8t2u3flc
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/1920px-SBS_Korea_Logo_%28Word_Only%29.svg.png/revision/latest/scale-to-width-down/200?cb=20200910061250",Hà Nội IPTV 2 - SBS HD
 http://gg.gg/HaNoiIPTV2_SBS_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png",BabyTV HD
@@ -423,44 +423,56 @@ https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://imgstatic.vtvcab.vn/logos/HIS_M.png",History HD
 http://gg.gg/History_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV14%20-%20K%C3%AAnh%20Phim%20Vi%E1%BB%87t%20HD.png",SCTV14 - Kênh Phim Việt HD
-https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_new.smil/chunklist_w962968031_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=84
+#EXTINF:-1  tvg-id="https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_new.smil/chunklist_w962968031_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=84" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV14%20-%20K%C3%AAnh%20Phim%20Vi%E1%BB%87t%20HD.png",SCTV14 - Kênh Phim Việt HD
+http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim HD
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://imgstatic.vtvcab.vn/logos/HITS_M.png",HITS HD
 http://gg.gg/HITS_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV13HD.png",SCTV13 - Lady TV HD
-https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/chunklist_w93455850_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=114
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV9HD.png",SCTV9 HD
-https://drm-web.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist_w172144523_b692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=129
+#EXTINF:-1  tvg-id="https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/chunklist_w93455850_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=114" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV13HD.png",SCTV13 - Lady TV HD
+http://gg.gg/HaNoiIPTV-SCTV13-Lady_TV_HD
+#EXTINF:-1  tvg-id="https://drm-web.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/chunklist_w172144523_b692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=129" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV9HD.png",SCTV9 HD
+http://gg.gg/HaNoiIPTV-SCTV9_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/An_Vi%C3%AAn_TV_%28Bchannel%29.png/revision/latest/scale-to-width-down/220?cb=20200910004458",BTV9 - An Viên HD
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://imgstatic.vtvcab.vn/logos/HK_M.png",Happy Kids HD
 http://gg.gg/Happy_Kids_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV2HD.png",SCTV2 HD
-https://vtsstr4.tv24.vn/live/sctv2_HD_new.smil/chunklist_w1798364298_b1692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=2
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV6HD.png",SCTV6 HD
-https://vtsstr4.tv24.vn/live/SCTV6HD_new.smil/chunklist_w547196246_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=16
-#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://life.ytn.co.kr/img/comm/logoW.png",Live on Hanoi 5 - YTN Life
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20ti%E1%BA%BFt.m3u8
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/sctv2_HD_new.smil/chunklist_w1798364298_b1692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=2" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV2HD.png",SCTV2 HD
+http://gg.gg/HaNoiIPTV-SCTV2_HD
+#EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV6HD_new.smil/chunklist_w547196246_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=16" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV6HD.png",SCTV6 HD
+http://gg.gg/HaNoiIPTV-SCTV6_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15347.png",Live on Hanoi 6 - YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/KBS_2_logo_2018.svg/revision/latest/scale-to-width-down/250?cb=20200910211102",Hà Nội IPTV 1 - KBS2 HD
 http://gg.gg/HaNoiIPTV1_KBS2_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
 http://gg.gg/HaNoiIPTV3_MBC_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.france.tv/images/logos/channels/france-4-invert.svg?v=1",France 4 HD
+http://gg.gg/France_4_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 4 HD - Kênh 61" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 4 - OBS HD
 http://gg.gg/HaNoiIPTV4_OBS_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://www.france.tv/images/logos/channels/france-5-invert.svg?v=1",France 5 HD
+http://gg.gg/France_5_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 5 HD - Kênh 80/21" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",Hà Nội IPTV 5 - tvN HD
 http://gg.gg/HaNoiIPTV5_tvN_HD
+#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/120x90/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/59320209?date=20210212105543",Canal+ HD
+http://gg.gg/Canal_Plus_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 6 HD - Kênh 37/31" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 6 - MNet HD
 http://gg.gg/HaNoiIPTV6_MNet_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://www.6play.fr/assets/sprites/sprite.95d96abd68d5b82e4fcc3a7d227c8e0e.svg#m6-usage",M6 HD
+http://gg.gg/M6_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 7 HD - Kênh 73/20" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%207%20-%20JTBC%20HD.png",Hà Nội IPTV 7 - JTBC HD
 http://gg.gg/HaNoiIPTV7_JTBC_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Hà Nội IPTV 7+ - YTN HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo=https://www.6play.fr/assets/sprites/sprite.95d96abd68d5b82e4fcc3a7d227c8e0e.svg#6ter-usage",6Ter HD
+http://gg.gg/6Ter_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 27 HD - Kênh 2/51" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",Hà Nội IPTV 8 - JTBC2 HD
 http://gg.gg/HaNoiIPTV8_JTBC2_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/120x90/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/64698815?date=20210212105543",C8 HD
+http://gg.gg/C8_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 28 HD - Kênh 40/79" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",Hà Nội IPTV 9 - JTBC4 HD
 http://gg.gg/HaNoiIPTV9_JTBC4_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8 HD - Kênh 77/19" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%208%20-%20MBN%20HD.png",Hà Nội IPTV 11 - MBN HD
@@ -469,6 +481,8 @@ http://gg.gg/HaNoiIPTV11_MBN_HD
 http://gg.gg/HaNoiIPTV12_MBN_Plus_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 9 HD - Kênh 79/22" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%209%20-%20TV%20Chosun%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 13 - TV Chosun HD
 http://gg.gg/HaNoiIPTV13_TV_Chosun_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-id="Kênh 30/27" tvg-logo="https://rsstv.gviet.vn/sctv/157/526/1565258791618.png",Hà Nội IPTV 13+ - Yonhap News TV HD
+https://youtu.be/0GN8t2u3flc
 #EXTINF:-1  tvg-id="Hà Nội IPTV 7+ HD - Kênh 90" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20TV%20Chosun%202%20HD.png",Hà Nội IPTV 14 - TV Chosun 2 HD
 http://gg.gg/HaNoiIPTV14_TV_Chosun_2_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 10 HD - Kênh 76/18" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2010%20-%20Channel%20A%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 15 - Channel A HD
@@ -483,6 +497,8 @@ http://gg.gg/HaNoiIPTV18_OCN_Movies_HD
 http://gg.gg/HaNoiIPTV19_OCN_Thrills_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 29 HD - Kênh 86/37" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png",Hà Nội IPTV 20 - Olive HD
 http://gg.gg/HaNoiIPTV20_Olive_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://www.alsace20.tv/dynamic/images/cac_/logo_alsace20__227x72__1__0x0__0__ffffff!_227x72!_1!_0x0!_0!_FFFFFF.png",Alsace 20
+http://gg.gg/Alsace_20
 #EXTINF:-1  tvg-id="Hà Nội IPTV 30 HD - Kênh 45/53" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 21 - On Style HD
 http://gg.gg/HaNoiIPTV21_On_Style_HD
 #EXTINF:-1  tvg-id="Kênh 54" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00590.png",Hà Nội IPTV 22 - OGN HD
@@ -493,6 +509,8 @@ http://gg.gg/HaNoiIPTV23_Phim_Dac_Sac_HD
 http://gg.gg/HaNoiIPTV24_XtvN_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 22 - Kênh 24/55" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OtvN.png",Hà Nội IPTV 25 - OtvN HD
 http://gg.gg/HaNoiIPTV25_OtvN_HD
+#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://www.nrj-play.fr/build/img/logo-cherie25.svg",Cherie 25 HD
+http://gg.gg/Cherie_25_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 12 - Kênh 10/85" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png",Hà Nội IPTV 26 - Tooniverse HD
 http://gg.gg/HaNoiIPTV26_Tooniverse_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/093aeae081130115918.png",Hà Nội IPTV 26+ - Cartoon Kids HD
@@ -519,6 +537,8 @@ http://gg.gg/HaNoiIPTV43_KBSN_Joy_HD
 http://gg.gg/HaNoiIPTV44_KBSN_W_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_life.png",Hà Nội IPTV 45 - KBSN Life HD
 http://gg.gg/HaNoiIPTV45_KBSN_Life_HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://life.ytn.co.kr/img/comm/logoW.png",Hà Nội IPTV 45+ - YTN Life
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20ti%E1%BA%BFt.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png",Hà Nội IPTV 48 - MBC every1 HD
 http://gg.gg/HaNoiIPTV48_MBC_every1_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 18 HD - Kênh 55/70" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png",Hà Nội IPTV 49 - MBC Drama HD
@@ -537,10 +557,6 @@ http://gg.gg/HaNoiIPTV55_SBS_FiL_HD
 http://gg.gg/HaNoiIPTV58_SBS_MTV_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",Hà Nội IPTV 87 - TV5MONDE HD
 http://gg.gg/HaNoiIPTV87HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://gg.gg/France_2",Hà Nội IPTV 88 - France 2 HD
-http://gg.gg/HaNoiIPTV88HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://gg.gg/France_3",Hà Nội IPTV 89 - France 3 HD
-http://gg.gg/HaNoiIPTV89HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png",Hà Nội IPTV 65 - CJO Shopping HD
 http://gg.gg/HaNoiIPTV65_CJO_Shopping_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png",Hà Nội IPTV 66 - CJO Shopping Plus HD
@@ -609,8 +625,10 @@ http://gg.gg/Eurosport2HD
 https://youtu.be/yPxLT9dsX_4
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://i9.ytimg.com/vi_webp/-Jmyk8RMu_U/mqdefault.webp?time=1610630100000&sqp=CNSHgYAG&rs=AOn4CLDxT_yHzd5UAcbWR_y_gGqadPALFQ",Hà Nội IPTV 2021+ - Kênh Giới thiệu Chương trình HD
 https://youtu.be/-Jmyk8RMu_U
-#EXTINF:-1  group-title="Live on Hanoi" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Live on Hanoi 3 - YTN Korean HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://www.ytn.co.kr/img/comm/logo_ytn_w.png",Live on Hanoi 3 - YTN Korean HD
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV - Truyền hình Trung ương Triều Tiên
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-id="Kênh 18" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV18HD.png",SCTV18 HD
 https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV18_HD.smil/chunklist_w1089724913_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-id="Channel T" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png",SCTV19 HD
