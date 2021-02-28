@@ -626,9 +626,9 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV_HD_Cao_B%253Fng.png",CRTV - Truyền hình Cao Bằng HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng.m3u8
-#EXTINF:-1  tvg-id="THP+" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%252B_Hai_Phong.png",THP+ - Truyền hình Hải Phòng 2
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%202%20HD%20(THP%2B%20HD).m3u8
-#EXTINF:-1  tvg-id="TBTV - TH Thái Bình" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV_Thai_Binh.png",TBTV - Truyền hình Thái Bình
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_Hai_Phong.png",THP - Truyền hình Hải Phòng
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV_Thai_Binh.png",TBTV - Truyền hình Thái Bình
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2019/08/06/857648-ntv_nam_dinh.png",NTV - Truyền hình Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
@@ -680,7 +680,7 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP - Truyền hình Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://kontumtv.vn/wp-content/uploads/2020/12/logo.png",KRT - Truyền hình Kon Tum
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",KRT - Truyền hình Kon Tum
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1_Soc_Trang.png",STV1 - Truyền hình Sóc Trăng
 https://livecdn.fptplay.net/sda/soctrang_2000.stream/chunklist_b2500000.m3u8
@@ -696,14 +696,14 @@ http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_k%253Fnh_BPTV2.png",BPTV2 - Home TV
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://thbl.vn/btv.png",BTV - Truyền hình Bạc Liêu HD
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu.png",BTV - Truyền hình Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n.png",TBK - Truyền hình Bắc Kạn
 http://113.160.162.131:8080/tv/bk.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BGTV_HD_Bac_Giang.png",BGTV - Truyền hình Bắc Giang HD
-http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1  tvg-id="http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BGTV_HD_Bac_Giang.png",BGTV - Truyền hình Bắc Giang HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/BGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Giang%20HD.m3u8
 #EXTINF:-1  tvg-id="BNTV - TH Bắc Ninh" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png",BTV - Truyền hình Bắc Ninh
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.m3u8
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.m3u8
 #EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_STV2_HD.png",STV2 - Truyền hình Sóc Trăng 2 HD
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP_Vinh_Phuc.png",VP - Truyền hình Vĩnh Phúc
@@ -841,9 +841,9 @@ http://203.171.21.216:1935/radio/quangngai_aac/chunklist_w1837337941.m3u8
 http://27.72.1.105:8086/ttp.m3u8
 #EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://mytv.com.vn/upload/channel/781.png",PTP RADIO - Phát thanh Phú Yên
 http://113.161.4.48:8080/phuyen/radio.m3u8
-#EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://kontumtv.vn/wp-content/uploads/2020/12/logo.png",KRT RADIO - Phát thanh Kon Tum
+#EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",KRT RADIO - Phát thanh Kon Tum
 https://tv.kontumtv.vn/live/radio/radio.m3u8
-#EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="http://thbl.vn/btv.png",BTV RADIO - Phát thanh Bạc Liêu
+#EXTINF:-1  group-title="KÊNH RADIO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu.png",BTV RADIO - Phát thanh Bạc Liêu
 http://118.69.205.213/radio/radio.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM KIDS
 http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
