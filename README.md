@@ -141,3 +141,22 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0243 Hà Nội IPTV 15 - Channel A HD<br />
 0244 Hà Nội IPTV 16 - Channel A Plus HD<br />
 0245 Hà Nội IPTV 17 - OCN HD<br />
+
+# Kết nối với Hà Nội IPTV
+Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:
+- [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)
+Địa chỉ: 215 Trường Chinh, Phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam
+- [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)
+Địa chỉ: 6 Nguyễn Viết Xuân, Phường Lộc Vượng, TP. Nam Định, Nam Định
+
+# Liên hệ
+## Star Beer Mạnh An
+Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)
+## Trung tâm Chức năng và Quản lý
+Địa chỉ: Số 1, Ngách 2/3/5 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội
+## Quê hương Hà Nội IPTV
+Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng
+Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa
+## Tiếp nhận thông tin
+Điện thoại: 0353356981
+Email: hoanghuymanh85@gmail.com
