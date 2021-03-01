@@ -33,9 +33,9 @@ Bao gồm hơn 90 kênh truyền hình đặc sắc, trong đó có kênh Truy�
 51 năm qua, Đài Truyền hình Việt Nam đã trở thành là người bạn đầu tiên đối với quý khán giả bao gồm các kênh truyền hình được toàn dân ta thường xuyên theo dõi như: VTV1 HD, VTV3 HD, VTV6 HD,....<br />
 
 VTV1 HD là kênh tin tức thời sự nóng hổi nhất được nhiều người trong cả nước quan tâm, trong đó có thủ đô Hà Nội là nơi tọa lạc để phát sóng các chương trình của Đài Truyền hình Việt Nam. trên kênh VTV1 tại số 43 đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình. Bao gồm các chương trình quan trọng nhất mà toàn dân ta thường xuyên theo dõi như:<br  />
-5:30 đến 8:05: Chào buổi sáng; Tài chính - Kinh doanh; Thời sự 8h;....<br />
-9:00 đến 12:35: Thời sự 9h; Tiêu dùng 24h; Thời sự 11h; Chuyển động 24h; Thời sự 12h; 5 phút hôm nay; Tài chính - Kinh doanh;....<br />
-16:00 đến 20:00: Thời sự 16h; Truyền hình Nhân đạo; Truyền hình Công thương; Truyền hình Thanh niên; Vì trẻ em; Cựu chiến binh Việt Nam; Thời sự 17h; Cải cách hành chính; Lao động và Công đoàn; Phụ nữ và Cuộc sống; Phát huy vai trò của Mặt trận; Chuyện tam nông; Việt Nam hôm nay; Chuyển động 24h; Thời sự 19h; Thời tiết; Thể thao 24/7; Thời sự 20h;....<br />
+- 5:30 đến 8:05: Chào buổi sáng; Tài chính - Kinh doanh; Thời sự 8h;....<br />
+- 9:00 đến 12:35: Thời sự 9h; Tiêu dùng 24h; Thời sự 11h; Chuyển động 24h; Thời sự 12h; 5 phút hôm nay; Tài chính - Kinh doanh;....<br />
+- 16:00 đến 20:00: Thời sự 16h; Truyền hình Nhân đạo; Truyền hình Công thương; Truyền hình Thanh niên; Vì trẻ em; Cựu chiến binh Việt Nam; Thời sự 17h; Cải cách hành chính; Lao động và Công đoàn; Phụ nữ và Cuộc sống; Phát huy vai trò của Mặt trận; Chuyện tam nông; Việt Nam hôm nay; Chuyển động 24h; Thời sự 19h; Thời tiết; Thể thao 24/7; Thời sự 20h;....<br />
 
 VTV3 HD là kênh giải trí đặc sắc nhất với các chương trình gameshow hay nhất và mới nhất cùng những bộ phim truyện hấp dẫn được toàn dân ta thường xuyên theo dõi vào buổi tối từ 20:00 đến 23:00 hàng ngày.<br />
 
@@ -56,7 +56,7 @@ Hà Nội IPTV sẽ giới thiệu sau.<br />
 Là nhóm kênh truyền hình chuyên biệt với những tin tức thời sự liên tục cập nhật cùng những chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội được nhiều người dân quan tâm.<br />
 
 ### Nhóm kênh địa phương
-Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước như:<br />
+Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ngoại ở một số địa phương trong cả nước kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, bao gồm một số lĩnh vực như những tin tức thời sự mới nhất, nhanh nhất, chính xác nhất và hiệu quả nhất trên địa bàn; những chương trình - chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội; những ký sự, phim tài liệu về quê hương - cuộc sống - con người với văn hóa - đời sống - xã hội từ quá khứ đến hiện tại; những chương trình văn nghệ - giải trí - gameshow đa dạng, phong phú cùng những bộ phim truyện Việt Nam và nước ngoại được khai thác, chọn lọc một cách đặc sắc và hấp dẫn. Hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước như:<br />
 
 #### Vùng đồng bằng sồng Hồng
 0141 HiTV - Hanoicab 1<br />
@@ -119,6 +119,13 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0123 THĐT2 - Kênh Miền Tây<br />
 * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
+## Nhóm các kênh khác
+Là nhóm kênh VTV5 của Đài Truyền hình Việt Nam tại:<br />
+0180 VTV5 Tây Nguyên<br />
+và<br />
+0181 VTV5 Tây Nam Bộ HD<br />
+* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+
 # Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
 0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD<br />
 0002 Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD<br />
@@ -146,10 +153,10 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 
 # Truyền hình trực tuyến
 Phần này được sử dụng để thử nghiệm, đề nghị quý vị và các bạn theo dõi các kênh sau đây, nếu thấy lỗi thì vào phần Liên hệ để tiến hành báo lỗi.<br />
-Kênh thử nghiệm 1: [Click tại đây để theo dõi](http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD)
-Kênh thử nghiệm 2: [Click tại đây để theo dõi](http://gg.gg/France_2_HD)
-Kênh thử nghiệm 3: [Click tại đây để theo dõi](http://gg.gg/France_3_HD)
-Kênh thử nghiệm 4: [Click tại đây để theo dõi](http://gg.gg/History_HD)
+Kênh thử nghiệm 1: [Click tại đây để theo dõi](http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD)<br />
+Kênh thử nghiệm 2: [Click tại đây để theo dõi](http://gg.gg/France_2_HD)<br />
+Kênh thử nghiệm 3: [Click tại đây để theo dõi](http://gg.gg/France_3_HD)<br />
+Kênh thử nghiệm 4: [Click tại đây để theo dõi](http://gg.gg/History_HD)<br />
 ## Lưu ý: ~Không được phép theo dõi kênh nếu thiết bị của bạn không hỗ trợ phát với chất lượng cao lên đến 1080P hoặc cao hơn.~
 
 # Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
