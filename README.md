@@ -8,19 +8,19 @@ Trong thời gian đại dịch Covid-19 đang có những diễn biến hết s
 Là truyền hình số thế hệ mới dành cho quý vị và các bạn hiện chưa hoặc đang có Smart TV (từ 32 inch trở lên) không thể theo dõi được các kênh đặc sắc của chúng tôi gồm: VTV1 HD, VTV3 HD, VTV6 HD, VTVCab1 - Vie Giải Trí HD, VTVCab5 - E Channel HD, VTVCab10 - Vie Dramas HD, HTV7 HD, HTV9 HD, Truyền hình Hà Nội 1 HD, Truyền hình Hà Nội 2 HD, Box Movie 1 HD, Hollywood Classics HD, Hà Nội IPTV 1 - KBS2 HD, Hà Nội IPTV 2 - SBS HD, Hà Nội IPTV 3 - MBC HD, SCTV14 - Kênh Phim Việt HD, SCTV9 HD, Hà Nội IPTV 5 - tvN HD, Hà Nội IPTV 6 - MNet HD, Hà Nội IPTV 7 - JTBC HD,....<br />
 
 # Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
-0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD
-0002 Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD
-0135 Hà Nội IPTV 58 - SBS Biz HD
-0204 Hà Nội IPTV 1+ - KBS1 HD
-0205 Hà Nội IPTV 2 - SBS HD
-0222 Hà Nội IPTV 1 - KBS2 HD
-0223 Hà Nội IPTV 3 - MBC HD
-0225 Hà Nội IPTV 4 - OBS HD
-0227 Hà Nội IPTV 5 - tvN HD
-0229 Hà Nội IPTV 6 - MNet HD
-0231 Hà Nội IPTV 7 - JTBC HD
-0232 Hà Nội IPTV 7+ - YTN HD
-0234 Hà Nội IPTV 8 - JTBC2 HD
-0236 Hà Nội IPTV 9 - JTBC4 HD
-0238 Hà Nội IPTV 11 - MBN HD
-0239 Hà Nội IPTV 12 - MBN+ HD
+0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD<br />
+0002 Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD<br />
+0135 Hà Nội IPTV 58 - SBS Biz HD<br />
+0204 Hà Nội IPTV 1+ - KBS1 HD<br />
+0205 Hà Nội IPTV 2 - SBS HD<br />
+0222 Hà Nội IPTV 1 - KBS2 HD<br />
+0223 Hà Nội IPTV 3 - MBC HD<br />
+0225 Hà Nội IPTV 4 - OBS HD<br />
+0227 Hà Nội IPTV 5 - tvN HD<br />
+0229 Hà Nội IPTV 6 - MNet HD<br />
+0231 Hà Nội IPTV 7 - JTBC HD<br />
+0232 Hà Nội IPTV 7+ - YTN HD<br />
+0234 Hà Nội IPTV 8 - JTBC2 HD<br />
+0236 Hà Nội IPTV 9 - JTBC4 HD<br />
+0238 Hà Nội IPTV 11 - MBN HD<br />
+0239 Hà Nội IPTV 12 - MBN+ HD<br />
