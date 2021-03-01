@@ -144,6 +144,14 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0245 Hà Nội IPTV 17 - OCN HD<br />
 * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
+# Truyền hình trực tuyến
+Phần này được sử dụng để thử nghiệm, đề nghị quý vị và các bạn theo dõi các kênh sau đây, nếu thấy lỗi thì click vào nút dưới đây để báo lỗi hoặc vào phần Liên hệ.<br />
+Kênh thử nghiệm 1: [Click tại đây để theo dõi](http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD) [Báo lỗi bằng cách gọi điện thoại tại đây](0353356981) [Báo lỗi bằng cách gửi Email tại đây](hoanghuymanh85@gmail.com)<br />
+Kênh thử nghiệm 2: [Click tại đây để theo dõi](http://gg.gg/France_2_HD) [Báo lỗi bằng cách gọi điện thoại tại đây](0353356981) [Báo lỗi bằng cách gửi Email tại đây](hoanghuymanh85@gmail.com)<br />
+Kênh thử nghiệm 3: [Click tại đây để theo dõi](http://gg.gg/France_3_HD) [Báo lỗi bằng cách gọi điện thoại tại đây](0353356981) [Báo lỗi bằng cách gửi Email tại đây](hoanghuymanh85@gmail.com)<br />
+Kênh thử nghiệm 4: [Click tại đây để theo dõi](http://gg.gg/History_HD) [Báo lỗi bằng cách gọi điện thoại tại đây](0353356981) [Báo lỗi bằng cách gửi Email tại đây](hoanghuymanh85@gmail.com)<br />
+## Lưu ý: ~Không được phép theo dõi kênh nếu thiết bị của bạn không hỗ trợ phát với chất lượng cao lên đến 1080P hoặc cao hơn.~
+
 # Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
 Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv) tại địa chỉ: Số 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội về vị trí của bạn (VD: Số 15 Phố Lê Đại Hành, phường Minh Khai, quận Hồng Bàng, Hải Phòng hoặc Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng - gần Quốc lộ 5A, Đường Nguyễn Văn Linh) thì sẽ có tốc độ truyền dẫn phát sóng rất nhanh nên có thể dễ dàng dò kênh ngay lập tức.<br />
 
