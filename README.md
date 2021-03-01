@@ -1,4 +1,4 @@
-Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xuân Tân Sửu 2021! [Gói chính](http://gg.gg/hanoiiptv) [Gói gia đình](http://gg.gg/hanoiiptvfamily)
+Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xuân Tân Sửu 2021! [Gói chính](http://gg.gg/hanoiiptv) và [Gói gia đình](http://gg.gg/hanoiiptvfamily)
 =======
 Hà Nội IPTV hoạt đồng với thời lượng tần suất phát sóng 24 giờ trong ngày trên các thiết bị như: Android, iOS, Windows 7, Windows 10, LG WebOS, Samsung Tizen,....; thường xuyên cập nhật và sửa lỗi một số kênh truyền hình giải trí đặc sắc, tổng hợp từ trong nước đến quốc tế.<br />
 
@@ -19,7 +19,7 @@ Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng tr
 - Miễn phí các kênh tin tức - thời sự trong nước, địa phương và nước ngoài với tiêu chuẩn HD<br />
 Ngoài ra, cũng trong gói chính thức này, Hà Nội IPTV còn phát sóng các kênh truyền hình từ Pháp để tạo ra sự lãng mạn, thích thú với khán giả thủ đô. Đây là quốc gia bạn bè với Thủ đô Hà Nội trong lịch sử thế kỷ XX, cho đến nay có rất nhiều công trình vẫn còn để lại trong lòng thủ đô theo phong cách Pháp.<br />
 ## Gói gia đình
-Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptv)<br />
+Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptv).<br />
 ### Lưu ý: Gói gia đình chỉ phát sóng độc quyền cho các kênh truyền hình từ Xứ sở Kim Chi.<br />
 
 # Giới thiệu nhóm kênh của Hà Nội IPTV
