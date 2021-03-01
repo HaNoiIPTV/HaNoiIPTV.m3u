@@ -11,10 +11,10 @@ Là truyền hình số thế hệ mới dành cho quý vị và các bạn hi�
 ## Nhóm kênh Hà Nội IPTV
 Bao gồm hơn 40 kênh truyền hình giải trí tổng hợp đặc sắc nhất cùng với các lĩnh vực mua sắm, thể thao, khoa giáo,.... đang được phát sóng độc quyền trên Hà Nội IPTV.<br />
 
-### Nhóm kênh đặc sắc của Hà Nội IPTV
+## Nhóm kênh đặc sắc của Hà Nội IPTV
 Bao gồm hơn 90 kênh truyền hình đặc sắc, trong đó có kênh Truyền hình Hà Nội 1 HD là kênh địa phương đầu tiên trên cả nước chuyên phát sóng các bộ phim truyện nước ngoài độc quyền phát sóng với những tin tức thời sự, an ninh trật tự và những chuyên đề, chuyên mục phản ánh về đời sống - xã hội trên địa bàn thủ đô Hà Nội. Ngoài ra có các kênh truyền hình đặc sắc đáng chú ý khác như: VTV1 HD, VTV3 HD, VTV6 HD, VTVCab1 - Vie Giải Trí HD, VTVCab5 - E Channel HD, VTVCab10 - Vie Dramas HD, VTVCab8 - BiBi, VTVCab15 HD, VTVCab3 - Thể Thao TV HD, VTVCab16 - Bóng Đá TV HD, VTVCab18 - Thể thao Tin tức HD, VTVCab23 - Thể thao Golf HD, VTC7 Today TV HD, Truyền hình Vĩnh Long 1 HD, HTV2 HD, HTV7 HD, Box Movie 1 HD, Hollywood Classic HD, Waku Waku Japan HD, France 2 HD, France 3 HD, Hà Nội IPTV 2 - SBS HD, History HD, SCTV9 HD, Hà Nội IPTV 1 - KBS2 HD, Hà Nội IPTV 3 - MBC HD, Hà Nội IPTV 5 - tvN HD, Hà Nội IPTV 6 - MNet HD, M6 HD, Hà Nội IPTV 7 - JTBC HD, Hà Nội IPTV 17 - OCN HD,....<br />
 
-#### Nhóm kênh VTV - Đài Truyền hình Việt Nam
+## Nhóm kênh VTV - Đài Truyền hình Việt Nam
 51 năm qua, Đài Truyền hình Việt Nam đã trở thành là người bạn đầu tiên với quý khán giả xem truyền hình với các kênh truyền hình được toàn dân ta thường xuyên theo dõi như: VTV1 HD, VTV3 HD, VTV6 HD,....<br />
 
 VTV1 HD là kênh tin tức thời sự nóng hổi nhất được nhiều người trong cả nước quan tâm, trong đó có thủ đô Hà Nội là nơi tọa lạc để phát sóng các chương trình của Đài Truyền hình Việt Nam. trên kênh VTV1 tại số 43 đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình. Bao gồm các chương trình quan trọng nhất mà toàn dân ta thường xuyên theo dõi như:<br  />
@@ -30,40 +30,40 @@ Ngoài ra, còn có 6 kênh truyền hình như: VTV2 HD, VTV4 HD, VTV5 HD, VTV7
 
 Đây là nhóm kênh thứ ba mà Hà Nội IPTV tự sắp xếp để phục vụ toàn dân ta theo dõi trong điều kiện tivi không thể theo dõi hoặc dò lại 3 kênh nêu trên.<br />
 
-##### Nhóm kênh VTVCab - Truyền hình cáp Việt Nam
+## Nhóm kênh VTVCab - Truyền hình cáp Việt Nam
 Là thành viên thứ hai của Đài Truyền hình Việt Nam, VTVCab là đơn vị truyền hình cáp đầu tiên trong cả nước chỉ sau Truyền hình cáp Saigon Tourist (SCTV) và Truyền hình cáp Hà Nội (Hanoicab), chia làm hai loại là Truyền hình Analog và Truyền hình số với tiêu chuẩn HD. VTVCab đang phát sóng được hơn 20 kênh truyền hình trong các lĩnh vực như phim truyện chọn lọc đặc sắc, giải trí phong phú và đời sống - con người bổ ích và lý thú. Đối với Hà Nội IPTV, cho đến thời điểm này đang phát sóng được 22/24 kênh và dự kiến sẽ hoàn toàn phát sóng được 24 kênh trong thời gian tới.<br />
 
-###### Nhóm kênh theo lĩnh vực: Phim truyện, Thể thao, Giải trí, Thiếu nhi và Tin tức
+## Nhóm kênh theo lĩnh vực: Phim truyện, Thể thao, Giải trí, Thiếu nhi và Tin tức
 Hà Nội IPTV sẽ giới thiệu sau.<br />
 
-####### Nhóm kênh trong nước và địa phương
-# Nhóm kênh trong nước
+## Nhóm kênh trong nước và địa phương
+### Nhóm kênh trong nước
 Là nhóm kênh truyền hình chuyên biệt với những tin tức thời sự liên tục cập nhật cùng những chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội được nhiều người dân quan tâm.<br />
 
-## Nhóm kênh địa phương
+### Nhóm kênh địa phương
 Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước như:<br />
 
-# Vùng đồng bằng sồng Hồng
+#### Vùng đồng bằng sồng Hồng
 0142 VP - Truyền hình Vĩnh Phúc HD<br />
 0143 BTV - Truyền hình Bắc Ninh HD<br />
 0144 HYTV - Truyền hình Hưng Yên HD<br />
 0145 HDTV - Truyền hình Hải Dương HD<br />
 0146 TBTV - Truyền hình Thái Bình HD<br />
 0147 NBTV - Truyền hình Ninh Bình HD<br />
-## Cộng với 3 kênh thuộc nhóm kênh trong nước như:
+##### Cộng với 3 kênh thuộc nhóm kênh trong nước như:
 0056 Truyền hình Hải Phòng 2 HD (THP+ HD)<br />
 0057 THP - Truyền hình Hải Phòng HD<br />
 0059 Truyền hình Hà Nội 2 HD<br />
 
-### Vùng trung du và miền núi Bắc Bộ
+#### Vùng trung du và miền núi Bắc Bộ
 0148 LSTV - Truyền hình Lạng Sơn HD<br />
 0149 TN1 - Truyền hình Thái Nguyên HD<br />
 0150 QTV1 - Truyền hình Quảng Ninh 1 HD<br />
 0151 QTV3 - Truyền hình Quảng Ninh 3 HD<br />
 0152 PTV - Truyền hình Phú Thọ HD<br />
-#### Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
+##### Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
 
-##### Vùng duyên hải miền Trung và Tây Nguyên
+#### Vùng duyên hải miền Trung và Tây Nguyên
 0153 TTV - Truyền hình Thanh Hóa HD<br />
 0154 HTTV - Truyền hình Hà Tĩnh HD<br />
 0155 QBTV - Truyền hình Quảng Bình HD<br />
@@ -74,10 +74,10 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0160 NTV - Truyền hình Ninh Thuận HD<br />
 0161 BTV - Truyền hình Bình Thuận<br />
 0162 THGL - Truyền hình Gia Lai<br />
-###### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
+##### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
 0060 Truyền hình Nghệ An HD<br />
 
-###### Vùng Đông Nam Bộ
+#### Vùng Đông Nam Bộ
 0163 BTV2 - Kênh Khoa học và Giáo dục HD<br />
 0164 BTV6 - Kênh Dành cho giới trẻ<br />
 0165 BPTV1 - Truyền hình Bình Phước 1 HD<br />
@@ -86,7 +86,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0168 ĐN2 - Truyền hình Đồng Nai 2 HD<br />
 0169 ĐN9 - Sky Shop TV<br />
 0170 BRT - Truyền hình Bà Rịa Vũng Tàu HD<br />
-####### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
+##### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0087 BTV1 - Truyền hình Bình Dương HD<br />
 
 # Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
