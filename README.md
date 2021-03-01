@@ -117,6 +117,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0179 STV1 - Truyền hình Sóc Trăng HD<br />
 #### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0123 THĐT2 - Kênh Miền Tây<br />
+* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
 # Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
 0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD<br />
@@ -141,13 +142,19 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0243 Hà Nội IPTV 15 - Channel A HD<br />
 0244 Hà Nội IPTV 16 - Channel A Plus HD<br />
 0245 Hà Nội IPTV 17 - OCN HD<br />
+* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+
+# Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
+Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv) tại địa chỉ: Số 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội về vị trí của bạn (VD: Số 15 Phố Lê Đại Hành, phường Minh Khai, quận Hồng Bàng, Hải Phòng hoặc Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng - gần Quốc lộ 5A, Đường Nguyễn Văn Linh) thì sẽ có tốc độ truyền dẫn phát sóng rất nhanh nên có thể dễ dàng dò kênh ngay lập tức.<br />
+
+Hà Nội IPTV sẽ hướng dẫn dò kênh sau.<br />
 
 # Kết nối với Hà Nội IPTV
 Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 - [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)<br />
-Địa chỉ: 215 Trường Chinh, Phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
+Địa chỉ: Số 215 Đường Trường Chinh, Phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
 - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
-Địa chỉ: 6 Nguyễn Viết Xuân, Phường Lộc Vượng, TP. Nam Định, Nam Định<br />
+Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, Phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 
 # Liên hệ
 ### Star Beer Mạnh An
