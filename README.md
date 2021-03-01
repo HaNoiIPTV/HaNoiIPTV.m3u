@@ -66,7 +66,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0145 HDTV - Truyền hình Hải Dương HD<br />
 0146 TBTV - Truyền hình Thái Bình HD<br />
 0147 NBTV - Truyền hình Ninh Bình HD<br />
-##### Cộng với 3 kênh thuộc nhóm kênh trong nước như:
+#### Cộng với 3 kênh thuộc nhóm kênh trong nước như:
 0056 Truyền hình Hải Phòng 2 HD (THP+ HD)<br />
 0057 THP - Truyền hình Hải Phòng HD<br />
 0059 Truyền hình Hà Nội 2 HD<br />
@@ -77,7 +77,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0150 QTV1 - Truyền hình Quảng Ninh 1 HD<br />
 0151 QTV3 - Truyền hình Quảng Ninh 3 HD<br />
 0152 PTV - Truyền hình Phú Thọ HD<br />
-##### Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
+#### Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
 
 #### Vùng duyên hải miền Trung và Tây Nguyên
 0153 TTV - Truyền hình Thanh Hóa HD<br />
@@ -90,7 +90,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0160 NTV - Truyền hình Ninh Thuận HD<br />
 0161 BTV - Truyền hình Bình Thuận<br />
 0162 THGL - Truyền hình Gia Lai<br />
-##### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
+#### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
 0060 Truyền hình Nghệ An HD<br />
 
 #### Vùng Đông Nam Bộ
@@ -102,7 +102,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0168 ĐN2 - Truyền hình Đồng Nai 2 HD<br />
 0169 ĐN9 - Sky Shop TV<br />
 0170 BRT - Truyền hình Bà Rịa Vũng Tàu HD<br />
-##### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
+#### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0087 BTV1 - Truyền hình Bình Dương HD<br />
 
 #### Vùng đồng bằng sông Cửu Long
@@ -115,7 +115,7 @@ Kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, hiện nay,
 0177 Truyền hình Vĩnh Long 2<br />
 0178 HGTV - Truyền hình Hậu Giang HD<br />
 0179 STV1 - Truyền hình Sóc Trăng HD<br />
-##### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
+#### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0123 THĐT2 - Kênh Miền Tây<br />
 
 # Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
@@ -150,13 +150,13 @@ Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong 
 Địa chỉ: 6 Nguyễn Viết Xuân, Phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 
 # Liên hệ
-#### Star Beer Mạnh An
+### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
-#### Trung tâm Chức năng và Quản lý
+### Trung tâm Chức năng và Quản lý
 Địa chỉ: Số 1, Ngách 2/3/5 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội<br />
-#### Quê hương Hà Nội IPTV
+### Quê hương Hà Nội IPTV
 Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
 Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
-#### Tiếp nhận thông tin
+### Tiếp nhận thông tin
 Điện thoại: 0353356981<br />
 Email: hoanghuymanh85@gmail.com<br />
