@@ -17,7 +17,7 @@ Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng tr
 - Hơn 15 kênh phim truyện hấp dẫn và thể thao sôi động cùng hơn 50 kênh giải trí đặc sắc và tổng hợp Việt Nam và nước ngoài<br />
 - 15 kênh truyền hình dành cho thiếu nhi bổ ích, lý thú<br />
 - Miễn phí các kênh tin tức - thời sự trong nước, địa phương và nước ngoài với tiêu chuẩn HD<br />
-Ngoài ra, cũng trong gói chính thức này, ngoài các nội dung trên, Hà Nội IPTV còn phát sóng các kênh truyền hình từ Pháp để tạo ra sự lãng mạn, thích thú với khán giả thủ đô. Đây là quốc gia bạn bè với Thủ đô Hà Nội trong lịch sử thế kỷ XX, cho đến nay có rất nhiều công trình vẫn còn để lại trong lòng thủ đô theo phong cách Pháp.<br />
+Ngoài ra, cũng trong gói chính thức này, Hà Nội IPTV còn phát sóng các kênh truyền hình từ Pháp để tạo ra sự lãng mạn, thích thú với khán giả thủ đô. Đây là quốc gia bạn bè với Thủ đô Hà Nội trong lịch sử thế kỷ XX, cho đến nay có rất nhiều công trình vẫn còn để lại trong lòng thủ đô theo phong cách Pháp.<br />
 ## Gói gia đình
 Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptv)<br />
 ### Lưu ý: Gói gia đình chỉ phát sóng độc quyền cho các kênh truyền hình từ Xứ sở Kim Chi.<br />
