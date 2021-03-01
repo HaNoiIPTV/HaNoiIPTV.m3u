@@ -62,6 +62,8 @@ https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/vtvcab-12.png",VTVCab12 - Style TV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
+#EXTINF:-1  tvg-logo="https://imgstatic.vtvcab.vn/logos/PHIMVIET_M.png",VTVCab2 - Phim Việt
+http://quocthai.duckdns.org:18886/rtp/232.84.1.168:8982
 #EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832376891.png",VTVCab7 - O2TV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
 #EXTINF:-1  tvg-id="http://quocthai.duckdns.org:18886/rtp/232.84.1.169:8988" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20HD.png",VTVCab4 HD
