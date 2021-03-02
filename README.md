@@ -165,11 +165,13 @@ Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv)
 Hà Nội IPTV sẽ hướng dẫn dò kênh sau.<br />
 
 # Kết nối với Hà Nội IPTV
-Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
-- [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)<br />
-Địa chỉ: Số 215 Đường Trường Chinh, Phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
-- [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
-Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, Phường Lộc Vượng, TP. Nam Định, Nam Định<br />
+### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
+### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
+Địa chỉ: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
+### - [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)<br />
+Địa chỉ: Số 215 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
+### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
+Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 
 # Liên hệ
 ### Star Beer Mạnh An
