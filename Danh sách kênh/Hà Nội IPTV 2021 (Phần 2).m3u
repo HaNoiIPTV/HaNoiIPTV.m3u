@@ -1134,10 +1134,12 @@ http://aplay.gztv.com/sec/shenghuos.m3u8
 http://hls333.dszbdq.cn/gdcz.php?id=11
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清 - Truyền hình Triều Châu 2 HD (Kênh Công cộng HD)
 http://hls333.dszbdq.cn/gdcz.php?id=12
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",翡翠台 （馬來西亞）
-http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10299
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png",TVB 娛樂新聞台 HD
-http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10302
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加東新時代電視1台
+http://gg.gg/Fairchild_1_East
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加西新時代電視1台
+http://gg.gg/Fairchild_1_West
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Fairchild_TV_2_HD.png/revision/latest/scale-to-width-down/200?cb=20200606192744",新時代電視2高清台
+http://gg.gg/Fairchild_2_HD
 #EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道高清 - Truyền hình Hà Nam 2 HD (Kênh Đô thị HD)
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV3/HNTV3.jpg?1",河南民生频道 - Truyền hình Hà Nam 3 (Kênh Dân sinh)
