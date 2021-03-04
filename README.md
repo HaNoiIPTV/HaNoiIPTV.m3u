@@ -164,6 +164,9 @@ Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv)
 
 Hà Nội IPTV sẽ hướng dẫn dò kênh sau.<br />
 
+# Thăm dò ý kiến
+Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/PCR7W8EW) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.
+
 # Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
