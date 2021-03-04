@@ -497,7 +497,7 @@ https://youtu.be/0GN8t2u3flc
 http://gg.gg/TF1_Series_Film_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 14 - Kênh 90/100" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20TV%20Chosun%202%20HD.png",Hà Nội IPTV 14 - TV Chosun 2 HD
 http://gg.gg/HaNoiIPTV14_TV_Chosun_2_HD
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-id="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png",LCI HD
+#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-loho="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png",LCI HD
 http://gg.gg/LCI_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 10 HD - Kênh 76/74/18" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2010%20-%20Channel%20A%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 15 - Channel A HD
 http://gg.gg/HaNoiIPTV15_Channel_A_HD
@@ -505,6 +505,8 @@ http://gg.gg/HaNoiIPTV15_Channel_A_HD
 http://gg.gg/Paris_Premiere_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 8+ HD - Kênh 100" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2027%20-%20Channel%20A%20Plus%20HD.png",Hà Nội IPTV 16 - Channel A Plus HD
 http://gg.gg/HaNoiIPTV16_Channel_A_Plus_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTL9%20HD.png",RTL9 HD
+http://gg.gg/RTL9_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 12 HD - Kênh 34/33/30" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2012%20-%20OCN%20HD.png",Hà Nội IPTV 17 - OCN HD
 http://gg.gg/HaNoiIPTV17_OCN_HD
 #EXTINF:-1  tvg-id="Hà Nội IPTV 25 HD - Kênh 36/38/29" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2032%20-%20OCN%20Movies%20HD.png",Hà Nội IPTV 18 - OCN Movies HD
