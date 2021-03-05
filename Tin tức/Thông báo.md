@@ -2,7 +2,7 @@ THÔNG BÁO VỀ VIỆC NÂNG CẤP PHÁT SÓNG
 =======
 Nhân dịp kỷ niệm 51 năm thành lập Đài Truyền hình Việt Nam, bắt đầu từ ngày 5/3/2021, Hà Nội IPTV sẽ nâng cấp phát sóng toàn bộ 9 kênh quảng bá của Đài Truyền hình Việt Nam từ 720P sang 1080P cho gói chính thức và gói một số địa phương. Cụ thể như sau:<br />
 
-# [Gói chính thức](http://gg.gg/hanoiiptv
+# [Gói chính thức](http://gg.gg/hanoiiptv)
 Từ kênh số 003 đến 011<br />
 
 # Gói địa phương
@@ -14,5 +14,7 @@ Từ kênh số 003 đến 011<br />
 ### Tại sao phải thực hiện thông báo này?
 Vì lý do kênh VTV1 và VTV3 là những kênh bắt buộc phải theo dõi hàng ngày nên số lượng theo dõi cả 2 kênh rất cao. Để đáp ứng nhu cầu nâng cao chất lượng hình ảnh để theo dõi các chương trình của 2 kênh VTV1 và VTV3 cùng 7 kênh thiết yếu khác, Hà Nội IPTV phải tiến hành nâng cấp chất lượng hình ảnh cao hơn lên đến 1080P nhưng vẫn đảm bảo ổn định lâu dài. Kính mong quý khán giả tiếp tục quan tâm theo dõi!<br />
 
-#### Liên hệ
+### Liên hệ
 Nếu phát hiện lỗi phát kênh, xin vui lòng báo lỗi ở phần Liên hệ trong README.md tại địa chỉ: https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/README.md<br />
+
+Xin trân trọng cảm ơn!<br />
