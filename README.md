@@ -167,7 +167,11 @@ Hướng dẫn chi tiết như sau:<br />
 ## 1. Đối với hệ điều hành Android
 a) Chọn CH Play, tìm kiếm với từ khóa IPTV và cài đặt các ứng dụng chính sau đây:<br />
 - IPTV: Vào ứng dụng này khi thêm danh sách phát bằng URL tại địa chỉ: http://gg.gg/hanoiiptv thì có thể theo dõi được hơn 600 kênh hoàn toàn miễn phí kèm theo lịch phát sóng cho một số kênh trong nước và quốc tế.<br />
-- IPTV 3U: Vào ứng dụng này muốn được theo dõi Hà Nội IPTV thì không được hỗ trợ thêm danh sách phát bằng URL tại địa chỉ: http://gg.gg/hanoiiptv mà phải thêm vào đó tại địa chỉ gốc của nó là: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u sau đó bạn phải chọn nhóm kênh bất kỳ rồi mới được chọn kênh. Ứng dụng này còn có thể vừa xem TV, vừa nghe âm thanh, vừa ghi lại một hoặc nhiều kênh cho các chương trình bất kỳ lúc nào lên đến 1080P hoặc cao hơn.<br />
+- IPTV 3U: Vào ứng dụng này muốn theo dõi được Hà Nội IPTV thì không được hỗ trợ thêm danh sách phát bằng URL tại địa chỉ: http://gg.gg/hanoiiptv mà phải thêm vào đó tại địa chỉ gốc của nó là: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u sau đó bạn phải chọn nhóm kênh bất kỳ rồi mới được chọn kênh. Ứng dụng này còn có thể vừa xem TV, vừa nghe âm thanh, vừa ghi lại một hoặc nhiều kênh cho các chương trình bất kỳ lúc nào lên đến 1080P hoặc cao hơn.<br />
+b) Sau khi cài đặt xong ứng dụng nào thì mở bằng ứng dụng đó và làm theo hướng dẫn nêu trên.<br />
+*Lưu ý: Nếu Smart TV của bạn sử dụng hệ điều hành Android vẫn có thể thực hiện theo hướng dẫn trên.
+
+## 4. Đối với Smart TV
 
 # Thăm dò ý kiến
 Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.
