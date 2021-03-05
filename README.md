@@ -176,6 +176,9 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 ### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
 Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 
+# Những nội dung khác
+- [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
+
 # Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
@@ -185,5 +188,5 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
 Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
 ### Tiếp nhận thông tin
-Điện thoại: 0353356981<br />
+Điện thoại, Zalo: 0353356981<br />
 Email: hoanghuymanh85@gmail.com<br />
