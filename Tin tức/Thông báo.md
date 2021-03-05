@@ -9,7 +9,7 @@ Từ kênh số 003 đến 011<br />
 - Nhóm 1: Phú Thọ, Lạng Sơn, Thái Nguyên, Vĩnh Phúc, Bắc Ninh, Hưng Yên, Hải Dương, [Hải Phòng](http://gg.gg/haiphongiptv), Quảng Ninh, Thái Bình, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Thừa Thiên Huế, Đà Nẵng, Khánh Hòa, Ninh Thuận, Bình Thuận, Gia Lai, Đồng Nai, TP. Hồ Chí Minh, Bà Rịa - Vũng Tàu, Bình Dương, Bình Phước, Tây Ninh, Tiền Giang, Vĩnh Long, Đồng Tháp, An Giang, Hậu Giang, Bến Tre, Sóc Trăng, Cần Thơ<br />
 - Nhóm 2: Điện Biên, Sơn La, Lào Cai, Hà Giang, Cao Bằng, Bắc Giang, Bắc Kạn, [Hà Nam](http://gg.gg/hanamiptv), Quảng Trị, Quảng Nam, Quảng Ngãi, Đắk Nông, Lâm Đồng, Kiên Giang, Trà Vinh, Bạc Liêu, Cà Mau<br />
 
-## Riêng [gói gia đình](http://gg.gg/hanoiiptvfamily) và gói địa phương còn lại là nhóm 3: Lai Châu, Hòa Bình, Yên Bái, Tuyên Quang, [Nam Định](http://gg.gg/namdinhiptv), Bình Định, Phú Yên, Kon Tum, Đắk Lắk, Long An, An Giang, Bến Tre vẫn giữ nguyên phát sóng 9 kênh nêu trên như bình thường (720P).<br />
+## Riêng [gói gia đình](http://gg.gg/hanoiiptvfamily) và gói địa phương còn lại là nhóm 3: Lai Châu, Hòa Bình, Yên Bái, Tuyên Quang, [Nam Định](http://gg.gg/namdinhiptv), Bình Định, Phú Yên, Kon Tum, Đắk Lắk, Long An, Bến Tre vẫn giữ nguyên phát sóng 9 kênh nêu trên như bình thường (720P).<br />
 
 ### Tại sao phải thực hiện thông báo này?
 Vì lý do kênh VTV1 và VTV3 là những kênh bắt buộc phải theo dõi hàng ngày nên số lượng theo dõi cả 2 kênh rất cao. Để đáp ứng nhu cầu nâng cao chất lượng hình ảnh để theo dõi các chương trình của 2 kênh VTV1 và VTV3 cùng 7 kênh thiết yếu khác, Hà Nội IPTV phải tiến hành nâng cấp chất lượng hình ảnh cao hơn lên đến 1080P nhưng vẫn đảm bảo ổn định lâu dài. Kính mong quý khán giả tiếp tục quan tâm theo dõi!<br />
