@@ -1,20 +1,17 @@
 THÔNG BÁO VỀ VIỆC NÂNG CẤP PHÁT SÓNG
 =======
-Nhân dịp kỷ niệm 51 năm thành lập Đài Truyền hình Việt Nam, bắt đầu từ ngày 5/3/2021, Hà Nội IPTV sẽ nâng cấp phát sóng toàn bộ 9 kênh quảng bá của Đài Truyền hình Việt Nam từ 720P sang 1080P cho gói chính thức và gói một số địa phương. Cụ thể như sau:<br />
+Bắt đầu từ ngày 6/3/2021, ngoài việc nâng cấp phát sóng toàn bộ 9 kênh quảng bá của Đài Truyền hình Việt Nam thì Hà Nội IPTV còn nâng cấp phát sóng thêm các kênh thiết yếu như Truyền hình Vĩnh Long 1 HD, Truyền hình Vĩnh Long 2 HD, HTV2 HD, HTV7 HD, HTV9 HD, TH Thông tấn xã Việt Nam - VNews HD, QPVN - TH Quốc phòng Việt Nam HD, TH Quốc hội Việt Nam HD, THND - Truyền hình Nhân Dân HD, ANTV - Truyền hình An Ninh HD,.... Cụ thể như sau:<br />
 
-# [Gói chính thức](http://gg.gg/hanoiiptv)
-Từ kênh số 003 đến 011<br />
+# Đối với [gói chính thức](http://gg.gg/hanoiiptv)
+Nâng cấp một số kênh nêu trên kèm theo việc sửa lỗi phát kênh cho một số kênh tổng hợp trong nước.<br />
 
-# Gói địa phương
-- Nhóm 1: Phú Thọ, Lạng Sơn, Thái Nguyên, Vĩnh Phúc, Bắc Ninh, Hưng Yên, Hải Dương, [Hải Phòng](http://gg.gg/haiphongiptv), Quảng Ninh, Thái Bình, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, Thừa Thiên Huế, Đà Nẵng, Khánh Hòa, Ninh Thuận, Bình Thuận, Gia Lai, Đồng Nai, TP. Hồ Chí Minh, Bà Rịa - Vũng Tàu, Bình Dương, Bình Phước, Tây Ninh, Tiền Giang, Vĩnh Long, Đồng Tháp, An Giang, Hậu Giang, Bến Tre, Sóc Trăng, Cần Thơ<br />
-- Nhóm 2: Điện Biên, Sơn La, Lào Cai, Hà Giang, Cao Bằng, Bắc Giang, Bắc Kạn, [Hà Nam](http://gg.gg/hanamiptv), Quảng Trị, Quảng Nam, Quảng Ngãi, Đắk Nông, Lâm Đồng, Kiên Giang, Trà Vinh, Bạc Liêu, Cà Mau<br />
+# Đối với gói một số địa phương phối hợp với Thông tấn xã Việt Nam bao gồm: Lai Châu, Điện Biên, Hòa Bình, Phú Thọ, Lạng Sơn, Bắc Giang, Bắc Kạn, Thái Nguyên, Tuyên Quang, Vĩnh Phúc, Hưng Yên, Hải Dương, Quảng Ninh, Thái Bình, [Nam Định](http://gg.gg/namdinhiptv), Ninh Bình, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên - Huế, Đà Nẵng, Khánh Hòa, Đồng Nai,....
+Nâng cấp phát sóng kênh TH Thông tấn xã Việt Nam - VNews HD cùng một số kênh nêu trên.<br />
 
-## Riêng [gói gia đình](http://gg.gg/hanoiiptvfamily) và gói địa phương còn lại là nhóm 3: Lai Châu, Hòa Bình, Yên Bái, Tuyên Quang, [Nam Định](http://gg.gg/namdinhiptv), Bình Định, Phú Yên, Kon Tum, Đắk Lắk, Long An, Bến Tre vẫn giữ nguyên phát sóng 9 kênh nêu trên như bình thường (720P).<br />
+# Đối với gói một số địa phương còn lại
+Vẫn giữ nguyên phát sóng kênh như bình thường.<br />
 
-### Tại sao phải thực hiện thông báo này?
-Vì lý do kênh VTV1 và VTV3 là những kênh bắt buộc phải theo dõi hàng ngày nên số lượng theo dõi cả 2 kênh rất cao. Để đáp ứng nhu cầu nâng cao chất lượng hình ảnh để theo dõi các chương trình của 2 kênh VTV1 và VTV3 cùng 7 kênh thiết yếu khác, Hà Nội IPTV phải tiến hành nâng cấp chất lượng hình ảnh cao hơn lên đến 1080P nhưng vẫn đảm bảo ổn định lâu dài. Kính mong quý khán giả tiếp tục quan tâm theo dõi!<br />
-
-### Liên hệ
+# Liên hệ
 Nếu phát hiện lỗi phát kênh, xin vui lòng báo lỗi ở phần Liên hệ trong README.md tại địa chỉ: https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/README.md<br />
 
 Xin trân trọng cảm ơn!<br />
