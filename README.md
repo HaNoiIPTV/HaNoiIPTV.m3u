@@ -202,7 +202,7 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 # K. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
 
-# G. Liên hệ
+# L. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
 ### Trung tâm Chức năng và Quản lý
