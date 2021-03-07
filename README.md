@@ -2,15 +2,15 @@ Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xu
 =======
 Hà Nội IPTV hoạt đồng với thời lượng tần suất phát sóng 24 giờ trong ngày trên các thiết bị như: Android, iOS, Windows 7, Windows 10, LG WebOS, Samsung Tizen,....; thường xuyên cập nhật và sửa lỗi một số kênh truyền hình giải trí đặc sắc, tổng hợp từ trong nước đến quốc tế.<br />
 
-# Hà Nội IPTV là gì?
+# A. Hà Nội IPTV là gì?
 Là truyền hình số thế hệ mới, không trả phí, độc quyền phát sóng các kênh truyền hình Việt Nam và thế giới đặc sắc, mới nhất phục vụ đông đảo khán giả trên địa bàn thủ đô, cả nước và thế giới.<br />
 
-# Tại sao nên lựa chọn Hà Nội IPTV?
+# B. Tại sao nên lựa chọn Hà Nội IPTV?
 Vì Hà Nội IPTV là một nhà cung cấp lớn nhất và được hơn nghìn người truy cập để theo dõi độc quyền các kênh truyền hình của chúng tôi mọi lúc, mọi nơi. Hiện nhiều người có thể truy cập để theo dõi được thể thao, phim truyện hay giải trí nước ngoài là chủ yếu.<br />
 
-# Dịch vụ Truyền hình số của Hà Nội IPTV
+# C. Dịch vụ Truyền hình số của Hà Nội IPTV
 Trong thời gian đại dịch Covid-19 đang có những diễn biến hết sức phức tạp do lây lan trong cộng đồng giữa 2 tỉnh là Hải Dương và Quảng Ninh, Hà Nội IPTV đang triển khai 2 gói quan trọng đó là gói chính và gói gia đình (dành cho những bệnh nhân phải thực hiện cách ly theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh).<br />
-## Gói chính thức
+## I. Gói chính thức
 Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng trong gói chính thức [tại đây](http://gg.gg/hanoiiptv) hoàn toàn miễn phí, trong đó có:<br />
 - Hơn 40 kênh Hà Nội IPTV với các kênh truyền hình từ Xứ sở Kim Chi lần đầu tiên phát sóng tại Việt Nam và hơn 90 kênh đặc sắc của Hà Nội IPTV<br />
 - 7 kênh VTV với tiêu chuẩn HD và 22 kênh VTVCab<br />
@@ -18,18 +18,18 @@ Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng tr
 - 15 kênh truyền hình dành cho thiếu nhi bổ ích, lý thú<br />
 - Miễn phí các kênh tin tức - thời sự trong nước, địa phương và nước ngoài với tiêu chuẩn HD<br />
 Ngoài ra, cũng trong gói chính thức này, Hà Nội IPTV còn phát sóng các kênh truyền hình từ Pháp để tạo ra sự lãng mạn, thích thú với khán giả thủ đô. Đây là quốc gia bạn bè với Thủ đô Hà Nội trong lịch sử thế kỷ XX, cho đến nay có rất nhiều công trình vẫn còn để lại trong lòng thủ đô theo phong cách Pháp.<br />
-## Gói gia đình
+## II. Gói gia đình
 Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptv).<br />
-### Lưu ý: Gói gia đình chỉ phát sóng độc quyền cho các kênh truyền hình từ Xứ sở Kim Chi.<br />
+### * Lưu ý: Gói gia đình chỉ phát sóng độc quyền cho các kênh truyền hình từ Xứ sở Kim Chi.<br />
 
-# Giới thiệu nhóm kênh của Hà Nội IPTV
-## Nhóm kênh Hà Nội IPTV
+# D. Giới thiệu nhóm kênh của Hà Nội IPTV
+## I. Nhóm kênh Hà Nội IPTV
 Bao gồm hơn 40 kênh truyền hình giải trí tổng hợp đặc sắc nhất cùng với các lĩnh vực mua sắm, thể thao, khoa giáo,.... đang được phát sóng độc quyền trên Hà Nội IPTV.<br />
 
-## Nhóm kênh đặc sắc của Hà Nội IPTV
+## II. Nhóm kênh đặc sắc của Hà Nội IPTV
 Bao gồm hơn 90 kênh truyền hình đặc sắc, trong đó có kênh Truyền hình Hà Nội 1 HD là kênh địa phương đầu tiên trên cả nước chuyên phát sóng các bộ phim truyện nước ngoài độc quyền phát sóng với những tin tức thời sự, an ninh trật tự và những chuyên đề, chuyên mục phản ánh về đời sống - xã hội trên địa bàn thủ đô Hà Nội. Ngoài ra có các kênh truyền hình đặc sắc đáng chú ý khác như: VTV1 HD, VTV3 HD, VTV6 HD, VTVCab1 - Vie Giải Trí HD, VTVCab5 - E Channel HD, VTVCab10 - Vie Dramas HD, VTVCab8 - BiBi, VTVCab15 HD, VTVCab3 - Thể Thao TV HD, VTVCab16 - Bóng Đá TV HD, VTVCab18 - Thể thao Tin tức HD, VTVCab23 - Thể thao Golf HD, VTC7 Today TV HD, Truyền hình Vĩnh Long 1 HD, HTV2 HD, HTV7 HD, Box Movie 1 HD, Hollywood Classic HD, Waku Waku Japan HD, France 2 HD, France 3 HD, Hà Nội IPTV 2 - SBS HD, History HD, SCTV9 HD, Hà Nội IPTV 1 - KBS2 HD, Hà Nội IPTV 3 - MBC HD, Hà Nội IPTV 5 - tvN HD, Hà Nội IPTV 6 - MNet HD, M6 HD, Hà Nội IPTV 7 - JTBC HD, Hà Nội IPTV 17 - OCN HD,....<br />
 
-## Nhóm kênh VTV - Đài Truyền hình Việt Nam
+## III. Nhóm kênh VTV - Đài Truyền hình Việt Nam
 51 năm qua, Đài Truyền hình Việt Nam đã trở thành là người bạn đầu tiên đối với quý khán giả bao gồm các kênh truyền hình được toàn dân ta thường xuyên theo dõi như: VTV1 HD, VTV3 HD, VTV6 HD,....<br />
 
 VTV1 HD là kênh tin tức thời sự nóng hổi nhất được nhiều người trong cả nước quan tâm, trong đó có thủ đô Hà Nội là nơi tọa lạc để phát sóng các chương trình của Đài Truyền hình Việt Nam. trên kênh VTV1 tại số 43 đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình. Bao gồm các chương trình quan trọng nhất mà toàn dân ta thường xuyên theo dõi như:<br  />
@@ -45,20 +45,20 @@ Ngoài ra, còn có 6 kênh truyền hình như: VTV2 HD, VTV4 HD, VTV5 HD, VTV7
 
 Đây là nhóm kênh thứ ba mà Hà Nội IPTV tự sắp xếp để phục vụ toàn dân ta theo dõi trong điều kiện tivi không thể theo dõi hoặc dò lại 3 kênh nêu trên.<br />
 
-## Nhóm kênh VTVCab - Truyền hình cáp Việt Nam
+## IV. Nhóm kênh VTVCab - Truyền hình cáp Việt Nam
 Là thành viên thứ hai của Đài Truyền hình Việt Nam, VTVCab là đơn vị truyền hình cáp đầu tiên trong cả nước chỉ sau Truyền hình cáp Saigon Tourist (SCTV) và Truyền hình cáp Hà Nội (Hanoicab), chia làm hai loại là Truyền hình Analog và Truyền hình số với tiêu chuẩn HD. VTVCab đang phát sóng được hơn 20 kênh truyền hình trong các lĩnh vực như phim truyện chọn lọc đặc sắc, giải trí phong phú và đời sống - con người bổ ích và lý thú. Đối với Hà Nội IPTV, cho đến thời điểm này đang phát sóng được 22/24 kênh và dự kiến sẽ hoàn toàn phát sóng được 24 kênh trong thời gian tới.<br />
 
-## Nhóm kênh theo lĩnh vực: Phim truyện, Thể thao, Giải trí, Thiếu nhi và Tin tức
+## V. Nhóm kênh theo lĩnh vực: Phim truyện, Thể thao, Giải trí, Thiếu nhi và Tin tức
 Hà Nội IPTV sẽ giới thiệu sau.<br />
 
-## Nhóm kênh trong nước và địa phương
-### Nhóm kênh trong nước
+## VI. Nhóm kênh trong nước và địa phương
+### 1. Nhóm kênh trong nước
 Là nhóm kênh truyền hình chuyên biệt với những tin tức thời sự liên tục cập nhật cùng những chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội được nhiều người dân quan tâm.<br />
 
-### Nhóm kênh địa phương
+### 2. Nhóm kênh địa phương
 Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ngoại ở một số địa phương trong cả nước kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, bao gồm một số lĩnh vực như những tin tức thời sự mới nhất, nhanh nhất, chính xác nhất và hiệu quả nhất trên địa bàn; những chương trình - chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội; những ký sự, phim tài liệu về quê hương - cuộc sống - con người với văn hóa - đời sống - xã hội từ quá khứ đến hiện tại; những chương trình văn nghệ - giải trí - gameshow đa dạng, phong phú cùng những bộ phim truyện Việt Nam và nước ngoại được khai thác, chọn lọc một cách đặc sắc và hấp dẫn. Hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước như:<br />
 
-#### Vùng đồng bằng sồng Hồng
+#### a) Vùng đồng bằng sồng Hồng
 0141 HiTV - Hanoicab 1<br />
 0142 VP - Truyền hình Vĩnh Phúc HD<br />
 0143 BTV - Truyền hình Bắc Ninh HD<br />
@@ -71,15 +71,15 @@ Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ng
 0057 THP - Truyền hình Hải Phòng HD<br />
 0059 Truyền hình Hà Nội 2 HD<br />
 
-#### Vùng trung du và miền núi Bắc Bộ
+#### b) Vùng trung du và miền núi Bắc Bộ
 0148 LSTV - Truyền hình Lạng Sơn HD<br />
 0149 TN1 - Truyền hình Thái Nguyên HD<br />
 0150 QTV1 - Truyền hình Quảng Ninh 1 HD<br />
 0151 QTV3 - Truyền hình Quảng Ninh 3 HD<br />
 0152 PTV - Truyền hình Phú Thọ HD<br />
-#### Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
+#### * Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
 
-#### Vùng duyên hải miền Trung và Tây Nguyên
+#### c) Vùng duyên hải miền Trung và Tây Nguyên
 0153 TTV - Truyền hình Thanh Hóa HD<br />
 0154 HTTV - Truyền hình Hà Tĩnh HD<br />
 0155 QBTV - Truyền hình Quảng Bình HD<br />
@@ -93,7 +93,7 @@ Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ng
 #### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
 0060 Truyền hình Nghệ An HD<br />
 
-#### Vùng Đông Nam Bộ
+#### d) Vùng Đông Nam Bộ
 0163 BTV2 - Kênh Khoa học và Giáo dục HD<br />
 0164 BTV6 - Kênh Dành cho giới trẻ<br />
 0165 BPTV1 - Truyền hình Bình Phước 1 HD<br />
@@ -105,7 +105,7 @@ Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ng
 #### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0087 BTV1 - Truyền hình Bình Dương HD<br />
 
-#### Vùng đồng bằng sông Cửu Long
+#### e) Vùng đồng bằng sông Cửu Long
 0171 THĐT1 - Truyền hình Đồng Tháp 1 HD<br />
 0172 THTG - Truyền hình Tiền Giang HD<br />
 0173 THBT - Truyền hình Bến Tre<br />
@@ -117,16 +117,16 @@ Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ng
 0179 STV1 - Truyền hình Sóc Trăng HD<br />
 #### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
 0123 THĐT2 - Kênh Miền Tây<br />
-* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
-## Nhóm các kênh khác
+## VII. Nhóm các kênh khác
 Là nhóm kênh VTV5 của Đài Truyền hình Việt Nam tại:<br />
 0180 VTV5 Tây Nguyên<br />
 và<br />
 0181 VTV5 Tây Nam Bộ HD<br />
-* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
-# Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
+# E. Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
 0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD<br />
 0002 Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD<br />
 0135 Hà Nội IPTV 58 - SBS Biz HD<br />
@@ -149,9 +149,9 @@ và<br />
 0243 Hà Nội IPTV 15 - Channel A HD<br />
 0244 Hà Nội IPTV 16 - Channel A Plus HD<br />
 0245 Hà Nội IPTV 17 - OCN HD<br />
-* Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
 
-# Truyền hình trực tuyến
+# F. Truyền hình trực tuyến
 Phần này được sử dụng để thử nghiệm, đề nghị quý vị và các bạn theo dõi các kênh sau đây, nếu thấy lỗi thì vào phần Liên hệ để tiến hành báo lỗi.<br />
 Kênh thử nghiệm 1: [Click tại đây để theo dõi](http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD)<br />
 Kênh thử nghiệm 2: [Click tại đây để theo dõi](http://gg.gg/France_2_HD)<br />
@@ -159,24 +159,37 @@ Kênh thử nghiệm 3: [Click tại đây để theo dõi](http://gg.gg/France_
 Kênh thử nghiệm 4: [Click tại đây để theo dõi](http://gg.gg/History_HD)<br />
 ## Lưu ý: ~Không được phép theo dõi kênh nếu thiết bị của bạn không hỗ trợ phát với chất lượng cao lên đến 1080P hoặc cao hơn.~
 
-# Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
+# G. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
 Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv) tại địa chỉ: Số 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội về vị trí của bạn (VD: Số 15 Phố Lê Đại Hành, phường Minh Khai, quận Hồng Bàng, Hải Phòng hoặc Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng - gần Quốc lộ 5A, Đường Nguyễn Văn Linh) thì sẽ có tốc độ truyền dẫn phát sóng rất nhanh nên có thể dễ dàng dò kênh ngay lập tức.<br />
 
 Hướng dẫn chi tiết như sau:<br />
 
-## 1. Đối với hệ điều hành Android
+## I. Đối với hệ điều hành Android
+### Cách 1:
 a) Chọn CH Play, tìm kiếm với từ khóa IPTV và cài đặt các ứng dụng chính sau đây:<br />
 - IPTV: Vào ứng dụng này khi thêm danh sách phát bằng URL tại địa chỉ: http://gg.gg/hanoiiptv thì có thể theo dõi được hơn 600 kênh hoàn toàn miễn phí kèm theo lịch phát sóng cho một số kênh trong nước và quốc tế.<br />
 - IPTV 3U: Vào ứng dụng này muốn theo dõi được Hà Nội IPTV thì không được hỗ trợ thêm danh sách phát bằng URL tại địa chỉ: http://gg.gg/hanoiiptv mà phải thêm vào đó tại địa chỉ gốc của nó là: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u sau đó bạn phải chọn nhóm kênh bất kỳ rồi mới được chọn kênh. Ứng dụng này còn có thể vừa xem TV, vừa nghe âm thanh, vừa ghi lại một hoặc nhiều kênh cho các chương trình bất kỳ lúc nào lên đến 1080P hoặc cao hơn.<br />
 b) Sau khi cài đặt xong ứng dụng nào thì mở bằng ứng dụng đó và làm theo hướng dẫn nêu trên.<br />
-*Lưu ý: Nếu Smart TV của bạn sử dụng hệ điều hành Android vẫn có thể thực hiện theo hướng dẫn trên.
+* Lưu ý: Nếu Smart TV của bạn sử dụng hệ điều hành Android vẫn có thể thực hiện theo hướng dẫn trên.<br />
 
-## 4. Đối với Smart TV
+## IV. Đối với Smart TV
+### 1. Về hệ điều hành LG WebOS TV
+a) Trước khi cài đặt ứng dụng để theo dõi Hà Nội IPTV<br />
+- Cách 1: Nếu Smart TV của bạn sử dụng hệ điều hành này, trên điều khiển TV của bạn bấm vào nút tìm kiếm, sau đó gõ vào từ khóa SS IPTV hoặc FPlayer để tiến hành cài đặt.<br />
+- Cách 2: Trên điều khiển TV của bạn bấm vào nút home, chọn LG Content Store sau đó bạn chọn tìm kiếm và làm tương tự như cách 1.<br />
+b) Sau khi cài đặt ứng dụng<br />
+2. Sau khi cài đặt ứng dụng FPlayer, bạn mở vào ứng dụng sau đó nhấn vào nút màu đỏ, thêm danh sách phát bằng cách gõ vào địa chỉ: http://gg.gg/hanoiiptv và nhấn nút màu xanh để lưu lại.<br />
+## * Lưu ý: Ứng dụng này sẽ chỉ được xem 5 kênh trong phần bảng kênh và lịch phát sóng từ Hà Nội IPTV cũng như các dịch vụ khác.
 
-# Thăm dò ý kiến
-Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.
+### 2. Về hệ điều hành Samsung Tizen
+Nếu Smart TV của bạn sử dụng hệ điều hành này thì tuyệt đối không được cài đặt ngay các ứng dụng để theo dõi Hà Nội IPTV mà bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để truyền từ smartphone lên TV. Cụ thể như sau:<br />
+a) Đối với hệ điều hành Android
+- Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn IPTV, nhấn dấu cộng và gõ vào địa chỉ: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u rồi nhấn Lưu. Sau đó bạn vào Hà Nội IPTV 2021.m3u, chọn kênh bạn muốn xem rồi chọn TV của bạn để tiến hành kết nối và có thể theo dõi ngay lập tức.<br />
 
-# Kết nối với Hà Nội IPTV
+# H. Thăm dò ý kiến
+Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.<br />
+
+# I. Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
 Địa chỉ: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
@@ -186,10 +199,10 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 ### Ngoài ra, Hà Nội IPTV còn hỗ trợ ngôn ngữ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý vị đã biết tiếng Trung Quốc (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道中文/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道中文 ).
 
-# Những nội dung khác
+# K. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
 
-# Liên hệ
+# G. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
 ### Trung tâm Chức năng và Quản lý
