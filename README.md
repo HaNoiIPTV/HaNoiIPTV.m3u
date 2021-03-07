@@ -49,7 +49,24 @@ Ngoài ra, còn có 6 kênh truyền hình như: VTV2 HD, VTV4 HD, VTV5 HD, VTV7
 Là thành viên thứ hai của Đài Truyền hình Việt Nam, VTVCab là đơn vị truyền hình cáp đầu tiên trong cả nước chỉ sau Truyền hình cáp Saigon Tourist (SCTV) và Truyền hình cáp Hà Nội (Hanoicab), chia làm hai loại là Truyền hình Analog và Truyền hình số với tiêu chuẩn HD. VTVCab đang phát sóng được hơn 20 kênh truyền hình trong các lĩnh vực như phim truyện chọn lọc đặc sắc, giải trí phong phú và đời sống - con người bổ ích và lý thú. Đối với Hà Nội IPTV, cho đến thời điểm này đang phát sóng được 22/24 kênh và dự kiến sẽ hoàn toàn phát sóng được 24 kênh trong thời gian tới.<br />
 
 ## V. Nhóm kênh theo lĩnh vực: Phim truyện, Thể thao, Giải trí, Thiếu nhi và Tin tức
-Hà Nội IPTV sẽ giới thiệu sau.<br />
+### 1. Nhóm kênh phim truyện
+Là nhóm kênh với những bộ phim truyện, điện ảnh từ Hollywood đến thế giới đặc sắc; nhằm đáp ứng nhu cầu miễn phí dành cho giới trẻ hiện nay để thay thế cho các ứng dụng tính phí như: VTVCab ON, ClipTV, SCTV Online, MyTV Net, FPT Play, Viettel TV,.... trên App Store và Google Play. Có thể kể đến một số kênh như: Fox Movies HD, FOX Family Movies, HBO HD, Warner TV HD, Lifetime HD, HTVC Phim HD, HITS HD,....<br />
+
+### 2. Nhóm kênh thể thao
+Là nhóm kênh với các chương trình thể thao trong nước, quốc tế đặc sắc trong các lĩnh vực: Bóng đá, Tennis, Bóng rổ, Golf,....<br />
+
+### 3. Nhóm kênh giải trí
+a) Đặc sắc<br />
+Là nhóm kênh với các chương trình giải trí quốc tế đặc sắc để giúp thư giãn sau khoảng thời gian căng thẳng với công việc hàng ngày.<br />
+
+b) Tổng hợp<br />
+Là nhóm kênh chuyên khám phá về thiên nhiên, cuộc sống và con người trên thế giới hiện nay cùng với các chương trình văn nghệ, giải trí đa dạng cùng với các bộ phim truyện Việt Nam và nước ngoài được nhiều người lựa chọn.<br />
+
+### 4. Nhóm kênh thiếu nhi
+Là nhóm kênh được trẻ em yêu thích nhất để theo dõi các bộ phim hoạt hình cùng những chương trình thiếu nhi đặc sắc nhất trong nước và quốc tế.<br />
+
+### 5. Nhóm kênh tin tức
+Là nhóm kênh để phục vụ cho việc cung cấp thông tin đối ngoại - quốc tế tới các Đài Phát thanh và Truyền hình từ trung ương đến địa phương.<br />
 
 ## VI. Nhóm kênh trong nước và địa phương
 ### 1. Nhóm kênh trong nước
