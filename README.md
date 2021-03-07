@@ -184,6 +184,7 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 Địa chỉ: Số 215 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
 ### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
 Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
+### Ngoài ra, Hà Nội IPTV còn hỗ trợ ngôn ngữ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý vị đã biết tiếng Trung Quốc (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道中文。).
 
 # Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
