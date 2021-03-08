@@ -6,9 +6,9 @@ Nhằm đảm bảo an toàn cho người dùng trước khi theo dõi các kên
 1. Khi theo dõi các kênh truyền hình có trả phí, nếu người dùng là nhà cung cấp dịch vụ IPTV của bạn muốn đăng tải lại thì phải có sự cho phép từ nhà cung cấp Hà Nội IPTV thông qua:<br />
 a) Gửi ý kiến hoặc lý do về việc cho phép đăng tải lại qua địa chỉ:<br />
 - Bản mềm:<br />
-### Trung tâm Chức năng và Quản lý của Hà Nội IPTV<br />
+### 1. Trung tâm Chức năng và Quản lý của Hà Nội IPTV<br />
 Địa chỉ: Ngách 2/3/5 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội<br />
-### Quê hương Hà Nội IPTV
+### 2. Quê hương Hà Nội IPTV
 Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
 Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
 - Bản cứng:<br />
