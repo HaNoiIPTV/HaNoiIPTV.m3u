@@ -218,6 +218,7 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 
 # K. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
+- [Văn bản và Chính sách dành cho người dùng](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/tree/master/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Hà Nội IPTV.<br />
 
 # L. Liên hệ
 ### Star Beer Mạnh An
