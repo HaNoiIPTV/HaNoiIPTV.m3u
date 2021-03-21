@@ -156,7 +156,7 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226120/1000010000000006000000000235
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  tvg-id="7" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
 rtmp://59.124.75.156/sat/tv071
-#EXTINF:-1  tvg-id="CTV 中視 9" group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視 HD
+#EXTINF:-1  channel-id="9" tvg-id="http://193.160.32.4:8080/crtv.php?id=333" group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視 HD
 rtmp://59.124.75.156/sat/tv091
 #EXTINF:-1  tvg-id="11" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/012.png?rand=974",華視 HD
 rtmp://59.124.75.156/sat/tv111
@@ -180,14 +180,24 @@ http://tangyuanya.pw/dl/htv.php?id=32
 http://tangyuanya.pw/dl/htv.php?id=33
 #EXTINF:-1  tvg-id="42" group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png",TVBS 歡樂台 HD
 rtmp://59.124.75.156/sat/tv421
-#EXTINF:-1  tvg-id="EBC 東森財經新聞" group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
+#EXTINF:-1  tvg-id="43" group-title="港澳台電視直播頻道" tvg-logo="http://drama.vl.com.tw/images/Drama-LOGO-2.png",緯來戲劇台 HD
+http://193.160.32.4:8080/crtv.php?id=339
+#EXTINF:-1  channel-id="57" tvg-id=" " group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
 rtmp://59.124.75.156/sat/tv571
+#EXTINF:-1  channel-id="65" tvg-id=" " group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
+http://193.160.32.4:8080/crtv.php?id=332
 #EXTINF:-1  tvg-id="72" group-title="港澳台電視直播頻道" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
 rtmp://59.124.75.156/sat/tv721
-#EXTINF:-1  channel-id="75" tvg-id="rtmp://59.124.75.156/sat/tv771" group-title="港澳台電視直播頻道" tvg-logo="http://japan.videoland.com.tw/images/japan_logo.png",緯來日本台 HD
-http://193.160.32.4:8080/crtv.php?id=337
-#EXTINF:-1  tvg-id="87" group-title="港澳台電視直播頻道" tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",緯來育樂台 HD
+#EXTINF:-1  channel-id="75" tvg-id="http://193.160.32.4:8080/crtv.php?id=337" group-title="港澳台電視直播頻道" tvg-logo="http://japan.videoland.com.tw/images/japan_logo.png",緯來日本台 HD
+rtmp://59.124.75.156/sat/tv771
+#EXTINF:-1  channel-id="87" tvg-id="http://193.160.32.4:8080/crtv.php?id=338" group-title="港澳台電視直播頻道" tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",緯來育樂台 HD
 rtmp://59.124.75.156/sat/tv701
+#EXTINF:-1  tvg-id="MOD 255" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/255.png",DMAX HD
+http://193.160.32.4:8080/crtv.php?id=335
+#EXTINF:-1  tvg-id="422" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/261.png?rand=834",國家地理悠人頻道 HD
+http://193.160.32.4:8080/crtv.php?id=334
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272290605%27&EntityType=%27Item%27&EntityId=%2797140%27&Width=300&Height=200&ImageUrl=%272290605.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",HBO Hits HD
+http://193.160.32.4:8080/crtv.php?id=330
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/35_144.png",TVBS Asia HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv109_pc.png",中天亞洲台 HD
