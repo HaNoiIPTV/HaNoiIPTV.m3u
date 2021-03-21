@@ -160,6 +160,8 @@ http://193.160.32.4:8080/crtv.php?id=326
 http://193.160.32.4:8080/crtv.php?id=333
 #EXTINF:-1  channel-id="11" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/012.png?rand=974",華視 HD
 http://193.160.32.4:8080/crtv.php?id=327
+#EXTINF:-1  channel-id="13" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/013.png?rand=831",公視 HD
+http://193.160.32.4:8080/crtv.php?id=361
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch25.png",東森幼幼台 HD
 http://tangyuanya.pw/dl/htv.php?id=25
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://ontv.videoland.com.tw/images/topontv_logo.png",緯來綜合台 HD
@@ -184,20 +186,36 @@ http://193.160.32.4:8080/crtv.php?id=324
 rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1  tvg-id="43" group-title="港澳台電視直播頻道" tvg-logo="http://drama.vl.com.tw/images/Drama-LOGO-2.png",緯來戲劇台 HD
 http://193.160.32.4:8080/crtv.php?id=339
+#EXTINF:-1  channel-id="49" tvg-id="http://193.160.32.4:8080/crtv.php?id=303" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/506.png?rand=489",壹電視新聞台 HD
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1  channel-id="53" tvg-id="http://193.160.32.4:8080/crtv.php?id=317" group-title="港澳台電視直播頻道" http://mod.cht.com.tw/img/channel/channelpic/507.png?rand=63",民視新聞台 HD
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1  channel-id="57" group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv153_pc.png",東森財經新聞台 HD
 rtmp://59.124.75.156/sat/tv571
 #EXTINF:-1  channel-id="58" group-title="港澳台電視直播頻道" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv010_pc.png",非凡新聞台 HD
 http://193.160.32.4:8080/crtv.php?id=314
+#EXTINF:-1  channel-id="62" group-title="港澳台電視直播頻道" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png",東森電影台 HD
+http://193.160.32.4:8080/crtv.php?id=350
 #EXTINF:-1  channel-id="65" group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
 http://193.160.32.4:8080/crtv.php?id=332
-#EXTINF:-1  tvg-id="72" group-title="港澳台電視直播頻道" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
+#EXTINF:-1  channel-id="70" group-title="港澳台電視直播頻道" tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",緯來育樂台 HD
+http://193.160.32.4:8080/crtv.php?id=338
+#EXTINF:-1  channel-id="71" group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
+http://193.160.32.4:8080/crtv.php?id=346
+#EXTINF:-1  channel-id="72" group-title="港澳台電視直播頻道" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",緯來體育台 HD
 rtmp://59.124.75.156/sat/tv721
 #EXTINF:-1  channel-id="75" group-title="港澳台電視直播頻道" tvg-logo="http://japan.videoland.com.tw/images/japan_logo.png",緯來日本台 HD
 http://193.160.32.4:8080/crtv.php?id=337
-#EXTINF:-1  channel-id="87" group-title="港澳台電視直播頻道" tvg-logo="http://maxtv.videoland.com.tw/images/vl-maxtv-logo-2.png",緯來育樂台 HD
-http://193.160.32.4:8080/crtv.php?id=338
+#EXTINF:-1  channel-id="116" group-title="http://mod.cht.com.tw/img/channel/channelpic/501.png?rand=269",寰宇新聞台 HD
+http://193.160.32.4:8080/crtv.php?id=304
 #EXTINF:-1  tvg-id="422" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/261.png?rand=834",國家地理悠人頻道 HD
 http://193.160.32.4:8080/crtv.php?id=334
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/521.png?rand=311",台視財經台 HD
+http://193.160.32.4:8080/crtv.php?id=300
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/214.png?rand=71",Eleven Sports 2 HD
+http://193.160.32.4:8080/crtv.php?id=301
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png",國家地理頻道 HD
+http://193.160.32.4:8080/crtv.php?id=302
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/312.png?rand=243",壹電視綜合台 HD
 http://193.160.32.4:8080/crtv.php?id=305
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Asia%20HD.png",Discovery Asia HD
@@ -228,28 +246,54 @@ http://193.160.32.4:8080/crtv.php?id=329
 http://193.160.32.4:8080/crtv.php?id=330
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/255.png",DMAX HD
 http://193.160.32.4:8080/crtv.php?id=335
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/254.png?rand=761",Discovery 科學頻道 HD
+http://193.160.32.4:8080/crtv.php?id=343
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/107.png?rand=427",靖天卡通台 HD
+http://193.160.32.4:8080/crtv.php?id=344
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/265.png?rand=654",靖天國際台 HD
+http://193.160.32.4:8080/crtv.php?id=345
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/353.png?rand=823",龍華偶像台 HD
+http://193.160.32.4:8080/crtv.php?id=347
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/106.png?rand=216",靖洋卡通台 HD
+http://193.160.32.4:8080/crtv.php?id=348
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/613.png?rand=248",靖天映畫台 HD
+http://193.160.32.4:8080/crtv.php?id=349
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv070_mobile.png",愛爾達娛樂台 HD
+http://193.160.32.4:8080/crtv.php?id=351
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/626.png?rand=88",CatchPlay電影台 HD
+http://193.160.32.4:8080/crtv.php?id=362
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/35_144.png",TVBS Asia HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://ebcasiatv.com/asia/images/2020/headerlogo.png",東森亞洲衛視 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%9D%B1%E6%A3%AE%E4%BA%9E%E6%B4%B2%E8%A1%9B%E8%A6%96.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道高清 - Truyền hình Quảng Châu HD
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道高清
 http://aplay.gztv.com/sec/zhonghe.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道高清 - Truyền hình Quảng Châu 2 HD (Kênh Trực tiếp Quảng Châu HD)
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道高清
 http://aplay.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清 - Truyền hình Quảng Châu 3 HD (Kênh Cuộc thi HD)
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清
 http://aplay.gztv.com/sec/jingsai.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道高清 - Truyền hình Quảng Châu 4 HD (Kênh Phim truyện tiếng Quảng Đông HD)
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道高清
 http://aplay.gztv.com/sec/yingshi.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道高清 - Truyền hình Quảng Châu 6 HD (Kênh Pháp luật HD)
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道高清
 http://aplay.gztv.com/sec/jingji.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV7/GZTV7.jpg?1",广州少儿频道高清 - Truyền hình Quảng Châu 7 HD (Kênh Thiếu nhi tiếng Quảng Đông HD)
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV7/GZTV7.jpg?1",广州少儿频道高清
 http://aplay.gztv.com/sec/shaoer.m3u8
-#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",南国都市频道超高清 - Kênh Đô thị Nam Quốc UHD
+#EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="https://static.epg.best/cn/GZTVJingsai.cn.png",南国都市频道超高清
 http://aplay.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清 - Truyền hình Triều Châu HD
+#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
 http://hls333.dszbdq.cn/gdcz.php?id=11
-#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清 - Truyền hình Triều Châu 2 HD (Kênh Công cộng HD)
+#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
 http://hls333.dszbdq.cn/gdcz.php?id=12
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
+http://193.160.32.4:8080/crtv.php?id=357
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.iyingshi6.tv/Uploads/tv/2017-07-30/0f98572683edf08c52cc32de494b1fd0.png",鳳凰衛視資訊台 HD
+http://193.160.32.4:8080/crtv.php?id=359
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80",鳳凰衛視香港台 HD
+http://193.160.32.4:8080/crtv.php?id=358
+#EXTINF:-1  tvg-id="https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on" group-title="港澳台電視直播頻道" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg",港台電視31
+http://193.160.32.4:8080/crtv.php?id=353
+#EXTINF:-1  tvg-id="http://193.160.32.4:8080/crtv.php?id=355" group-title="港澳台電視直播頻道",耀才財經台
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1925238753.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加東新時代電視1台
 http://gg.gg/Fairchild_1_East
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加西新時代電視1台
