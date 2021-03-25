@@ -234,6 +234,18 @@ http://193.160.32.4:8080/crtv.php?id=359
 http://193.160.32.4:8080/crtv.php?id=358
 #EXTINF:-1  tvg-id="https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on" group-title="港澳台電視直播頻道" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg",港台電視31
 http://193.160.32.4:8080/crtv.php?id=353
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/J2.png",J2
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
+http://61.238.6.49:8001/bysid/2
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A1%E7%B6%AB%E6%96%B0%E8%81%9E%E5%8F%B0.png",無綫新聞台
+http://61.238.6.49:8001/bysid/83
+#EXTINF:-1  channel-id="91" group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
+https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w202404983.m3u8
+#EXTINF:-1  channel-id="96" tvg-id="http://193.160.32.4:8080/crtv.php?id=364" group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
+https://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w177665232.m3u8
 #EXTINF:-1  tvg-id="http://193.160.32.4:8080/crtv.php?id=355" group-title="港澳台電視直播頻道",耀才財經台
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1925238753.m3u8
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加東新時代電視1台
@@ -242,10 +254,6 @@ http://gg.gg/Fairchild_1_East
 http://gg.gg/Fairchild_1_West
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Fairchild_TV_2_HD.png/revision/latest/scale-to-width-down/200?cb=20200606192744",新時代電視2高清台
 http://gg.gg/Fairchild_2_HD
-#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w202404983.m3u8
-#EXTINF:-1  tvg-id="http://193.160.32.4:8080/crtv.php?id=364" group-title="港澳台電視直播頻道" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
-https://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w177665232.m3u8
 #EXTINF:-1  channel-id="台灣的眼睛" tvg-id="http://193.160.32.4:8080/crtv.php?id=336" group-title="港澳台電視直播頻道" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  channel-id="7" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
@@ -294,6 +302,8 @@ rtmp://59.124.75.156/sat/tv571
 http://193.160.32.4:8080/crtv.php?id=314
 #EXTINF:-1  channel-id="62" group-title="港澳台電視直播頻道" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png",東森電影台 HD
 http://193.160.32.4:8080/crtv.php?id=350
+#EXTINF:-1  channel-id="63" group-title="港澳台電視直播頻道" tvg-logo="http://movie.videoland.com.tw/images/vl-movie-logo-2.png",緯來電影台 HD
+http://193.160.32.4:8080/crtv.php?id=96
 #EXTINF:-1  channel-id="64" group-title="港澳台電視直播頻道" tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png",龍祥時代電影台 HD
 http://193.160.32.4:8080/crtv.php?id=373
 #EXTINF:-1  channel-id="65" group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
