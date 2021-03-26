@@ -1,9 +1,9 @@
 <table>
 	<thead>
-		<tr><th align="between">Số thứ tự</th><th align="between">Tên kênh</th><th align="between">Độ phân giải</th></tr> align="between">Vị trí phát sóng</th><th
+		<tr><th align="left">Số thứ tự</th><th align="left">Tên kênh</th><th align="left">Độ phân giải</th><th align="left">Vị trí phát sóng</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080</td></td> align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></td>
+		<tr><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
 		<tr><td align="left">002</td><td align="left">Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD</td><td align="left">1080.30</td></tr> align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
 	        <tr><td align="left">003</td><td align="left">VTV1 HD</td><td align="left">1080.30</td></td> align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></td>
                 <tr><td align="left">004</td><td align="left">VTV2 HD</td><td align="left">1080.30</td></td> align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></td>
