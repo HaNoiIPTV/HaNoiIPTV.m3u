@@ -1,6 +1,6 @@
 <table>
 	<thead>
-		<tr><th align="left">Số thứ tự</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th></tr>
+		<tr><th align="left">Số thứ tự</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th><th align="left">Ghi chú</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
@@ -39,3 +39,7 @@
 		<tr><td align="left">146</td><td align="left">NBTV - Truyền hình Ninh Bình HD</td><td align="left">1080.25</td><td align="left">KM số 2, Quốc lộ 1A, Đường Trần Hưng Đạo, phường Đông Thành, TP. Ninh Bình</td></tr>
 		<tr><td align="left">147</td><td align="left">LSTV - Truyền hình Lạng Sơn HD</td><td align="left">720.25</td><td align="left">9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn</td></tr>
 		<tr><td align="left">148</td><td align="left">TN1 - Truyền hình Thái Nguyên HD</td><td align="left">1080.25</td><td align="left">226 Đường Bến Oánh, phường Túc Duyên, TP. Thái Nguyên</td></tr>
+                <tr><td align="left">149</td><td align="left">QTV1 - Truyền hình Quảng Ninh 1 HD</td><td align="left">1080.30</td><td align="left">66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
+		<tr><td align="left">150</td><td align="left">QTV3 - Truyền hình Quảng Ninh 3 HD</td><td align="left">1080.30</td><td align="left">66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
+		<tr><td align="left">151</td><td align="left">PTV - Truyền hình Phú Thọ HD</td><td align="left">480.25</td><td align="left">Đường Nguyễn Tất Thành, phường Trưng Vương, TP. Việt Trì, Phú Thọ</td></tr>
+		<tr><td align="left">152</td><td align="left">TTV - Truyền hình Thanh Hóa HD</td><td align="left">720.29</td><td align="left">Quốc lộ 1A, Đại lộ Hùng Vương, phường Đông Hải, TP. Thanh Hóa</td></tr>
