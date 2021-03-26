@@ -26,10 +26,10 @@
 		<tr><td align="left">053</td><td align="left">ANTV - Truyền hình An Ninh HD</td><td align="left">1080.25</td><td align="left">1 Đường Lê Đức Thọ, phường Mai Dịch, quận Cầu Giấy, Hà Nội</td></tr>
 		<tr><td align="left">054</td><td align="left">VTC1 HD</td><td align="left">720.25</td><td align="left">23 Phố Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, Hà Nội</td></tr>
 		<tr><td align="left">055</td><td align="left">VOVTV - Truyền hình Đài tiếng nói Việt Nam HD</td><td align="left">1080.25</td><td align="left">58 Phố Quán Sứ, phường Hàng Bông, quận Hoàn Kiếm, Hà Nội</td></tr>
-		<tr><td align="left">056</td><td align="left">THP - Truyền hình Hải Phòng HD</td><td align="left">720.30</td><td align="left">2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
-                <tr><td align="left">057</td><td align="left">THP+ HD</td><td align="left">720.30</td><td align="left">2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
-		<tr><td align="left">058</td><td align="left">Truyền hình Hà Nội 1 HD</td><td align="left">720.25</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
-		<tr><td align="left">059</td><td align="left">Truyền hình Hà Nội 2 HD</td><td align="left">1080.30</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
+		<tr><td align="left">056</td><td align="left">THP - Truyền hình Hải Phòng HD</td><td align="left">720.30</td><td align="left">2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td><td align="left">Kênh quê mình</td></tr>
+                <tr><td align="left">057</td><td align="left">THP+ HD</td><td align="left">720.30</td><td align="left">2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td><td align="left">Kênh quê mình</td></tr>
+		<tr><td align="left">058</td><td align="left">Truyền hình Hà Nội 1 HD</td><td align="left">720.25</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
+		<tr><td align="left">059</td><td align="left">Truyền hình Hà Nội 2 HD</td><td align="left">1080.30</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
 		<tr><td align="left">060</td><td align="left">Truyền hình Nghệ An HD</td><td align="left">720.30</td><td align="left">1 Đường Nguyễn Thị Minh Khai, phường Hưng Bình, TP. Vinh, Nghệ An</td></tr>
 		<tr><td align="left">141</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.50</td><td align="left">2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td></tr>
 		<tr><td align="left">142</td><td align="left">BTV - Truyền hình Bắc Ninh HD</td><td align="left">720.30</td><td align="left">Đường Ngô Gia Tự, phường Vũ Ninh, TP. Bắc Ninh</td></tr>
@@ -42,4 +42,4 @@
                 <tr><td align="left">149</td><td align="left">QTV1 - Truyền hình Quảng Ninh 1 HD</td><td align="left">1080.30</td><td align="left">66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
 		<tr><td align="left">150</td><td align="left">QTV3 - Truyền hình Quảng Ninh 3 HD</td><td align="left">1080.30</td><td align="left">66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
 		<tr><td align="left">151</td><td align="left">PTV - Truyền hình Phú Thọ HD</td><td align="left">480.25</td><td align="left">Đường Nguyễn Tất Thành, phường Trưng Vương, TP. Việt Trì, Phú Thọ</td></tr>
-		<tr><td align="left">152</td><td align="left">TTV - Truyền hình Thanh Hóa HD</td><td align="left">720.29</td><td align="left">Quốc lộ 1A, Đại lộ Hùng Vương, phường Đông Hải, TP. Thanh Hóa</td></tr>
+		<tr><td align="left">152</td><td align="left">TTV - Truyền hình Thanh Hóa HD</td><td align="left">720.29</td><td align="left">Quốc lộ 1A, Đại lộ Hùng Vương, phường Đông Hải, TP. Thanh Hóa</td><td align="left">Kênh quê mình</td></tr>
