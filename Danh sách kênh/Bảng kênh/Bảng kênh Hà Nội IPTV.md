@@ -43,3 +43,14 @@
 		<tr><td align="left">150</td><td align="left">QTV3 - Truyền hình Quảng Ninh 3 HD</td><td align="left">1080.30</td><td align="left">66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
 		<tr><td align="left">151</td><td align="left">PTV - Truyền hình Phú Thọ HD</td><td align="left">480.25</td><td align="left">Đường Nguyễn Tất Thành, phường Trưng Vương, TP. Việt Trì, Phú Thọ</td></tr>
 		<tr><td align="left">152</td><td align="left">TTV - Truyền hình Thanh Hóa HD</td><td align="left">720.29</td><td align="left">Quốc lộ 1A, Đại lộ Hùng Vương, phường Đông Hải, TP. Thanh Hóa</td><td align="left">Kênh quê mình</td></tr>
+		<tr><td align="left">153</td><td align="left">HTTV - Truyền hình Hà Tĩnh HD</td><td align="left">720.25</td><td align="left">22 Đường Phan Đình Phùng, phường Nam Hà, TP. Hà Tĩnh</td></tr>
+		<tr><td align="left">154</td><td align="left">QBTV - Truyền hình Quảng Bình HD</td><td align="left">480.25</td><td align="left">54 Đường Quang Trung, phường Hải Đình, TP. Đồng Hới, Quảng Bình</td></tr>
+		<tr><td align="left">155</td><td align="left">TRT - Truyền hình Thừa Thiên Huế</td><td align="left">320.25</td><td align="left">19 Đường Lê Lợi, phường Phú Hội, TP. Huế, Thừa Thiên - Huế</td></tr>
+		<tr><td align="left">156</td><td align="left">Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD</td><td align="left">1080.30</td><td align="left">33 Đường Lê Lợi, phường Thạch Thang, quận Hải Châu, Đà Nẵng</td></tr>
+		<tr><td align="left">157</td><td align="left">Đà Nẵng TV 2 - Truyền hình Đà Nẵng 2 HD</td><td align="left">1080.30</td><td align="left">33 Đường Lê Lợi, phường Thạch Thang, quận Hải Châu, Đà Nẵng</td></tr>
+		<tr><td align="left">158</td><td align="left">KTV - Truyền hình Khánh Hòa HD</td><td align="left">480.25</td><td align="left">70 Đường Trần Phú, phường Lộc Thọ, TP. Nha Trang, Khánh Hòa</td></tr>
+		<tr><td align="left">159</td><td align="left">NTV - Truyền hình Ninh Thuận HD</td><td align="left">320.25</td><td align="left">285A Đường 21 tháng 8, phường Phước Mỹ, TP. Phan Rang - Tháp Chàm, Ninh Thuận</td></tr>
+		<tr><td align="left">160</td><td align="left">BTV - Truyền hình Bình Thuận HD</td><td align="left">720.30</td><td align="left">341 Đường Thủ Khoa Huân, phường Phú Thủy, TP. Phan Thiết, Bình Thuận</td></tr>
+		<tr><td align="left">161</td><td align="left">THGL - Truyền hình Gia Lai</td><td align="left">325.30</td><td align="left">1 Đường Lý Thái Tổ, phường Diên Hồng, TP. Pleiku, Gia Lai</td></tr>
+		<tr><td align="left">162</td><td align="left">BTV2 - Kênh Khoa học và Giáo dục</td><td align="left">720.25</td><td align="left">46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
+		<tr><td align="left">163</td><td align="left">BTV6 - Kênh Dành cho giới trẻ</td><td align="left">320.25</td><td align="left">46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
