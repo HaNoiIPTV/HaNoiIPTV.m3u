@@ -1,15 +1,11 @@
-THÔNG BÁO VỀ VIỆC NÂNG CẤP PHÁT SÓNG
+CHÀO MỪNG BÊN LỀ SỰ KIỆN LIÊN QUAN ĐẾN ĐẠI DỊCH COVID-19
 =======
-Bắt đầu từ ngày 6/3/2021, ngoài việc nâng cấp phát sóng toàn bộ 9 kênh quảng bá của Đài Truyền hình Việt Nam thì Hà Nội IPTV còn nâng cấp phát sóng thêm các kênh thiết yếu như Truyền hình Vĩnh Long 1 HD, Truyền hình Vĩnh Long 2 HD, HTV2 HD, HTV7 HD, HTV9 HD, TH Thông tấn xã Việt Nam - VNews HD, QPVN - TH Quốc phòng Việt Nam HD, ANTV - Truyền hình An Ninh HD,.... Cụ thể như sau:<br />
+Vào sáng thứ sáu ngày 26/3/2021 theo giờ Hà Nội (Việt Nam) tức là rạng sáng cùng ngày theo giờ Paris (Pháp), do tình hình đại dịch Covid-19 có những diễn biến hết sức phức tạp nên bên lề sự kiện "Appelez de 110" tạm dịch là "Gọi 110" từ [website](http://don.sidaction.org) đã được một số kênh truyền hình của quốc gia bạn bè với Việt Nam là Pháp đồng thời phát sóng song song với hạ tầng dịch vụ truyền hình số thế hệ mới Hà Nội IPTV. Đây là sự kiện nhằm kêu gọi toàn dân ta cùng nhau chung tay phòng chống đại dịch Covid-19 không chỉ ở nước Pháp mà còn trên khắp thế giới, trong đó có Việt Nam. Nhân dịp sự kiện này, Hà Nội IPTV xin được kính chúc tất cả mọi người sẽ bước sang một năm chung sống an toàn cho bạn và cho mọi người đồng thời thực hiện tốt các biện pháp để phòng chống đại dịch Covid-19.<br />
 
-# Đối với [gói chính thức](http://gg.gg/hanoiiptv) và [gói gia đình](http://gg.gg/hanoiiptvfamily)
-Nâng cấp một số kênh nêu trên kèm theo việc sửa lỗi phát kênh cho một số kênh tổng hợp trong nước.<br />
+# Xem gì trên Hà Nội IPTV?
+Hà Nội IPTV đang phát sóng được hơn 400 kênh truyền hình từ Việt Nam đến thế giới, kể từ ngày 25/3/2021, kênh VTVCab8 - BiBi HD sẽ chính thức được nâng cấp phát sóng tuy nhiên kênh THP+ HD của Đài Phát thanh và Truyền hình Hải Phòng chuyển sang từ kênh số 56 sang kênh số 57. Kính mong quý khán giả quan tâm theo dõi!<br />
 
-# Đối với gói một số địa phương phối hợp với Thông tấn xã Việt Nam bao gồm: Lai Châu, Điện Biên, Hòa Bình, Phú Thọ, Lạng Sơn, Bắc Giang, Bắc Kạn, Thái Nguyên, Tuyên Quang, Vĩnh Phúc, Hưng Yên, Hải Dương, Quảng Ninh, Thái Bình, [Nam Định](http://gg.gg/namdinhiptv), Ninh Bình, Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa Thiên - Huế, Đà Nẵng, Khánh Hòa, Đồng Nai,....
-Nâng cấp phát sóng kênh TH Thông tấn xã Việt Nam - VNews HD cùng một số kênh nêu trên.<br />
-
-# Đối với gói một số địa phương còn lại
-Vẫn giữ nguyên phát sóng kênh như bình thường.<br />
+Hiện tại, Hà Nội IPTV đang có bảng kênh chi tiết và hiện đang trong giai đoạn nâng cấp. Kính mong quý vị và các bạn quan tâm theo dõi!<br />
 
 # Liên hệ
 Nếu phát hiện lỗi phát kênh, xin vui lòng báo lỗi ở phần Liên hệ trong README.md tại địa chỉ: https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/README.md<br />
