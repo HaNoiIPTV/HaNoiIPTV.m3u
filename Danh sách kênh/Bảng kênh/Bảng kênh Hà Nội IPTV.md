@@ -31,7 +31,7 @@
 		<tr><td align="left">058</td><td align="left">Truyền hình Hà Nội 1 HD</td><td align="left">720.25</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
 		<tr><td align="left">059</td><td align="left">Truyền hình Hà Nội 2 HD</td><td align="left">1080.30</td><td align="left">3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
 		<tr><td align="left">060</td><td align="left">Truyền hình Nghệ An HD</td><td align="left">720.30</td><td align="left">1 Đường Nguyễn Thị Minh Khai, phường Hưng Bình, TP. Vinh, Nghệ An</td></tr>
-		<tr><td align="left">141</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.50</td><td align="left">2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td></tr>
+		<tr><td align="left">141</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.50</td><td align="left">2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td><td align="left">Tiếp nhận phản ánh qua số điện thoại: 0962471968 hoặc 0913522359</td></tr>
 		<tr><td align="left">142</td><td align="left">BTV - Truyền hình Bắc Ninh HD</td><td align="left">720.30</td><td align="left">Đường Ngô Gia Tự, phường Vũ Ninh, TP. Bắc Ninh</td></tr>
 		<tr><td align="left">143</td><td align="left">HYTV - Truyền hình Hưng Yên HD</td><td align="left">1080.30</td><td align="left">164 Đường Nguyễn Văn Linh, phường Lam Sơn, TP. Hưng Yên</td></tr>
 		<tr><td align="left">144</td><td align="left">HDTV - Truyền hình Hải Dương HD</td><td align="left">480.25</td><td align="left">2 Đường Chương Dương, phường Lê Thanh Nghị, TP. Hải Dương</td></tr>
