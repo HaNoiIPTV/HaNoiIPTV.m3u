@@ -5,22 +5,22 @@
 	<tbody>
 		<tr><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
 		<tr><td align="left">002</td><td align="left">Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD</td><td align="left">1080.30</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
-	        <tr><td align="left">003</td><td align="left">VTV1 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-                <tr><td align="left">004</td><td align="left">VTV2 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">005</td><td align="left">VTV3 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">006</td><td align="left">VTV4 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">007</td><td align="left">VTV5 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">008</td><td align="left">VTV6 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">009</td><td align="left">VTV7 HD</td><td align="left">1080.30</td><td align="left">43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-		<tr><td align="left">010</td><td align="left">VTV8 HD</td><td align="left">1080.30</td><td align="left">258 Đường Bạch Đằng, phường Phước Ninh, quận Hải Châu, Đà Nẵng</td></tr>
-		<tr><td align="left">011</td><td align="left">VTV9 HD</td><td align="left">1080.30</td><td align="left">7B Đường Nguyễn Thị Minh Khai, phường Bến Nghé, quận 1, TP.HCM</td></tr>
+	        <tr><td align="left">003</td><td align="left">VTV1 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+                <tr><td align="left">004</td><td align="left">VTV2 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">005</td><td align="left">VTV3 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">006</td><td align="left">VTV4 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">007</td><td align="left">VTV5 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">008</td><td align="left">VTV6 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">009</td><td align="left">VTV7 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+		<tr><td align="left">010</td><td align="left">VTV8 HD</td><td align="left">1080.30</td><td align="left">Trung tâm Truyền hình Việt Nam tại Đà Nẵng - 258 Đường Bạch Đằng, phường Phước Ninh, quận Hải Châu, Đà Nẵng</td></tr>
+		<tr><td align="left">011</td><td align="left">VTV9 HD</td><td align="left">1080.30</td><td align="left">Trung tâm Truyền hình Việt Nam tại TP.HCM - 7B Đường Nguyễn Thị Minh Khai, phường Bến Nghé, quận 1, TP.HCM</td></tr>
 		<tr><td align="left">043</td><td align="left">SCTV4 HD</td><td align="left">720.25</td><td align="left">31 - 33 Đường Đinh Công Tráng, phường Tân Định, quận 1, TP.HCM</td></tr>
 		<tr><td align="left">044</td><td align="left">Truyền hình Vĩnh Long 1 HD</td><td align="left">1080.25</td><td align="left">50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
 		<tr><td align="left">045</td><td align="left">Truyền hình Vĩnh Long 2 HD</td><td align="left">1080.25</td><td align="left">50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
 		<tr><td align="left">047</td><td align="left">HTV7 HD</td><td align="left">1080.25</td><td align="left">14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
 		<tr><td align="left">048</td><td align="left">HTV9 HD</td><td align="left">1080.25</td><td align="left">14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
 		<tr><td align="left">049</td><td align="left">Truyền hình Thông tấn xã Việt Nam - VNews HD</td><td align="left">1080.25</td><td align="left">5 Phố Lê Thánh Tông, phường Phan Chu Trinh, quận Hoàn Kiếm, Hà Nội</td></tr>
-		<tr><td align="left">050</td><td align="left">QPVN - Truyền hình Quốc phòng Việt Nam HD</td><td align="left">1080.25</td><td align="left">165 Phố Xã Đàn, phường Nam Đồng, quận Đống Đa, Hà Nội</td></tr>
+		<tr><td align="left">050</td><td align="left">QPVN - Truyền hình Quốc phòng Việt Nam HD</td><td align="left">1080.25</td><td align="left">Trung tâm Phát thanh và Truyền hình Quân đội - 165 Phố Xã Đàn, phường Nam Đồng, quận Đống Đa, Hà Nội</td></tr>
 		<tr><td align="left">051</td><td align="left">Truyền hình Quốc hội Việt Nam HD</td><td align="left">720.30</td><td align="left">35 Phố Ngô Quyền, phường Hàng Bài, quận Hoàn Kiếm, Hà Nội</td></tr>
 		<tr><td align="left">052</td><td align="left">THND - Truyền hình Nhân Dân HD</td><td align="left">720.30</td><td align="left">71 Phố Hàng Trống, phường Hàng Trống, quận Hoàn Kiếm, Hà Nội</td></tr>
 		<tr><td align="left">053</td><td align="left">ANTV - Truyền hình An Ninh HD</td><td align="left">1080.25</td><td align="left">1 Đường Lê Đức Thọ, phường Mai Dịch, quận Cầu Giấy, Hà Nội</td></tr>
