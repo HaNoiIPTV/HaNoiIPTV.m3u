@@ -54,6 +54,21 @@
 		<tr><td align="left">161</td><td align="left">THGL - Truyền hình Gia Lai</td><td align="left">325.30</td><td align="left">1 Đường Lý Thái Tổ, phường Diên Hồng, TP. Pleiku, Gia Lai</td></tr>
 		<tr><td align="left">162</td><td align="left">BTV2 - Kênh Khoa học và Giáo dục</td><td align="left">720.25</td><td align="left">46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
 		<tr><td align="left">163</td><td align="left">BTV6 - Kênh Dành cho giới trẻ</td><td align="left">320.25</td><td align="left">46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
+		<tr><td align="left">164</td><td align="left">BPTV1 - Truyền hình Bình Phước 1 HD</td><td align="left">1080.25</td><td align="left">1 Đường Trần Hưng Đạo, phường Tân Phú, TP. Đồng Xoài, Bình Phước</td></tr>
+		<tr><td align="left">165</td><td align="left">TTV11 - Truyền hình Tây Ninh HD</td><td align="left">720.25</td><td align="left">322 Đường 30 tháng 4, phường 3, TP. Tây Ninh</td></tr>
+		<tr><td align="left">166</td><td align="left">ĐN1 - Truyền hình Đồng Nai 1 HD</td><td align="left">720.25</td><td align="left">81 Đường Đồng Khởi, phường Tam Hòa, TP. Biên Hòa, Đồng Nai</td></tr>
+		<tr><td align="left">167</td><td align="left">ĐN2 - Truyền hình Đồng Nai 2 HD</td><td align="left">720.25</td><td align="left">81 Đường Đồng Khởi, phường Tam Hòa, TP. Biên Hòa, Đồng Nai</td></tr>
+		<tr><td align="left">168</td><td align="left">ĐN9 - Truyền hình Đồng Nai 9</td><td align="left">320.60</td><td align="left">89 Đường Nam Kỳ Khởi Nghĩa, phường 14, quận 3, TP.HCM</td></tr>
+		<tr><td align="left">169</td><td align="left">BRT - TH Bà Rịa Vũng Tàu HD</td><td align="left">720.25</td><td align="left">564 Đường Cách Mạng Tháng Tám, phường Phước Trung, TP. Vũng Tàu, Bà Rịa - Vũng Tàu</td></tr>
+		<tr><td align="left">170</td><td align="left">THĐT1 - Truyền hình Đồng Tháp HD</td><td align="left">480.25</td><td align="left">16 Đường Trần Phú, phường 5, TP. Cao Lãnh, Đồng Tháp</td></tr>
+		<tr><td align="left">171</td><td align="left">THTG - Truyền hình Tiền Giang HD</td><td align="left">720.30</td><td align="left">125 Đường Lê Thị Hồng Gấm, phường 4, TP. Mỹ Tho, Tiền Giang</td></tr>
+		<tr><td align="left">172</td><td align="left">THBT - Truyền hình Bến Tre</td><td align="left">720.30</td><td align="left">3 Đường Trần Quốc Tuấn, phường 3, TP. Bến Tre</td></tr>
+		<tr><td align="left">173</td><td align="left">ATV - Truyền hình An Giang</td><td align="left">320.30</td><td align="left">852 Đường Trần Hưng Đạo, phường Bình Khánh, TP. Long Xuyên, An Giang</td></tr>
+		<tr><td align="left">174</td><td align="left">THTPCT - Truyền hình TP. Cần Thơ HD</td><td align="left">720.30</td><td align="left">409 Đường 30 tháng 4, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
+		<tr><td align="left">175</td><td align="left">Truyền hình Vĩnh Long 1</td><td align="left">320.50</td><td align="left">50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+		<tr><td align="left">176</td><td align="left">Truyền hình Vĩnh Long 2</td><td align="left">320.50</td><td align="left">50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+		<tr><td align="left">177</td><td align="left">HGTV - Truyền hình Hậu Giang HD</td><td align="left">320.25</td><td align="left">1 Đường Võ Văn Kiệt, phường 5, TP. Vị Thanh, Hậu Giang</td></tr>
+		<tr><td align="left">178</td><td align="left">STV1 - Truyền hình Sóc Trăng HD</td><td align="left">320.25</td><td align="left">132 Đường Trần Văn Bảy, phường 3, TP. Sóc Trăng</td></tr>
 		<tr><td align="left">201</td><td align="left">TF1 HD</td><td align="left">720.25</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
 		<tr><td align="left">202</td><td align="left">France 2 HD</td><td align="left">1080.60</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
 		<tr><td align="left">203</td><td align="left">France 3 HD</td><td align="left">1080.60</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
