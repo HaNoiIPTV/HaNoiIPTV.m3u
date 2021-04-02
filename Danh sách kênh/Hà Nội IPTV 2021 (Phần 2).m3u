@@ -405,12 +405,12 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
 #EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/M_CHANNEL_M.png",VTVCab15 - M Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.192:10936
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TF1%20HD.png",TF1 HD
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%202%20HD.png",France 2 HD
-http://85.217.129.50:9981/stream/channel/9f00b333563b4df237130decf5565050
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%203%20HD.png",France 3 HD
-http://85.217.129.50:9981/stream/channel/396cfe2845c224133e291f8cf4629184
+#EXTINF:-1  tvg-id="https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8 và http://85.217.129.50:9981/stream/channel/dc5c00d9301918eb87c7ceffac1cbc20" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TF1%20HD.png",TF1 HD
+http://gg.gg/TF1_HD
+#EXTINF:-1  tvg-id="http://85.217.129.50:9981/stream/channel/9f00b333563b4df237130decf5565050" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%202%20HD.png",France 2 HD
+http://gg.gg/France_2_HD
+#EXTINF:-1  tvg-id="http://85.217.129.50:9981/stream/channel/396cfe2845c224133e291f8cf4629184" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%203%20HD.png",France 3 HD
+http://gg.gg/France_3_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV - Truyền hình Trung ương Triều Tiên
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png",BabyTV HD
