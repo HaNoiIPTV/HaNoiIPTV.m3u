@@ -109,7 +109,9 @@
 		<tr><td align="left">252</td><td align="left">CNews HD</td><td align="left">720.25</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
 		<tr><td align="left">254</td><td align="left">CStar HD</td><td align="left">720.25</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
 		<tr><td align="left">256</td><td align="left">Gulli HD</td><td align="left">1080.25</td><td align="left">Tập đoàn M6 - 89 Đại lộ Charles de Gaulle, phường Neuilly-sur-Seine, quận Nanterre, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
-		
+		</tbody>
+</table>
+
 Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên Hà Nội IPTV là các kênh phối hợp phát sóng với Hà Nội IPTV - Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội và các địa điểm liên quan đến Hoàng Huy Mạnh như: Bệnh viện Phụ sản Hà Nội, 929 Đường La Thành, Phường Láng Thượng, Quận Ba Đình, Hà Nội; Bệnh viện Nhi Trung ương, 18 Ngõ 879 Đường La Thành, Phường Láng Thượng, Quận Đống Đa, Hà Nội;....).<br />
 
 # 2. Đối với các kênh lân cận với Hà Nội IPTV
