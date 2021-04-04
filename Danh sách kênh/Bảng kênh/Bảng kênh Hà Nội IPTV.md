@@ -134,3 +134,6 @@ Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên
 		<tr><td align="left">STV - Truyền hình Sơn La HD</td><td align="left">320.30</td><td align="left">Đài Phát thanh và Truyền hình Sơn La - Tổ 1, phường Quyết Thắng, TP. Sơn La</td></tr>
 		<tr><td align="left">ĐTV - Truyền hình Điện Biên HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Điện Biên - 829 Đường Võ Nguyên Giáp, phường Mường Thanh, TP. Điện Biên Phủ, Điện Biên</td></tr>
 		<tr><td align="left">HBTV - Truyền hình Hòa Bình HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình tỉnh Hòa Bình - 550 Đường Trần Hưng Đạo, phường Phương Lâm, TP. Hòa Bình</td></tr>
+		<tr><td align="left">THHN - Truyền hình Hà Nam HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh, Truyền hình Hà Nam - 219 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam</td></tr>
+		<tr><td align="left">TBK - Truyền hình Bắc Kạn</td><td align="left">320.25</td><td align="left">Đài Phát thanh, Truyền hình Bắc Kạn - Tổ 6, phường Phùng Chí Kiên, TP. Bắc Kạn</td></tr>
+		<tr><td align="left">BGTV - Truyền hình Bắc Giang HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Bắc Giang - Đường Võ Nguyên Giáp, xã Tân Mỹ, TP. Bắc Giang</td></tr>
