@@ -44,7 +44,7 @@
 		<tr><td align="left">058</td><td align="left">Truyền hình Hà Nội 1 HD</td><td align="left">1080.25</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
 		<tr><td align="left">059</td><td align="left">Truyền hình Hà Nội 2 HD</td><td align="left">1080.30</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td><td align="left">Kênh nhà mình</td></tr>
 		<tr><td align="left">060</td><td align="left">Truyền hình Nghệ An HD</td><td align="left">720.30</td><td align="left">Đài Phát thanh và Truyền hình Nghệ An - 1 Đường Nguyễn Thị Minh Khai, phường Hưng Bình, TP. Vinh, Nghệ An</td></tr>
-		<tr><td align="left">140</td><td align="left">HiTV - Hanoicab 1</td><td align="left">720.25</td><td align="left">Công ty Cổ phần Truyền hình HiTV - 30 Phố Trung Liệt, phường Trung Liệt, quận Đống Đa, Hà Nội</td></tr>
+		<tr><td align="left">140</td><td align="left">HiTV - Hanoicab 1</td><td align="left">320.60</td><td align="left">Công ty Cổ phần Truyền hình HiTV - 30 Phố Trung Liệt, phường Trung Liệt, quận Đống Đa, Hà Nội</td></tr>
 		<tr><td align="left">141</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Vĩnh Phúc - 2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td><td align="left">Tiếp nhận phản ánh qua số điện thoại: 0962471968 hoặc 0913522359</td></tr>
 		<tr><td align="left">142</td><td align="left">BTV - Truyền hình Bắc Ninh HD</td><td align="left">720.30</td><td align="left">Đài Phát thanh và Truyền hình Bắc Ninh - Đường Ngô Gia Tự, phường Vũ Ninh, TP. Bắc Ninh</td></tr>
 		<tr><td align="left">143</td><td align="left">HYTV - Truyền hình Hưng Yên HD</td><td align="left">1080.30</td><td align="left">Đài Phát thanh và Truyền hình Hưng Yên - 164 Đường Nguyễn Văn Linh, phường Lam Sơn, TP. Hưng Yên</td></tr>
@@ -121,3 +121,16 @@ Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên
 	</thead>
 	<tbody>
 		<tr><td align="left">CRTV - Truyền hình Cao Bằng HD</td><td align="left">320.30</td><td align="left">Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng</td></tr>
+		<tr><td align="left">LSTV - Truyền hình Lạng Sơn</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Lạng Sơn - 9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn</td></tr>
+		<tr><td align="left">THP - Truyền hình Hải Phòng</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
+		<tr><td align="left">TBTV - Truyền hình Thái Bình</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình</td></tr>
+		<tr><td align="left">NTV - Truyền hình Nam Định</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Nam Định - 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định</td></tr>
+		<tr><td align="left">TN2 - Truyền hình Thái Nguyên 2 HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Thái Nguyên - 226 Đường Bến Oánh, phường Túc Duyên, TP. Thái Nguyên</td></tr>
+		<tr><td align="left">YTV - Truyền hình Yên Bái HD</td><td align="left">1080.25</td><td align="left">Đài Phát thanh và Truyền hình Yên Bái - 1 Đường Trần Quốc Toản, phường Đồng Tâm, TP. Yên Bái</td></tr>
+		<tr><td align="left">TTV - Truyền hình Tuyên Quang HD</td><td align="left">480.29</td><td align="left">Đài Phát thanh và Truyền hình tỉnh Tuyên Quang - 219 Đường Tân Trào, phường Phan Thiết, TP. Tuyên Quang</td></tr>
+		<tr><td align="left">HGTV - Truyền hình Hà Giang</td><td align="left">320.30</td><td align="left">Đài Phát thanh và Truyền hình Hà Giang - 126 Đường Nguyễn Thái Học, phường Trần Phú, TP. Hà Giang</td></tr>
+		<tr><td align="left">THLC - Truyền hình Lào Cai HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Lào Cai - Đường 30/4, phường Nam Cường, TP. Lào Cai</td></tr>
+		<tr><td align="left">LTV - Truyền hình Lai Châu</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Lai Châu - 43 Đường Nguyễn Chí Thanh, phường Tân Phong, TP. Lai Châu</td></tr>
+		<tr><td align="left">STV - Truyền hình Sơn La HD</td><td align="left">320.30</td><td align="left">Đài Phát thanh và Truyền hình Sơn La - Tổ 1, phường Quyết Thắng, TP. Sơn La</td></tr>
+		<tr><td align="left">ĐTV - Truyền hình Điện Biên HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Điện Biên - 829 Đường Võ Nguyên Giáp, phường Mường Thanh, TP. Điện Biên Phủ, Điện Biên</td></tr>
+		<tr><td align="left">HBTV - Truyền hình Hòa Bình HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình tỉnh Hòa Bình - 550 Đường Trần Hưng Đạo, phường Phương Lâm, TP. Hòa Bình</td></tr>
