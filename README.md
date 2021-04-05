@@ -16,7 +16,7 @@ Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng tr
 - Nhóm kênh phim truyện và điện ảnh nước ngoài đặc sắc và khổng lồ, chương trình giải trí Việt Nam và nước ngoài đa dạng và phong phú cùng các bộ phim hoạt hình bổ ích, lý thú và phù hợp cho trẻ em đã được hội tụ trong nhóm kênh thiếu nhi.<br />
 - Ngoài ra, quý khán giả còn có thể theo dõi được các tin tức thời sự chuyên biệt từ cơ quan chức năng (Quốc hội, Nhân dân, Quốc phòng - An ninh) đến thế giới và các chương trình của các đài địa phương trong cả nước cùng một số nhóm kênh khác.<br />
 ## II. Gói gia đình
-Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptvfamily).<br />
+Để đảm bảo an toàn cho trẻ em trước các nội dung không phù hợp, Hà Nội IPTV đã rút gọn một số kênh không nằm trong dịch vụ. Đây là biện pháp giúp cha mẹ có thể dễ dàng theo dõi các chương trình phù hợp với người già, người lớn và trẻ em trong gói gia đình. Xem [tại đây](http://gg.gg/hanoiiptvfamily).<br />
 ### * Lưu ý: Bắt đầu từ ngày 4/4/2021, Hà Nội IPTV chính thức phát sóng độc quyền một số kênh điện ảnh thế giới từ Pháp của Canal+ và OCS. Như vậy quý khán giả khi sử dụng gói gia đình sẽ được xem hoàn toàn miễn phí các kênh độc quyền từ xứ sở Kim Chi và Pháp.<br />
 
 # D. Giới thiệu nhóm kênh của Hà Nội IPTV
@@ -72,7 +72,7 @@ Là nhóm kênh truyền hình chuyên biệt với những tin tức thời s�
 ### 2. Nhóm kênh địa phương
 Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ngoại ở một số địa phương trong cả nước kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, bao gồm một số lĩnh vực như những tin tức thời sự mới nhất, nhanh nhất, chính xác nhất và hiệu quả nhất trên địa bàn; những chương trình - chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội; những ký sự, phim tài liệu về quê hương - cuộc sống - con người với văn hóa - đời sống - xã hội từ quá khứ đến hiện tại; những chương trình văn nghệ - giải trí - gameshow đa dạng, phong phú cùng những bộ phim truyện Việt Nam và nước ngoại được khai thác, chọn lọc một cách đặc sắc và hấp dẫn. Hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước.<br />
 
-# F. Truyền hình trực tuyến
+# E. Truyền hình trực tuyến
 Phần này được sử dụng để thử nghiệm, đề nghị quý vị và các bạn theo dõi các kênh sau đây, nếu thấy lỗi thì vào phần Liên hệ để tiến hành báo lỗi.<br />
 Kênh thử nghiệm 1: [Click tại đây để theo dõi](http://gg.gg/HaNoiIPTV-SCTV14-Kenh_Phim_Viet_HD)<br />
 Kênh thử nghiệm 2: [Click tại đây để theo dõi](http://gg.gg/France_2_HD)<br />
@@ -80,7 +80,7 @@ Kênh thử nghiệm 3: [Click tại đây để theo dõi](http://gg.gg/France_
 Kênh thử nghiệm 4: [Click tại đây để theo dõi](http://gg.gg/History_HD)<br />
 ## Lưu ý: ~Không được phép theo dõi kênh nếu thiết bị của bạn không hỗ trợ phát với chất lượng cao lên đến 1080P hoặc cao hơn.~
 
-# G. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
+# F. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
 Từ vị trí trạm phát sóng của [Hà Nội IPTV](http://gg.gg/hanoiiptv) tại địa chỉ: Số 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội về vị trí của bạn (VD: Số 15 Phố Lê Đại Hành, phường Minh Khai, quận Hồng Bàng, Hải Phòng hoặc Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng - gần Quốc lộ 5A, Đường Nguyễn Văn Linh) thì sẽ có tốc độ truyền dẫn phát sóng rất nhanh nên có thể dễ dàng dò kênh ngay lập tức.<br />
 
 Hướng dẫn chi tiết như sau:<br />
@@ -107,10 +107,10 @@ Nếu Smart TV của bạn sử dụng hệ điều hành này thì tuyệt đ�
 a) Đối với hệ điều hành Android
 - Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn IPTV, nhấn dấu cộng và gõ vào địa chỉ: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u rồi nhấn Lưu. Sau đó bạn vào Hà Nội IPTV 2021.m3u, chọn kênh bạn muốn xem rồi chọn TV của bạn để tiến hành kết nối và có thể theo dõi ngay lập tức.<br />
 
-# H. Thăm dò ý kiến
+# G. Thăm dò ý kiến
 Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.<br />
 
-# I. Kết nối với Hà Nội IPTV
+# H. Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
 Địa chỉ: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
@@ -120,11 +120,11 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
 ### Ngoài ra, Hà Nội IPTV còn hỗ trợ ngôn ngữ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý vị đã biết tiếng Trung Quốc (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道中文/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道中文 ).
 
-# K. Những nội dung khác
+# I. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
 - [Văn bản và Chính sách dành cho người dùng](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/tree/master/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Hà Nội IPTV.<br />
 
-# L. Liên hệ
+# K. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
 ### Trung tâm Chức năng và Quản lý
