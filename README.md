@@ -3,24 +3,21 @@ Hà Nội IPTV - Truyền hình số thế hệ mới chúc mừng năm mới Xu
 Hà Nội IPTV hoạt đồng với thời lượng tần suất phát sóng 24 giờ trong ngày trên các thiết bị như: Android, iOS, Windows 7, Windows 10, LG WebOS, Samsung Tizen,....; thường xuyên cập nhật và sửa lỗi một số kênh truyền hình giải trí đặc sắc, tổng hợp từ trong nước đến quốc tế.<br />
 
 # A. Hà Nội IPTV là gì?
-Là truyền hình số thế hệ mới, không trả phí, độc quyền phát sóng các kênh truyền hình Việt Nam và thế giới đặc sắc, mới nhất phục vụ đông đảo khán giả trên địa bàn thủ đô, cả nước và thế giới.<br />
+Hà Nội IPTV là dịch vụ xem truyền hình số thế hệ mới hàng đầu Việt Nam, quý khán giả ngoài xem được các kênh độc quyền thuộc K+, VTVCab, SCTV,.... thì còn có thể xem thêm các kênh độc quyền khác do Hoàng Huy Mạnh cung cấp đã được sự phối hợp của KBS, SBS, MBC, CJ E&M, JTBC, MBN, TV CHOSUN, Channel A,.... của Hàn Quốc cùng với TF1, france.tv, M6 GROUPE, CANAL+, NRJ 12, BFM TV, RTL9, RTS, RTBF Auvio,.... của Pháp.<br />
 
 # B. Tại sao nên lựa chọn Hà Nội IPTV?
-Vì Hà Nội IPTV là một nhà cung cấp lớn nhất và được hơn nghìn người truy cập để theo dõi độc quyền các kênh truyền hình của chúng tôi mọi lúc, mọi nơi. Hiện nhiều người có thể truy cập để theo dõi được thể thao, phim truyện hay giải trí nước ngoài là chủ yếu.<br />
+Hiện nay nhà cung cấp đang trong thời gian quảng bá về [Hà Nội IPTV](http://gg.gg/hanoiiptv), tuy nhiên cho đến thời điểm hiện tại không có hoặc ít người đã bắt đầu làm quen với dịch vụ này do lượng người sử dụng và theo dõi trên các trang mạng xã hội như: TikTok, Facebook, YouTube, Zalo,.... quá nhiều nên đã trở thành thói quen hàng ngày bất cứ lúc nào hay địa điểm nào nhưng không bao giờ thay đổi thói quen nên Hà Nội IPTV xin nhắc nhở về vấn đề này để quý khán giả biết và chủ động làm quen với chúng tôi. Đây là dịch vụ xem truyền hình số thế hệ mới hàng đầu Việt Nam với hầu hết các kênh truyền hình từ Việt Nam đến thế giới, đường truyền ổn định, chất lượng từ 320P đến 1080P hoặc cao hơn (4K), cài đặt và dò kênh để thu sóng các chương trình truyền hình nhanh nhất với những thao tác cơ bản.<br />
 
 # C. Dịch vụ Truyền hình số của Hà Nội IPTV
-Trong thời gian đại dịch Covid-19 đang có những diễn biến hết sức phức tạp do lây lan trong cộng đồng giữa 2 tỉnh là Hải Dương và Quảng Ninh, Hà Nội IPTV đang triển khai 2 gói quan trọng đó là gói chính và gói gia đình (dành cho những bệnh nhân phải thực hiện cách ly theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh).<br />
+Trong thời gian đại dịch Covid-19 đang có những diễn biến hết sức phức tạp do lây lan trong cộng đồng, Hà Nội IPTV đang triển khai 2 gói quan trọng đó là gói chính và gói gia đình (dành cho những bệnh nhân đang phải thực hiện cách ly theo quy định của Bộ Y tế).<br />
 ## I. Gói chính thức
 Trên 600 kênh truyền hình của Hà Nội IPTV sẽ được sử dụng trong gói chính thức [tại đây](http://gg.gg/hanoiiptv) hoàn toàn miễn phí, trong đó có:<br />
-- Hơn 40 kênh Hà Nội IPTV với các kênh truyền hình từ Xứ sở Kim Chi lần đầu tiên phát sóng tại Việt Nam và hơn 90 kênh đặc sắc của Hà Nội IPTV<br />
-- 7 kênh VTV với tiêu chuẩn HD và 22 kênh VTVCab<br />
-- Hơn 15 kênh phim truyện hấp dẫn và thể thao sôi động cùng hơn 50 kênh giải trí đặc sắc và tổng hợp Việt Nam và nước ngoài<br />
-- 15 kênh truyền hình dành cho thiếu nhi bổ ích, lý thú<br />
-- Miễn phí các kênh tin tức - thời sự trong nước, địa phương và nước ngoài với tiêu chuẩn HD<br />
-Ngoài ra, cũng trong gói chính thức này, Hà Nội IPTV còn phát sóng các kênh truyền hình từ Pháp để tạo ra sự lãng mạn, thích thú với khán giả thủ đô. Đây là quốc gia bạn bè với Thủ đô Hà Nội trong lịch sử thế kỷ XX, cho đến nay có rất nhiều công trình vẫn còn để lại trong lòng thủ đô theo phong cách Pháp.<br />
+- Các kênh truyền hình Việt Nam và nước ngoài hàng đầu như: VTV1 HD, VTV3 HD, VTV6 HD, VTVCab1 - Vie Giải Trí HD, VTVCab5 - E Channel HD, VTVCab10 - Vie Dramas HD, VTVCab8 - BiBi HD, VTVCab3 - Thể Thao TV HD, VTVCab16 - Bóng Đá TV HD, VTVCab18 - Thể Thao Tin Tức HD, VTVCab23 - Thể Thao Golf HD, VTC3 HD, Truyền hình Hà Nội 1 HD, Box Movie 1 HD, Hollywood Classic HD, TF1 HD, France 2 HD, Hà Nội IPTV 1 - KBS2 HD, Hà Nội IPTV 5 - tvN HD, M6 HD,....<br />
+- Nhóm kênh phim truyện và điện ảnh nước ngoài đặc sắc và khổng lồ, chương trình giải trí Việt Nam và nước ngoài đa dạng và phong phú cùng các bộ phim hoạt hình bổ ích, lý thú và phù hợp cho trẻ em đã được hội tụ trong nhóm kênh thiếu nhi.<br />
+- Ngoài ra, quý khán giả còn có thể theo dõi được các tin tức thời sự chuyên biệt từ cơ quan chức năng (Quốc hội, Nhân dân, Quốc phòng - An ninh) đến thế giới và các chương trình của các đài địa phương trong cả nước cùng một số nhóm kênh khác.<br />
 ## II. Gói gia đình
-Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptv).<br />
-### * Lưu ý: Gói gia đình chỉ phát sóng độc quyền cho các kênh truyền hình từ Xứ sở Kim Chi.<br />
+Đây là gói dành cho những bệnh nhân phải thực hiện cách ly tập trung do lây nhiễm Covid-19 trong cộng đồng theo quy định của Bộ Y tế và Sở Y tế 2 tỉnh Hải Dương và Quảng Ninh cùng một số tỉnh thành khác trong cả nước. Xem [tại đây](http://gg.gg/hanoiiptvfamily).<br />
+### * Lưu ý: Bắt đầu từ ngày 4/4/2021, Hà Nội IPTV chính thức phát sóng độc quyền một số kênh điện ảnh thế giới từ Pháp của Canal+ và OCS. Như vậy quý khán giả khi sử dụng gói gia đình sẽ được xem hoàn toàn miễn phí các kênh độc quyền từ xứ sở Kim Chi và Pháp.<br />
 
 # D. Giới thiệu nhóm kênh của Hà Nội IPTV
 ## I. Nhóm kênh Hà Nội IPTV
@@ -73,100 +70,7 @@ Là nhóm kênh để phục vụ cho việc cung cấp thông tin đối ngoạ
 Là nhóm kênh truyền hình chuyên biệt với những tin tức thời sự liên tục cập nhật cùng những chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội được nhiều người dân quan tâm.<br />
 
 ### 2. Nhóm kênh địa phương
-Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ngoại ở một số địa phương trong cả nước kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, bao gồm một số lĩnh vực như những tin tức thời sự mới nhất, nhanh nhất, chính xác nhất và hiệu quả nhất trên địa bàn; những chương trình - chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội; những ký sự, phim tài liệu về quê hương - cuộc sống - con người với văn hóa - đời sống - xã hội từ quá khứ đến hiện tại; những chương trình văn nghệ - giải trí - gameshow đa dạng, phong phú cùng những bộ phim truyện Việt Nam và nước ngoại được khai thác, chọn lọc một cách đặc sắc và hấp dẫn. Hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước như:<br />
-
-#### a) Vùng đồng bằng sồng Hồng
-0141 HiTV - Hanoicab 1<br />
-0142 VP - Truyền hình Vĩnh Phúc HD<br />
-0143 BTV - Truyền hình Bắc Ninh HD<br />
-0144 HYTV - Truyền hình Hưng Yên HD<br />
-0145 HDTV - Truyền hình Hải Dương HD<br />
-0146 TBTV - Truyền hình Thái Bình HD<br />
-0147 NBTV - Truyền hình Ninh Bình HD<br />
-#### Cộng với 3 kênh thuộc nhóm kênh trong nước như:
-0056 Truyền hình Hải Phòng 2 HD (THP+ HD)<br />
-0057 THP - Truyền hình Hải Phòng HD<br />
-0059 Truyền hình Hà Nội 2 HD<br />
-
-#### b) Vùng trung du và miền núi Bắc Bộ
-0148 LSTV - Truyền hình Lạng Sơn HD<br />
-0149 TN1 - Truyền hình Thái Nguyên HD<br />
-0150 QTV1 - Truyền hình Quảng Ninh 1 HD<br />
-0151 QTV3 - Truyền hình Quảng Ninh 3 HD<br />
-0152 PTV - Truyền hình Phú Thọ HD<br />
-#### * Lưu ý: Do Hà Nội IPTV 2021.m3u sắp xếp theo VTVCab, bắt đầu từ tháng 2/2021, kênh TBK - Truyền hình Bắc Kạn sẽ không được sắp xếp thành nhóm kênh địa phương nữa.
-
-#### c) Vùng duyên hải miền Trung và Tây Nguyên
-0153 TTV - Truyền hình Thanh Hóa HD<br />
-0154 HTTV - Truyền hình Hà Tĩnh HD<br />
-0155 QBTV - Truyền hình Quảng Bình HD<br />
-0156 TRT - Truyền hình Thừa Thiên Huế<br />
-0157 Đà Nẵng TV 1 - Truyền hình Đà Nẵng 1 HD<br />
-0158 Đà Nẵng TV 2 - Truyền hình Đà Nẵng 2 HD<br />
-0159 KTV - Truyền hình Khánh Hòa HD<br />
-0160 NTV - Truyền hình Ninh Thuận HD<br />
-0161 BTV - Truyền hình Bình Thuận<br />
-0162 THGL - Truyền hình Gia Lai<br />
-#### Cộng với 1 kênh thuộc nhóm kênh trong nước đó là:
-0060 Truyền hình Nghệ An HD<br />
-
-#### d) Vùng Đông Nam Bộ
-0163 BTV2 - Kênh Khoa học và Giáo dục HD<br />
-0164 BTV6 - Kênh Dành cho giới trẻ<br />
-0165 BPTV1 - Truyền hình Bình Phước 1 HD<br />
-0166 TTV11 - Truyền hình Tây Ninh HD<br />
-0167 ĐN1 - Truyền hình Đồng Nai 1 HD<br />
-0168 ĐN2 - Truyền hình Đồng Nai 2 HD<br />
-0169 ĐN9 - Sky Shop TV<br />
-0170 BRT - Truyền hình Bà Rịa Vũng Tàu HD<br />
-#### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
-0087 BTV1 - Truyền hình Bình Dương HD<br />
-
-#### e) Vùng đồng bằng sông Cửu Long
-0171 THĐT1 - Truyền hình Đồng Tháp 1 HD<br />
-0172 THTG - Truyền hình Tiền Giang HD<br />
-0173 THBT - Truyền hình Bến Tre<br />
-0174 ATV - Truyền hình An Giang<br />
-0175 THTPCT - Truyền hình Thành phố Cần Thơ HD<br />
-0176 Truyền hình Vĩnh Long 1<br />
-0177 Truyền hình Vĩnh Long 2<br />
-0178 HGTV - Truyền hình Hậu Giang HD<br />
-0179 STV1 - Truyền hình Sóc Trăng HD<br />
-#### Cộng với 1 kênh thuộc nhóm kênh giải trí đó là:
-0123 THĐT2 - Kênh Miền Tây<br />
-## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
-
-## VII. Nhóm các kênh khác
-Là nhóm kênh VTV5 của Đài Truyền hình Việt Nam tại:<br />
-0180 VTV5 Tây Nguyên<br />
-và<br />
-0181 VTV5 Tây Nam Bộ HD<br />
-## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
-
-# E. Các kênh đang phát sóng trên Hà Nội IPTV trong tháng 3/2020
-0001 Hà Nội IPTV 0 - Truyền hình Kinh tế Hàn Quốc HD<br />
-0002 Hà Nội IPTV 0+ - Truyền hình Hà Nội IPTV HD<br />
-0135 Hà Nội IPTV 58 - SBS Biz HD<br />
-0204 Hà Nội IPTV 1+ - KBS1 HD<br />
-0205 Hà Nội IPTV 2 - SBS HD<br />
-0222 Hà Nội IPTV 1 - KBS2 HD<br />
-0223 Hà Nội IPTV 3 - MBC HD<br />
-0225 Hà Nội IPTV 4 - OBS HD<br />
-0227 Hà Nội IPTV 5 - tvN HD<br />
-0229 Hà Nội IPTV 6 - MNet HD<br />
-0231 Hà Nội IPTV 7 - JTBC HD<br />
-0232 Hà Nội IPTV 7+ - YTN HD<br />
-0234 Hà Nội IPTV 8 - JTBC2 HD<br />
-0236 Hà Nội IPTV 9 - JTBC4 HD<br />
-0238 Hà Nội IPTV 11 - MBN HD<br />
-0239 Hà Nội IPTV 12 - MBN+ HD<br />
-0240 Hà Nội IPTV 13 - TV Chosun HD<br />
-0241 Hà Nội IPTV 13+ - Yonhap News TV HD<br />
-0242 Hà Nội IPTV 14 - TV Chosun 2 HD<br />
-0243 Hà Nội IPTV 15 - Channel A HD<br />
-0244 Hà Nội IPTV 16 - Channel A Plus HD<br />
-0245 Hà Nội IPTV 17 - OCN HD<br />
-## * Lưu ý: Số thứ tự kênh có thể thay đổi tùy theo khu vực.<br />
+Là nhóm kênh dành cho quý khán giả hiện có quê quán nội hoặc ngoại ở một số địa phương trong cả nước kết hợp với nhóm kênh VTV - Đài Truyền hình Việt Nam, bao gồm một số lĩnh vực như những tin tức thời sự mới nhất, nhanh nhất, chính xác nhất và hiệu quả nhất trên địa bàn; những chương trình - chuyên đề - chuyên mục, phóng sự điều tra phản ánh về vấn đề đời sống - dân sinh - xã hội; những ký sự, phim tài liệu về quê hương - cuộc sống - con người với văn hóa - đời sống - xã hội từ quá khứ đến hiện tại; những chương trình văn nghệ - giải trí - gameshow đa dạng, phong phú cùng những bộ phim truyện Việt Nam và nước ngoại được khai thác, chọn lọc một cách đặc sắc và hấp dẫn. Hiện nay, Hà Nội IPTV đang phát sóng được 35/63 tỉnh thành trên cả nước.<br />
 
 # F. Truyền hình trực tuyến
 Phần này được sử dụng để thử nghiệm, đề nghị quý vị và các bạn theo dõi các kênh sau đây, nếu thấy lỗi thì vào phần Liên hệ để tiến hành báo lỗi.<br />
