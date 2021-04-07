@@ -1,11 +1,10 @@
-CHÀO MỪNG BÊN LỀ SỰ KIỆN LIÊN QUAN ĐẾN ĐẠI DỊCH COVID-19
+THÔNG TIN VỀ TÌNH HÌNH PHÁT SÓNG CHƯƠNG TRÌNH (KÊNH) TRUYỀN HÌNH CỦA ĐÀI TRUYỀN HÌNH VIỆT NAM, ĐÀI PHÁT THANH VÀ TRUYỀN HÌNH HÀ NỘI
 =======
-Vào sáng thứ sáu ngày 26/3/2021 theo giờ Hà Nội (Việt Nam) tức là rạng sáng cùng ngày theo giờ Paris (Pháp), do tình hình đại dịch Covid-19 có những diễn biến hết sức phức tạp nên bên lề sự kiện "Appelez de 110" tạm dịch là "Gọi 110" từ [website](http://don.sidaction.org) đã được một số kênh truyền hình của quốc gia bạn bè với Việt Nam là Pháp đồng thời phát sóng song song với hạ tầng dịch vụ truyền hình số thế hệ mới Hà Nội IPTV. Đây là sự kiện nhằm kêu gọi toàn dân ta cùng nhau chung tay phòng chống đại dịch Covid-19 không chỉ ở nước Pháp mà còn trên khắp thế giới, trong đó có Việt Nam. Nhân dịp sự kiện này, Hà Nội IPTV xin được kính chúc tất cả mọi người sẽ bước sang một năm chung sống an toàn cho bạn và cho mọi người đồng thời thực hiện tốt các biện pháp để phòng chống đại dịch Covid-19.<br />
+Hiện nay, cho đến sáng ngày 6/4/2021, Hà Nội IPTV đang phát sóng 9 kênh truyền hình của Đài Truyền hình Việt Nam và 2 kênh truyền hình của Đài Phát thanh và Truyền hình Hà Nội với độ phân giải cao.<br />
 
-# Xem gì trên Hà Nội IPTV?
-Hà Nội IPTV đang phát sóng được hơn 400 kênh truyền hình từ Việt Nam đến thế giới, kể từ ngày 25/3/2021, kênh VTVCab8 - BiBi HD sẽ chính thức được nâng cấp phát sóng tuy nhiên kênh THP+ HD của Đài Phát thanh và Truyền hình Hải Phòng chuyển sang từ kênh số 56 sang kênh số 57. Kính mong quý khán giả quan tâm theo dõi!<br />
+Trước đó, [ngày 5/3/2021](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/commit/8bdca80f40751fd879fde0337fc6038dc930d236), Hà Nội IPTV đã nâng cấp 9 kênh truyền hình của Đài Truyền hình Việt Nam với tiêu chuẩn HD từ 720.25 sang 1080.30 cho các kênh từ 003 (VTV1 HD) đến 011 (VTV9 HD). Một tháng sau đến ngày 6/4/2021, Hà Nội IPTV tiếp tục nâng cấp thêm 1 kênh truyền hình của Đài Phát thanh và Truyền hình Hà Nội với tiêu chuẩn HD từ 1080.25 đến 1080.60 trên kênh số 58 và chỉ được thực hiện nâng cấp khi bị mất tín hiệu ở độ phân giải 1080.25 tính từ sau 23:40 phút ngày 5/4/2021 cho đến khi hoạt động trở lại. Do một số dịch vụ OTT như: VTVCab ON, ClipTV,.... phải đưa ra quyết định trả phí cho kênh Truyền hình Hà Nội 1 HD để phát trực tuyến nên khi quý khán giả xem kênh số 58 phải chọn thời gian thích hợp nhất và đi vào hoạt động trên Hà Nội IPTV.<br />
 
-Hiện tại, Hà Nội IPTV đang có bảng kênh chi tiết và hiện đang trong giai đoạn nâng cấp. Kính mong quý vị và các bạn quan tâm theo dõi!<br />
+Như vậy quý khán giả có thể xem được 11 kênh truyền hình của trung ương và thành phố Hà Nội trên Hà Nội IPTV cùng rất nhiều kênh truyền hình đáng chú ý khác.<br />
 
 # Liên hệ
 Nếu phát hiện lỗi phát kênh, xin vui lòng báo lỗi ở phần Liên hệ trong README.md tại địa chỉ: https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/README.md<br />
