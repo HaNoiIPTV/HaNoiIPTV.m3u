@@ -5,7 +5,7 @@
 	</thead>
 	<tbody>
 		<tr><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080.30</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
-		<tr><td align="left">002</td><td align="left">Culturebox HD</td><td align="left">1080.60</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
+		<tr><td align="left">002</td><td align="left">Culturebox HD</td><td align="left">1080.60</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td><td align="left">Độc quyền phát sóng trên Hà Nội IPTV</td></tr>
 	        <tr><td align="left">003</td><td align="left">VTV1 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
                 <tr><td align="left">004</td><td align="left">VTV2 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
 		<tr><td align="left">005</td><td align="left">VTV3 HD</td><td align="left">1080.30</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
