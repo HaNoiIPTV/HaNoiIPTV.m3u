@@ -7,7 +7,10 @@ Trước đó, [ngày 5/3/2021](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/commi
 #### Lưu ý
 Do một số dịch vụ OTT như: VTVCab ON, ClipTV,.... phải đưa ra quyết định trả phí cho kênh Truyền hình Hà Nội 1 HD để phát sóng trực tuyến theo hình thức VIP nên sau khi quý khán giả chọn kênh số 58 có phát hiện bị lỗi phát kênh thì có thể chọn lại khoảng 3 - 5 lần trở lên.<br />
 
-Ngoài ra, Hà Nội IPTV mới đây đã có link dự phòng cho kênh số 56 (THP - Truyền hình Hải Phòng HD) và kênh số 60 (Truyền hình Nghệ An HD) theo hình thức nâng cấp độ phân giải từ 720.30 sang 1080.60 và sẽ được áp dụng khi cả 2 kênh nêu trên bị lỗi phát kênh do mất tín hiệu. Theo dự kiến, Hà Nội IPTV sẽ tiếp tục nâng cấp độ phân giải, FPS cho kênh số 142 (BTV - Truyền hình Bắc Ninh HD), 143 (HYTV - Truyền hình Hưng Yên HD), 147 (LSTV - Truyền hình Lạng Sơn HD), 148 (TN1 - Truyền hình Thái Nguyên HD),....<br />
+#### Thông tin thêm
+Ngoài ra, Hà Nội IPTV mới đây đã có link dự phòng cho kênh số 56 (THP - Truyền hình Hải Phòng HD) và kênh số 60 (Truyền hình Nghệ An HD) theo hình thức nâng cấp độ phân giải từ 720.30 sang 1080.60 và sẽ được áp dụng khi cả 2 kênh nêu trên bị lỗi phát kênh do mất tín hiệu.<br />
+
+Theo dự kiến, Hà Nội IPTV sẽ tiếp tục nâng cấp độ phân giải, FPS cho kênh số 142 (BTV - Truyền hình Bắc Ninh HD), 143 (HYTV - Truyền hình Hưng Yên HD), 147 (LSTV - Truyền hình Lạng Sơn HD), 148 (TN1 - Truyền hình Thái Nguyên HD), 149 (QTV1 HD), 150 (QTV3 HD), 151 (PTV - Truyền hình Phú Thọ HD), 152 (TTV - Truyền hình Thanh Hóa HD), 153 (HTTV - Truyền hình Hà Tĩnh HD), 155 (TRT - Truyền hình Thừa Thiên Huế),....<br />
 
 Như vậy quý khán giả có thể xem được 11 kênh truyền hình của trung ương và thành phố Hà Nội trên Hà Nội IPTV cùng rất nhiều kênh truyền hình đáng chú ý khác.<br />
 
