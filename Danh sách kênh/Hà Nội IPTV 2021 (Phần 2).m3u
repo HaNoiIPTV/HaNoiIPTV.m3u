@@ -803,13 +803,17 @@ http://gg.gg/TBK-Truyen_hinh_Bac_Kan
 http://gg.gg/BGTV-Truyen_hinh_Bac_Giang_HD
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png",BTV - Truyền hình Bắc Ninh
 http://gg.gg/BTV-Truyen_hinh_Bac_Ninh
-#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_STV2_HD.png",STV2 - Truyền hình Sóc Trăng 2 HD
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90TV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn.png",ĐTV - Truyền hình Điện Biên
+http://gg.gg/DTV-Truyen_hinh_Dien_Bien
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo_STV2_HD.png",STV2 - Truyền hình Sóc Trăng 2 HD
 http://gg.gg/STV2-Truyen_hinh_Soc_Trang_HD
-#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/THTV.png/revision/latest/scale-to-width-down/220?cb=20200309162339",THTV - Truyền hình Trà Vinh
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh.png",THTV - Truyền hình Trà Vinh
 http://gg.gg/THTV-Truyen_hinh_Tra_Vinh
 #EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc.png",VP - Truyền hình Vĩnh Phúc
 rtmp://117.6.162.63/live/thvp
-#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo=" ",VBS (Vietnam Broadcast Station)
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu.png",BTV - Truyền hình Bạc Liêu
+http://gg.gg/BTV-Truyen_hinh_Bac_Lieu
+#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo=" ",VBS (Vietnam Broadcast Station)
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM KIDS
 http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
