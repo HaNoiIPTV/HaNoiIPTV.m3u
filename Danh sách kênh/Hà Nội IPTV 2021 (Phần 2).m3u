@@ -161,7 +161,7 @@ https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paramount%20Channel%20HD.jpg",Paramount Channel HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://www.mylifetime.com/assets/images/lifetime/logo-white.svg",Lifetime HD
+#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Lifetime%20HD.png",Lifetime HD
 http://gg.gg/Lifetime_HD
 #EXTINF:-1  tvg-id="http://gg.gg/WOMAN_HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
 https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:womanhd/manifest.mpd
