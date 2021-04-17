@@ -135,7 +135,7 @@ Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên
 
 <h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
 | Logo | Tên kênh | Độ phân giải, FPS | Vị trí phát sóng |
-|:---:|:---------:|:-----------------:|:-----------------:
+|:---:|:-----------------:|:-----:|:-----:
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/> | CRTV - Truyền hình Cao Bằng HD | 320.30 | Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng |
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/> | LSTV - Truyền hình Lạng Sơn | 320.25 | Đài Phát thanh và Truyền hình Lạng Sơn - 9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn |
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_Hai_Phong.png"/> | THP - Truyền hình Hải Phòng | 720.25 | Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng |
