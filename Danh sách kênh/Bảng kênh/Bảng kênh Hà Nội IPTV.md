@@ -133,13 +133,10 @@
 
 Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên Hà Nội IPTV là các kênh phối hợp phát sóng với Hà Nội IPTV - Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội và các địa điểm liên quan đến Hoàng Huy Mạnh như: Công an huyện Hoài Đức - Quốc lộ 32, thị trấn Trạm Trôi, huyện Hoài Đức, Hà Nội; Star Beer Mạnh An - 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội; Bệnh viện Phụ sản Hà Nội - 929 Đường La Thành, phường Láng Thượng, quận Ba Đình, Hà Nội; Bệnh viện Nhi Trung ương - 18 Ngõ 879 Đường La Thành, phường Láng Thượng, quận Đống Đa, Hà Nội; Văn Miếu - Quốc Tử Giám - 58 Phố Quốc Tử Giám, phường Văn Miếu, quận Đống Đa, Hà Nội; Hoàng thành Thăng Long - 19C Phố Hoàng Diệu, phường Điện Biên, quận Ba Đình, Hà Nội; Lăng Chủ tịch Hồ Chí Minh & Văn phòng Chủ tịch nước - 2 Đường Hùng Vương, phường Điện Biên, quận Ba Đình, Hà Nội; Chùa Một Cột, Phường Đội Cấn, quận Ba Đình, Hà Nội; Rạp tháng 8 - 45 Phố Hàng Bài, phường Hàng Bài, quận Hoàn Kiếm, Hà Nội; Phố đi bộ Hồ Gươm, Hồ Hoàn Kiếm - Ngã tư phố Đinh Tiên Hoàng, phố Hàng Bài và phố Hàng Khay, phường Tràng Tiền, quận Hoàn Kiếm, Hà Nội; Công viên Thống Nhất - 354A Đường Lê Duẩn, phường Phương Liên, quận Đống Đa, Hà Nội; Rạp xiếc Trung ương - 67 - 69 Phố Trần Nhân Tông, phường Lê Đại Hành, quận Hai Bà Trưng, Hà Nội; Bệnh viện mắt Trung ương - 85 Phố Bà Triệu, phường Bùi Thị Xuân, quận Hai Bà Trưng, Hà Nội; Bệnh viện Da liễu Trung ương - 15A Phố Phương Mai, quận Đống Đa, Hà Nội;....).<br />
 
-# 2. Đối với các kênh lân cận với Hà Nội IPTV
-<table>
-	<thead>
-		<tr><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th><th align="left">Ghi chú</th></tr>
-	</thead>
-	<tbody>
-		<tr><td align="left">CRTV - Truyền hình Cao Bằng HD</td><td align="left">320.30</td><td align="left">Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng</td></tr>
+<h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
+| Logo | Tên kênh | Độ phân giải, FPS | Vị trí phát sóng |
+|:---:|:---------:|:-----------------:|:-----------------:
+| <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/> | CRTV - Truyền hình Cao Bằng HD | 320.30 | Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng |
 		<tr><td align="left">LSTV - Truyền hình Lạng Sơn</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Lạng Sơn - 9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn</td></tr>
 		<tr><td align="left">THP - Truyền hình Hải Phòng</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
 		<tr><td align="left">TBTV - Truyền hình Thái Bình</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình</td></tr>
