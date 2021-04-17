@@ -257,13 +257,13 @@ http://gg.gg/Fairchild_2_HD
 #EXTINF:-1  channel-id="台灣的眼睛" tvg-id="http://193.160.32.4:8080/crtv.php?id=336" group-title="港澳台電視直播頻道" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  channel-id="7" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/008.png?rand=85",台視 HD
-http://193.160.32.4:8080/crtv.php?id=326
+http://gg.gg/HeNeiIPTV-Tai_Shi_HD
 #EXTINF:-1  channel-id="9" group-title="港澳台電視直播頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png",中視 HD
-http://193.160.32.4:8080/crtv.php?id=333
+http://gg.gg/HeNeiIPTV-Zhong_Shi_HD
 #EXTINF:-1  channel-id="11" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/012.png?rand=974",華視 HD
-http://193.160.32.4:8080/crtv.php?id=327
+http://gg.gg/HeNeiIPTV-Hua_Shi_HD
 #EXTINF:-1  channel-id="13" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/013.png?rand=831",公視 HD
-http://193.160.32.4:8080/crtv.php?id=361
+http://gg.gg/HeNeiIPTV-Gong_Shi_HD
 #EXTINF:-1  channel-id="22" group-title="港澳台電視直播頻道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animal%20Planet%20HD.png",Animal Planet 動物星球頻道 HD
 http://193.160.32.4:8080/crtv.php?id=367
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://www.cyccatv.com.tw/images/channel_logos/ch25.png",東森幼幼台 HD
@@ -336,6 +336,10 @@ http://193.160.32.4:8080/crtv.php?id=379
 http://193.160.32.4:8080/crtv.php?id=380
 #EXTINF:-1  channel-id="607" group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/208.png?rand=737",博斯無限台 HD
 http://193.160.32.4:8080/crtv.php?id=381
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/014.png?rand=531",公視台語台 HD
+http://gg.gg/HeNeiIPTV-Gong_Shi_Tai_Yu_Tai_HD
+#EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/098.png?rand=52",公視三台 HD
+http://gg.gg/HeNeiIPTV-Gong_Shi_San_Tai_HD
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/521.png?rand=311",台視財經台 HD
 http://193.160.32.4:8080/crtv.php?id=300
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png",國家地理頻道 HD
