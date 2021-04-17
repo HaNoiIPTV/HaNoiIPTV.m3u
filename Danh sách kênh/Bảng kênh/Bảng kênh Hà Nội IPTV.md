@@ -1,7 +1,7 @@
 <h1>1. Đối với các kênh đang phát sóng trên Hà Nội IPTV</h1>
 <table>
 	<thead>
-		<tr><th align="left">Số thứ tự</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th><th align="left">Ghi chú</th></tr>
+		<tr><th align="left">STT</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th><th align="left">Khác</th></tr>
 	</thead>
 	<tbody>
 		<tr><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%BFt/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%20HD%20(Ph%C3%A1t%20s%C3%B3ng%20trong%20T%E1%BA%BFt%20Nguy%C3%AAn%20%C4%91%C3%A1n%20h%C3%A0ng%20n%C4%83m).png"/></td><td align="left">001</td><td align="left">Truyền hình Hà Nội IPTV HD</td><td align="left">1080.30</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
