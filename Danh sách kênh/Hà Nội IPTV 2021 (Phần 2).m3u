@@ -465,18 +465,34 @@ http://gg.gg/Ha_Noi_IPTV_5-tvN_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/M6%20HD.png",M6 HD
 http://gg.gg/M6_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 6 - MNet HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_6-MNet_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arte%20HD.png",Arte HD
 http://gg.gg/Arte_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%207%20-%20JTBC%20HD.png",Hà Nội IPTV 7 - JTBC HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_7-JTBC_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCP.png",LCP HD
 http://gg.gg/LCP_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png",Hà Nội IPTV 8 - JTBC2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_8-JTBC2_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BFM%20TV.png",BFM TV HD
 http://gg.gg/BFM_TV_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png",Hà Nội IPTV 9 - JTBC4 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_9-JTBC4_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/W9%20HD.png",W9 HD
 http://gg.gg/W9_HD
@@ -543,6 +559,10 @@ http://gg.gg/Ha_Noi_IPTV_24-XtvN_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%C3%A9va%20HD.png",Téva HD
 http://gg.gg/Teva_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OtvN.png",Hà Nội IPTV 25 - OtvN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_25-OtvN_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ch%C3%A9rie%2025%20HD.jpg",Chérie 25 HD
 http://gg.gg/Cherie_25_HD
