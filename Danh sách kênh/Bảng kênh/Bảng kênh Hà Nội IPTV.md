@@ -135,11 +135,11 @@ Lưu ý: Các kênh truyền hình có ghi chú độc quyền phát sóng trên
 
 <h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
 | Logo | Tên kênh | Độ phân giải, FPS | Vị trí phát sóng |
-|:---:|:-----------------:|:-----:|:-----:
+|:---:|:-----------------:|:-----:|:-----:| 
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/> | CRTV - Truyền hình Cao Bằng HD | 320.30 | Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng |
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/> | LSTV - Truyền hình Lạng Sơn | 320.25 | Đài Phát thanh và Truyền hình Lạng Sơn - 9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn |
 | <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP_Hai_Phong.png"/> | THP - Truyền hình Hải Phòng | 720.25 | Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng |
-		<tr><td align="left">TBTV - Truyền hình Thái Bình</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình</td></tr>
+| <img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh.png"/> | TBTV - Truyền hình Thái Bình | 320.25 | Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình | 
 		<tr><td align="left">NTV - Truyền hình Nam Định</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Nam Định - 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định</td></tr>
 		<tr><td align="left">TN2 - Truyền hình Thái Nguyên 2 HD</td><td align="left">320.25</td><td align="left">Đài Phát thanh và Truyền hình Thái Nguyên - 226 Đường Bến Oánh, phường Túc Duyên, TP. Thái Nguyên</td></tr>
 		<tr><td align="left">YTV - Truyền hình Yên Bái HD</td><td align="left">1080.25</td><td align="left">Đài Phát thanh và Truyền hình Yên Bái - 1 Đường Trần Quốc Toản, phường Đồng Tâm, TP. Yên Bái</td></tr>
