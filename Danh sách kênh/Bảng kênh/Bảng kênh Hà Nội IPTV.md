@@ -62,7 +62,7 @@
 		<tr><td align="left">064</td><td align="left">CStar HD</td><td align="left">720.25</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">ĐQ</td></tr>
 		<tr><td align="left">065</td><td align="left">CNews HD</td><td align="left">720.25</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">ĐQ</td></tr>
 		<tr><td align="left">141</td><td align="left">HiTV - Hanoicab 1</td><td align="left">320.60</td><td align="left">Công ty Cổ phần Truyền hình HiTV - 30 Phố Trung Liệt, phường Trung Liệt, quận Đống Đa, Hà Nội</td></tr>
-		<tr><td align="left">142</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Vĩnh Phúc - 2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td><td align="left">TN/td></tr>
+		<tr><td align="left">142</td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">720.25</td><td align="left">Đài Phát thanh và Truyền hình Vĩnh Phúc - 2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td><td align="left">TN</td></tr>
 		<tr><td align="left">143</td><td align="left">BTV - Truyền hình Bắc Ninh HD</td><td align="left">720.30</td><td align="left">Đài Phát thanh và Truyền hình Bắc Ninh - Đường Ngô Gia Tự, phường Vũ Ninh, TP. Bắc Ninh</td></tr>
 		<tr><td align="left">144</td><td align="left">HYTV - Truyền hình Hưng Yên HD</td><td align="left">1080.30</td><td align="left">Đài Phát thanh và Truyền hình Hưng Yên - 164 Đường Nguyễn Văn Linh, phường Lam Sơn, TP. Hưng Yên</td></tr>
 		<tr><td align="left">145</td><td align="left">HDTV - Truyền hình Hải Dương HD</td><td align="left">480.25</td><td align="left">Đài Phát thanh và Truyền hình Hải Dương - 2 Đường Chương Dương, phường Lê Thanh Nghị, TP. Hải Dương</td></tr>
@@ -100,7 +100,7 @@
 		<tr><td align="left">177</td><td align="left">Truyền hình Vĩnh Long 2</td><td align="left">320.50</td><td align="left">50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
 		<tr><td align="left">178</td><td align="left">HGTV - Truyền hình Hậu Giang HD</td><td align="left">320.25</td><td align="left">1 Đường Võ Văn Kiệt, phường 5, TP. Vị Thanh, Hậu Giang</td></tr>
 		<tr><td align="left">179</td><td align="left">STV1 - Truyền hình Sóc Trăng HD</td><td align="left">320.25</td><td align="left">132 Đường Trần Văn Bảy, phường 3, TP. Sóc Trăng</td></tr>
-		<tr><td align="left">180</td><td align="left">VTV5 Tây Nguyên</td><td align="left">320.30</td><td align="left">Đường Nguyễn Hữu Thọ, Phường 9, TP. Tuy Hòa, Phú Yên</td><td align="left">Sử dụng từ ứng dụng VTV Go</td></tr>
+		<tr><td align="left">180</td><td align="left">VTV5 Tây Nguyên</td><td align="left">320.30</td><td align="left">Đường Nguyễn Hữu Thọ, Phường 9, TP. Tuy Hòa, Phú Yên</td><td align="left">5</td></tr>
 		<tr><td align="left">181</td><td align="left">VTV5 Tây Nam Bộ HD</td><td align="left">720.50</td><td align="left">407 Hẻm 353, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
 		<tr><td align="left">193</td><td align="left">TF1 HD</td><td align="left">720.25</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td><td align="left">ĐQ</td></tr>
 		<tr><td align="left">194</td><td align="left">France 2 HD</td><td align="left">1080.60</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td><td align="left">ĐQ</td></tr>
@@ -146,7 +146,7 @@ TN. Tiếp nhận phản ánh qua số điện thoại: 0962471968 hoặc 091352
 <h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
 <table>
 	<thead>
-		<tr><th align="left">Logo/th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th></tr>
+		<tr><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">Vị trí phát sóng</th></tr>
 	</thead>
 	<tbody>
                 <tr><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/></td><td align="left">CRTV - Truyền hình Cao Bằng HD</td><td align="left">320.30</td><td align="left">Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng</td></tr>
