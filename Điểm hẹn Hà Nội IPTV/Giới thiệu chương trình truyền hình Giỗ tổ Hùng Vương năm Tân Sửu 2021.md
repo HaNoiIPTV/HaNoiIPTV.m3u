@@ -10,6 +10,33 @@ Kênh số 7 - VTV5 HD:<br />
 23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
 23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 48 - HTV7 HD:<br />
+20h35: Cơ hội đổi đời ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
+21h15: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi qua phiên bản số 1]https://live.thhp.vn/thp/index.m3u8)[hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
+Kênh số 58 - THP+ HD:<br />
+20h45: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+19h50: Phim dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 1 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 20 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
+Kênh số 142 - VP - Truyền hình Vĩnh Phúc HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD))<br />
+Kênh số 144 - HYTV - Truyền hình Hưng Yên HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-HYTV-Truyen_hinh_Hung_Yen_HD))<br />
+Kênh số 147 - NBTV - Truyền hình Ninh Bình HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD))<br />
+Kênh số 148 - LSTV - Truyền hình Lạng Sơn HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD))<br />
+Kênh số 151 - QTV3 HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://qtv.vncdn.vn/qtvlive/tv3live.m3u8))<br />
+Kênh số 152 - PTV - Truyền hình Phú Thọ HD:<br />
+20h15: Truyền hình trực tiếp: Chương trình nghệ thuật "Linh thiêng nguồn cội - Đất tổ Hùng Vương" ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD))<br />
+Kênh số 153 - TTV - Truyền hình Thanh Hóa HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8))<br />
+Kênh số 155 - QBTV - Truyền hình Quảng Bình HD:<br />
+20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD))<br />
 
 ## Chưa được theo dõi
 Kênh số 3 - VTV1 HD:<br />
@@ -30,6 +57,10 @@ Kênh số 7 - VTV5 HD:<br />
 10h30, 17h: Phim truyện: Về nhà đi con - Tập 23 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
 19h: Phim truyện: Hoa hồng trên ngực trái - Tập 41, 42 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 58 - THP+ HD:<br />
+21h35: Xả Xupap - Tập 7 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+11h30: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 17 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
 
 Thứ tư ngày 21/4/2021, tức mùng 10 tháng 3 âm lịch<br />
 # Mới nhất
