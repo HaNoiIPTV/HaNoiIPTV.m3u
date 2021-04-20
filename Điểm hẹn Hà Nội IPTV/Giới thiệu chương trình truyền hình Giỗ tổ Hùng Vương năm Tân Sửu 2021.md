@@ -1,35 +1,35 @@
 Thứ ba ngày 20/4/2021, tức mùng 9 tháng 3 âm lịch<br />
 # Mới nhất
 Kênh số 3 - VTV1 HD:<br />
-20h10: Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8)<br />
+20h10: Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
 Kênh số 5 - VTV3 HD:<br />
-20h30: Ai là triệu phú [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
-21h20: Góc phố muôn màu [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
-21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 26 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
+20h30: Ai là triệu phú ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 Kênh số 7 - VTV5 HD:<br />
-23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8)<br />
+23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
-23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8)<br />
+23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 
 ## Chưa được theo dõi
 Kênh số 3 - VTV1 HD:<br />
-8h05: Phim truyện: Mê cung - Tập 29 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8)<br />
+8h05: Phim truyện: Mê cung - Tập 29 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
 Kênh số 4 - VTV2 HD:<br />
-11h30: Phim truyện: Sống chung với mẹ chồng - Tập 32 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8)<br />
+11h30: Phim truyện: Sống chung với mẹ chồng - Tập 32 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
 Kênh số 5 - VTV3 HD:<br />
-3h: Phim truyện: Những cô gái trong thành phố - Tập 28 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
-9h40: Chúng tôi - chiến sỹ: Bộ đội Biên phòng tỉnh Ninh Thuận [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
-14h40: Trời sinh một cặp [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
-16h10: Phim truyện: Những cô gái trong thành phố - Tập 29 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8)<br />
+3h: Phim truyện: Những cô gái trong thành phố - Tập 28 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+9h40: Chúng tôi - chiến sỹ: Bộ đội Biên phòng tỉnh Ninh Thuận ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+14h40: Trời sinh một cặp ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+16h10: Phim truyện: Những cô gái trong thành phố - Tập 29 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 Kênh số 6 - VTV4 HD:<br />
-5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 17 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8)<br />
-14h15: Nhà hát những giấc mơ - Phần 2 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8)<br />
-17h: Chúng tôi - chiến sỹ: Bộ đội Biên phòng tỉnh Ninh Thuận [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8)<br />
-23h30: Chiến binh xanh - Số 14 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8)<br />
+5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 17 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+14h15: Nhà hát những giấc mơ - Phần 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+17h: Chúng tôi - chiến sỹ: Bộ đội Biên phòng tỉnh Ninh Thuận ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+23h30: Chiến binh xanh - Số 14 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
 Kênh số 7 - VTV5 HD:<br />
-10h30, 17h: Phim truyện: Về nhà đi con - Tập 23 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8)<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 23 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
-19h: Phim truyện: Hoa hồng trên ngực trái - Tập 41, 42 [Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8)<br />
+19h: Phim truyện: Hoa hồng trên ngực trái - Tập 41, 42 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 
 Thứ tư ngày 21/4/2021, tức mùng 10 tháng 3 âm lịch<br />
 # Mới nhất
