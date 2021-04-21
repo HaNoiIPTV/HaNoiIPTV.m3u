@@ -281,11 +281,11 @@ http://gg.gg/Ha_Noi_IPTV_58-SBS_Biz_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Channel%20News%20Asia.png",Channel News Asia - CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5Monde Asie
-https://livecdn.fptplay.net/world/tv5_2000.stream/chunklist.m3u8
+http://gg.gg/HaNoiIPTV-TV5Monde_Asie
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1  tvg-id="http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
+http://gg.gg/HaNoiIPTV-France_24
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV - Hanoicab 1
 http://gg.gg/HaNoiIPTV-HiTV-Hanoicab_1
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
@@ -461,6 +461,10 @@ http://gg.gg/Ha_Noi_IPTV_5-tvN_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/M6%20HD.png",M6 HD
 http://gg.gg/M6_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD%20(B%E1%BA%A3n%202).png",Hà Nội IPTV 6 - MNet HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_6-MNet_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arte%20HD.png",Arte HD
 http://gg.gg/Arte_HD
@@ -491,6 +495,10 @@ http://gg.gg/Ha_Noi_IPTV_13-TV_Chosun_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/13Eme%20Rue%20HD.png",13Eme Rue HD
 http://gg.gg/13Eme_Rue_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20TV%20Chosun%202%20HD.png",Hà Nội IPTV 14 - TV Chosun 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_14-TV_Chosun_2_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Gulli%20HD.png",Gulli HD
 http://gg.gg/Gulli_HD
