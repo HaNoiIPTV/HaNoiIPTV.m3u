@@ -69,6 +69,11 @@ Kênh số 195 - France 3 HD:<br />
 2h56: [Phim truyện: Song song - Tập 2](https://tv-programme.com/tandem_serie/s05e02-secrets-sur-les-docks_e752948)<br />
 Kênh số 227 - M6 HD:<br />
 2h05: [Bày tỏ của Pékin](https://tv-programme.com/pekin-express_emission/la-route-des-3-continents_e752955)<br />
+4h15: [Bày tỏ của Pékin: Lộ trình thay thế](https://tv-programme.com/pekin-express-itineraire-bis_emission/pekin-express-itineraire-bis_e752956)<br />
+Kênh số 229 - Arte HD:<br />
+3h25: [Phim tài liệu: Hàng tỷ Gaddafi ở đâu?](https://tv-programme.com/ou-sont-les-milliards-de-kadhafi_documentaire/)
+Kênh số 276 - La Une HD:
+1h35: [Phim truyện: HPI](https://tv-programme.com/hpi_serie/s01e01-vents-d-ouest_e752905)
 
 ## Chưa được theo dõi
 Kênh số 193 - TF1 HD:<br />
