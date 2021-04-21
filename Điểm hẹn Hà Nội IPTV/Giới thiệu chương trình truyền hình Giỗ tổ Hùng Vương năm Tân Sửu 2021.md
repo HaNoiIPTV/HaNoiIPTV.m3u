@@ -13,7 +13,7 @@ Kênh số 8 - VTV6 HD:<br />
 Kênh số 48 - HTV7 HD:<br />
 20h35: Cơ hội đổi đời ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
 Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
-21h15: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi qua phiên bản số 1]https://live.thhp.vn/thp/index.m3u8)[hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
+21h15: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi qua phiên bản số 1](https://live.thhp.vn/thp/index.m3u8)[hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
 Kênh số 58 - THP+ HD:<br />
 20h45: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
 Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
