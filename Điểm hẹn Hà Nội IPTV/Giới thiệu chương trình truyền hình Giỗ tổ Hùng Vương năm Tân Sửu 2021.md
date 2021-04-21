@@ -64,6 +64,8 @@ Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
 
 Thứ tư ngày 21/4/2021, tức mùng 10 tháng 3 âm lịch<br />
 # Mới nhất
+Kênh số 189 - France Info HD:<br />
+5h: Tiếp sóng kênh số 140 ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/France_Info_HD))<br />
 Kênh số 195 - France 3 HD:<br />
 2h05: [Phim truyện: Song song - Tập 1](https://tv-programme.com/tandem_serie/s05e01-l-eau-qui-dort_e752947)<br />
 2h56: [Phim truyện: Song song - Tập 2](https://tv-programme.com/tandem_serie/s05e02-secrets-sur-les-docks_e752948)<br />
@@ -72,8 +74,20 @@ Kênh số 227 - M6 HD:<br />
 4h15: [Bày tỏ của Pékin: Lộ trình thay thế](https://tv-programme.com/pekin-express-itineraire-bis_emission/pekin-express-itineraire-bis_e752956)<br />
 Kênh số 229 - Arte HD:<br />
 3h25: [Phim tài liệu: Hàng tỷ Gaddafi ở đâu?](https://tv-programme.com/ou-sont-les-milliards-de-kadhafi_documentaire/)<br />
-Kênh số 276 - La Une HD:
-1h35: [Phim truyện: HPI](https://tv-programme.com/hpi_serie/s01e01-vents-d-ouest_e752905)<br />
+Kênh số 231 - LCP:<br />
+3h: [Tạp chí: Hy vọng nó kéo dài](https://tv-programme.com/pourvu-que-ca-dure_magazine/pourvu-que-ca-dure_e752966)<br />
+Kênh số 248 - La Chaîne L'Équipe HD:<br />
+3h53: [L'Equipe tối](https://tv-programme.com/l-equipe-du-soir_magazine-sportif/l-equipe-du-soir_e752542)<br />
+Kênh số 258 - RMC Découverte HD:<br />
+1h05: [Phim tài liệu: Đấu giá cơ khí](https://tv-programme.com/encheres-mecaniques_documentaire/s01e06-alpine-a110-citroen-ax-thalassa_e752816)
+Kênh số 276 - La Une HD:<br />
+1h35: [Phim truyện: HPI - Tập 1](https://tv-programme.com/hpi_serie/s01e01-vents-d-ouest_e752905)<br />
+Kênh số 278 - Tipik HD:<br />
+1h35: [Phim tài liệu: Tuổi trẻ dưới đáy sóng](https://tv-programme.com/une-jeunesse-au-creux-de-la-vague_documentaire/)<br />
+Kênh số 282 - RTL TVI HD:<br />
+1h25: [Tạp chí: Độc quyền](https://tv-programme.com/exclusif_magazine/exclusif_e649665)<br />
+Kênh số 286 - Plug RTL:<br />
+1h10: [Phim điện ảnh: Người gián điệp đã bỏ rơi tôi](https://tv-programme.com/l-espion-qui-m-a-larguee_film/)<br />
 
 ## Chưa được theo dõi
 Kênh số 193 - TF1 HD:<br />
