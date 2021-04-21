@@ -7,18 +7,15 @@ Kênh số 5 - VTV3 HD:<br />
 21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 Kênh số 7 - VTV5 HD:<br />
-23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+23h25: Trực tiếp Vòng 30 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
-23h25: Trực tiếp Giải Bóng đá Vô địch Quốc gia Đức: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+23h25: Trực tiếp Vòng 30 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 Kênh số 48 - HTV7 HD:<br />
 20h35: Cơ hội đổi đời ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
 Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
 21h15: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi qua phiên bản số 1](https://live.thhp.vn/thp/index.m3u8)[ hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
 Kênh số 58 - THP+ HD:<br />
 20h45: Sân chơi: Cơ hội đổi đời - Tập 16 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
-Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
-19h50: Phim dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 1 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
-20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 20 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
 20h10: Tiếp sóng kênh số 3 - Truyền hình trực tiếp: Lễ khai mạc Năm Du lịch Quốc gia năm 2021 - huyện Hoa Lư, tỉnh Ninh Bình ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
 Kênh số 142 - VP - Truyền hình Vĩnh Phúc HD:<br />
@@ -59,11 +56,28 @@ Kênh số 8 - VTV6 HD:<br />
 19h: Phim truyện: Hoa hồng trên ngực trái - Tập 41, 42 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 Kênh số 58 - THP+ HD:<br />
 21h35: Xả Xupap - Tập 7 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+2h30: Phim truyện nhà mình: Lời thề Hypocrat (Tập 7) ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat (Tập 8) ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 1 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 20 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+3h: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 16 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
 11h30: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 17 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
 
 Thứ tư ngày 21/4/2021, tức mùng 10 tháng 3 âm lịch<br />
 # Mới nhất
+Kênh số 3 - VTV1 HD:<br />
+21h05: Phim truyện: Hương vị tình thân - Phần 1 - Tập 2 ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/France_Info_HD))<br />
+Kênh số 5 - VTV3 HD:<br />
+20h30: Lạ lắm à nha ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/France_Info_HD))<br />
+21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 27 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 48 - HTV7 HD:<br />
+20h35: Sô diễn cuộc đời ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+21h55: Ngôi sao về làng ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
+21h15: Xả Xupap - Tập 8 ([Quý khán giả có thể theo dõi qua phiên bản số 1](https://live.thhp.vn/thp/index.m3u8)[ hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
 Kênh số 189 - France Info HD:<br />
 5h: Tiếp sóng kênh số 140 ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/France_Info_HD))<br />
 Kênh số 195 - France 3 HD:<br />
@@ -90,6 +104,38 @@ Kênh số 286 - Plug RTL:<br />
 1h10: [Phim điện ảnh: Người gián điệp đã bỏ rơi tôi](https://tv-programme.com/l-espion-qui-m-a-larguee_film/)<br />
 
 ## Chưa được theo dõi
+Kênh số 3 - VTV1 HD:<br />
+8h05: Phim truyện: Mê cung - Tập 30 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 4 - VTV2 HD:<br />
+11h30: Phim truyện: Sống chung với mẹ chồng - Tập 33 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+3h: Phim truyện: Những cô gái trong thành phố - Tập 29 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+9h40: Ai là triệu phú ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+14h40: Vượt thành chiến ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+16h10: Phim truyện: Những cô gái trong thành phố - Tập 30 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 6 - VTV4 HD:<br />
+5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 18 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+18h15: Nhà hát những giấc mơ - Phần 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 24 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+19h: Phim truyện: Hoa hồng trên ngực trái - Tập 43, 44 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+23h: Phát lại Vòng 30 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: FC KÕLN - RB LEIPZIG ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 47 - HTV2 HD:<br />
+15h15: Ai là số 1? ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_1080p/chunks.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+2h30: Phim truyện nhà mình: Lời thề Hypocrat (Tập 8) ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat (Tập 9) ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 2 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 21 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+3h: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 18 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
+11h30: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 18 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
+Kênh số 62 - Canal+ HD:<br />
+2h07: [Phim điện ảnh: Cuộc vượt qua tuyệt vời](https://tv-programme.com/la-grande-traversee_film/)<br />
+Kênh số 63 - C8 HD:<br />
+2h19: [Blooper vĩ đại](https://tv-programme.com/le-grand-betisier_emission/special-paques_e744723)<br />
+4h17: [Blooper vĩ đại của Giáng sinh 2019](https://tv-programme.com/le-grand-betisier-de-noel-2019_emission/le-grand-betisier-de-noel-2019_e632756)<br />
 Kênh số 193 - TF1 HD:<br />
 2h05: [Phim điện ảnh: Mê cung - Trái đất thiếu đốt](https://tv-programme.com/le-labyrinthe-la-terre-brulee_film/)<br />
 4h40: [Phim truyện: Đơn vị đặc biệt New York - Tập 11](https://tv-programme.com/new-york-unite-speciale_serie/s10e11-la-s-ur-disparue_e182988)<br />
