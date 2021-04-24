@@ -142,3 +142,60 @@ Kênh số 193 - TF1 HD:<br />
 Kênh số 194 - France 2 HD:<br />
 2h05: [Phim điện ảnh: Yếu tố thứ năm](https://tv-programme.com/le-cinquieme-element_film/)<br />
 4h12: [Phim điện ảnh: Kẻ hủy diệt 2: Sự phán xét cuối cùng](https://tv-programme.com/terminator-2-le-jugement-dernier_film/)<br />
+
+# Thứ năm ngày 22 tháng 4 năm 2021, tức ngày 11 tháng 3 âm lịch
+## Mới nhất
+Kênh số 5 - VTV3 HD:<br />
+21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+
+# Thứ bảy ngày 24 tháng 4 năm 2021, tức ngày 13 tháng 3 âm lịch
+## Mới nhất
+Kênh số 1 - Truyền hình Hà Nội IPTV HD:<br />
+19h30: Tiếp sóng kênh số 57: Chương trình Thời sự tối của Đài Phát thanh và Truyền hình Hải Phòng, Truyền hình trực tiếp: Sân khấu Truyền hình Hải Phòng tháng 4/2021 - Vở kịch "Lời thề thứ 9" ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/Truyen_hinh_Ha_Noi_IPTV_HD))<br />
+Sau 22h15: Video clip tuyên truyền Cuộc bầu cử Đại biểu Quốc hội khóa XV và Đại biểu Hội đồng Nhân dân các cấp nhiệm kỳ 2021 - 2026 diễn ra vào chủ nhật ngày 23/5/2021: "Toàn Đảng, Toàn dân, Toàn quân thi đua lập thành tích Chào mừng Cuộc bầu cử Đại biểu Quốc hội khóa XV và Đại biểu Hội đồng Nhân dân các cấp nhiệm kỳ 2021 - 2026" ([Quý khán giả có thể theo dõi tại đây](http://gg.gg/Truyen_hinh_Ha_Noi_IPTV_HD))<br />
+Kênh số 3 - VTV1 HD:<br />
+20h10: Truyền hình trực tiếp: Lễ hội Du lịch Biển 2021: Sầm Sơn (Thanh Hóa) cất cánh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+9h: Điều ước thứ 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+11h: Chuyện chàng - Chuyện nàng ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+12h: Úm ba la ra chữ gì? ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+13h: Trạng nguyên Nhí: Trường Tiểu học Trần Cao Vân ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+20h: Vượt thành chiến ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h: Trời sinh một cặp ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: VFL Wolfsburg - Borussia Dortmund ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+23h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: VFL Wolfsburg - Borussia Dortmund ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+23h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+
+## Chưa được theo dõi
+Kênh số 4 - VTV2 HD:<br />
+11h30: Phim truyện: Cả một đời ân oán - Tập 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+10h: Chúng tôi - chiến sỹ ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+15h10: Lạ lắm à nha ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 6 - VTV4 HD:<br />
+5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 21 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+12h30: Điều ước thứ 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+18h: Rubic 8: Bó tay.kom - Tập 139 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+18h30: Xin chào, Việt Nam: Cách sử dụng từ chỉ vị trí ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+19h: Cuộc đua không dừng lại - Số 14 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+23h: Chiến binh xanh - Số 14 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 27 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+1h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+3h: Trên từng cây số - Số 1 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+4h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+5h30: Ghế không tựa: Dương Trần Nghĩa & Tùng Acoustic ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+6h30: Thể thao nhà mình (Star Beer Mạnh An): Vòng 10 Giải Bóng đá Vô địch Quốc gia 2021: Hoàng Anh Gia Lai - Câu lạc bộ Hà Nội ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+8h, 14h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+9h30: Chuyến đi màu xanh - Số 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+10h45: Dám sống - Số 14 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+11h: Nào cùng phong cách - Số 76 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+13h30: Chiến binh xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+15h30: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+16h30: Ghế không tựa: Nhạc của Trang ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+18h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
