@@ -167,6 +167,9 @@ Kênh số 7 - VTV5 HD:<br />
 20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: VFL Wolfsburg - Borussia Dortmund ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 23h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
+11h: Nào cùng phong cách - Số 76 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+16h30: Ghế không tựa: Nhạc của Trang ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+18h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: VFL Wolfsburg - Borussia Dortmund ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 23h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 
@@ -190,12 +193,54 @@ Kênh số 8 - VTV6 HD:<br />
 3h: Trên từng cây số - Số 1 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 4h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 5h30: Ghế không tựa: Dương Trần Nghĩa & Tùng Acoustic ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
-6h30: Thể thao nhà mình (Star Beer Mạnh An): Vòng 10 Giải Bóng đá Vô địch Quốc gia 2021: Hoàng Anh Gia Lai - Câu lạc bộ Hà Nội ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+6h30: Thể thao nhà mình (Star Beer Mạnh An): Phát lại Vòng 10 Giải Bóng đá Vô địch Quốc gia 2021: Hoàng Anh Gia Lai - Câu lạc bộ Hà Nội ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 8h, 14h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 9h30: Chuyến đi màu xanh - Số 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
-10h45: Dám sống - Số 14 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
-11h: Nào cùng phong cách - Số 76 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 13h30: Chiến binh xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 15h30: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
-16h30: Ghế không tựa: Nhạc của Trang ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
-18h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+
+# Chủ nhật ngày 25 tháng 4 năm 2021, tức ngày 14 tháng 3 âm lịch
+## Mới nhất
+Kênh số 5 - VTV3 HD:<br />
+8h: Đường tới cầu vồng - Số 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+9h50: Tỷ lệ may mắn ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+10h50: 100 triệu 1 phút ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+12h: Giác quan thứ 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+13h: Đường lên đỉnh Olympia ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+15h10: Ẩm thực kỳ thú ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+16h10: Vì bạn xứng đáng ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+20h: Giọng hát Việt nhí thế hệ mới - Số 15 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h10: Ký ức vui vẻ ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: RB Leipzig - VFB Stuttgart ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+11h: Nào cùng phong cách - Số 77 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: RB Leipzig - VFB Stuttgart ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 10 - VTV8 HD:<br />
+19h30: Chuyến xe buýt kỳ thú: Hướng về Thủ đô ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8))<br />
+
+## Chưa được theo dõi
+Kênh số 4 - VTV2 HD:<br />
+9h20: Trạng nguyên Nhí ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+11h30: Phim truyện: Cả một đời ân oán - Tập 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+1h20: Vượt thành chiến ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+2h10: Cuộc đua không dừng lại ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+3h: Chuyện chàng - Chuyện nàng ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+4h30, 23h: Điều ước thứ 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 6 - VTV4 HD:<br />
+0h30: Talk Vietnam: Chấm dứt bạo lực đối với phụ nữ và trẻ em ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+6h, 22h15: Điều ước thứ 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+18h: Rubic 8: Bó tay.kom - Tập 140 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+18h15: Nhà hát những giấc mơ - Phần 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 28 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+1h45, 16h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+3h, 15h30: Ghế không tựa: Nhạc của Trang ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+4h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+5h30: Chuyến đi màu xanh - Số 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+6h30: Phát lại Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+8h, 14h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+9h30: Cuộc đua không dừng lại - Số 16 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+13h30: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
