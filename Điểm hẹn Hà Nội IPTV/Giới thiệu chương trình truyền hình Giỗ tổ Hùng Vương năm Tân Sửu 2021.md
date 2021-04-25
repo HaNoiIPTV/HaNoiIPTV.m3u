@@ -172,6 +172,16 @@ Kênh số 8 - VTV6 HD:<br />
 18h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: VFL Wolfsburg - Borussia Dortmund ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 23h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: Bayer 04 Leverkusen – Eintracht Frankfurt ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 48 - HTV7 HD:<br />
+20h: Bộ ba ăn ý ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+21h: Nhanh như Chớp ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+22h: Cho phép được yêu ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+Kênh số 49 - HTV9 HD:<br />
+20h53: Siêu nhí đấu trí ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8))<br />
+Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
+20h30: Truyền hình trực tiếp: Sân khấu Truyền hình Hải Phòng tháng 4/2021 - Vở kịch "Lời thề thứ 9" ([Quý khán giả có thể theo dõi qua phiên bản số 1](https://live.thhp.vn/thp/index.m3u8)[ hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
+Kênh số 58 - THP+ HD:<br />
+20h30: Truyền hình trực tiếp: Sân khấu Truyền hình Hải Phòng tháng 4/2021 - Vở kịch "Lời thề thứ 9" ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
 
 ## Chưa được theo dõi
 Kênh số 4 - VTV2 HD:<br />
@@ -198,6 +208,13 @@ Kênh số 8 - VTV6 HD:<br />
 9h30: Chuyến đi màu xanh - Số 4 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 13h30: Chiến binh xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 15h30: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat - Tập 10 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 24 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+2h55: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 20 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
+11h30: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 21 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
 
 # Chủ nhật ngày 25 tháng 4 năm 2021, tức ngày 14 tháng 3 âm lịch
 ## Mới nhất
@@ -218,6 +235,9 @@ Kênh số 8 - VTV6 HD:<br />
 20h25: Trực tiếp Vòng 31 Giải Bóng đá Vô địch Quốc gia Đức 2020 - 2021: RB Leipzig - VFB Stuttgart ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 Kênh số 10 - VTV8 HD:<br />
 19h30: Chuyến xe buýt kỳ thú: Hướng về Thủ đô ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8))<br />
+Kênh số 48 - HTV7 HD:<br />
+20h30: Chọn ai đây? ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
+22h: Vợ chồng Son ([Quý khán giả có thể theo dõi tại đây](https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8))<br />
 
 ## Chưa được theo dõi
 Kênh số 4 - VTV2 HD:<br />
@@ -244,3 +264,9 @@ Kênh số 8 - VTV6 HD:<br />
 8h, 14h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 9h30: Cuộc đua không dừng lại - Số 16 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 13h30: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 25 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 2 HD:<br />
+2h55: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 21 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
+11h30: Phim truyện nhà mình: Dưới cờ đại nghĩa - Tập 22 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8))<br />
