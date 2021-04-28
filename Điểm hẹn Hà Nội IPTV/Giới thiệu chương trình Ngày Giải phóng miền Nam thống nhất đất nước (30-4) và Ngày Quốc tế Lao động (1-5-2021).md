@@ -39,6 +39,8 @@ Kênh số 8 - VTV6 HD:<br />
 21h30: Chuyến đi màu xanh - Số 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
 8h10: Phim truyện nhà mình: Lời thề Hypocrat - Tập 11 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 7 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 
 # Thứ ba ngày 27 tháng 4 năm 2021, tức ngày 16 tháng 3 âm lịch
 ## Mới nhất
@@ -48,6 +50,10 @@ Kênh số 5 - VTV3 HD:<br />
 20h30: Ai là triệu phú ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 29 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 57 - THP - Truyền hình Hải Phòng HD:<br />
+21h15: Sân chơi: Cơ hội đổi đời - Tập 17 ([Quý khán giả có thể theo dõi qua phiên bản số 1](https://live.thhp.vn/thp/index.m3u8)[ hoặc phiên bản số 2](http://gg.gg/THP-Truyen_hinh_Hai_Phong))<br />
+Kênh số 58 - THP+ HD:<br />
+20h45: Sân chơi: Cơ hội đổi đời - Tập 17 ([Quý khán giả có thể theo dõi tại đây](https://live.thhp.vn/hls/thpplus/index.m3u8))<br />
 
 ## Chưa được theo dõi
 Kênh số 3 - VTV1 HD:<br />
