@@ -144,10 +144,10 @@ Kênh số 194 - France 2 HD:<br />
 4h12: [Phim điện ảnh: Kẻ hủy diệt 2: Sự phán xét cuối cùng](https://tv-programme.com/terminator-2-le-jugement-dernier_film/)<br />
 
 # Thứ năm ngày 22 tháng 4 năm 2021, tức ngày 11 tháng 3 âm lịch
-## Mới nhất
-Kênh số 5 - VTV3 HD:<br />
-21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
-21h30: Phim truyện: Hướng dương ngược nắng - Phần 2 - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Quý khán giả tự theo dõi thông qua lịch phát sóng của một số kênh truyền hình [tại đây](http://gg.gg/hanoiiptv).<br />
+
+# Thứ sáu ngày 23 tháng 4 năm 2021, tức ngày 12 tháng 3 âm lịch
+Quý khán giả tự theo dõi thông qua lịch phát sóng của một số kênh truyền hình [tại đây](http://gg.gg/hanoiiptv).<br />
 
 # Thứ bảy ngày 24 tháng 4 năm 2021, tức ngày 13 tháng 3 âm lịch
 ## Mới nhất
