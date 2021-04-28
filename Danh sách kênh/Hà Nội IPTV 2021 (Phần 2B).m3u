@@ -42,6 +42,8 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.26:8130
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab12%20-%20StyleTV.png",VTVCab12 - Style TV
 http://quocthai.duckdns.org:18886/rtp/232.84.1.244:9438
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab14%20-%20VShopping.png",VTVCab14 - V Shopping
+http://gg.gg/HaNoiIPTV-VTVCab14-V_Shopping
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab15%20-%20M%20CHANNEL%20HD.png",VTVCab15 - M Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.192:10936
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20Yeah1%20TV.png",VTVCab17 - Yeah1 TV
@@ -76,7 +78,7 @@ http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_1
 https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_480p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png",HTV7 HD
 https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_480p/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9_HD_%25282019-present%2529.png",HTV9 HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png",HTV9 HD
 https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_480p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews
 https://live-vthcm.vieon.vn/htv_drm/live/ttxvn/TV_HD/ttxvn_480p/chunks.m3u8
@@ -92,8 +94,13 @@ https://live-vthcm.vieon.vn/htv_drm/live/antv/TV_HD/antv_480p/chunks.m3u8
 https://live-vthn.vieon.vn/vtc/live/hd_vtc1/TV_HD/hd_vtc1_480p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20K%C3%AAnh%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0i%20Ti%E1%BA%BFng%20n%C3%B3i%20Vi%E1%BB%87t%20Nam%20HD.png",VOVTV - Đài tiếng nói Việt Nam
 http://quocthai.duckdns.org:18886/rtp/232.84.1.46:8256
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng.png",THP - Truyền hình Hải Phòng
+http://gg.gg/THP-Truyen_hinh_Hai_Phong
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201.png",Truyền hình Hà Nội 1
-https://live-vthcm.vieon.vn/htv_drm/live/ha_noi1/TV_HD/ha_noi1_480p/chunks.m3u8
+http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202.png",Truyền hình Hà Nội 2
+http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 http://gg.gg/HaNoiIPTV-SCTV15_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
@@ -126,6 +133,30 @@ http://gg.gg/HaNoiIPTV-SCTV5-SCJ_Life_on
 http://nex.xemtiviviet.com/next.php?id=50
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",SCTV8 - ViTV
 http://gg.gg/HaNoiIPTV-SCTV8-ViTV
+#EXTINF:-1  tvg-id="rtmp://117.6.162.63/live/thvp" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc.png",VP - Truyền hình Vĩnh Phúc
+http://gg.gg/VP-Truyen_hinh_Vinh_Phuc
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png",BTV - Truyền hình Bắc Ninh
+http://gg.gg/BTV-Truyen_hinh_Bac_Ninh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn.png",HYTV - Truyền hình Hưng Yên
+http://gg.gg/HYTV-Truyen_hinh_Hung_Yen
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",HDTV - Truyền hình Hải Dương
+http://gg.gg/HDTV-Truyen_hinh_Hai_Duong
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh.png",TBTV - Truyền hình Thái Bình
+http://gg.gg/TBTV-Truyen_hinh_Thai_Binh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh.png",NBTV - Truyền hình Ninh Bình
+http://gg.gg/NBTV-Truyen_hinh_Ninh_Binh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n.png",TBK - Truyền hình Bắc Kạn
+http://gg.gg/TBK-Truyen_hinh_Bac_Kan
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n.png",LSTV - Truyền hình Lạng Sơn
+http://gg.gg/LSTV-Truyen_hinh_Lang_Son
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV_Thanh_Hoa.png",TTV - Truyền hình Thanh Hóa
+http://gg.gg/TTV-Truyen_hinh_Thanh_Hoa
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh.png",QBTV - Truyền hình Quảng Bình
+http://gg.gg/QBTV-Truyen_hinh_Quang_Binh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn.png",BTV - Truyền hình Bình Thuận
+http://gg.gg/BTV-Truyen_hinh_Binh_Thuan
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1_Soc_Trang.png",STV1 - Truyền hình Sóc Trăng
+http://gg.gg/STV1-Truyen_hinh_Soc_Trang
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TF1%20HD.png",TF1
 http://gg.gg/TF1_SD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%202%20HD.png",France 2
@@ -158,3 +189,9 @@ http://gg.gg/TMC_SD
 http://gg.gg/NRJ_12
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/La%20Cha%C3%AEne%20L'%C3%89quipe%20HD.png",La Chaîne L'Équipe
 http://gg.gg/L_Equipe
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90TV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn.png",ĐTV - Truyền hình Điện Biên
+http://gg.gg/DTV-Truyen_hinh_Dien_Bien
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh.png",THTV - Truyền hình Trà Vinh
+http://gg.gg/THTV-Truyen_hinh_Tra_Vinh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu.png",BTV - Truyền hình Bạc Liêu
+http://gg.gg/BTV-Truyen_hinh_Bac_Lieu
