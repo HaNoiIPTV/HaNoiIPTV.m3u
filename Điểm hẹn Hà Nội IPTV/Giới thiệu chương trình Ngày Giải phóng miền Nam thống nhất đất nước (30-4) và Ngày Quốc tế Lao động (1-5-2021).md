@@ -188,3 +188,20 @@ Kênh số 6 - VTV4 HD:<br />
 5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
 Kênh số 7 - VTV5 HD:<br />
 10h30, 17h: Phim truyện: Về nhà đi con - Tập 33 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+1h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 9 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+1h45: Những phụ nữ có Gu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+3h: Ghế không tựa: Nhạc của Trang ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+4h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 10 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+5h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+8h, 14h: Phim truyện: Tiệm ăn dì Ghẻ - Tập 11 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+11h: Chuyến đi màu xanh - Số 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+13h30: Cuộc đua không dừng lại - Số 17 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+15h30: Chiến binh xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+19h: Phim truyện: Tình yêu và tham vọng - Tập 10, 11 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+
+# Thứ bảy ngày 1 tháng 5 năm 2021, tức ngày 20 tháng 3 âm lịch
+
+# Chủ nhật ngày 2 tháng 5 năm 2021, tức ngày 21 tháng 3 âm lịch
+
+# Thứ hai ngày 3 tháng 5 năm 2021, tức ngày 22 tháng 3 âm lịch
