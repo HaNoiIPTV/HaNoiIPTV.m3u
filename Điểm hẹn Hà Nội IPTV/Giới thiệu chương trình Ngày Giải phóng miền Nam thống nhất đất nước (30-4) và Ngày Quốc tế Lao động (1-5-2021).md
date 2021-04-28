@@ -126,3 +126,65 @@ Kênh số 8 - VTV6 HD:<br />
 15h30: Chuyến đi màu xanh - Số 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 19h: Phim truyện: Tình yêu và tham vọng - Tập 6, 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 23h: Phát lại Vòng 11 Giải Bóng đá Vô địch Quốc gia 2021: Đông Á Thanh Hóa - Hoàng Anh Gia Lai ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+
+# Thứ năm ngày 29 tháng 4 năm 2021, tức ngày 18 tháng 3 âm lịch
+## Mới nhất
+Kênh số 3 - VTV1 HD:<br />
+21h: Phim truyện: Hương vị tình thân - Phần 1 - Tập 8 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+20h30: Thiếu niên nói ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h30: Phim truyện: Hãy nói lời yêu - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+
+## Chưa được theo dõi
+Kênh số 3 - VTV1 HD:<br />
+3h10: Phim truyện: Người phán xử - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+8h05: Phim truyện: Người phán xử - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+9h30: Chiến binh xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 4 - VTV2 HD:<br />
+0h: Phim truyện: Cả một đời ân oán - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+11h30: Phim truyện: Cả một đời ân oán - Tập 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+1h20: Lạ lắm à nha ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+2h10: Chúng tôi - Chiến sỹ ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+3h: Phim truyện: Quỳnh búp bê - Tập 1 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+9h40: Đường lên đỉnh Olympia ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+14h40: Giọng hát Việt nhí thế hệ mới ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+16h10: Phim truyện: Quỳnh búp bê - Tập 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 6 - VTV4 HD:<br />
+5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 25 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+12h30, 17h45: Xin chào, Việt Nam: Phân biệt Cũng và Đều ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 32 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+
+# Thứ sáu ngày 30 tháng 4 năm 2021, tức ngày 19 tháng 3 âm lịch
+## Mới nhất
+Kênh số 3 - VTV1 HD:<br />
+21h: Phim truyện: Hương vị tình thân - Phần 1 - Tập 9 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+20h30: Nhập gia tùy tục ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+21h30: Phim truyện: Hãy nói lời yêu - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 8 - VTV6 HD:<br />
+20h30: Chúng tôi - Chiến sỹ ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+
+## Chưa được theo dõi
+Kênh số 3 - VTV1 HD:<br />
+3h10: Phim truyện: Người phán xử - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+8h05: Phim truyện: Người phán xử - Tập 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+16h30: Chuyến đi màu xanh ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
+Kênh số 4 - VTV2 HD:<br />
+0h: Phim truyện: Cả một đời ân oán - Tâp 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+11h30: Phim truyện: Cả một đời ân oán - Tập 8 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8))<br />
+Kênh số 5 - VTV3 HD:<br />
+1h20: Đường lên đỉnh Olympia ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+3h: Phim truyện: Quỳnh búp bê - Tập 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+4h30: Ẩm thực kỳ thú ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+15h30: Cuộc đua không dừng lại ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+16h10: Phim truyện: Quỳnh búp bê - Tập 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 6 - VTV4 HD:<br />
+1h30, 10h: Phát lại Lễ Khai mạc Năm du lịch Quốc gia năm 2021 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+3h30, 20h30: Xin chào, Việt Nam: Phân biệt Cũng và Đều ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+5h, 13h15, 22h15: Phim truyện: Nàng dâu Order - Tập 26 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
+Kênh số 7 - VTV5 HD:<br />
+10h30, 17h: Phim truyện: Về nhà đi con - Tập 33 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
