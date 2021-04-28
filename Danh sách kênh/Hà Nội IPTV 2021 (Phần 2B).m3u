@@ -75,11 +75,11 @@ http://gg.gg/HaNoiIPTV-SCTV4_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201.png",Truyền hình Vĩnh Long 1
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_1
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png",HTV2
-https://live-vthcm.vieon.vn/htv_drm/live/viechannel/TV_HD/viechannel_480p/chunks.m3u8
+http://quocthai.duckdns.org:18886/rtp/232.84.1.36:8190
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png",HTV7 HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv7/TV_HD/htv7_480p/chunks.m3u8
+http://gg.gg/HaNoiIPTV-HTV7_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png",HTV9 HD
-https://live-vthcm.vieon.vn/htv_drm/live/htv9/TV_HD/htv9_480p/chunks.m3u8
+http://gg.gg/HaNoiIPTV-HTV9_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews
 https://live-vthcm.vieon.vn/htv_drm/live/ttxvn/TV_HD/ttxvn_480p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Truyền hình Quốc phòng Việt Nam
@@ -100,7 +100,8 @@ http://gg.gg/THP-Truyen_hinh_Hai_Phong
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202.png",Truyền hình Hà Nội 2
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2
-
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD.png",Truyền hình Nghệ An
+http://gg.gg/HaNoiIPTV-Truyen_hinh_Nghe_An
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 http://gg.gg/HaNoiIPTV-SCTV15_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
