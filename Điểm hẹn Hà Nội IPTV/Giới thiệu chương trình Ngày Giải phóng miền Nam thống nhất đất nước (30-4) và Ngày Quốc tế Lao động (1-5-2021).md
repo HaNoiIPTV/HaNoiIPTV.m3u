@@ -135,6 +135,25 @@ Kênh số 5 - VTV3 HD:<br />
 20h30: Thiếu niên nói ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 21h20: Góc phố muôn màu ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 21h30: Phim truyện: Hãy nói lời yêu - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
+Kênh số 195 - TF1 HD:<br />
+2h05: [Phim truyện: Cư dân - Tập 15](https://tv-programme.com/the-resident_serie/s03e15-un-coeur-pour-deux_e706613)<br />
+3h50: [Phim truyện: Chicago Med - Tập 14](https://tv-programme.com/chicago-med_serie/s05e14-rien-ne-dure-eternellement_e703450)<br />
+Kênh số 196 - France 2 HD:<br />
+2h05: [Phim truyện: Trường học của cuộc sống - Tập 3](https://tv-programme.com/l-ecole-de-la-vie_serie/s01e03-juliette_e749787)<br />
+4h: [Tạp chí: 6 ở nhà](https://tv-programme.com/6-a-la-maison_magazine/6-a-la-maison_e713320)<br />
+Kênh số 197 - France 3 HD:<br />
+2h05: [Bản đồ kho báu](https://tv-programme.com/la-carte-aux-tresors_emission/l-anjou_e754703)<br />
+Kênh số 229 - M6 HD:<br />
+2h05: [Đầu bếp hàng đầu - Số 12](https://tv-programme.com/top-chef_emission/episode-12_e754715)<br />
+4h20: [Đầu bếp hàng đầu: Các cuộc đấu tay đôi lớn](https://tv-programme.com/top-chef-les-grands-duels_emission/baptiste-renouard-jean-philippe-berens_e754716)<br />
+Kênh số 231 - Arte HD:<br />
+4h15: [Phim điện ảnh: Các Guilty](https://tv-programme.com/the-guilty_film/)<br />
+Kênh số 237 - W9 HD:<br />
+2h05: [Điều tra tội phạm](https://tv-programme.com/enquetes-criminelles_magazine/enquetes-criminelles_e754729)<br />
+Kênh số 240 - TFX HD:<br />
+2h05: [Phim tài liệu: Meghan và Kate: Cuộc đọ sức hoàng gia ở Buckingham](https://tv-programme.com/meghan-et-kate-duel-royal-a-buckingham_documentaire/)<br />
+Kênh số 260 - RMC Découverte HD:<br />
+2h05: [Phim tài liệu: Nơi ở có nguy cơ](https://tv-programme.com/habitations-en-peril_documentaire/e01-techniques-de-survie_e754747)<br />
 
 ## Chưa được theo dõi
 Kênh số 3 - VTV1 HD:<br />
