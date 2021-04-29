@@ -85,6 +85,11 @@ Kênh số 8 - VTV6 HD:<br />
 13h30: Trên từng cây số - Số 2 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 20h: Phim truyện: Tình yêu và tham vọng - Tập 5 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 21h30: Cuộc đua không dừng lại - Số 17 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 59 - Truyền hình Hà Nội 1 HD:<br />
+2h35: Phim truyện nhà mình: Lời thề Hypocrat - Tập 11 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat - Tập 12 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 8 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 27 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 
 # Thứ tư ngày 28 tháng 4 năm 2021, tức ngày 17 tháng 3 âm lịch
 ## Mới nhất
@@ -132,6 +137,11 @@ Kênh số 8 - VTV6 HD:<br />
 15h30: Chuyến đi màu xanh - Số 3 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 19h: Phim truyện: Tình yêu và tham vọng - Tập 6, 7 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 23h: Phát lại Vòng 11 Giải Bóng đá Vô địch Quốc gia 2021: Đông Á Thanh Hóa - Hoàng Anh Gia Lai ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 1 HD:<br />
+2h35: Phim truyện nhà mình: Lời thề Hypocrat - Tập 12 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat - Tập 13 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 9 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 28 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 
 # Thứ năm ngày 29 tháng 4 năm 2021, tức ngày 18 tháng 3 âm lịch
 ## Mới nhất
@@ -146,7 +156,7 @@ Kênh số 195 - TF1 HD:<br />
 3h50: [Phim truyện: Chicago Med - Tập 14](https://tv-programme.com/chicago-med_serie/s05e14-rien-ne-dure-eternellement_e703450)<br />
 Kênh số 196 - France 2 HD:<br />
 2h05: [Phim truyện: Trường học của cuộc sống - Tập 3](https://tv-programme.com/l-ecole-de-la-vie_serie/s01e03-juliette_e749787)<br />
-4h: [Tạp chí: 6 ở nhà](https://tv-programme.com/6-a-la-maison_magazine/6-a-la-maison_e713320)<br />
+4h: [6 ở nhà](https://tv-programme.com/6-a-la-maison_magazine/6-a-la-maison_e713320)<br />
 Kênh số 197 - France 3 HD:<br />
 2h05: [Bản đồ kho báu](https://tv-programme.com/la-carte-aux-tresors_emission/l-anjou_e754703)<br />
 Kênh số 229 - M6 HD:<br />
@@ -181,8 +191,14 @@ Kênh số 6 - VTV4 HD:<br />
 12h30, 17h45: Xin chào, Việt Nam: Phân biệt Cũng và Đều ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8))<br />
 Kênh số 7 - VTV5 HD:<br />
 10h30, 17h: Phim truyện: Về nhà đi con - Tập 32 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8))<br />
+Kênh số 60 - Truyền hình Hà Nội 1 HD:<br />
+2h35: Phim truyện nhà mình: Lời thề Hypocrat - Tập 13 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+8h10: Phim truyện nhà mình: Lời thề Hypocrat - Tập 14 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+19h50: Phim truyện dành cho người hâm mộ: Tình yêu và Định mệnh - Tập 10 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
+20h05: Phim truyện nhà mình: Ngày mới bắt đầu - Tập 29 ([Quý khán giả có thể theo dõi tại đây](http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8))<br />
 
 # Thứ sáu ngày 30 tháng 4 năm 2021, tức ngày 19 tháng 3 âm lịch
+Trong thời gian kỳ nghỉ lễ 30/4 - 1/5 diễn ra trong 4 ngày, do lượng theo dõi chương trình truyền hình bằng dịch vụ Hà Nội IPTV sẽ tăng cao nên quý khán giả có thể theo dõi thông qua lịch phát sóng (EPG) của một số kênh truyền hình [từ đây](http://gg.gg/hanoiiptv). Hà Nội IPTV xin được giới thiệu một số chương trình đáng chú ý sau đây:<br />
 ## Mới nhất
 Kênh số 3 - VTV1 HD:<br />
 21h: Phim truyện: Hương vị tình thân - Phần 1 - Tập 9 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8))<br />
@@ -192,6 +208,17 @@ Kênh số 5 - VTV3 HD:<br />
 21h30: Phim truyện: Hãy nói lời yêu - Tập 6 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8))<br />
 Kênh số 8 - VTV6 HD:<br />
 20h30: Chúng tôi - Chiến sỹ ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
+Kênh số 195 - TF1 HD:<br />
+2h05: [Phim truyện: HPI - Tập 1](https://tv-programme.com/hpi_serie/s01e01-vents-d-ouest_e752905)<br />
+Kênh số 197 - France 3 HD:<br />
+2h05: [Phim điện ảnh: Trận chung kết](https://tv-programme.com/la-finale_film/)<br />
+Kênh số 227 - France 5 HD:<br />
+1h50: [Phim tài liệu: Trong vương quốc của các Pharaoh da đen](https://tv-programme.com/au-royaume-des-pharaons-noirs_documentaire/)<br />
+Kênh số 231 - Arte HD:<br />
+1h55: [Phim truyện: Kỳ nhông - Tập 5](https://tv-programme.com/salamander_serie/s01e05-une-escroquerie_e321220)<br />
+3h30: [Phim truyện: Kỳ nhông - Tập 7](https://tv-programme.com/salamander_serie/s01e07-vengeance_e322999)<br />
+Kênh số 237 - W9 HD:<br />
+1h05: [100 video khiến cả thế giới bật cười](https://tv-programme.com/les-100-videos-qui-ont-fait-rire-le-monde-entier_emission/speciale-champion-de-la-loose_e754962)<br />
 
 ## Chưa được theo dõi
 Kênh số 3 - VTV1 HD:<br />
@@ -226,7 +253,45 @@ Kênh số 8 - VTV6 HD:<br />
 19h: Phim truyện: Tình yêu và tham vọng - Tập 10, 11 ([Quý khán giả có thể theo dõi tại đây](http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8))<br />
 
 # Thứ bảy ngày 1 tháng 5 năm 2021, tức ngày 20 tháng 3 âm lịch
+Trong thời gian kỳ nghỉ lễ 30/4 - 1/5 diễn ra trong 4 ngày, do lượng theo dõi chương trình truyền hình bằng dịch vụ Hà Nội IPTV sẽ tăng cao nên quý khán giả có thể theo dõi thông qua lịch phát sóng (EPG) của một số kênh truyền hình [từ đây](http://gg.gg/hanoiiptv). Hà Nội IPTV xin được giới thiệu một số chương trình đáng chú ý sau đây:<br />
+Kênh số 66 - C8 HD:<br />
+2h15: [M cho nhà](https://tv-programme.com/m-comme-maison_magazine/destination-gironde_e755204)<br />
+Kênh số 197 - France 3 HD:<br />
+2h05: [Trẻ em của âm nhạc](https://tv-programme.com/les-enfants-de-la-musique_emission/la-fievre-des-annees-70-face-a-la-fureur-des-annees-80_e730097)<br />
+Kênh số 229 - M6 HD:<br />
+2h05: [Phim truyện: NCIS - Tập 6](https://tv-programme.com/ncis-enquetes-speciales_serie/s18e06-1-millimetre_e749665)<br />
+Kênh số 237 - W9 HD:<br />
+2h05: [Điều tra hành động](https://tv-programme.com/enquete-d-action_magazine/pompiers-d-aix-en-provence-interventions-sous-tension_e755205)<br />
+Kênh số 272 - Série Club HD:<br />
+1h55: [Phim truyện: Danh sách đen - Tập 18](https://tv-programme.com/blacklist_serie/s07e18-roy-cain_e752625)<br />
 
 # Chủ nhật ngày 2 tháng 5 năm 2021, tức ngày 21 tháng 3 âm lịch
+Trong thời gian kỳ nghỉ lễ 30/4 - 1/5 diễn ra trong 4 ngày, do lượng theo dõi chương trình truyền hình bằng dịch vụ Hà Nội IPTV sẽ tăng cao nên quý khán giả có thể theo dõi thông qua lịch phát sóng (EPG) của một số kênh truyền hình [từ đây](http://gg.gg/hanoiiptv). Hà Nội IPTV xin được giới thiệu một số chương trình đáng chú ý sau đây:<br />
+Kênh số 66 - C8 HD:<br />
+2h05: [Thứ bảy của Sebastien](https://tv-programme.com/samedi-sebastien_emission/samedi-sebastien_e755464)<br />
+Kênh số 196 - France 2 HD:<br />
+2h05: [Đừng quên lời bài hát](https://tv-programme.com/n-oubliez-pas-les-paroles_emission/le-tournoi-des-maestros_e755422)<br />
+Kênh số 197 - France 3 HD:<br />
+2h05: [Phim truyện: Cassandra - Tập 1](https://tv-programme.com/cassandre_serie/s05e01-temps-mort_e755431)<br />
+Kênh số 227 - France 5 HD:<br />
+1h55: [Đóng cuộc gọi](https://tv-programme.com/echappees-belles_magazine/echappees-belles_e755443)<br />
+Kênh số 229 - M6 HD:<br />
+2h05: [Phim truyện: Hawaii 5-0 - Tập 12](https://tv-programme.com/hawaii-5-0_serie/s10e12-ihea-oe-i-ka-wa-a-ka-ua-e-loku-ana_e755446)<br />
+Kênh số 231 - Arte HD:<br />
+1h50: [Phim tài liệu: Napoleon, số phận và cái chết](https://tv-programme.com/napoleon-la-destinee-et-la-mort_documentaire/)<br />
+3h20: [Phim tài liệu: Khoa học để giải cứu các loài chim: Chiến dịch bùng nổ](https://tv-programme.com/la-science-au-secours-des-oiseaux-operation-outarde_documentaire/)<br />
+Kênh số 240 - TFX HD:<br />
+1h05: [Biên niên sử tội phạm](https://tv-programme.com/chroniques-criminelles_magazine/chroniques-criminelles_e755466)<br />
+Kênh số 233 - LCP HD:<br />
+3h30: [Phim tài liệu: Covid-19: Thị trưởng đối mặt với khủng hoảng](https://tv-programme.com/covid-19-les-maires-face-a-la-crise_documentaire/)<br />
+Kênh số 252 - 6Ter HD:<br />
+2h05: [Vua của hồ bơi - Số 3](https://tv-programme.com/les-rois-de-la-piscine_documentaire/s07e03-des-etoiles-plein-les-yeux_e755483)<br />
+2h55: [Vua của hồ bơi - Số 5](https://tv-programme.com/les-rois-de-la-piscine_documentaire/s07e05-le-rocher-et-la-sirene_e755485)<br />
+Kênh số 260 - RMC Découverte HD:<br />
+2h05: [Khỏa thân và Sợ hãi - Số 1](https://tv-programme.com/retour-a-l-instinct-primaire_documentaire/e01-urgence-dans-la-jungle_e587323)<br />
+3h: [Khỏa thân và Sợ hãi - Số 2](https://tv-programme.com/retour-a-l-instinct-primaire_documentaire/e02-le-calme-apres-la-tempete_e479798)<br />
+Kênh số 280 - Tipik HD:<br />
+3h11: [Thử nghiệm tình yêu](https://tv-programme.com/the-love-experiment_emission/the-love-experiment_e755371)<br />
 
 # Thứ hai ngày 3 tháng 5 năm 2021, tức ngày 22 tháng 3 âm lịch
+Trong thời gian kỳ nghỉ lễ 30/4 - 1/5 diễn ra trong 4 ngày, do lượng theo dõi chương trình truyền hình bằng dịch vụ Hà Nội IPTV sẽ tăng cao nên quý khán giả có thể theo dõi thông qua lịch phát sóng (EPG) của một số kênh truyền hình [từ đây](http://gg.gg/hanoiiptv).<br />
