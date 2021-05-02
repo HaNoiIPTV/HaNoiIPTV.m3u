@@ -408,3 +408,13 @@ http://193.160.32.4:8080/crtv.php?id=386
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
 #EXTINF:-1  group-title="港澳台電視直播頻道" tvg-logo="http://ebcasiatv.com/asia/images/2020/headerlogo.png",東森亞洲衛視 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%9D%B1%E6%A3%AE%E4%BA%9E%E6%B4%B2%E8%A1%9B%E8%A6%96.m3u8
+#EXTINF:-1  group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%201%20HD.png",贝因运动一台高画质频道 (beIN Sports 1 HD)
+http://gg.gg/beINSports1HD
+#EXTINF:-1  group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%202%20HD.png",贝因运动二台高画质频道 (beIN Sports 2 HD)
+http://gg.gg/beINSports2HD
+#EXTINF:-1  group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%203%20HD.png",贝因运动三台高画质频道 (beIN Sports 3 HD)
+http://gg.gg/beINSports3HD
+#EXTINF:-1  group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Eurosport%201%20HD.png",欧洲体育一台高画质频道 (Eurosport 1 HD)
+http://gg.gg/Eurosport1HD
+#EXTINF:-1  group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Eurosport%202%20HD.png",欧洲体育二台高画质频道 (Eurosport 2 HD)
+http://gg.gg/Eurosport2HD
