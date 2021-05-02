@@ -546,3 +546,27 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist.m3u8
 http://140.238.26.91:9981/stream/channelid/1809751093
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RMC%20D%C3%A9couverte%20HD.png",RMC Découverte HD
 http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69925
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 21 - On Style HD
+http://140.238.26.91:9981/stream/channelid/1655228611
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png",LCI HD
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OGN%20HD.png",Hà Nội IPTV 22 - OGN HD
+http://140.238.26.91:9981/stream/channelid/653870047
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paris%20Premiere%20HD.png",Paris Premiere HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69919
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png",河内IPTV 23 - 中华TV HD
+http://140.238.26.91:9981/stream/channelid/2116796259
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTL9%20HD.png",RTL9 HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69926
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png",Hà Nội IPTV 24 - XtvN HD
+http://140.238.26.91:9981/stream/channelid/76334308
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%C3%A9va%20HD.png",Téva HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69944
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OtvN.png",Hà Nội IPTV 25 - OtvN HD
+http://140.238.26.91:9981/stream/channelid/1286754680
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ch%C3%A9rie%2025%20HD.jpg",Chérie 25 HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69818
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png",Hà Nội IPTV 26 - Tooniverse HD
+http://140.238.26.91:9981/stream/channelid/1701043009
+#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/S%C3%A9rie%20Club.png",Série Club HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69933
