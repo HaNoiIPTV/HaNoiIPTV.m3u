@@ -570,3 +570,59 @@ http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69818
 http://140.238.26.91:9981/stream/channelid/1701043009
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/S%C3%A9rie%20Club.png",Série Club HD
 http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69933
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG",Hà Nội IPTV 27 - Sky HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV27_Sky_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV%20Breizh%20HD.png",TV Breizh HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69953
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="http://skylifetv.co.kr/theme/business/html/business/image/sky_UHD.png",Hà Nội IPTV 27+ - Sky UHD
+http://gg.gg/HaNoiIPTV27Plus_Sky_UHD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5MONDE HD
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://skylifetv.co.kr/theme/business/html/business/image/NQQ.png",Hà Nội IPTV 28 - NQQ HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV28_NQQ_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/La%20Une%20HD.png",La Une HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69878
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/d2e3af1500224105207.png",Hà Nội IPTV 32 - E Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV32_E_Channel_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Tipik%20HD.png",Tipik HD
+http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69877
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7feded1500225150044.png",Hà Nội IPTV 33 - Screen HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV33_Screen_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/La%20Trois%20HD.png",La Trois HD
+http://cloudcdn.tk:80/alenbuco/k6PycG7897/8294
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/2aa08b2271027105851.png",Hà Nội IPTV 34 - Drama Cube HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV34_Drama_Cube_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTL%20TVI%20HD.png",RTL TVI HD
+http://cloudcdn.tk:80/alenbuco/k6PycG7897/9038
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7d9b3a5510104170351.jpg",Hà Nội IPTV 38 - CH. NOW HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV38_CH_NOW_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Club%20RTL%20HD.png",Club RTL
+http://cloudcdn.tk:80/alenbuco/k6PycG7897/8293
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png",Hà Nội IPTV 42 - KBSN Drama HD
+http://140.238.26.91:9981/stream/channelid/1641912914
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Plug%20RTL.png",Plug RTL
+http://cloudcdn.tk:80/alenbuco/k6PycG7897/9037
