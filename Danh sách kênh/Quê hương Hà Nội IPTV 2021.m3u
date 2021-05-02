@@ -639,7 +639,7 @@ http://gg.gg/Ha_Noi_IPTV_45-KBSN_Kids_HD
 #EXTINF:-1  tvg-id="http://gg.gg/Ha_Noi_IPTV-Rossiya_24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_life.png",Hà Nội IPTV 46 - KBSN Life HD
-http://gg.gg/Ha_Noi_IPTV_46-KBSN_Life_HD
+http://140.238.26.91:9981/stream/channelid/2121190162
 #EXTINF:-1  tvg-id="http://gg.gg/Ha_Noi_IPTV-Moskva_24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2024.png",Москва 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_1.m3u8
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01101.png",Hà Nội IPTV 46+ - YTN2
@@ -658,6 +658,44 @@ http://1skytv.com:8080/k3NT70ga3f/FLyvJR2Cad/2378
 http://140.238.26.91:9981/stream/channelid/102892067
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB.png",Пятый Канал
 http://1skytv.com:8080/k3NT70ga3f/FLyvJR2Cad/2588
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_05.png",Hà Nội IPTV 50+ HD
+http://140.238.26.91:9981/stream/channelid/857200546
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png",Hà Nội IPTV 53 - SBS Plus HD
+http://140.238.26.91:9981/stream/channelid/47169273
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png",Hà Nội IPTV 54 - SBS funE HD
+http://140.238.26.91:9981/stream/channelid/765944243
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C43341.png",Hà Nội IPTV 55 - SBS F!L HD
+http://140.238.26.91:9981/stream/channelid/1766053045
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/da72554990926163245.png",Hà Nội IPTV 55+ - SBS F!L UHD
+http://gg.gg/Ha_Noi_IPTV_55_Plus-SBS_FiL_UHD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2046%20-%20SBS%20MTV%20HD.png",Hà Nội IPTV 59 - SBS MTV HD
+http://140.238.26.91:9981/stream/channelid/1927049119
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/253.png",Hà Nội IPTV 82 - HQ+ HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+http://gg.gg/HaNoiIPTV82_HQ_Plus_HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png",Hà Nội IPTV 65 - CJO Shopping HD
+http://140.238.26.91:9981/stream/channelid/231362947
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png",Hà Nội IPTV 66 - CJO Shopping Plus HD
+http://gg.gg/HaNoiIPTV66_CJO_Shopping_Plus_HD
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/47aead0991219111246.png",Hà Nội IPTV 67 - Shinsegae Shopping HD
+http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/33.png",Hà Nội IPTV 68 - Shopping NT HD
+http://140.238.26.91:9981/stream/channelid/1362935724
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/8.png",Hà Nội IPTV 69 - GS Shop HD
+https://livem.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/chunklist_w1467860983.m3u8
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/38.png",Hà Nội IPTV 70 - GS My Shop HD
+https://livem.gsshop.com/gsmyshop_hd/_definst_/gsmyshop_hd.stream/chunklist_w1697061279.m3u8
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/10.png",Hà Nội IPTV 71 - Hyundai Mall HD
+http://123.111.139.103:1935/live/hmall.stream/chunklist_w1226964103.m3u8
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7fdd529700224105103.png",Hà Nội IPTV 72 - Hyundai Mall Plus HD
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/4bed76ac71207101533.png",Hà Nội IPTV 73 - NS Shop HD
+http://140.238.26.91:9981/stream/channelid/1171554012
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/42.png",Hà Nội IPTV 74 - NS Shop+ HD
+http://140.238.26.91:9981/stream/channelid/1695160656
 #EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/VTC2_2018-2019_and_2020-present.png/revision/latest/scale-to-width-down/200?cb=20200630063802",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/VTC4_April_1%2C_2020.png/revision/latest/scale-to-width-down/200?cb=20200630024200",VTC4 Yeah1 Family HD
