@@ -433,7 +433,7 @@ http://gg.gg/HaNoiIPTV-SCTV2_HD
 #EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV6HD_new.smil/chunklist_w547196246_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=16" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV6%20HD.png",SCTV6 HD
 http://gg.gg/HaNoiIPTV-SCTV6_HD
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%204K.png",Truyền hình Hà Nội 4K
-http://14.6.200.22:9981/stream/channel/96bee74c4fdd1d3a8e8b9270192312e6
+http://140.238.26.91:9981/stream/channelid/1152326099
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%203%20HD.png",Truyền hình Hà Nội 3 HD
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="https://youtu.be/0GN8t2u3flc" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%204%20HD.png",Truyền hình Hà Nội 4 HD
@@ -445,14 +445,22 @@ http://180.70.92.10/YTN/YTNKOREAN.stream/chunklist_w404348613.m3u8
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV5%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%205%20HD.png",QTV5 - Truyền hình Quảng Ninh 5 HD
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/chunklist_w1064468191.m3u8
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/KBS_2_logo_2018.svg/revision/latest/scale-to-width-down/250?cb=20200910211102",Hà Nội IPTV 1 - KBS2 HD
-http://14.6.200.22:9981/stream/channel/cb1520df9f681931e4c2c4bb1e41b783
+http://140.238.26.91:9981/stream/channelid/1807114491
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTS%20Un%20HD.png",RTS Un HD
 http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69928
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/1920px-SBS_Korea_Logo_%28Word_Only%29.svg.png/revision/latest/scale-to-width-down/200?cb=20200910061250",Hà Nội IPTV 2 - SBS HD
-http://14.6.200.22:9981/stream/channel/fceb80d4f8d3a6e1602f405d1f36f8de
+http://140.238.26.91:9981/stream/channelid/1141478344
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTS%20Deux.png",RTS Deux HD
 http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69927
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png",Hà Nội IPTV 3 - MBC HD
-http://14.6.200.22:9981/stream/channel/09a31e536f4397aa481fac10703604a9
+http://140.238.26.91:9981/stream/channelid/1371472105
 #EXTINF:-1  tvg-id="http://85.217.129.50:9981/stream/channel/e99b6e8a75ecf630a01830717200a41f" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%204%20HD.png",France 4 HD
 http://cityradio.xyz:8080/ocbRvHHOdM/4b5CN69B7D/69865
+#EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",Hà Nội IPTV 4 - OBS HD
+http://gg.gg/Ha_Noi_IPTV_4-OBS_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%205%20HD.png",France 5 HD
+http://85.217.129.50:9981/stream/channel/8d0b77c4b6112b78760fdea11908160c
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",Hà Nội IPTV 5 - tvN HD
+http://gg.gg/Ha_Noi_IPTV_5-tvN_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/M6%20HD.png",M6 HD
+http://85.217.129.50:9981/stream/channel/e61215c8f6bf51f077dc6aa7213680d6
