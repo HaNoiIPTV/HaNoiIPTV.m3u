@@ -102,3 +102,12 @@
   <tr><td align="left">164</td><td align="left">Đài Phát thanh và Truyền hình Ninh Thuận - 285A Đường 21 tháng 8, phường Phước Mỹ, TP. Phan Rang - Tháp Chàm, Ninh Thuận</td></tr>
   <tr><td align="left">165</td><td align="left">Đài Phát thanh và Truyền hình Bình Thuận - 341 Đường Thủ Khoa Huân, phường Phú Thủy, TP. Phan Thiết, Bình Thuận</td></tr>
   <tr><td align="left">166</td><td align="left">Đài Phát thanh, Truyền hình Gia Lai - 1 Đường Lý Thái Tổ, phường Diên Hồng, TP. Pleiku, Gia Lai</td></tr>
+  <tr><td align="left">167</td><td align="left">Đài Phát thanh và Truyền hình Bình Dương - 46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
+  <tr><td align="left">168</td><td align="left">Đài Phát thanh và Truyền hình Bình Dương - 46 Đại lộ Bình Dương, phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương</td></tr>
+  <tr><td align="left">169</td><td align="left">Đài Phát thanh, Truyền hình và Báo Bình Phước - 1 Đường Trần Hưng Đạo, phường Tân Phú, TP. Đồng Xoài, Bình Phước</td></tr>
+  <tr><td align="left">170</td><td align="left">Đài Phát thanh và Truyền hình Tây Ninh - 322 Đường 30 tháng 4, phường 3, TP. Tây Ninh</td></tr>
+  <tr><td align="left">171</td><td align="left">Đài Phát thanh và Truyền hình Đồng Nai - 81 Đường Đồng Khởi, phường Tam Hòa, TP. Biên Hòa, Đồng Nai</td></tr>
+  <tr><td align="left">172</td><td align="left">Đài Phát thanh và Truyền hình Đồng Nai - 81 Đường Đồng Khởi, phường Tam Hòa, TP. Biên Hòa, Đồng Nai</td></tr>
+  <tr><td align="left">173</td><td align="left">SKY Shop - 89 Đường Nam Kỳ Khởi Nghĩa, phường 14, quận 3, TP.HCM</td></tr>
+  <tr><td align="left">174</td><td align="left">Đài Phát thanh và Truyền hình Bà Rịa Vũng Tàu - 564 Đường Cách Mạng Tháng Tám, phường Phước Trung, TP. Vũng Tàu, Bà Rịa - Vũng Tàu</td></tr>
+  <tr><td align="left">175</td><td align="left">Đài Phát thanh, Truyền hình Đồng Tháp - 16 Đường Trần Phú, phường 5, TP. Cao Lãnh, Đồng Tháp</td></tr>
