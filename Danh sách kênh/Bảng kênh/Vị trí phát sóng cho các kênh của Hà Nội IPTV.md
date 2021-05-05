@@ -48,3 +48,14 @@
   <tr><td align="left">49</td><td align="left">Đài Truyền hình Thành phố Hồ Chí Minh - 14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
   <tr><td align="left">50</td><td align="left">Đài Truyền hình Thành phố Hồ Chí Minh - 14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
   <tr><td align="left">51</td><td align="left">Thông tấn xã Việt Nam - 5 Phố Lê Thánh Tông, phường Phan Chu Trinh, quận Hoàn Kiếm, Hà Nội</td></tr>
+  <tr><td align="left">52</td><td align="left">Trung tâm Phát thanh và Truyền hình Quân đội - 165 Phố Xã Đàn, phường Nam Đồng, quận Đống Đa, Hà Nội</td></tr>
+  <tr><td align="left">53</td><td align="left">Kênh truyền hình Quốc hội Việt Nam - 35 Phố Ngô Quyền, phường Hàng Bài, quận Hoàn Kiếm, Hà Nội</td></tr>
+  <tr><td align="left">54</td><td align="left">Báo Nhân Dân - 71 Phố Hàng Trống, phường Hàng Trống, quận Hoàn Kiếm, Hà Nội</td></tr>
+  <tr><td align="left">55</td><td align="left">Truyền hình Công an Nhân dân - 1 Đường Lê Đức Thọ, phường Mai Dịch, quận Cầu Giấy, Hà Nội</td></tr>
+  <tr><td align="left">56</td><td align="left">Đài Truyền hình Kỹ thuật số VTC - 23 Phố Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, Hà Nội</td></tr>
+  <tr><td align="left">57</td><td align="left">Đài tiếng nói Việt Nam - 58 Phố Quán Sứ, phường Hàng Bông, quận Hoàn Kiếm, Hà Nội</td></tr>
+  <tr><td align="left">58</td><td align="left">Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
+  <tr><td align="left">59</td><td align="left">Đài Phát thanh và Truyền hình Hải Phòng - 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng</td></tr>
+  <tr><td align="left">60</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
+  <tr><td align="left">61</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
+  <tr><td align="left">62</td><td align="left">Đài Phát thanh và Truyền hình Nghệ An - 1 Đường Nguyễn Thị Minh Khai, phường Hưng Bình, TP. Vinh, Nghệ An</td></tr>
