@@ -28,4 +28,23 @@
   <tr><td align="left">22</td><td align="left">Công ty Cổ phần Thương mại Vi Vi - Tầng 3, 106 Đường Nguyễn Giản Thanh, phường 15, quận 10, TP.HCM</td></tr>
   <tr><td align="left">23</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
   <tr><td align="left">24</td><td align="left">Tầng 2, Tòa nhà Ladeco, 266 Phố Đội Cấn, phường Liễu Giai, quận Ba Đình, Hà Nội</td></tr>
-		
+  <tr><td align="left">25</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">26</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">27</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">28</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">29</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">30</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
+  <tr><td align="left">31</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">32</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">33</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">34</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">35</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">36</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">37</td><td align="left">Truyền hình cáp Việt Nam - 3/84 Phố Ngọc Khánh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">45</td><td align="left">Công ty Cổ phần Truyền hình Cáp Saigontourist (SCTV) - 31 - 33 Đường Đinh Công Tráng, phường Tân Định, quận 1, TP.HCM</td></tr>
+  <tr><td align="left">46</td><td align="left">Đài Phát thanh, Truyền hình Vĩnh Long - 50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+  <tr><td align="left">47</td><td align="left">Đài Phát thanh, Truyền hình Vĩnh Long - 50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+  <tr><td align="left">48</td><td align="left">Công ty Cổ phần Vie Channel - Tầng 5, 222 Đường Pasteur, phường Võ Thị Sáu, quận 3, TP.HCM</td></tr>
+  <tr><td align="left">49</td><td align="left">Đài Truyền hình Thành phố Hồ Chí Minh - 14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
+  <tr><td align="left">50</td><td align="left">Đài Truyền hình Thành phố Hồ Chí Minh - 14 Đường Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP.HCM</td></tr>
+  <tr><td align="left">51</td><td align="left">Thông tấn xã Việt Nam - 5 Phố Lê Thánh Tông, phường Phan Chu Trinh, quận Hoàn Kiếm, Hà Nội</td></tr>
