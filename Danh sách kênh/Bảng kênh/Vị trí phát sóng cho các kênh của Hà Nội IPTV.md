@@ -59,3 +59,17 @@
   <tr><td align="left">60</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
   <tr><td align="left">61</td><td align="left">Đài Phát thanh và Truyền hình Hà Nội - 3 - 5 Phố Huỳnh Thúc Kháng, phường Láng Hạ, quận Đống Đa, Hà Nội</td></tr>
   <tr><td align="left">62</td><td align="left">Đài Phát thanh và Truyền hình Nghệ An - 1 Đường Nguyễn Thị Minh Khai, phường Hưng Bình, TP. Vinh, Nghệ An</td></tr>
+  <tr><td align="left">63</td><td align="left">Công ty TNHH Q.Net - Tầng 2, Tòa nhà 29T1, Lô N05 Phố Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, Hà Nội</td></tr>
+  <tr><td align="left">64</td><td align="left">Công ty TNHH Q.Net - Tầng 2, Tòa nhà 29T1, Lô N05 Phố Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, Hà Nội</td></tr>
+  <tr><td align="left">65</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">66</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">67</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">68</td><td align="left">CANAL+ - 44T Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">69</td><td align="left">Công ty Cổ phần Truyền hình Cáp Saigontourist (SCTV) - 31 - 33 Đường Đinh Công Tráng, phường Tân Định, quận 1, TP.HCM</td></tr>
+  <tr><td align="left">70</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
+  <tr><td align="left">71</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
+  <tr><td align="left">126</td><td align="left">Công ty TNHH Mua sắm tại nhà VTV-Hyundai - 23 Đường số 30, khu phố 2, phường Cát Lái, quận 2, TP.HCM</td></tr>
+  <tr><td align="left">129</td><td align="left">Trung tâm Phát thanh, Truyền hình NHK - 2 Đường Chome 2-1, phường Jinnan, quận Shibuya, TP. Tokyo, Nhật Bản</td></tr>
+  <tr><td align="left">130</td><td align="left">Trung tâm Phát thanh, Truyền hình NHK - 2 Đường Chome 2-1, phường Jinnan, quận Shibuya, TP. Tokyo, Nhật Bản</td></tr>
+  <tr><td align="left">131</td><td align="left">Khách sạn Omni Atlanta tại Trung tâm CNN - 100 Trung tâm CNN, TP. Atlanta, tiểu bang Georgia, Hoa Kỳ</td></tr>
+  
