@@ -73,8 +73,17 @@
   <tr><td align="left">130</td><td align="left">Trung tâm Phát thanh, Truyền hình NHK - 2 Đường Chome 2-1, phường Jinnan, quận Shibuya, TP. Tokyo, Nhật Bản</td></tr>
   <tr><td align="left">131</td><td align="left">Khách sạn Omni Atlanta tại Trung tâm CNN - 100 Trung tâm CNN, TP. Atlanta, tiểu bang Georgia, Hoa Kỳ</td></tr>
   <tr><td align="left">137</td><td align="left">Kênh Truyền hình Kinh tế Tài chính (ViTV) - 519 Phố Kim Mã, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
-  <tr><td align="left">138</td><td align="left">SBS - 161 Đường Mokdongseo-ro, phường Mok 1(il)-dong, quận Yangcheon-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">138</td><td align="left">SBS - 161 Đường Mokdongseo, phường Mok 1(il), quận Yangcheon, TP. Seoul, Hàn Quốc</td></tr>
   <tr><td align="left">139</td><td align="left">Mediacorp Campus - 1 Đại lộ Ngôi sao, TP. Singapore</td></tr>
   <tr><td align="left">140</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
   <tr><td align="left">141</td><td align="left">DW-Studio Berlin - 5 Đường Voltastraße, khu Wedding, TP. Berlin, Đức</td></tr>
   <tr><td align="left">142</td><td align="left">France 24 - 80 Đường Camille Desmoulins, phường Issy-les-Moulineaux, quận Île-de-France, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">143</td><td align="left">Công ty Cổ phần Truyền hình HiTV - 30 Phố Trung Liệt, phường Trung Liệt, quận Đống Đa, Hà Nội</td></tr>
+  <tr><td align="left">144</td><td align="left">Đài Phát thanh và Truyền hình Vĩnh Phúc - 2 Đường Kim Ngọc, phường Đống Đa, TP. Vĩnh Yên, Vĩnh Phúc</td></tr>
+  <tr><td align="left">145</td><td align="left">Đài Phát thanh và Truyền hình Bắc Ninh - Đường Ngô Gia Tự, phường Vũ Ninh, TP. Bắc Ninh</td></tr>
+  <tr><td align="left">146</td><td align="left">Đài Phát thanh, Truyền hình Lai Châu - 43 Đường Nguyễn Chí Thanh, phường Tân Phong, TP. Lai Châu</td></tr>
+  <tr><td align="left">147</td><td align="left">Đài Phát thanh và Truyền hình Hưng Yên - 164 Đường Nguyễn Văn Linh, phường Lam Sơn, TP. Hưng Yên</td></tr>
+  <tr><td align="left">148</td><td align="left">Đài Phát thanh và Truyền hình Hải Dương - 2 Đường Chương Dương, phường Lê Thanh Nghị, TP. Hải Dương</td></tr>
+  <tr><td align="left">149</td><td align="left">Đài Phát thanh, Truyền hình Nam Định - 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định</td></tr>
+  <tr><td align="left">150</td><td align="left">Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình</td></tr>
+  <tr><td align="left">151</td><td align="left">Đài Phát thanh và Truyền hình Ninh Bình - KM số 2, Quốc lộ 1A, Đường Trần Hưng Đạo, phường Đông Thành, TP. Ninh Bình</td></tr>
