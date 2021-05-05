@@ -72,4 +72,9 @@
   <tr><td align="left">129</td><td align="left">Trung tâm Phát thanh, Truyền hình NHK - 2 Đường Chome 2-1, phường Jinnan, quận Shibuya, TP. Tokyo, Nhật Bản</td></tr>
   <tr><td align="left">130</td><td align="left">Trung tâm Phát thanh, Truyền hình NHK - 2 Đường Chome 2-1, phường Jinnan, quận Shibuya, TP. Tokyo, Nhật Bản</td></tr>
   <tr><td align="left">131</td><td align="left">Khách sạn Omni Atlanta tại Trung tâm CNN - 100 Trung tâm CNN, TP. Atlanta, tiểu bang Georgia, Hoa Kỳ</td></tr>
-  
+  <tr><td align="left">137</td><td align="left">Kênh Truyền hình Kinh tế Tài chính (ViTV) - 519 Phố Kim Mã, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
+  <tr><td align="left">138</td><td align="left">SBS - 161 Đường Mokdongseo-ro, phường Mok 1(il)-dong, quận Yangcheon-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">139</td><td align="left">Mediacorp Campus - 1 Đại lộ Ngôi sao, TP. Singapore</td></tr>
+  <tr><td align="left">140</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
+  <tr><td align="left">141</td><td align="left">DW-Studio Berlin - 5 Đường Voltastraße, khu Wedding, TP. Berlin, Đức</td></tr>
+  <tr><td align="left">142</td><td align="left">France 24 - 80 Đường Camille Desmoulins, phường Issy-les-Moulineaux, quận Île-de-France, TP. Paris, Pháp</td></tr>
