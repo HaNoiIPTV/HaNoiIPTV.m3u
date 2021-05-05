@@ -87,3 +87,18 @@
   <tr><td align="left">149</td><td align="left">Đài Phát thanh, Truyền hình Nam Định - 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định</td></tr>
   <tr><td align="left">150</td><td align="left">Đài Phát thanh và Truyền hình Thái Bình - Đường Võ Nguyên Giáp, phường Hoàng Diệu, TP. Thái Bình</td></tr>
   <tr><td align="left">151</td><td align="left">Đài Phát thanh và Truyền hình Ninh Bình - KM số 2, Quốc lộ 1A, Đường Trần Hưng Đạo, phường Đông Thành, TP. Ninh Bình</td></tr>
+  <tr><td align="left">152</td><td align="left">Đài Phát thanh, Truyền hình Lạng Sơn - 9 Phố Hoàng Văn Thụ, phường Chi Lăng, TP. Lạng Sơn</td></tr>
+  <tr><td align="left">153</td><td align="left">Đài Phát thanh, Truyền hình Thái Nguyên - 226 Đường Bến Oánh, phường Túc Duyên, TP. Thái Nguyên</td></tr>
+  <tr><td align="left">154</td><td align="left">Trung tâm Truyền thông tỉnh Quảng Ninh - 66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
+  <tr><td align="left">155</td><td align="left">Trung tâm Truyền thông tỉnh Quảng Ninh - 66 Đường Nguyễn Văn Cừ, phường Hồng Hải, TP. Hạ Long, Quảng Ninh</td></tr>
+  <tr><td align="left">156</td><td align="left">Đài Phát thanh và Truyền hình Phú Thọ - Đường Nguyễn Tất Thành, phường Trưng Vương, TP. Việt Trì, Phú Thọ</td></tr>
+  <tr><td align="left">157</td><td align="left">Đài Phát thanh và Truyền hình Thanh Hóa - Quốc lộ 1A, Đại lộ Hùng Vương, phường Đông Hải, TP. Thanh Hóa</td></tr>
+  <tr><td align="left">158</td><td align="left">Đài Phát thanh và Truyền hình Hà Tĩnh - 22 Đường Phan Đình Phùng, phường Nam Hà, TP. Hà Tĩnh</td></tr>
+  <tr><td align="left">159</td><td align="left">Đài Phát thanh và Truyền hình Quảng Bình - 54 Đường Quang Trung, phường Hải Đình, TP. Đồng Hới, Quảng Bình</td></tr>
+  <tr><td align="left">160</td><td align="left">Đài Phát thanh và Truyền hình Thừa Thiên Huế - 19 Đường Lê Lợi, phường Phú Hội, TP. Huế, Thừa Thiên - Huế</td></tr>
+  <tr><td align="left">161</td><td align="left">Đài Phát thanh và Truyền hình Đà Nẵng - 33 Đường Lê Lợi, phường Thạch Thang, quận Hải Châu, Đà Nẵng</td></tr>
+  <tr><td align="left">162</td><td align="left">Đài Phát thanh và Truyền hình Đà Nẵng - 33 Đường Lê Lợi, phường Thạch Thang, quận Hải Châu, Đà Nẵng</td></tr>
+  <tr><td align="left">163</td><td align="left">Đài Phát thanh và Truyền hình Khánh Hòa - 70 Đường Trần Phú, phường Lộc Thọ, TP. Nha Trang, Khánh Hòa</td></tr>
+  <tr><td align="left">164</td><td align="left">Đài Phát thanh và Truyền hình Ninh Thuận - 285A Đường 21 tháng 8, phường Phước Mỹ, TP. Phan Rang - Tháp Chàm, Ninh Thuận</td></tr>
+  <tr><td align="left">165</td><td align="left">Đài Phát thanh và Truyền hình Bình Thuận - 341 Đường Thủ Khoa Huân, phường Phú Thủy, TP. Phan Thiết, Bình Thuận</td></tr>
+  <tr><td align="left">166</td><td align="left">Đài Phát thanh, Truyền hình Gia Lai - 1 Đường Lý Thái Tổ, phường Diên Hồng, TP. Pleiku, Gia Lai</td></tr>
