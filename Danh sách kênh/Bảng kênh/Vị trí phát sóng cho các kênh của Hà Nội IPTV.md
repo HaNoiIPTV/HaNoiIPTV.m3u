@@ -5,7 +5,7 @@
 	</thead>
 	<tbody>
   <tr><td align="left">1</td><td align="left">Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội</td></tr>
-  <tr><td align="left">2</td><td align="left">KBS - 13 Đường Yeoulgongwon-ro, phường Yeoeuido-dong, quận Yeongdeungpo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">2</td><td align="left">KBS - 13 Đường Yeoulgongwon, phường Yeoeuido, quận Yeongdeungpo, TP. Seoul, Hàn Quốc</td></tr>
   <tr><td align="left">3</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
   <tr><td align="left">4</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
   <tr><td align="left">5</td><td align="left">Đài Truyền hình Việt Nam - 43 Đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, Hà Nội</td></tr>
