@@ -115,3 +115,7 @@
   <tr><td align="left">177</td><td align="left">Đài Phát thanh, Truyền hình Bến Tre - 3 Đường Trần Quốc Tuấn, phường 3, TP. Bến Tre</td></tr>
   <tr><td align="left">178</td><td align="left">Đài Phát thanh, Truyền hình An Giang - 852 Đường Trần Hưng Đạo, phường Bình Khánh, TP. Long Xuyên, An Giang</td></tr>
   <tr><td align="left">179</td><td align="left">Đài Phát thanh, Truyền hình TP. Cần Thơ - 409 Đường 30 tháng 4, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
+  <tr><td align="left">180</td><td align="left">Đài Phát thanh, Truyền hình Vĩnh Long - 50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+  <tr><td align="left">181</td><td align="left">Đài Phát thanh, Truyền hình Vĩnh Long - 50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
+  <tr><td align="left">182</td><td align="left">Đài Phát thanh, Truyền hình Hậu Giang - 1 Đường Võ Văn Kiệt, phường 5, TP. Vị Thanh, Hậu Giang</td></tr>
+  <tr><td align="left">183</td><td align="left">Đài Phát thanh, Truyền hình Sóc Trăng - 132 Đường Trần Văn Bảy, phường 3, TP. Sóc Trăng</td></tr>
