@@ -268,6 +268,15 @@
 		<tr><td align="left">262</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png"/></td><td align="left">(ĐQ) LCI HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">263</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OGN%20HD.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 22 - OGN HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">264</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paris%20Premiere%20HD.png"/></td><td align="left">(ĐQ) Paris Premiere HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">265</td><td align="between"><img height="40" src="https://image.tving.com/upload/cms/caic/CAIC1700/C00544.png"/></td><td align="left">(ĐQ) 河内IPTV 23 - 中华TV HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">266</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTL9%20HD.png"/></td><td align="left">(ĐQ) RTL9 HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">267</td><td align="between"><img height="40" src="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636553420954228983.png"/></td><td align="left">Hà Nội IPTV 24 - XtvN HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">268</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%C3%A9va%20HD.png"/></td><td align="left">(ĐQ) Téva HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">269</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OtvN.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 25 - OtvN HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">270</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ch%C3%A9rie%2025%20HD.jpg"/></td><td align="left">(ĐQ) Chérie 25 HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">271</td><td align="between"><img height="40" src="https://image.tving.com/upload/cms/caic/CAIC1700/C06941.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 26 - Tooniverse HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">272</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/S%C3%A9rie%20Club.png"/></td><td align="left">(ĐQ) Série Club HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">273</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/9fe4ef5700316092634.PNG"/></td><td align="left">(ĐQ) Hà Nội IPTV 27 - Sky HD</td><td align="left">1080.60</td></tr>
 		</tbody>
 </table>
 
