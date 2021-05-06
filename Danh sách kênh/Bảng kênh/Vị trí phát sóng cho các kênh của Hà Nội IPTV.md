@@ -122,6 +122,22 @@
   <tr><td align="left">184</td><td align="left">Trung tâm Truyền hình Việt Nam tại Phú Yên - Đường Nguyễn Hữu Thọ, Phường 9, TP. Tuy Hòa, Phú Yên</td></tr>
   <tr><td align="left">185</td><td align="left">Trung tâm Truyền hình Việt Nam tại TP. Cần Thơ - 407 Hẻm 353, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
   <tr><td align="left">186</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">187</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">188</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">189</td><td align="left">Bình Nhưỡng, Triều Tiên</td></tr>
+  <tr><td align="left">226</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">227</td><td align="left">OBS - 5 Phố Dadong, phường Mugyo, quận Jung, TP. Seoul, Hàn Quốc
+  <tr><td align="left">228</td><td align="left">France Télévisions - 7 Đường Esplanade Henri-de-France, quận 15, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">229</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">230</td><td align="left">Tập đoàn M6 - 89 Đại lộ Charles de Gaulle, phường Neuilly-sur-Seine, quận Nanterre, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">231</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">238</td><td align="left">Tập đoàn M6 - 89 Đại lộ Charles de Gaulle, phường Neuilly-sur-Seine, quận Nanterre, TP. Paris, Pháp</td></tr>
   <tr><td align="left">239</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
   <tr><td align="left">241</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">247</td><td align="left">Tập đoàn M6 - 89 Đại lộ Charles de Gaulle, phường Neuilly-sur-Seine, quận Nanterre, TP. Paris, Pháp</td></tr>
   <tr><td align="left">249</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">252</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">253</td><td align="left">Tập đoàn M6 - 89 Đại lộ Charles de Gaulle, phường Neuilly-sur-Seine, quận Nanterre, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">254</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">256</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
+  <tr><td align="left">258</td><td align="left">Trung tâm Giải trí và Điện ảnh (CJ E&M) - 66 Đường Sangamsan-ro, phường Sangam-dong, quận Mapo-gu, TP. Seoul, Hàn Quốc</td></tr>
