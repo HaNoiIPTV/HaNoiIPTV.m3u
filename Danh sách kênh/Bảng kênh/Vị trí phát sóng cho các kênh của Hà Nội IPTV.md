@@ -119,3 +119,9 @@
   <tr><td align="left">181</td><td align="left">Đài Phát thanh, Truyền hình Vĩnh Long - 50 Đường Phạm Thái Bường, phường 4, TP. Vĩnh Long</td></tr>
   <tr><td align="left">182</td><td align="left">Đài Phát thanh, Truyền hình Hậu Giang - 1 Đường Võ Văn Kiệt, phường 5, TP. Vị Thanh, Hậu Giang</td></tr>
   <tr><td align="left">183</td><td align="left">Đài Phát thanh, Truyền hình Sóc Trăng - 132 Đường Trần Văn Bảy, phường 3, TP. Sóc Trăng</td></tr>
+  <tr><td align="left">184</td><td align="left">Trung tâm Truyền hình Việt Nam tại Phú Yên - Đường Nguyễn Hữu Thọ, Phường 9, TP. Tuy Hòa, Phú Yên</td></tr>
+  <tr><td align="left">185</td><td align="left">Trung tâm Truyền hình Việt Nam tại TP. Cần Thơ - 407 Hẻm 353, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
+  <tr><td align="left">186</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">239</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">241</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
+  <tr><td align="left">249</td><td align="left">TF1 - 1 Đường Quai du Point du Jour, quận Boulogne-Billancourt, TP. Paris, Pháp</td></tr>
