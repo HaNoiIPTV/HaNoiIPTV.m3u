@@ -438,8 +438,6 @@ http://gg.gg/HaNoiIPTV-SCTV2_HD
 http://gg.gg/HaNoiIPTV-SCTV6_HD
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%203%20HD.png",Truyền hình Hà Nội 3 HD
 http://gg.gg/Truyen_hinh_Ha_Noi_3_HD
-#EXTINF:-1  tvg-id="https://youtu.be/0GN8t2u3flc" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%204%20HD.png",Truyền hình Hà Nội 4 HD
-http://gg.gg/Truyen_hinh_Ha_Noi_4_HD
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%202%20HD.png",QTV2 - Truyền hình Quảng Ninh 2 HD
 http://gg.gg/QTV2-Truyen_hinh_Quang_Ninh_2_HD
 #EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%204%20HD.png",QTV4 - Truyền hình Quảng Ninh 4 HD
@@ -550,8 +548,8 @@ http://gg.gg/Alsace_20
 http://gg.gg/Ha_Noi_IPTV_20_Plus-CH_DIA_HD
 #EXTINF:-1  tvg-id="http://gg.gg/LCI_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png",LCI HD
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png",Hà Nội IPTV 21 - On Style HD
-http://gg.gg/Ha_Noi_IPTV_21-On_Style_HD
+#EXTINF:-1  tvg-id="https://youtu.be/0GN8t2u3flc" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%204%20HD.png",Truyền hình Hà Nội 4 HD
+http://gg.gg/Truyen_hinh_Ha_Noi_4_HD
 #EXTINF:-1  tvg-id="http://dimapro.cz:80/D4:CF:F9:0A:EC:C4/GtvsuptvO00aetorando/2434" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTL9%20HD.png",RTL9 HD
 http://gg.gg/RTL9_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OGN%20HD.png",Hà Nội IPTV 22 - OGN HD
