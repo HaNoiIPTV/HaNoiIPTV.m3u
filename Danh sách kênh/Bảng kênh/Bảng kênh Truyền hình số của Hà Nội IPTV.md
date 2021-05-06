@@ -207,7 +207,6 @@
 		<tr><td align="left">262</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LCI%20HD.png"/></td><td align="left">(ĐQ) LCI HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">263</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2022%20-%20OGN%20HD.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 22 - OGN HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">264</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paris%20Premiere%20HD.png"/></td><td align="left">(ĐQ) Paris Premiere HD</td><td align="left">1080.25</td></tr>
-		
 		</tbody>
 </table>
 
