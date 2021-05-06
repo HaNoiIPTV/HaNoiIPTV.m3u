@@ -111,3 +111,7 @@
   <tr><td align="left">173</td><td align="left">SKY Shop - 89 Đường Nam Kỳ Khởi Nghĩa, phường 14, quận 3, TP.HCM</td></tr>
   <tr><td align="left">174</td><td align="left">Đài Phát thanh và Truyền hình Bà Rịa Vũng Tàu - 564 Đường Cách Mạng Tháng Tám, phường Phước Trung, TP. Vũng Tàu, Bà Rịa - Vũng Tàu</td></tr>
   <tr><td align="left">175</td><td align="left">Đài Phát thanh, Truyền hình Đồng Tháp - 16 Đường Trần Phú, phường 5, TP. Cao Lãnh, Đồng Tháp</td></tr>
+  <tr><td align="left">176</td><td align="left">Đài Phát thanh, Truyền hình Tiền Giang - 125 Đường Lê Thị Hồng Gấm, phường 4, TP. Mỹ Tho, Tiền Giang</td></tr>
+  <tr><td align="left">177</td><td align="left">Đài Phát thanh, Truyền hình Bến Tre - 3 Đường Trần Quốc Tuấn, phường 3, TP. Bến Tre</td></tr>
+  <tr><td align="left">178</td><td align="left">Đài Phát thanh, Truyền hình An Giang - 852 Đường Trần Hưng Đạo, phường Bình Khánh, TP. Long Xuyên, An Giang</td></tr>
+  <tr><td align="left">179</td><td align="left">Đài Phát thanh, Truyền hình TP. Cần Thơ - 409 Đường 30 tháng 4, phường Hưng Lợi, quận Ninh Kiều, TP. Cần Thơ</td></tr>
