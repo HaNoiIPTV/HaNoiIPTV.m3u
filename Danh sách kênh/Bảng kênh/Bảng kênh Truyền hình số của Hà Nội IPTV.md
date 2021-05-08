@@ -326,7 +326,7 @@
 		<tr><td align="left">321</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Tagesschau%2024%20HD.png"/></td><td align="left">(ĐQ) Tagesschau 24 HD</td><td align="left">720.60</td></tr>
 		<tr><td align="left">322</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/253.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 82 - HQ+ HD</td><td align="left">1080.60</td></tr>
 		<tr><td align="left">323</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/ZDF%20HD.png"/></td><td align="left">(ĐQ) ZDF HD</td><td align="left">1080.60</td></tr>
-		
+		<tr><td align="left">324</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/9ca82dca00224104926.png"/></td><td align="left">Hà Nội IPTV 65 - CJO Shopping HD</td><td align="left">720.25</td></tr>
 		</tbody>
 </table>
 
