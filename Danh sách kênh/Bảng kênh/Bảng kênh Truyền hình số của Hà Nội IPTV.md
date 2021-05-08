@@ -303,7 +303,15 @@
 		<tr><td align="left">297</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/SRF%20Zwei.png"/></td><td align="left">SRF Zwei HD</td><td align="left">1080.60</td></tr>
 		<tr><td align="left">298</td><td align="between"><img height="40" src="http://www.kbsn.co.kr/images/ch_kids.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 45 - KBSN Kids HD</td><td align="left">1080.25</td></tr>
 		<tr><td align="left">299</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/RSI%20La%201.png"/></td><td align="left">RSI La 1 HD</td><td align="left">1080.60</td></tr>
-		<tr><td align="left">300</td><td align="between"><img height="40" src="http://www.kbsn.co.kr/images/ch_life.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 46 - KBSN Life HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">300</td><td align="between"><img height="40" src="http://www.kbsn.co.kr/images/ch_life.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 46 - KBSN Life HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">301</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/RSI%20La%202.png"/></td><td align="left">RSI La 2 HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">302</td><td align="between"><img height="40" src="https://image.tving.com/upload/cms/caic/CAIC1700/C01101.png"/></td><td align="left">Hà Nội IPTV 46+ - YTN2</td><td align="left">320.25</td></tr>
+		<tr><td align="left">303</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/La%20Cha%C3%AEne%20M%C3%A9t%C3%A9o%20HD.png"/></td><td align="left">(ĐQ) La Chaîne Météo HD</td><td align="left">1080.25</td></tr>
+		<tr><td align="left">304</td><td align="between"><img height="40" src="https://www.mbcplus.com/web/images/common/comm_channel07_01.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 48 - MBC every1 HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">305</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/SRF%20Info.png"/></td><td align="left">SRF Info HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">306</td><td align="between"><img height="40" src="https://www.mbcplus.com/web/images/common/comm_channel07_04.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 49 - MBC Drama HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">307</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/3%2B.png"/></td><td align="left">3+ HD</td><td align="left">1080.60</td></tr>
+		
 		</tbody>
 </table>
 
