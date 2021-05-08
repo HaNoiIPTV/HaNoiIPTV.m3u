@@ -311,7 +311,17 @@
 		<tr><td align="left">305</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/SRF%20Info.png"/></td><td align="left">SRF Info HD</td><td align="left">1080.60</td></tr>
 		<tr><td align="left">306</td><td align="between"><img height="40" src="https://www.mbcplus.com/web/images/common/comm_channel07_04.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 49 - MBC Drama HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">307</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/3%2B.png"/></td><td align="left">3+ HD</td><td align="left">1080.60</td></tr>
-		
+		<tr><td align="left">308</td><td align="between"><img height="40" src="https://www.mbcplus.com/web/images/common/comm_channel07_05.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 50 - MBCM HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">309</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/4%2B%20HD.png"/></td><td align="left">4+ HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">311</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/5%2B.png"/></td><td align="left">5+ HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">312</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/81fba82181105100751.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 53 - SBS Plus HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">313</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TV24.png"/></td><td align="left">TV24 HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">314</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/a7772cfa81105100822.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 54 - SBS funE HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">315</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TV25.png"/></td><td align="left">TV25 HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">316</td><td align="between"><img height="40" src="https://image.tving.com/upload/cms/caic/CAIC1700/C43341.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 55 - SBS F!L HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">317</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Puls%208.png"/></td><td align="left">Puls 8 HD</td><td align="left">1080.60</td></tr>
+		<tr><td align="left">318</td><td align="between"><img height="40" src="https://tv.kt.com/relatedmaterial/ch_logo/live/da72554990926163245.png"/></td><td align="left">(ĐQ) Hà Nội IPTV 55+ - SBS F!L UHD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">319</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Das%20Erste%20HD.png"/></td><td align="left">Das Erste HD</td><td align="left">1080.60</td></tr>
 		</tbody>
 </table>
 
