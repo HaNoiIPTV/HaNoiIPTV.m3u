@@ -54,19 +54,21 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh.png",Truyền hình Bắc Ninh HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",Truyền hình Lai Châu
+http://gg.gg/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn.png",Truyền hình Hưng Yên HD
 http://gg.gg/HaNoiIPTV-HYTV-Truyen_hinh_Hung_Yen_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",Truyền hình Hải Dương HD
 http://gg.gg/HaNoiIPTV-HDTV-Truyen_hinh_Hai_Duong_HD
-#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh.png",Truyền hình Thái Bình HD
-http://gg.gg/HaNoiIPTV-TBTV-Truyen_hinh_Thai_Binh_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nam%20%C4%90%E1%BB%8Bnh.png",Truyền hình Nam Định HD
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nam_Dinh_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh.png",Truyền hình Thái Bình HD
+http://gg.gg/HaNoiIPTV-TBTV-Truyen_hinh_Thai_Binh_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh.png",Truyền hình Ninh Bình HD
 http://gg.gg/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n.png",Truyền hình Lạng Sơn HD
 http://gg.gg/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
-#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn.png",Truyền hình Thái Nguyên HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn.png",Truyền hình Thái Nguyên HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%201.png",Truyền hình Quảng Ninh HD
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
@@ -76,13 +78,45 @@ http://gg.gg/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD
 http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh.png",Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
-#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",Truyền hình Quảng Bình HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh.png",Truyền hình Quảng Bình HD
 http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD
 #EXTINF:-1  tvg-id="https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist_b2500000.m3u8" group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",Truyền hình Thừa Thiên Huế
 http://gg.gg/HaNoiIPTV-TRT-Truyen_hinh_Thua_Thien_Hue
-#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%201%20HD.png",Truyền hình Đà Nẵng 1 HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng.png",Truyền hình Đà Nẵng 1 HD
 http://gg.gg/HaNoiIPTV-DRT1-Truyen_hinh_Da_Nang_1_HD
 #EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a.png",Truyền hình Khánh Hòa HD
 http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20Thu%E1%BA%ADn.png",Truyền hình Ninh Thuận HD
+http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Ninh_Thuan_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn.png",Truyền hình Bình Thuận HD
+http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Binh_Thuan_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-THGL-Truyen_hinh_Gia_Lai" group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Gia%20Lai.png",Truyền hình Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png",Truyền hình Bình Dương HD
+http://gg.gg/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%2C%20Truy%E1%BB%81n%20h%C3%ACnh%20v%C3%A0%20B%C3%A1o%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc.png",Truyền hình Bình Phước 1 HD
+http://gg.gg/HaNoiIPTV-BPTV1-Truyen_hinh_Binh_Phuoc_1_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",Truyền hình Tây Ninh HD
+http://gg.gg/HaNoiIPTV-TTV11-Truyen_hinh_Tay_Ninh_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90NRTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201.png",Truyền hình Đồng Nai 1 HD
+http://gg.gg/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90NRTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%202.png",Truyền hình Đồng Nai 2 HD
+http://gg.gg/HaNoiIPTV-DN2-Truyen_hinh_Dong_Nai_2_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u.png",Truyền hình Bà Rịa Vũng Tàu HD
+http://gg.gg/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Th%C3%A1p.png",Truyền hình Đồng Tháp 1 HD
+http://gg.gg/HaNoiIPTV-THDT1-Truyen_hinh_Dong_Thap_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ti%E1%BB%81n%20Giang.png",Truyền hình Tiền Giang HD
+http://gg.gg/HaNoiIPTV-THTG-Truyen_hinh_Tien_Giang_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%BFn%20Tre.png",Truyền hình Bến Tre
+http://gg.gg/HaNoiIPTV-THBT-Truyen_hinh_Ben_Tre
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%2C%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang.png",Truyền hình An Giang
+http://gg.gg/HaNoiIPTV-ATV-Truyen_hinh_An_Giang
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTPCT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A0nh%20ph%E1%BB%91%20C%E1%BA%A7n%20Th%C6%A1.png",Truyền hình Thành phố Cần Thơ HD
+http://gg.gg/HaNoiIPTV-THTPCT-Truyen_hinh_Thanh_pho_Can_Tho_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%ADu%20Giang%20HD.png",Truyền hình Hậu Giang HD
+http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
+#EXTINF:-1  group-title="KÊNH QUÊ HƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng.png",Truyền hình Sóc Trăng HD
+http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
 #EXTINF:-1  tvg-id="https://livecdn.fptplay.net/hda/vtv7hd_2000.stream/chunklist_b2500000.m3u8 và http://gg.gg/HaNoiIPTV-VTV7_HD" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD.png",VTV7 HD
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
