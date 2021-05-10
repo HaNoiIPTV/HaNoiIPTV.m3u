@@ -286,7 +286,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://gg.gg/HaNoiIPTV-TV5Monde_Asie
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-id="https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8 và http://85.217.129.50:9981/stream/channel/421eed44d8143f41c1540856bdb8cd7d" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
+#EXTINF:-1  tvg-id="http://85.217.129.50:9981/stream/channel/421eed44d8143f41c1540856bdb8cd7d" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
 http://gg.gg/HaNoiIPTV-France_24
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV - Hanoicab 1
 http://gg.gg/HaNoiIPTV-HiTV-Hanoicab_1
