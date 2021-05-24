@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1  channel-id="FM 9group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV4.png",VOV4
-http://gg.gg/HaNoiIPTV-VOV4
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Inter.png",France Inter
+http://gg.gg/France_Inter
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Bleu.png",France Bleu
+http://gg.gg/France_Bleu
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
 http://gg.gg/HaNoiIPTV-VOV6
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VTC13%20Giao%20th%C3%B4ng.png",VTC13 Giao thông
@@ -9,6 +11,8 @@ http://gg.gg/HaNoiIPTV-VTC13_Giao_thong
 https://strm.voh.com.vn/radio/channel2/chunklist_w349557567.m3u8
 #EXTINF:-1  channel-id="FM 87.7 Mhz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png",VOH4
 https://strm.voh.com.vn/radio/channel1/chunklist_w2044115175.m3u8
+#EXTINF:-1  channel-id="FM 90Mhz" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV4.png",VOV4
+http://gg.gg/HaNoiIPTV-VOV4
 #EXTINF:-1  channel-id="FM 90Mhz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201.png",Phát thanh Hà Nội 1
 http://cdn.mediatech.vn/hntvRadio/fm90.sdp_aac/chunklist_w1119421167.m3u8
 #EXTINF:-1  channel-id="FM 90.2 Mhz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/THVL.png/revision/latest/scale-to-width-down/220?cb=20191225034357",THVL - Phát thanh Vĩnh Long
@@ -57,6 +61,8 @@ http://202.43.109.142:1935/radio11/tnradio/chunklist_w527705820.m3u8
 http://113.160.131.11:8000
 #EXTINF:-1  channel-id="FM 105.5 Mhz" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV5.png",VOV5
 http://gg.gg/HaNoiIPTV-VOV5
+channel-id="FM 105.5 Mhz" group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo=" ",France Info
+http://gg.gg/HaNoiIPTV-France_Info
 #EXTINF:-1  channel-id="FM 106 Mhz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="http://danangtv.vn/images/radio.png",Đà Nẵng RADIO - Phát thanh Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/chunklist.m3u8
 #EXTINF:-1  group-title="KÊNH YOUTUBE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc.png",VP Tube - Truyền hình Vĩnh Phúc
