@@ -1,12 +1,22 @@
 #EXTM3U
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/Europe%201.png",Europe 1
+http://gg.gg/Europe_1
 #EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Inter.png",France Inter
 http://gg.gg/France_Inter
 #EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Bleu.png",France Bleu
 http://gg.gg/France_Bleu
-#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
-http://gg.gg/HaNoiIPTV-VOV6
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VTC13%20Giao%20th%C3%B4ng.png",VTC13 Giao thông
 http://gg.gg/HaNoiIPTV-VTC13_Giao_thong
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
+http://gg.gg/HaNoiIPTV-VOV6
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Culture.png",France Culture
+http://gg.gg/France_Culture
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/France%20Musique.png",France Musique
+http://gg.gg/France_Musique
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/FIP.png",FIP
+http://gg.gg/HaNoiIPTV-Fip
+#EXTINF:-1  group-title="KÊNH PHÁT THANH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/Mouv'.png",Mouv
+http://gg.gg/HaNoiIPTV-Mouv
 #EXTINF:-1  channel-id="AM 610Khz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="https://voh.com.vn/images/icons/icon-small-2.png",VOH1
 https://strm.voh.com.vn/radio/channel2/chunklist_w349557567.m3u8
 #EXTINF:-1  channel-id="FM 87.7 Mhz" group-title="KÊNH PHÁT THANH TRONG NƯỚC" tvg-logo="https://voh.com.vn/images/icons/icon-small-3.png",VOH4
