@@ -152,6 +152,9 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226117/1000010000000006000000000235
 rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 #EXTINF:-1  group-title="福建省广播影视集团" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/FJTV9/FJTV9.jpg?1",福建少儿频道高青
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+
+#EXTINF:-1  group-title="广东省广播电视台" tvg-logo=" ",广东经济科教频道高清
+http://gg.gg/HeNeiIPTV-Guang_Dong_Jing_Ji_Ke_Jiao_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1",广州综合频道高清
 http://aplay.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1  group-title="广东省广州市广播电视台" tvg-logo="https://tva4.sinaimg.cn/crop.0.0.320.320.180/7254a388jw8eswfrmoxq3j208w08wt8w.jpg?KID=imgbedtva&Expires=1584863715&ssig=mdoztKXhlS",广州新闻频道高清
@@ -170,6 +173,12 @@ http://aplay.gztv.com/sec/shenghuos.m3u8
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共频道高清
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山教育频道高清
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Jiao_Yu_Pin_Dao_Gao_Qing
+#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共信息频道
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Xin_Xi_Pin_Dao
+#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山环球旅游频道
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Huan_Qiu_Lv_You_Pin_Dao
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
 http://hls333.dszbdq.cn/gdcz.php?id=11
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
