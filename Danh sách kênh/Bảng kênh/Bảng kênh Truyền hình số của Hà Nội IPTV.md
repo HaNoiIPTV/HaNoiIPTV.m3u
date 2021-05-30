@@ -461,18 +461,6 @@
 		</tbody>
 </table>
 
-<h2>a, Lưu ý</h2>
-Các kênh truyền hình có ghi chú độc quyền phát sóng trên Hà Nội IPTV là các kênh phối hợp phát sóng với Hà Nội IPTV - Ngách 2/3/7 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội và các địa điểm liên quan đến Hoàng Huy Mạnh như: Công an huyện Hoài Đức - Quốc lộ 32, thị trấn Trạm Trôi, huyện Hoài Đức, Hà Nội; Star Beer Mạnh An - 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội; Bệnh viện Phụ sản Hà Nội - 929 Đường La Thành, phường Láng Thượng, quận Ba Đình, Hà Nội; Bệnh viện Nhi Trung ương - 18 Ngõ 879 Đường La Thành, phường Láng Thượng, quận Đống Đa, Hà Nội; Văn Miếu - Quốc Tử Giám - 58 Phố Quốc Tử Giám, phường Văn Miếu, quận Đống Đa, Hà Nội; Hoàng thành Thăng Long - 19C Phố Hoàng Diệu, phường Điện Biên, quận Ba Đình, Hà Nội; Lăng Chủ tịch Hồ Chí Minh & Văn phòng Chủ tịch nước - 2 Đường Hùng Vương, phường Điện Biên, quận Ba Đình, Hà Nội; Chùa Một Cột, Phường Đội Cấn, quận Ba Đình, Hà Nội; Rạp tháng 8 - 45 Phố Hàng Bài, phường Hàng Bài, quận Hoàn Kiếm, Hà Nội; Phố đi bộ Hồ Gươm, Hồ Hoàn Kiếm - Ngã tư phố Đinh Tiên Hoàng, phố Hàng Bài và phố Hàng Khay, phường Tràng Tiền, quận Hoàn Kiếm, Hà Nội; Công viên Thống Nhất - 354A Đường Lê Duẩn, phường Phương Liên, quận Đống Đa, Hà Nội; Rạp xiếc Trung ương - 67 - 69 Phố Trần Nhân Tông, phường Lê Đại Hành, quận Hai Bà Trưng, Hà Nội; Bệnh viện mắt Trung ương - 85 Phố Bà Triệu, phường Bùi Thị Xuân, quận Hai Bà Trưng, Hà Nội; Bệnh viện Da liễu Trung ương - 15A Phố Phương Mai, quận Đống Đa, Hà Nội;....).<br />
-
-<h2>b, Chú thích</h2>
-1. 조선 중앙텔레비죤 방송.<br />
-2. Kênh quê mình.<br />
-3. Kênh nhà mình.<br />
-4. Bắt đầu từ ngày 5/5/2021, Đài Phát thanh và Truyền hình Hà Nội phát sóng trở lại bằng hình thức thay đổi tín hiệu nhưng độ phân giải, FPS vẫn giữ nguyên.<br />
-5. Sử dụng từ ứng dụng VTV Go.<br />
-ĐQ. Độc quyền phát sóng trên Hà Nội IPTV.<br />
-TN. Tiếp nhận phản ánh qua số điện thoại: 0962471968 hoặc 0913522359.<br />
-
 <h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
 <table>
 	<thead>
