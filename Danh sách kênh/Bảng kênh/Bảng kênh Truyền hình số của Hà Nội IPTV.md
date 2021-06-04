@@ -265,36 +265,9 @@
 		<tr><td align="left">481</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau%20HD.png"/></td><td align="left">CTV - Truyền hình Cà Mau HD</td><td align="left">720.30</td><td align="left">482</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Asset-11%404x.png"/></td><td align="left">QRTV - Truyền hình Quảng Trị HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">483</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i%20HD.png"/></td><td align="left">PTQ - Truyền hình Quảng Ngãi HD</td><td align="left">720.25</td><td align="left">484</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh.png"/></td><td align="left">BTV - Truyền hình Bình Định</td><td align="left">1080.25</td></tr>
 		<tr><td align="left">485</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ph%C3%BA%20Y%C3%AAn.png"/></td><td align="left">PTP - Truyền hình Phú Yên</td><td align="left">320.30</td><td align="left">486</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png"/></td><td align="left">KRT - Truyền hình Kon Tum HD</td><td align="left">720.30</td></tr>
-		<tr><td align="left">487</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%202%20HD.png"/></td><td align="left">STV2 - Truyền hình Sóc Trăng 2 HD</td><td align="left">320.30</td><td align="left">align="left">488</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV_HD.png"/></td><td align="left">THTV - Truyền hình Trà Vinh HD</td><td align="left">720.25</td></tr>
+		<tr><td align="left">487</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%202%20HD.png"/></td><td align="left">STV2 - Truyền hình Sóc Trăng 2 HD</td><td align="left">320.30</td><td align="left">488</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV_HD.png"/></td><td align="left">THTV - Truyền hình Trà Vinh HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">489</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD.png"/></td><td align="left">THHN - Truyền hình Hà Nam HD</td><td align="left">720.25</td><td align="left">490</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Nam%20HD.png"/></td><td align="left">QRT - Truyền hình Quảng Nam HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">491</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BPTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%202.png"/></td><td align="left">BPTV2 - Home TV</td><td align="left">720.25</td><td align="left">492</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n.png"/></td><td align="left">TBK - Truyền hình Bắc Kạn</td><td align="left">320.29</td></tr>
 		<tr><td align="left">493</td><td align="between"><img height="20" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Giang%20HD.png"/></td><td align="left">BGTV - Truyền hình Bắc Giang HD</td><td align="left">1080.30</td></tr>
 		</tbody>
 </table>
-		Đài Phát thanh và Truyền hình Đắk Lắk - 1 Đường Nguyễn Tất Thành, phường Thắng Lợi, TP. Buôn Ma Thuột, Đắk Lắk
-		Đài Phát thanh và Truyền hình Đắk Nông - 82 Đường 23 tháng 3, phường Nghĩa Đức, TP. Gia Nghĩa, Đắk Nông
-		Đài Phát thanh và Truyền hình Lâm Đồng - 10 Đường Trần Hưng Đạo, phường 10, TP. Đà Lạt, Lâm Đồng
-		Đài Phát thanh và Truyền hình Long An - 125 Quốc lộ 1A, phường 4, TP. Tân An, Long An
-		Đài Phát thanh và Truyền hình Kiên Giang - 39 Đường Đống Đa, phường Vĩnh Lạc, TP. Rạch Giá, Kiên Giang
-		Đài Phát thanh và Truyền hình Kiên Giang - 39 Đường Đống Đa, phường Vĩnh Lạc, TP. Rạch Giá, Kiên Giang
-		Đài Phát thanh và Truyền hình Cà Mau - 413 Đường Nguyễn Trãi, phường 9, TP. Cà Mau
-		Đài Phát thanh, Truyền hình Quảng Trị - 105 Đường Nguyễn Trãi, phường 1, TP. Đông Hà, Quảng Trị
-		Đài Phát thanh và Truyền hình Quảng Ngãi - 165 Đường Hùng Vương, phường Trần Phú, TP. Quảng Ngãi
-		Đài Phát thanh và Truyền hình Bình Định - 54 Đường Mai Xuân Thưởng, phường Lê Hồng Phong, TP. Quy Nhơn, Bình Định
-		Đài Phát thanh và Truyền hình Phú Yên - 81 Đường Lê Trung Kiên, phường 1, TP. Tuy Hòa, Phú Yên
-		Đài Phát thanh và Truyền hình Kon Tum - 258A Đường Phan Đình Phùng, phường Ngô Mây, TP. Kon Tum
-		Đài Phát thanh và Truyền hình Trà Vinh - 18A Đường Lê Lợi, phường 1, TP. Trà Vinh
-		Đài Phát thanh, Truyền hình Hà Nam - 219 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam
-		Đài Phát thanh, Truyền hình Quảng Nam - 58 Đường Hùng Vương, phường Tân Thạnh, TP. Tam Kỳ, Quảng Nam
-		Đài Phát thanh và Truyền hình Bạc Liêu - 410 Đường 23 tháng 8, phường 8, TP. Bạc Liêu
-		Đài Phát thanh, Truyền hình Bắc Kạn - Tổ 6, phường Phùng Chí Kiên, TP. Bắc Kạn</td></tr>
-		Đài Phát thanh và Truyền hình Bắc Giang - Đường Võ Nguyên Giáp, xã Tân Mỹ, TP. Bắc Giang
-Đài Phát thanh, Truyền hình Cao Bằng - 87 Phố Bế Văn Đàn, phường Hợp Giang, TP. Cao Bằng
-		Đài Phát thanh và Truyền hình Thái Nguyên - 226 Đường Bến Oánh, phường Túc Duyên, TP. Thái Nguyên
-Đài Phát thanh và Truyền hình Yên Bái - 1 Đường Trần Quốc Toản, phường Đồng Tâm, TP. Yên Bái
-		Đài Phát thanh và Truyền hình tỉnh Tuyên Quang - 219 Đường Tân Trào, phường Phan Thiết, TP. Tuyên Quang
-		Đài Phát thanh và Truyền hình Hà Giang - 126 Đường Nguyễn Thái Học, phường Trần Phú, TP. Hà Giang
-Đài Phát thanh và Truyền hình Lào Cai - Đường 30 tháng 4, phường Nam Cường, TP. Lào Cai
-			Đài Phát thanh, Truyền hình Sơn La - Tổ 1, phường Quyết Thắng, TP. Sơn La
-			Đài Phát thanh và Truyền hình Điện Biên - 829 Đường Võ Nguyên Giáp, phường Mường Thanh, TP. Điện Biên Phủ, Điện Biên
-			Đài Phát thanh và Truyền hình tỉnh Hòa Bình - 550 Đường Trần Hưng Đạo, phường Phương Lâm, TP. Hòa Bình
