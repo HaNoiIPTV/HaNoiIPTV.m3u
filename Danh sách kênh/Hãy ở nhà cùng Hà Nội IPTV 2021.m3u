@@ -460,12 +460,12 @@ http://gg.gg/HaNoiIPTV-SCTV2_HD
 http://gg.gg/HaNoiIPTV-SCTV6_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%203%20HD.png",Truyền hình Hà Nội 3 HD
 http://gg.gg/Truyen_hinh_Ha_Noi_3_HD
-#EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%202%20HD.png",QTV2 - Truyền hình Quảng Ninh 2 HD
-http://gg.gg/QTV2-Truyen_hinh_Quang_Ninh_2_HD
-#EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%204%20HD.png",QTV4 - Truyền hình Quảng Ninh 4 HD
-http://gg.gg/QTV4-Truyen_hinh_Quang_Ninh_4_HD
-#EXTINF:-1  group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV5%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%205%20HD.png",QTV5 - Truyền hình Quảng Ninh 5 HD
-http://gg.gg/QTV5-Truyen_hinh_Quang_Ninh_5_HD
+#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Ilkokul.png",TRT Eba İlkokul HD
+http://gg.gg/HaNoiIPTV-TRT_Eba_Ilkokul_HD
+#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Ortaokul.png",TRT Eba Ortaokul HD
+http://gg.gg/HaNoiIPTV-TRT_Eba_Ortaokul_HD
+#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Lise.png",TRT Eba Lise HD
+http://gg.gg/HaNoiIPTV-TRT_Eba_Lise_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%201%20-%20KBS2%20HD.png",Hà Nội IPTV 1 - KBS2 HD
 http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/RTS%20Un%20HD.png",RTS Un HD
@@ -541,7 +541,7 @@ http://gg.gg/Ha_Noi_IPTV_17-OCN_HD
 http://gg.gg/RMC_Story_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2032%20-%20OCN%20Movies%20HD.png",Hà Nội IPTV 18 - OCN Movies HD
 http://gg.gg/Ha_Noi_IPTV_18-OCN_Movies_HD
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20Premium%20HD.jpg",NHK World Premium HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20Premium%20HD.png",NHK World Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/NHK_World_Premium_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2033%20-%20OCN%20Thrills%20HD.png",Hà Nội IPTV 19 - OCN Thrils HD
@@ -904,73 +904,71 @@ http://gg.gg/Ha_Noi_IPTV_79-SK_stoa_HD
 http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Mua%20s%E1%BA%AFm%20c%C3%B9ng%20H%C3%A0%20N%E1%BB%99i%20IPTV/H%C3%A0%20N%E1%BB%99i%20IPTV%2080%20-%20K%EC%87%BC%ED%95%91%20HD%20(K%20Shopping%20HD).png",Hà Nội IPTV 80 - K Shopping HD
 http://gg.gg/Ha_Noi_IPTV_80-K_Shopping_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Sixx%20HD.png",Sixx HD
-http://gg.gg/Sixx_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Pro%20Sieben%20HD.png",Pro Sieben HD
-http://gg.gg/Pro_Sieben_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9C%D0%A3%D0%97.png",МУЗ
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Mua%20s%E1%BA%AFm%20c%C3%B9ng%20H%C3%A0%20N%E1%BB%99i%20IPTV/H%C3%A0%20N%E1%BB%99i%20IPTV%2081%20-%20%EA%B3%B5%EC%98%81%EC%87%BC%ED%95%91%20HD%20(Gongyoung%20Shopping%20HD).png",Hà Nội IPTV 81 - Gongyoung Shopping HD
 http://gg.gg/Ha_Noi_IPTV_81-Gongyoung_Shopping_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT1.png",TRT1 HD
-http://gg.gg/HaNoiIPTV-TRT1_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/RU.TV.png",RU.TV
+http://gg.gg/HaNoiIPTV-RU-TV
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20IPTV%2040%20-%20JTBC%20Golf%20%26%20Sports%20HD.png",Hà Nội IPTV 10 - JTBC Golf & Sports HD
 http://gg.gg/Ha_Noi_IPTV_10-JTBC_Golf_and_Sports_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT2.png",TRT2 HD
-http://gg.gg/HaNoiIPTV-TRT2_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Sixx%20HD.png",Sixx HD
+http://gg.gg/Sixx_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00588.png",Hà Nội IPTV 10+ - JTBC Golf HD
 http://gg.gg/Ha_Noi_IPTV_10_Plus-JTBC_Golf_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Belgesel.png",TRT Belgesel HD
-http://gg.gg/HaNoiIPTV-TRT_Belgesel_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Pro%20Sieben%20HD.png",Pro Sieben HD
+http://gg.gg/Pro_Sieben_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://skylifetv.co.kr/theme/business/html/business/image/sky_Sports.png",Hà Nội IPTV 31 - Sky Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_31-Sky_Sports_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Haber.png",TRT Haber HD
-http://gg.gg/HaNoiIPTV-TRT_Haber_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT1.png",TRT1 HD
+http://gg.gg/HaNoiIPTV-TRT1_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://www.kbsn.co.kr/images/ch_sports.png",Hà Nội IPTV 47 - KBSN Sports HD
 http://gg.gg/Ha_Noi_IPTV_47-KBSN_Sports_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Spor%20HD.png",TRT Spor HD
-http://gg.gg/HaNoiIPTV-TRT_Spor_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT2.png",TRT2 HD
+http://gg.gg/HaNoiIPTV-TRT2_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_02.png",Hà Nội IPTV 52 - MBC Sports Plus HD
 http://gg.gg/Ha_Noi_IPTV_52-MBC_Sports_Plus_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Spor%20Y%C4%B1ld%C4%B1z.png",TRT Spor Yıldız HD
-http://gg.gg/HaNoiIPTV-TRT_Spor_Yildiz_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Belgesel.png",TRT Belgesel HD
+http://gg.gg/HaNoiIPTV-TRT_Belgesel_HD
 #EXTINF:-1  group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_06.png",Hà Nội IPTV 52+ - MBC ON HD
 http://gg.gg/Ha_Noi_IPTV_52_Plus-MBC_On_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20M%C3%BCzik.png",TRT Müzik HD
-http://gg.gg/HaNoiIPTV-TRT_Muzik_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Haber.png",TRT Haber HD
+http://gg.gg/HaNoiIPTV-TRT_Haber_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",Hà Nội IPTV 56 - SBS Sports HD
 http://gg.gg/Ha_Noi_IPTV_56-SBS_Sports_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Spor%20HD.png",TRT Spor HD
+http://gg.gg/HaNoiIPTV-TRT_Spor_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2057%20-%20SBS%20Golf%20HD.png",Hà Nội IPTV 57 - SBS Golf HD
+http://gg.gg/Ha_Noi_IPTV_57-SBS_Golf_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Spor%20Y%C4%B1ld%C4%B1z.png",TRT Spor Yıldız HD
+http://gg.gg/HaNoiIPTV-TRT_Spor_Yildiz_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2059%20-%20SPOTV%20HD.png",Hà Nội IPTV 59 - SPOTV HD
+http://gg.gg/Ha_Noi_IPTV_59-SPOTV_HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20M%C3%BCzik.png",TRT Müzik HD
+http://gg.gg/HaNoiIPTV-TRT_Muzik_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2060%20-%20SPOTV2%20HD.png",Hà Nội IPTV 60 - SPOTV2 HD
+http://gg.gg/Ha_Noi_IPTV_60-SPOTV2_HD
 #EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20%C3%87ocuk.png",TRT Çocuk HD
 http://gg.gg/HaNoiIPTV-TRT_Cocuk_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/298ece5481105100844.png",Hà Nội IPTV 57 - SBS Golf HD
-http://gg.gg/Ha_Noi_IPTV_57-SBS_Golf_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2061%20-%20SPOTV%20Golf%20%26%20Health%20HD.png",Hà Nội IPTV 61 - SPOTV Golf & Health HD
+http://gg.gg/Ha_Noi_IPTV_61-SPOTV_Golf_and_Health_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20T%C3%BCrk.png",TRT Türk HD
 http://gg.gg/HaNoiIPTV-TRT_Turk_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotv.png",Hà Nội IPTV 59 - SPOTV HD
-http://gg.gg/Ha_Noi_IPTV_59-SPOTV_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2062%20-%20STATV%20HD.png",Hà Nội IPTV 62 - STATV HD
+http://gg.gg/Ha_Noi_IPTV_62-STATV_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Avaz.png",TRT Avaz HD
 http://gg.gg/HaNoiIPTV-TRT_Avaz_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotv_2.png",Hà Nội IPTV 60 - SPOTV2 HD
-http://gg.gg/Ha_Noi_IPTV_60-SPOTV2_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Kurd%C3%AE.png",TRT Kurdî HD
-http://gg.gg/HaNoiIPTV-TRT_Kurdi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.spotv.net/images/onair_spotvgolf&health.png",Hà Nội IPTV 61 - SPOTV Golf & Health HD
-http://gg.gg/Ha_Noi_IPTV_61-SPOTV_Golf_and_Health_HD
-#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D8%B9%D8%B1%D8%A8%D9%8A%20TRT.png",عربيTRT HD
-http://gg.gg/HaNoiIPTV-Arabic_TRT_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo=" ",Hà Nội IPTV 62 - STATV HD
-http://gg.gg/Ha_Noi_IPTV_62-STATV_HD
-#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Ilkokul.png",TRT Eba İlkokul HD
-http://gg.gg/HaNoiIPTV-TRT_Eba_Ilkokul_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="http://ibsportstv.com/webuser/page/img/img_in_tit_sports.png",Hà Nội IPTV 63 - IB Sports HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2063%20-%20IB%20Sports%20HD.png",Hà Nội IPTV 63 - IB Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_63-IB_Sports_HD
-#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Ortaokul.png",TRT Eba Ortaokul HD
-http://gg.gg/HaNoiIPTV-TRT_Eba_Ortaokul_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://www.billiardstv.co.kr/image/common/sports1_logo.png",Hà Nội IPTV 64 - Billiards TV HD
+#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Kurd%C3%AE.png",TRT Kurdî HD
+http://gg.gg/HaNoiIPTV-TRT_Kurdi_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2064%20-%20Billiards%20TV%20HD.png",Hà Nội IPTV 64 - Billiards TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://gg.gg/Ha_Noi_IPTV_64-Billiards_TV_HD
-#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Lise.png",TRT Eba Lise HD
-http://gg.gg/HaNoiIPTV-TRT_Eba_Lise_HD
+#EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D8%B9%D8%B1%D8%A8%D9%8A%20TRT.png",عربيTRT HD
+http://gg.gg/HaNoiIPTV-Arabic_TRT_HD
 #EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC2%20HD.png",VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.81:8460" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png",VTC3 HD
@@ -1043,155 +1041,9 @@ http://gg.gg/BPTV2-Home_TV
 http://gg.gg/TBK-Truyen_hinh_Bac_Kan
 #EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Giang%20HD.png",BGTV - Truyền hình Bắc Giang HD
 http://gg.gg/BGTV-Truyen_hinh_Bac_Giang_HD
-#EXTINF:-1  group-title="CÁC KÊNH KHÁC" tvg-logo=" ",VBS (Vietnam Broadcast Station)
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",GEM KIDS
-http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Channel3-SD28_2015.png/revision/latest/scale-to-width-down/185?cb=20170812021803",Channel 3 - ช่อง 3
-rtmp://27.254.63.108/live/ch3.stream
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Channel_3_HD_%282020%29.svg/revision/latest/scale-to-width-down/300?cb=20200606120128",Channel 3 - ช่อง 3 HD
-http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV5_TGN.png/revision/latest/scale-to-width-down/170?cb=20200713093144",Channel 5 - ช่อง  5
-rtmp://27.254.63.108/live/ch5.stream
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/BBTVChannel7_LogoHD.png/revision/latest/scale-to-width-down/150?cb=20160117052448",Channel 7 - ช่อง  7 HD
-http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Ch_8_2016.svg/revision/latest/scale-to-width-down/200?cb=20190722060737",Channel 8 - ช่อง 8
-http://usa.login.in.th:1935/ch8/ch8/chunklist_w774195207.m3u8
-#EXTINF:-1  group-title="KÊNH ASEAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Channel_9_MCOT_HD_2018.svg/revision/latest/scale-to-width-down/185?cb=20200901233534",Channel 9 MCOT - ช่อง 9 MCOT HD
-
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 - ประถมศึกษาปีที่ 1 HD
-https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/02_channel_logo.png",DLTV2 - ประถมศึกษาปีที่ 2 HD
-https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/03_channel_logo.png",DLTV3 - ประถมศึกษาปีที่ 3 HD
-https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/04_channel_logo.png",DLTV4 - ประถมศึกษาปีที่ 4 HD
-https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/05_channel_logo.png",DLTV5 - ประถมศึกษาปีที่ 5 HD
-https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/06_channel_logo.png",DLTV6 - ประถมศึกษาปีที่ 6 HD
-https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/07_channel_logo.png",DLTV7 - ประถมศึกษาปีที่ 7 HD
-https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV8 - ประถมศึกษาปีที่ 8 HD
-https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV9 - ประถมศึกษาปีที่ 9 HD
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV10 - อนุบาลศึกษาปีที่ 1 HD
-https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV11 - อนุบาลศึกษาปีที่ 2 HD
-https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/12_channel_logo.png",DLTV12 - อนุบาลศึกษาปีที่ 3 HD
-https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/13_channel_logo.png",DLTV13 - มัธยมศึกษาปีที่ 4 HD
-https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/14_channel_logo.png",DLTV14 - มัธยมศึกษาปีที่ 5 HD
-https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 - มัธยมศึกษาปีที่ 6 HD
-https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="http://www.m-channel.com/M/img/logo.png",M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1557652904.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/MONO29.svg/revision/latest/scale-to-width-down/300?cb=20150717084923",MONO 29
-http://183.182.100.184/live/mono29/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Unnamed_%281%29.jpg/revision/latest/scale-to-width-down/250?cb=20200726112039",NBT World
-http://202.122.40.219/livestream/nbtworld/chunklist_w1588377466.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/GMM_25B.png/revision/latest/scale-to-width-down/250?cb=20160229164238",GMM 25
-http://183.182.100.184/live/mcothd/chunklist.m3u8
-#EXTINF:-1  tvg-id="FAN TV" group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2Fef0c5b42-e46f-490c-83d5-8e660f66fb07.png&w=100&h=74",แฟน ทีวี
-http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/five.jpg",Five Channel
-https://edge1a.v2h-cdn.com/appt3/five.stream_720p/chunklist_w1204804825.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo=" ",
-http://203.154.83.176:1935/live/13wDt2b6g4/chunklist_w560789018.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo=" ",Rich
-rtmp://111.223.33.251/live/rich.360p
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo=" ",Suwannabhumi
-http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png/revision/latest/scale-to-width-down/250?cb=20170627120817",GMM One - ช่อง 1 HD
-http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944",PPTV HD
-http://183.182.100.184/live/pptvthai/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg/revision/latest/scale-to-width-down/150?cb=20190806064700",Thai PBS - สถานีวิทยุกระจายเสียงสาธารณะแห่งประเทศไทย HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png/revision/latest/scale-to-width-down/185?cb=20180112053812",TPTV
-http://49.231.66.85:1935/live/tptv/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png/revision/latest/scale-to-width-down/200?cb=20160508115215",Thairath TV HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest/scale-to-width-down/250?cb=20200703040406",TNN
-http://27.254.130.64/live01/chsd_TNN_5.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png/revision/latest/scale-to-width-down/250?cb=20160521055406",True 4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%20%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%94%E0%B8%B5%202.png",ทรูสปอร์ต เอชดี 2
-rtmp://27.254.63.108/live/tsp2.stream
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%20%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%94%E0%B8%B5%203%20HD.png",ทรูสปอร์ต เอชดี 3 HD
-http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%20%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%94%E0%B8%B5%205.png",ทรูสปอร์ต เอชดี 5
-rtmp://27.254.63.108/live/tsp5.stream
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%20%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%94%E0%B8%B5%206.png",ทรูสปอร์ต เอชดี 6
-rtmp://27.254.63.108/live/tsp6.stream
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B8%AA%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%20%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%94%E0%B8%B5%207.png",ทรูสปอร์ต เอชดี 7
-rtmp://27.254.63.108/live/tsp7.stream
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Tv5hd12018.png/revision/latest/scale-to-width-down/200?cb=20190731175213",TV5 HD1- ช่อง 5 HD1
-http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w1825371360.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png",White Channel - ช่องสีขาว
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/4b5901d2-d0d6-436a-b365-b21a00f54f22-----workpoint-logo.png/revision/latest/scale-to-width-down/250?cb=20170508090614",Workpoint
-http://122.155.205.9/live/workpoint.stream/chunklist_w1598855795.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CNC.jpg/revision/latest/scale-to-width-down/250?cb=20191209090206",CNC
-http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913",Bayon TV
-http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest/scale-to-width-down/250?cb=20191210054257",BTV News
-http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/ETV_cambodia.png/revision/latest/scale-to-width-down/200?cb=20191210060023",ETV
-http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210055040",Hang Meas HDTV
-http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/RHMHDTV.png/revision/latest/scale-to-width-down/200?cb=20191210054254",RHM HDTV
-http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest/scale-to-width-down/250?cb=20191210054301",SEATV
-http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest/scale-to-width-down/230?cb=20170317174601",TVK
-http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Apsara_tv.png/revision/latest/scale-to-width-down/200?cb=20191209090040",APSARA
-http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/127?cb=20170424225823",PNN
-http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest/scale-to-width-down/300?cb=20191208065059",TV3 HD
-http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/TV5_Cambodia.jpeg/revision/latest/scale-to-width-down/144?cb=20170709211901",TV5
-http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest/scale-to-width-down/200?cb=20191208065712",TV9 HD
-http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo=" ",NTV
-http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo=" ",Town TV FHD
-http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",LaoSV TV
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Huong Fa TV
-https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Dhammasapha TV
-https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Khaomwungmai
-https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Brian TV
-https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Air TV
-https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Lao Thai US TV
-rtmp://liveplay3.malimarcdn.com/laothaiustv/laothaius.sdp
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest/scale-to-width-down/200?cb=20191209085803",CTN
-http://1419021143.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058",CTV8 HD
-http://1419021143.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",CTV9
-rtmp://203.176.130.123:8989/live/ctv9_480k.stream
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Go%20Shop.png",GoShop Ruuma
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Go%20Shop.png",GoShop
-https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Go%20Shop.png",GoShop Gaaya
-https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo=" ",Naurago Shop
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%202%20HD.png",QTV2 - Truyền hình Quảng Ninh 2 HD
+http://gg.gg/QTV2-Truyen_hinh_Quang_Ninh_2_HD
+#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%204%20HD.png",QTV4 - Truyền hình Quảng Ninh 4 HD
+http://gg.gg/QTV4-Truyen_hinh_Quang_Ninh_4_HD
+#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV5%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%205%20HD.png",QTV5 - Truyền hình Quảng Ninh 5 HD
+http://gg.gg/QTV5-Truyen_hinh_Quang_Ninh_5_HD
