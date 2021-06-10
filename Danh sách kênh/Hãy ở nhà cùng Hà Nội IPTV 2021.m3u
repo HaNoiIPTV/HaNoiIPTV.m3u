@@ -250,10 +250,10 @@ http://gg.gg/HaNoiIPTV-SCTV7_HD
 http://gg.gg/HaNoiIPTV-SCTV11-TV_Star_HD
 #EXTINF:-1  tvg-id="https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/chunklist_w1889476453_b4692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&cid=17" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV12%20HD.png",SCTV12 HD
 http://gg.gg/HaNoiIPTV-SCTV12_HD
-#EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YouTV%20-%20Hanoicab%202.png",YouTV - Hanoicab 2
-http://gg.gg/HaNoiIPTV-YouTV-Hanoicab_2
-#EXTINF:-1  tvg-id="https://ott.avg.vn/live/mov/chunklist_1.m3u8" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MOV%20HD%20-%20Hanoicab%204.png",MOV - Hanoicab 4
-http://gg.gg/HaNoiIPTV-MOV-Hanoicab_4
+#EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng.png",Toàn cảnh Hải Phòng 1 HD
+http://gg.gg/Toan_canh_Hai_Phong_1_HD
+#EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng.png",Toàn cảnh Hải Phòng 2 HD
+http://gg.gg/Toan_canh_Hai_Phong_2_HD
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV10%20-%20NCM.png",BTV10 - NCM
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV1.png",HTV1
