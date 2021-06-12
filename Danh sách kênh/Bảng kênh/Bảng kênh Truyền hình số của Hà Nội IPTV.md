@@ -231,20 +231,11 @@
 		<tr><td align="left">225</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%203%20-%20MBC%20HD.png"/></td><td align="left">Hà Nội IPTV 3 - MBC HD</td><td align="left">720.25</td><td align="left">452</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Ortaokul.png"/></td><td align="left">TRT Eba Ortaokul HD</td><td align="left">720.25</td></tr>
 		<tr><td align="left">226</td><td align="between"><img height="50" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/France%204.png"/></td><td align="left">France 4 HD</td><td align="left">Tùy theo thời điểm</td><td align="left">453</td><td align="between"><img height="40" src="https://www.billiardstv.co.kr/image/common/sports1_logo.png"/></td><td align="left">Hà Nội IPTV 64 - Billiards TV HD</td><td align="left">1080.60</td></tr>
 		<tr><td align="left">227</td><td align="between"><img height="60" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%204%20-%20OBS%20HD.png"/></td><td align="left">Hà Nội IPTV 4 - OBS HD</td><td align="left">720.25</td><td align="left">454</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20Eba%20Lise.png"/></td><td align="left">TRT Eba Lise HD</td><td align="left">720.25</td></tr>
-		</tbody>
+		<tr><td align="left">228</td><td align="between"><img height="50" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/France%205.png"/></td><td align="left">France 5 HD</td><td align="left">Tùy theo thời điểm</td><td align="left">457</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%A0%D0%91%D0%9A.png"/></td><td align="left">РБК</td><td align="left">480.50</td></tr>
+		<tr><td align="left">229</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png"/></td><td align="left">Hà Nội IPTV 5 - tvN HD</td><td align="left">720.25</td><td align="left">458</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png"/></td><td align="left">Hà Nội và cả nước HD</td><td align="left">720.25</td></tr>
 </table>
 
-<h1>2. Đối với các kênh do Hà Nội IPTV tự thực hiện</h1>
-<table>
-	<thead>
-		<tr><th align="left">STT</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">STT</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th></tr>
-	</thead>
-	<tbody>
-		<tr><td align="left">455</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png"/></td><td align="left">Toàn cảnh Hà Nội 1 HD</td><td align="left">720.29</td><td align="left">456</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png"/></td><td align="left">Toàn cảnh Hà Nội 2 HD</td><td align="left">720.30</td></tr>
-                </tbody>
-</table>
-
-<h1>3. Đối với các kênh lân cận với Hà Nội IPTV</h1>
+<h1>2. Đối với các kênh lân cận với Hà Nội IPTV</h1>
 <table>
 	<thead>
 		<tr><th align="left">STT</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th><th align="left">STT</th><th align="left">Logo</th><th align="left">Tên kênh</th><th align="left">Độ phân giải, FPS</th></tr>
