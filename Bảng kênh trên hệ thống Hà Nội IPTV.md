@@ -33,3 +33,16 @@
 		<tr><td align="left">53</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD.png"/></td><td align="left">Truyền hình Quốc hội HD</td><td align="left">215</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV9%20-%20An%20Vi%C3%AAn%20HD.png"/></td><td align="left">BTV9 - Truyền hình An Viên HD</td></tr>
 		</tbody>
 </table>
+
+<h2>3. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">146</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png"/></td><td align="left">VP - Truyền hình Vĩnh Phúc HD</td><td align="left">165</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a%20HD.png"/></td><td align="left">KTV - Truyền hình Khánh Hòa HD</td></tr>
+		<tr><td align="left">147</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.png"/></td><td align="left">BTV - Truyền hình Bắc Ninh HD</td><td align="left">166</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20Thu%E1%BA%ADn%20HD.png"/></td><td align="left">NTV - Truyền hình Ninh Thuận HD</td></tr>
+		<tr><td align="left">148</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png"/></td><td align="left">LTV - Truyền hình Lai Châu</td><td align="left">167</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn%20HD.png"/></td><td align="left">BTV - Truyền hình Bình Thuận HD</td></tr>
+		<tr><td align="left">149</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png"/></td><td align="left">HYTV HD - Truyền hình Hưng Yên</td><td align="left">168</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Gia%20Lai.png"/></td><td align="left">THGL - Truyền hình Gia Lai</td></tr>
+		</tbody>
+</table>
