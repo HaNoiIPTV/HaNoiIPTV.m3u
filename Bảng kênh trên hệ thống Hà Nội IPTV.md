@@ -61,3 +61,17 @@
 		<tr><td align="left">164</td><td align="between"><img height="50" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20HD.png"/></td><td align="left">DRT2 - Truyền hình Đà Nẵng 2 HD</td><td align="left">185</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%20HD.png"/></td><td align="left">STV1 - Truyền hình Sóc Trăng HD</td></tr>
 		</tbody>
 </table>
+
+<h2>4. CÁC KÊNH KHÁC</h2>
+<h2>a, NHÓM KÊNH VTC</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">456</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC2%20HD.png"/></td><td align="left">VTC2</td><td align="left">461</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC11.png"/></td><td align="left">VTC11</td></tr>
+		<tr><td align="left">457</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC4%20HD.png"/></td><td align="left">VTC4 - Yeah1 Family HD</td><td align="left">462</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC12%20HD.png"/></td><td align="left">VTC12</td></tr>
+		<tr><td align="left">458</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC5%20HD.png"/></td><td align="left">VTC5 HD</td><td align="left">463</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png"/></td><td align="left">CRTV - Truyền hình Cao Bằng HD</td></tr>
+		<tr><td align="left">459</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC6%20HD.png"/></td><td align="left">VTC6 HD</td><td align="left">469</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png"/></td><td align="left">STV - Truyền hình Sơn La HD</td></tr>
+		<tr><td align="left">460</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC8%20HD.png/></td><td align="left">VTC8 HD</td><td align="left">474</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng.png"/></td><td align="left">LTV - Truyền hình Lâm Đồng HD</td></tr>
+			
