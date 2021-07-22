@@ -64,7 +64,8 @@
 	<tbody>
 		<tr><td align="left">91</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV%20Phim%20T%E1%BB%95ng%20H%E1%BB%A3p%20HD.png"/></td><td align="left">SCTV Phim Tổng Hợp HD</td><td align="left">122</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV4.png"/></td><td align="left">HTV4</td></tr>
 		<tr><td align="left">92</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png"/></td><td align="left">BTV1 - Truyền hình Bình Dương 1 HD</td><td align="left">123</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Ca%20Nh%E1%BA%A1c%20HD.png"/></td><td align="left">HTVC Ca Nhạc</td></tr>
-		
+		<tr><td align="left">109</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV1%20HD.png"/></td><td align="left">SCTV1 HD</td><td align="left">124</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Du%20l%E1%BB%8Bch%20v%C3%A0%20Kh%C3%A1m%20ph%C3%A1%20HD.png"/></td><td align="left">HTVC Du lịch & Cuộc sống HD</td></tr>
+		<tr><td align="left">110</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%203%20HD.png"/></td><td align="left">Truyền hình Vĩnh Long 3 HD</td><td align="left">125</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Gia%20%C4%90%C3%ACnh%20HD.png"/></td><td align="left">HTVC Gia Đình HD</td></tr>
 		</tbody>
 </table>
 
