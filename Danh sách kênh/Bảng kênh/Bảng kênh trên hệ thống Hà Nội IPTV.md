@@ -34,7 +34,7 @@
 		</tbody>
 </table>
 
-<h2>3. NHÓM MỘT SỐ KÊNH THỂ THAO</h2>
+<h2>3. NHÓM KÊNH THỂ THAO</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -45,7 +45,30 @@
 		</tbody>
 </table>
 
-<h2>6. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
+
+<h2>4. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">94</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png"/></td><td align="left">BTV4 HD</td></tr>
+		</tbody>
+</table>
+
+<h2>6. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">91</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV%20Phim%20T%E1%BB%95ng%20H%E1%BB%A3p%20HD.png"/></td><td align="left">SCTV Phim Tổng Hợp HD</td><td align="left">122</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV4.png"/></td><td align="left">HTV4</td></tr>
+		<tr><td align="left">92</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png"/></td><td align="left">BTV1 - Truyền hình Bình Dương 1 HD</td><td align="left">123</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Ca%20Nh%E1%BA%A1c%20HD.png"/></td><td align="left">HTVC Ca Nhạc</td></tr>
+		
+		</tbody>
+</table>
+
+<h2>8. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
