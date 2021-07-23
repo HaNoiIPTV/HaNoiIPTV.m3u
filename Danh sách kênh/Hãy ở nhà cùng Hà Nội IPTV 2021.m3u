@@ -301,9 +301,11 @@ http://gg.gg/HaNoiIPTV-France_24
 http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.png",BTV - Truyền hình Bắc Ninh HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
+http://gg.gg/CRTV-Truyen_hinh_Cao_Bang_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png",HYTV - Truyền hình Hưng Yên HD
 http://gg.gg/HaNoiIPTV-HYTV-Truyen_hinh_Hung_Yen_HD
-#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.png",HDTV - Truyền hình Hải Dương HD
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/S%E1%BB%B1%20ki%E1%BB%87n/Logo%20c%E1%BB%A7a%20website%20haiduongtv.vn.png",HDTV - Truyền hình Hải Dương HD
 http://gg.gg/HaNoiIPTV-HDTV-Truyen_hinh_Hai_Duong_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nam%20%C4%90%E1%BB%8Bnh%20HD.png",NTV - Truyền hình Nam Định HD
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nam_Dinh_HD
@@ -357,8 +359,6 @@ http://gg.gg/HaNoiIPTV-TTV11-Truyen_hinh_Tay_Ninh_HD
 http://gg.gg/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90NRTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%202%20HD.png",ĐN2 - Truyền hình Đồng Nai 2 HD
 http://gg.gg/HaNoiIPTV-DN2-Truyen_hinh_Dong_Nai_2_HD
-#EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Hà Nội và cả nước HD
-http://gg.gg/Ha_Noi_va_ca_nuoc_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u%20HD.png",BRT - TH Bà Rịa Vũng Tàu HD
 http://gg.gg/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Th%C3%A1p%20HD.png",THĐT1 - Truyền hình Đồng Tháp HD
@@ -982,8 +982,8 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC12%20HD.png",VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
-http://gg.gg/CRTV-Truyen_hinh_Cao_Bang_HD
+#EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Hà Nội và cả nước HD
+http://gg.gg/Ha_Noi_va_ca_nuoc_HD
 #EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20v%C3%A0%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng.png",Toàn cảnh Hải Phòng 1 HD
 http://gg.gg/Toan_canh_Hai_Phong_1_HD
 #EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ident%20THP%2B.png",Toàn cảnh Hải Phòng 2 HD
