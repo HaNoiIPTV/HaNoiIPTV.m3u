@@ -15,7 +15,19 @@
 		</tbody>
 </table>
 
-<h2>2. NHÓM KÊNH TRONG NƯỚC</h2>
+<h2>2. NHÓM KÊNH VTVCab</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">13</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20HD.png"/></td><td align="left">VTVCab1 - Vie Giải Trí HD</td><td align="left">25</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20Yeah1%20TV.png"/></td><td align="left">VTVCab17 - Yeah1 TV</td></tr>
+		<tr><td align="left">14</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab2%20-%20Phim%20Vi%E1%BB%87t%20HD.png"/></td><td align="left">VTVCab2 - Phim Việt HD</td><td align="left">26</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20Vie%20DRAMAS%20HD.png"/></td><td align="left">VTVCab19 - Vie DRAMAS HD</td></tr>
+		<tr><td align="left">15</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20HD.png"/></td><td align="left">VTVCab4 HD</td><td align="left">27</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab20%20-%20VFamily.png"/></td><td align="left">VTVCab20 - VFamily</td></tr>
+		</tbody>
+</table>
+		
+<h2>3. NHÓM KÊNH TRONG NƯỚC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -34,7 +46,7 @@
 		</tbody>
 </table>
 
-<h2>3. NHÓM KÊNH THỂ THAO</h2>
+<h2>4. NHÓM KÊNH THỂ THAO</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -45,7 +57,7 @@
 		</tbody>
 </table>
 
-<h2>4. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
+<h2>5. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -67,7 +79,7 @@
 		</tbody>
 </table>
 
-<h2>5. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
+<h2>6. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -77,7 +89,14 @@
 		</tbody>
 </table>
 
-<h2>7. NHÓM KÊNH TIN TỨC</h2>
+<h2>7. NHÓM KÊNH THIẾU NHI</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		
+<h2>8. NHÓM KÊNH TIN TỨC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -88,7 +107,7 @@
 		</tbody>
 </table>
 		
-<h2>8. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
+<h2>9. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -116,7 +135,7 @@
 		</tbody>
 </table>
 
-<h2>9. NHÓM KÊNH PHIM TRUYỆN</h2>
+<h2>10. NHÓM KÊNH PHIM TRUYỆN</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -124,7 +143,7 @@
 		</tbody>
 </table>
 
-<h2>10. CÁC KÊNH KHÁC</h2>
+<h2>11. CÁC KÊNH KHÁC</h2>
 <h2>a, NHÓM KÊNH VTC</h2>
 <table>
 	<thead>
