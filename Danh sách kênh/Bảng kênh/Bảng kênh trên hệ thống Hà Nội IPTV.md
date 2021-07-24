@@ -61,8 +61,8 @@
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
 	</thead>
 	<tbody>
+		<tr><td align="left">42</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png"/></td><td align="left">SCTV17 HD</td><td align="left">76</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png"/></td><td align="left">HTV Thể Thao</td></tr>
 		<tr><td align="left">66</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png"/></td><td align="left">SCTV15 HD</td><td align="left">222</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png"/></td><td align="left">VTC3 HD</td></tr>
-		<tr><td align="left">76</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png"/></td><td align="left">HTV Thể Thao</td></tr>
 		</tbody>
 </table>
 
