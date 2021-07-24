@@ -45,18 +45,7 @@
 		</tbody>
 </table>
 
-
-<h2>4. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
-<table>
-	<thead>
-		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
-	</thead>
-	<tbody>
-		<tr><td align="left">94</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png"/></td><td align="left">BTV4 HD</td><td align="left">213</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV9%20HD.png"/></td><td align="left">SCTV9 HD</td></tr></td></tr>
-		</tbody>
-</table>
-
-<h2>6. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
+<h2>3. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -75,6 +64,16 @@
 		<tr><td align="left">117</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV12%20HD.png"/></td><td align="left">SCTV12 HD</td><td align="left">212</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV13%20-%20Lady%20TV%20HD.png"/></td><td align="left">SCTV13 - Lady TV HD</td></tr>
 		<tr><td align="left">120</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV10%20-%20NCM.png"/></td><td align="left">BTV10 - NCM</td><td align="left">219</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV2%20HD.png"/></td><td align="left">SCTV2 HD</td></tr>
 		<tr><td align="left">121</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV1.png"/></td><td align="left">HTV1</td><td align="left">220</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV6%20HD.png"/></td><td align="left">SCTV6 HD</td></tr>
+		</tbody>
+</table>
+
+<h2>4. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">94</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png"/></td><td align="left">BTV4 HD</td></tr>
 		</tbody>
 </table>
 
@@ -106,7 +105,15 @@
 		</tbody>
 </table>
 
-<h2>4. CÁC KÊNH KHÁC</h2>
+<h2>9. NHÓM KÊNH PHIM TRUYỆN</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+align="left">213</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV9%20HD.png"/></td><td align="left">SCTV9 HD</td></tr>
+		</tbody>
+</table>
+
+<h2>10. CÁC KÊNH KHÁC</h2>
 <h2>a, NHÓM KÊNH VTC</h2>
 <table>
 	<thead>
