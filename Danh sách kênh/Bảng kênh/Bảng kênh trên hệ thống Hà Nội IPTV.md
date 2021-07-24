@@ -77,6 +77,17 @@
 		</tbody>
 </table>
 
+<h2>7. NHÓM KÊNH TIN TỨC</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">138</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC16%20HD.png"/></td><td align="left">VTC16 HD</td><td align="left">140</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png"/></td><td align="left">SCTV8 - ViTV</td></tr>
+		<tr><td align="left">139</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC14%20HD.png"/></td><td align="left">VTC14 HD</td></tr>
+		</tbody>
+</table>
+		
 <h2>8. NHÓM KÊNH ĐỊA PHƯƠNG</h2>
 <table>
 	<thead>
