@@ -104,7 +104,7 @@
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">101</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANT%20-%20BPTV3.png"/></td><td align="left">ANT - BPTV3/td><td align="left">103</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV3%20-%20DreamsTV.png"/></td><td align="left">HTV3</td></tr>
+		<tr><td align="left">101</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANT%20-%20BPTV3.png"/></td><td align="left">ANT - BPTV3</td><td align="left">103</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV3%20-%20DreamsTV.png"/></td><td align="left">HTV3</td></tr>
 		<tr><td align="left">102</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV3%20-%20SeeTV.png"/></td><td align="left">SCTV3 - SeeTV</td></tr>
 		</tbody>
 </table>
