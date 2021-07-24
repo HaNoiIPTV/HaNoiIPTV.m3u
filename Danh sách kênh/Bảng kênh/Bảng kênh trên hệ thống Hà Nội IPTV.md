@@ -109,7 +109,7 @@
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
-align="left">213</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV9%20HD.png"/></td><td align="left">SCTV9 HD</td></tr>
+		<tr><td align="left">213</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV9%20HD.png"/></td><td align="left">SCTV9 HD</td></tr>
 		</tbody>
 </table>
 
