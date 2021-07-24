@@ -49,10 +49,10 @@
 <h2>4. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
 <table>
 	<thead>
-		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">94</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png"/></td><td align="left">BTV4 HD</td></tr>
+		<tr><td align="left">94</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png"/></td><td align="left">BTV4 HD</td><td align="left">213</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV9%20HD.png"/></td><td align="left">SCTV9 HD</td></tr></td></tr>
 		</tbody>
 </table>
 
