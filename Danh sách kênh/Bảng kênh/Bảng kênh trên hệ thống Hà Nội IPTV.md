@@ -45,7 +45,7 @@
 		</tbody>
 </table>
 
-<h2>3. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
+<h2>4. NHÓM KÊNH GIẢI TRÍ TỔNG HỢP</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
@@ -67,7 +67,7 @@
 		</tbody>
 </table>
 
-<h2>4. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
+<h2>5. NHÓM KÊNH GIẢI TRÍ ĐẶC SẮC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
