@@ -192,4 +192,15 @@
 		</tbody>
 </table>
 
+<h1>II. NHÓM KÊNH QUỐC TẾ</h1>
+<h2>1. NHÓM KÊNH THỂ THAO</h2>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
+	</thead>
+	<tbody>
+		<tr><td align="left">38</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox%20Sports%20HD.png"/></td><td align="left">Fox Sports HD</td><td align="left">65</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox%20Sports%203%20HD.png"/></td><td align="left">Fox Sports 3 HD</td></tr>
+		<tr><td align="left">64</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox%20Sports%202%20HD.png"/></td><td align="left">Fox Sports 2 HD</td></tr>
+		</tbody>
+</table>
 *Lưu ý: Bảng kênh có thể thay đổi tùy theo thời điểm
