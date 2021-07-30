@@ -26,7 +26,7 @@ Hướng dẫn chi tiết như sau:<br />
 ## I. Đối với hệ điều hành Android
 ### Cách 1:
 a) Chọn CH Play, tìm kiếm với từ khóa IPTV và cài đặt một trong các ứng dụng sau đây:<br />
-- IPTV: Vào ứng dụng này khi thêm playlist bằng URL [tại đây](http://gg.gg/hanoiiptv) thì bạn sẽ được theo dõi được hơn 500 kênh truyền hình kèm theo lịch phát sóng đầy đủ trong ngày cho một số kênh trong nước và quốc tế.<br />
+- IPTV: Vào ứng dụng này khi thêm playlist bằng URL [tại đây](http://gg.gg/hanoiiptv) thì bạn sẽ được theo dõi cho hơn 500 kênh truyền hình kèm theo lịch phát sóng đầy đủ trong ngày cho một số kênh trong nước và quốc tế.<br />
 - IPTV 3U: Vào ứng dụng này muốn theo dõi được dịch vụ phải thêm vào playlist bằng link gốc của [link chính thức](http://gg.gg/hanoiiptv) vì ứng dụng này không thể hỗ trợ [tên miền](http://gg.gg) để có thể thêm được playlist. Sau đó bạn phải chọn nhóm kênh bất kỳ rồi mới được chọn kênh. Ngoài ra ứng dụng còn có thể vừa xem TV, vừa nghe âm thanh, vừa ghi lại một hoặc nhiều kênh truyền hình cho các chương trình bất kỳ lúc nào lên đến 1080P hoặc 4K tùy theo thiết bị hỗ trợ giới hạn độ phân giải nêu trên.<br />
 b) Sau khi cài đặt xong ứng dụng nào thì mở bằng ứng dụng đó và làm theo hướng dẫn nêu trên.<br />
 * Lưu ý: Nếu Smart TV của bạn sử dụng hệ điều hành Android TV vẫn có thể thực hiện cài đặt và làm theo hướng dẫn trên.<br />
