@@ -1,6 +1,6 @@
 Hà Nội IPTV - Truyền hình số thế hệ mới xin kính chào quý khách! Hiện nay, Hà Nội IPTV đang có hai gói dịch vụ đang được áp dụng đó là gói chính (Bao gồm: [Hà Nội IPTV](http://gg.gg/hanoiiptv) và [Hà Nội IPTV+](http://gg.gg/hanoiiptvplus)) và [gói phụ dành cho gia đình](http://gg.gg/hanoiiptvfamily)
 =======
-Hà Nội IPTV hoạt đồng với thời lượng tần suất phát sóng 24 giờ trong ngày trên các thiết bị như: Android, iOS, Windows 7, Windows 10, LG WebOS, Samsung Tizen,....; thường xuyên cập nhật và sửa lỗi một số kênh truyền hình giải trí đặc sắc, tổng hợp từ trong nước đến quốc tế.<br />
+Tròn một năm ra mắt từ năm 2020 đến nay, Hà Nội IPTV đã và đang không ngừng thay đổi một số kênh truyền hình trong nước và quốc tế nổi bật. Đặc biệt, nhân dịp 1 năm ra mắt, Hà Nội IPTV đã bắt đầu thực hiện việc tự thực hiện các tour du lịch trên màn ảnh nhỏ tại các địa điểm phù hợp như Hà Nội, Hải Phòng với 61 tỉnh/thành phố còn lại trên cả nước cùng với chương trình Điểm hẹn HanoiTV [áp dụng trên phạm vi công khai (toàn quốc, toàn cầu) thông qua CDN](http://uploadcare.com).<br />
 
 # A. Hà Nội IPTV là gì?
 Hà Nội IPTV là dịch vụ xem truyền hình số thế hệ mới hàng đầu Việt Nam, quý khán giả ngoài xem được các kênh độc quyền thuộc K+, VTVCab, SCTV,.... thì còn có thể xem thêm các kênh độc quyền khác do Hoàng Huy Mạnh cung cấp đã được sự phối hợp của KBS, SBS, MBC, CJ E&M, JTBC, MBN, TV CHOSUN, Channel A,.... của Hàn Quốc cùng với TF1, france.tv, M6 GROUPE, CANAL+, NRJ 12, BFM TV, RTL9, RTS, RTBF Auvio,.... của Pháp.<br />
