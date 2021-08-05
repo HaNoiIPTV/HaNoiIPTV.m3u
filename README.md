@@ -12,11 +12,11 @@ Do ảnh hưởng của Đại dịch Covid-19, trong khi 2 thành phố lớn c
 Hiện dịch vụ của chúng tôi có hai gói bao gồm:<br />
 ## I. Gói chính thức
 Hơn 500 kênh truyền hình, trong đó có hơn 200 kênh truyền hình với tiêu chuẩn HD trong các lĩnh vực khác nhau và hơn 20 kênh du lịch trên màn ảnh nhỏ.<br />
-- Đặc biệt quý khán giả theo dõi các kênh DRM bao gồm: VTVCab5 - E Channel HD, VTVCab3 - Thể Thao TV HD, VTVCab16 - Bóng Đá TV HD, VTVCab18 - Thể thao Tin tức HD, VTVCab23 - Thể Thao Golf HD,.... thì bắt đầu từ ngày 29/7/2021, Hà Nội IPTV sẽ tự thực hiện phát sóng chương trình có liên quan đến lĩnh vực thể thao trong nước và quốc tế đặc sắc cũng [thông qua CDN](https://uploadcare.com).<br />
+- Đặc biệt quý khán giả theo dõi các kênh DRM bao gồm: VTVCab5 - E Channel HD, VTVCab3 - Thể Thao TV HD, VTVCab16 - Bóng Đá TV HD, VTVCab18 - Thể thao Tin tức HD,.... thì bắt đầu từ ngày 29/7/2021, Hà Nội IPTV sẽ tự thực hiện phát sóng chương trình có liên quan đến lĩnh vực thể dục, thể thao trong nước và quốc tế đặc sắc cùng những chương trình giải trí đặc sắc trong và ngoài nước cũng [thông qua CDN](https://uploadcare.com) với một số kênh trong nước và quốc tế đáng chú ý khác.<br />
 - Quý khán giả vẫn có thể theo dõi được các bộ phim truyện, điện ảnh trong nước và quốc tế cùng những chương trình giải trí đặc sắc, những bộ phim hoạt hình dành cho thiếu nhi đặc sắc cùng những tin tức thời sự liên tục được cập nhật cùng nhiều nội dung quan trọng khác.<br />
 ## II. Gói phụ dành cho gia đình
 - Là gói sẽ sử dụng để đảm bảo an toàn cho gia đình trước các nội dung có hại cho cả trẻ em và người lớn. Xem [tại đây](http://gg.gg/hanoiiptvfamily).<br />
-### * Lưu ý: Bắt đầu từ ngày 1/8/2021, gói phụ của Hà Nội IPTV sẽ bắt đầu rút gọn các kênh truyền hình xuống còn hơn 60 kênh trong đó có hơn 30 kênh với tiêu chuẩn HD.<br />
+### * Lưu ý: Gói phụ của Hà Nội IPTV hiện đang được rút gọn các kênh truyền hình xuống còn hơn 60 kênh trong đó có hơn 30 kênh với tiêu chuẩn HD.<br />
 
 # D. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
 Quý khán giả có thể theo dõi trên dịch vụ dù xa hay gần nhà cung cấp ở các địa điểm khác nhau.<br />
@@ -39,17 +39,17 @@ a) Trước khi cài đặt ứng dụng để theo dõi dịch vụ<br />
 b) Sau khi cài đặt ứng dụng<br />
 1. Sau khi cài đặt ứng dụng SS IPTV, bạn mở vào ứng dụng sau đó bấm vào Agree, khi màn hình xuất hiện quốc gia bạn bấm vào Skip nếu đang sinh sống ở quốc gia/khu vực Việt Nam. Sau đó bạn chọn Settings trên ứng dụng, chọn Playlists, nhấn Add. Khi màn hình xuất hiện tiêu đề PLAYLIST_1, bạn có thể thêm vào link: http://gg.gg/hanoiiptv sau phần tiêu đề và nhấn Save rồi quay lại phần Menu và chờ làm mới thì bạn vào phần PLAYLIST_1 như vừa nãy rồi chọn All và chọn kênh thích hợp.<br />
 2. Sau khi cài đặt ứng dụng FPlayer, bạn mở vào ứng dụng sau đó bấm vào nút màu đỏ trên điều khiển, thêm playlist bằng cách gõ vào địa chỉ: http://gg.gg/hanoiiptv và nhấn nút màu xanh để lưu lại.<br />
-## * Lưu ý: Ứng dụng này sẽ chỉ được xem 5 kênh trong phần bảng kênh và lịch phát sóng từ Hà Nội IPTV cũng như các dịch vụ khác.
+## * Lưu ý: Ứng dụng này sẽ chỉ được xem 5 kênh trong phần bảng kênh và lịch phát sóng từ Hà Nội IPTV cũng như các dịch vụ khác. Tuy nhiên, ngay sau khi bạn thực hiện set-up EPG (lịch phát sóng) trên dịch vụ thì bạn sẽ không thể theo dõi được.
 
 ### 2. Về hệ điều hành Samsung Tizen
-Nếu Smart TV của bạn sử dụng hệ điều hành này thì tuyệt đối không được cài đặt ngay các ứng dụng để theo dõi Hà Nội IPTV mà bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để truyền từ smartphone lên TV. Cụ thể như sau:<br />
+Nếu Smart TV của bạn sử dụng hệ điều hành này thì hiện tại không có ứng dụng nào hoàn toàn miễn phí để theo dõi dịch vụ mà bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để truyền từ smartphone lên TV. Cụ thể như sau:<br />
 a) Đối với hệ điều hành Android
 - Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn IPTV, nhấn dấu cộng và gõ vào địa chỉ: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u rồi nhấn Lưu. Sau đó bạn vào Hà Nội IPTV 2021.m3u, chọn kênh bạn muốn xem rồi chọn TV của bạn để tiến hành kết nối và có thể theo dõi ngay lập tức.<br />
 
-# G. Thăm dò ý kiến
-Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp Hà Nội IPTV có thể xác định được thông tin của người dùng một cách dễ dàng và hoàn thiện hơn.<br />
+# D. Thăm dò ý kiến
+Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp dịch vụ có thể xác định được thông tin của khách hàng một cách dễ dàng và hoàn thiện hơn.<br />
 
-# H. Kết nối với Hà Nội IPTV
+# E. Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
 Địa chỉ: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
@@ -57,6 +57,9 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 Địa chỉ: Số 215 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
 ### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
 Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
+### - [Hà Nội IPTV tại Thanh Hóa](http://gg.gg/thanhhoaiptv)<br />
+Địa chỉ 1: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
+Địa chỉ 2: Quốc lộ 1A (Đại lộ Hùng Vương), phường Đông Hải, TP. Thanh Hóa<br />
 ### Ngoài ra, Hà Nội IPTV còn hỗ trợ ngôn ngữ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý vị đã biết tiếng Trung Quốc (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道中文/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道中文 ).
 
 # I. Những nội dung khác
