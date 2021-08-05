@@ -158,12 +158,10 @@ http://gg.gg/HaNoiIPTV-In_The_Box_Channel
 http://gg.gg/HaNoiIPTV-FX_HD
 #EXTINF:-1  group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
-#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
+#EXTINF:-1  tvg-id="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
 http://gg.gg/HaNoiIPTV-HBO_HD
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
-#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
+#EXTINF:-1  tvg-id="https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
 http://gg.gg/HaNoiIPTV-Cinemax_HD
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%EC%8B%9C%EB%84%A4%EB%A7%88%EC%B2%9C%EA%B5%AD%20HD.png",Cinema Heaven HD
 http://gg.gg/Cinema_Heaven_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cinema%20World%20HD.png",Cinema World HD
@@ -172,8 +170,8 @@ http://gg.gg/HaNoiIPTV-Cinema_World_HD
 http://gg.gg/HaNoiIPTV-Warner_TV_HD
 #EXTINF:-1  tvg-id="http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paramount%20Channel%20HD.jpg",Paramount Channel HD
 http://gg.gg/HaNoiIPTV-Paramount_Channel_HD
-#EXTINF:-1  tvg-id="http://gg.gg/WOMAN_HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
-https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:womanhd/manifest.mpd
+#EXTINF:-1  tvg-id="https://bsojv7x1zq.vcdn.com.vn/5daaa849c8f5d60173daf43c/5daaa849c8f5d60173daf43d/720p/playlist.m3u8 và https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:womanhd/manifest.mpd" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
+http://gg.gg/HaNoiIPTV-WOMAN_HD
 #EXTINF:-1  tvg-id="http://gg.gg/Dr_Fit_HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr. Fit HD
 https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:drfithd/manifest.mpd
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",Music BOX
