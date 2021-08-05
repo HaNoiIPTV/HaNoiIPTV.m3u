@@ -52,7 +52,8 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 # E. Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
-Địa chỉ: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
+Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
+Địa chỉ 2: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
 ### - [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)<br />
 Địa chỉ: Số 215 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
 ### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
