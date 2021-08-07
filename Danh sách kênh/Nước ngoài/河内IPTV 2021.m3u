@@ -94,8 +94,12 @@ http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226243/
 http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png",海南卫视高清
 http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8
-#EXTINF:-1  group-title="地方/卫视" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png",江西卫视
-http://36.37.252.114:888/Apple/OneTV-028/playlist.m3u8
+#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV1/SCNCTV1.jpg?1",南充综合频道
+http://gg.gg/HeNeiIPTV-Nan_Chong_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV2/SCNCTV2.jpg?1",南充公共频道
+http://gg.gg/HeNeiIPTV-Nan_Chong_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch3.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV3/SCNCTV3.jpg?1",科教频道
+http://gg.gg/HeNeiIPTV-Nan_Chong_Ke_Jiao_Pin_Dao
 #EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%A4%A7%E8%BF%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.m3u8
 #EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道
@@ -234,7 +238,7 @@ http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",四川科教频道
 http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/d98ad37763a24f05be5112a7aab62c63-1.m3u8
 #EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合频道高清
-http://hls333.dszbdq.cn/scmy.php?id=4
+http://www.qqdszb.com/diao/scmy.php?id=4
 #EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
 http://hls333.dszbdq.cn/scmy.php?id=3
 #EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道高清
