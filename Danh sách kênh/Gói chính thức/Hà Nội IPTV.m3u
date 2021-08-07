@@ -14,8 +14,8 @@ http://gg.gg/Diem_hen_HanoiTV_HD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-VTV2_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD.png",VTV2 HD
 http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#EXTINF:-1  tvg-id="http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD.png",VTV3 HD
-http://gg.gg/HaNoiIPTV-VTV3_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-VTV3_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD.png",VTV3 HD
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-VTV4_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD.png",VTV4 HD
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-VTV5_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD.png",VTV5 HD
@@ -162,8 +162,6 @@ http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
 http://gg.gg/HaNoiIPTV-HBO_HD
 #EXTINF:-1  tvg-id="https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
 http://gg.gg/HaNoiIPTV-Cinemax_HD
-#EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%EC%8B%9C%EB%84%A4%EB%A7%88%EC%B2%9C%EA%B5%AD%20HD.png",Cinema Heaven HD
-http://gg.gg/Cinema_Heaven_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cinema%20World%20HD.png",Cinema World HD
 http://gg.gg/HaNoiIPTV-Cinema_World_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Warner%20TV%20HD.png",Warner TV HD
@@ -297,6 +295,8 @@ http://gg.gg/HaNoiIPTV-DW
 http://gg.gg/HaNoiIPTV-France_24
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Al%20Jazeera.png",Al Jazeera
 http://gg.gg/HaNoiIPTV-Al_Jazeera
+#EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E5%8C%97%E7%94%9F%E6%B4%BB%20Taipei%20Vlog.png",台北生活 Taipei Vlog
+http://gg.gg/HeNeiIPTV-Tai_Bei_Sheng_Huo-Taipei_Vlog
 #EXTINF:-1  tvg-id="https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist_b2500000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
 http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.png",BTV - Truyền hình Bắc Ninh HD
