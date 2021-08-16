@@ -122,6 +122,12 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv208&q=high&type=tv&token=1111&time
 http://gg.gg/HaNoiIPTV-THP-Truyen_hinh_Hai_Phong_HD
 #EXTINF:-1  tvg-name="TH NGHỆ AN HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD.png",Truyền hình Nghệ An HD
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1  tvg-name="K+1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B1%20HD.png",K+1 HD
+http://gg.gg/HaNoiIPTVFamily-K_Plus_1_HD
+#EXTINF:-1  tvg-name="K+NS HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BNS%20HD.png",K+NS HD
+http://gg.gg/HaNoiIPTVFamily-K_Plus_Nhip_Song_HD
+#EXTINF:-1  tvg-name="K+PC HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BPC%20HD.png",K+PC HD
+http://gg.gg/HaNoiIPTVFamily-K_Plus_Phong_Cach_HD
 #EXTINF:-1  tvg-name="K+PM HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BPM%20HD.png",K+PM HD
 http://gg.gg/HaNoiIPTVFamily-K_Plus_Phai_Manh_HD
 #EXTINF:-1  tvg-name="ABC TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/ABC%20TV.png",ABC TV
