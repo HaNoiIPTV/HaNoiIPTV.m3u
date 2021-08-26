@@ -82,6 +82,8 @@ http://gg.gg/HaNoiIPTV-VTVCab13-VTV_Hyundai_Homeshopping
 http://gg.gg/HaNoiIPTV-Fox_Sports_HD
 #EXTINF:-1  tvg-name="FOX MOVIES HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FOX%20Movies%20HD.png",Fox Movies HD
 http://gg.gg/HaNoiIPTV-FOX_Movies_HD
+#EXTINF:-1  tvg-name="CBS HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CBS.png",CBS HD
+http://gg.gg/HaNoiIPTV-CBS_HD
 #EXTINF:-1  tvg-name="BLUE ANT ENTERTAIMENT HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Entertaiment%20HD.png",Blue Ant Entertaiment HD
 http://gg.gg/HaNoiIPTV-Blue_Ant_Entertaiment_HD
 #EXTINF:-1  tvg-name="SCTV17 - THỂ THAO & CUỘC SỐNG HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
@@ -120,8 +122,6 @@ http://gg.gg/HaNoiIPTV-VOV-Truyen_hinh_VOV_HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-name="THP - TH HẢI PHÒNG HD" tvg-id="https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",THP - Truyền hình Hải Phòng HD
 http://gg.gg/HaNoiIPTV-THP-Truyen_hinh_Hai_Phong_HD
-#EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD" tvg-id="http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8 và http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.png",TTV - Truyền hình Thanh Hóa HD
-http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
 #EXTINF:-1  tvg-name="TH HÀ NỘI 1 HD" tvg-id="https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8 và http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",Truyền hình Hà Nội 1 HD
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="TH HÀ NỘI 2 HD" tvg-id="https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8 và https://live.hanoitv.vn/hntvlive/tv2live.m3u8" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD.png",Truyền hình Hà Nội 2 HD
@@ -324,6 +324,8 @@ http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  tvg-name="PTV - TH PHÚ THỌ HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ph%C3%BA%20Th%E1%BB%8D%20HD.png",PTV - Truyền hình Phú Thọ HD
 http://gg.gg/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD
+#EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD" tvg-id="http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8 và http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.png",TTV - Truyền hình Thanh Hóa HD
+http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
 #EXTINF:-1  tvg-name="HTTV - TH HÀ TĨNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",HTTV - Truyền hình Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - Truyền hình Quảng Bình HD
