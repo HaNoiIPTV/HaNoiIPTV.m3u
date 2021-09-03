@@ -688,12 +688,12 @@ http://gg.gg/HaNoiIPTVPlus-VTC12-VTCK
 http://gg.gg/Toan_canh_Hai_Phong_1_HD
 #EXTINF:-1  group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ident%20THP%2B.png",Toàn cảnh Hải Phòng 2 HD
 http://gg.gg/Toan_canh_Hai_Phong_2_HD
-#EXTINF:-1  tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.3.123:9168" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN2_HD_Thai_Nguyen.png",TN2 - Truyền hình Thái Nguyên 2 HD
+#EXTINF:-1  tvg-name="TN2 - TH THÁI NGUYÊN 2 HD" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.3.123:9168" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN2_HD_Thai_Nguyen.png",TN2 - Truyền hình Thái Nguyên 2 HD
 http://gg.gg/HaNoiIPTVPlus-TN2-Truyen_hinh_Thai_Nguyen_2_HD
 #EXTINF:-1  tvg-name="YTV - TH YÊN BÁI HD" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",YTV - Truyền hình Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:-1  tvg-name="HGTV - TH HÀ GIANG" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - Truyền hình Hà Giang
-http://gg.gg/HaNoiIPTVPlus-HGTV-Truyen_hinh_Ha_Giang
+#EXTINF:-1  tvg-name="HGTV - TH HÀ GIANG" tvg-id="http://gg.gg/HaNoiIPTVPlus-HGTV-Truyen_hinh_Ha_Giang" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - Truyền hình Hà Giang
+http://113.162.84.113:8080/hls/fm/index.m3u8
 #EXTINF:-1  tvg-name="THLC - TH LÀO CAI HD" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - Truyền hình Lào Cai HD
 http://gg.gg/HaNoiIPTVPlus-THLC-Truyen_hinh_Lao_Cai_HD
 #EXTINF:-1  tvg-name="HÀ NỘI & CẢ NƯỚC HD" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Hà Nội và cả nước HD
