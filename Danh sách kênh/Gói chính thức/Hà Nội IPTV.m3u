@@ -188,6 +188,8 @@ http://gg.gg/HaNoiIPTV-SCTV_Phim_Tong_Hop_HD
 http://gg.gg/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_1_HD
 #EXTINF:-1  tvg-name="KBS WORLD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS%20WORLD.png",KBS World
 http://gg.gg/HaNoiIPTV-KBS_World
+#EXTINF:-1  tvg-name="BTV3 - TH BÌNH DƯƠNG 3 HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%203%20HD.png",BTV3 - Truyền hình Bình Dương 3 HD
+http://gg.gg/HaNoiIPTV-BTV3-Truyen_hinh_Binh_Duong_3_HD
 #EXTINF:-1  tvg-name="BTV4 - TH BÌNH DƯƠNG 4 HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png",BTV4 - Truyền hình Bình Dương 4 HD
 http://gg.gg/HaNoiIPTV-BTV4-Truyen_hinh_Binh_Duong_4_HD
 #EXTINF:-1  tvg-name="FASHION TV HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fashion%20TV%20HD.png",Fashion TV HD
@@ -290,8 +292,6 @@ http://gg.gg/HaNoiIPTV-TV5Monde_Asie
 http://gg.gg/HaNoiIPTV-DW
 #EXTINF:-1  tvg-name="FRANCE 24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
 http://gg.gg/HaNoiIPTV-France_24
-#EXTINF:-1  tvg-name="AL JAZEERA" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Al%20Jazeera.png",Al Jazeera
-http://gg.gg/HaNoiIPTV-Al_Jazeera
 #EXTINF:-1  tvg-name="BTV11 - TOP HOMESHOPPING" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV11%20-%20TOP%20Homeshopping.png",BTV11 - TOP Homeshopping
 http://gg.gg/HaNoiIPTV-BTV11-TOP_Homeshopping
 #EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC HD" tvg-id="https://livecdn.fptplay.net/sdc/vinhphuc_2000.stream/chunklist_b2500000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
@@ -344,10 +344,10 @@ http://210.245.20.94/hls/ktv1.m3u8
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Ninh_Thuan_HD
 #EXTINF:-1  tvg-name="BTV - TH BÌNH THUẬN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn%20HD.png",BTV - Truyền hình Bình Thuận HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Binh_Thuan_HD
+#EXTINF:-1  tvg-name="LTV - TH LÂM ĐỒNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",LTV - Truyền hình Lâm Đồng HD
+http://gg.gg/LTV-Truyen_hinh_Lam_Dong_HD
 #EXTINF:-1  tvg-name="BTV2 HD - KHOA HỌC & GIÁO DỤC" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV2%20-%20K%C3%AAnh%20Khoa%20h%E1%BB%8Dc%20v%C3%A0%20Gi%C3%A1o%20d%E1%BB%A5c%20HD.png",BTV2 HD - Khoa học & Giáo dục
 http://gg.gg/HaNoiIPTV-BTV2-Kenh_Khoa_hoc_va_Giao_duc
-#EXTINF:-1  tvg-name="BTV3 - TH BÌNH DƯƠNG 3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%203%20HD.png",BTV3 - Truyền hình Bình Dương 3 HD
-http://gg.gg/HaNoiIPTV-BTV3-Truyen_hinh_Binh_Duong_3_HD
 #EXTINF:-1  tvg-name="BTV6 - DÀNH CHO GIỚI TRẺ" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV6.png",BTV6 - Dành cho giới trẻ
 http://gg.gg/HaNoiIPTV-BTV6-Kenh_Danh_cho_Gioi_tre
 #EXTINF:-1  tvg-name="BPTV1 - TH BÌNH PHƯỚC 1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BPTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%201%20HD.png",BPTV1 - Truyền hình Bình Phước 1 HD
@@ -708,8 +708,6 @@ http://gg.gg/HaNoiIPTV-DRT2_Truyen_hinh_Da_Nang_2_HD
 http://gg.gg/DRT-Truyen_hinh_Dak_Lak
 #EXTINF:-1  tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.3.140:8874" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BA%AFk%20N%C3%B4ng.png",PTD - Truyền hình Đắk Nông
 http://gg.gg/HaNoiIPTVPlus-PTD-Truyen_hinh_Dak_Nong
-#EXTINF:-1  tvg-name="LTV - TH LÂM ĐỒNG HD" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",LTV - Truyền hình Lâm Đồng HD
-http://gg.gg/LTV-Truyen_hinh_Lam_Dong_HD
 #EXTINF:-1  tvg-name="LA34 - TH LONG AN HD" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LA34%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Long%20An%20HD.png",LA34 - Truyền hình Long An HD
 http://gg.gg/LA34-Truyen_hinh_Long_An
 #EXTINF:-1  tvg-name="THTG - PT TIỀN GIANG" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ti%E1%BB%81n%20Giang.png",THTG - Phát thanh Tiền Giang
