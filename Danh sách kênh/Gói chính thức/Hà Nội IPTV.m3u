@@ -152,8 +152,8 @@ http://gg.gg/HaNoiIPTV-Hollywood_Classics_HD
 http://gg.gg/HaNoiIPTV-Box_Hits
 #EXTINF:-1  tvg-name="FOX FAMILY MOVIES HD" ch-number="92" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FOX%20Family%20Movies%20HD.png",FOX Family Movies HD
 http://gg.gg/HaNoiIPTV-FOX_Family_Movies_HD
-#EXTINF:-1  tvg-name="IN THE BOX CHANNEL" ch-number="93" tvg-id="http://gg.gg/HaNoiIPTV-In_The_Box_Channel" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The BOX Channel
-https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:intheboxhd/manifest.mpd
+#EXTINF:-1  tvg-name="IN THE BOX CHANNEL" ch-number="93" tvg-id="https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:intheboxhd/manifest.mpd" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The BOX Channel
+http://gg.gg/HaNoiIPTV-In_The_Box_Channel
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" ch-number="56" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
 #EXTINF:-1  tvg-name="HBO HD" ch-number="95" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
