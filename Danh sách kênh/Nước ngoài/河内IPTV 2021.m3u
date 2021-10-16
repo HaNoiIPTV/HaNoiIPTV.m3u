@@ -319,7 +319,7 @@ http://gg.gg/HeNeiIPTV-Wei_Shi_Zhong_Wen_Tai_HD
 http://gg.gg/HeNeiIPTV-Dong_Sen_Zong_He_Tai_HD
 #EXTINF:-1  channel-id="33" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96%20HD.png",東森超視 HD
 rtmp://59.124.75.153:1935/sat/tv771
-#EXTINF:-1  channel-id="36" tvg-id="http://gg.gg/HeNeiIPTV-Zhong_Tian_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch38.png",中天綜合台 HD
+#EXTINF:-1  channel-id="36" tvg-id="http://gg.gg/HeNeiIPTV-Zhong_Tian_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png",中天綜合台 HD
 http://125.227.210.55:14583/VideoInput/play.ts
 #EXTINF:-1  channel-id="39" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82%E5%8F%B0%20HD.png",中天娛樂台 HD
 http://125.227.210.55:15796/VideoInput/play.ts
@@ -331,8 +331,8 @@ http://gg.gg/He_Nei_IPTV_Dian_Shi_Tai_HD
 rtmp://59.124.75.153/sat/tv421
 #EXTINF:-1  channel-id="43" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E6%88%B2%E5%8A%87%E5%8F%B0%20HD.png",緯來戲劇台 HD
 http://gg.gg/HeNeiIPTV-Wei_Lai_Xi_Ju_Tai_HD
-#EXTINF:-1  channel-id="45" tvg-id="http://gg.gg/HeNeiIPTV-JET_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch45.png",JET 綜合台 HD
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c74?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1  channel-id="45" group-title="台灣地區" tvg-logo="https://www.cyccatv.net.tw/images/channel_logos/ch45.png",JET 綜合台 HD
+http://gg.gg/HeNeiIPTV-JET_Zong_He_Tai_HD
 #EXTINF:-1  channel-id="49" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/506.png?rand=489",壹電視新聞台 HD
 http://gg.gg/HeNeiIPTV-Yi_Dian_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  channel-id="50" tvg-id="http://gg.gg/HeNeiIPTV-Nian_Dai_Xin_Wen_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",年代新聞台 HD
@@ -341,7 +341,7 @@ http://125.227.210.37:11055/VideoInput/play.ts
 http://gg.gg/HeNeiIPTV-Dong_Sen_Xin_Wen_Tai_HD
 #EXTINF:-1  channel-id="52" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",中天新聞台 HD
 http://gg.gg/HeNeiIPTV-Zhong_Tian_Xin_Wen_Tai_HD
-#EXTINF:-1  channel-id="53" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/507.png?rand=63",民視新聞台 HD
+#EXTINF:-1  channel-id="53" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",民視新聞台 HD
 http://gg.gg/HeNeiIPTV-Min_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  channel-id="54" group-title="台灣地區" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",三立新聞台 HD
 http://gg.gg/HeNeiIPTV-San_Li_Xin_Wen_Tai_HD
@@ -349,12 +349,12 @@ http://gg.gg/HeNeiIPTV-San_Li_Xin_Wen_Tai_HD
 rtmp://161.202.204.248:1935/sat/tv571
 #EXTINF:-1  tvg-id="http://gg.gg/HeNeiIPTV-Fei_Fan_Xin_Wen_Tai_HD" channel-id="58" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%9E%E5%87%A1%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",非凡新聞台 HD
 http://125.227.210.37:15078/VideoInput/play.ts
-#EXTINF:-1  channel-id="61" tvg-id="http://gg.gg/HeNeiIPTV-Wei_Shi_Dian_Ying_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%A1%9B%E8%A6%96%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",衛視電影台 HD
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  channel-id="62" tvg-id="http://gg.gg/HeNeiIPTV-Dong_Sen_Dian_Ying_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",東森電影台 HD
-rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  channel-id="63" tvg-id="http://gg.gg/HeNeiIPTV-Wei_Lai_Dian_Ying_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1%E5%8F%B0%20HD.png",緯來電影台 HD
-rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1  channel-id="61" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%A1%9B%E8%A6%96%E9%9B%BB%E5%BD%B1%E5%8F%B0%20HD.png",衛視電影台 HD
+http://gg.gg/HeNeiIPTV-Wei_Shi_Dian_Ying_Tai_HD
+#EXTINF:-1  channel-id="62" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%20HD.png",東森電影台 HD
+http://gg.gg/HeNeiIPTV-Dong_Sen_Dian_Ying_Tai_HD
+#EXTINF:-1  channel-id="63" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1%E5%8F%B0%20HD.png",緯來電影台 HD
+http://gg.gg/HeNeiIPTV-Wei_Lai_Dian_Ying_Tai_HD
 #EXTINF:-1  channel-id="64" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BE%8D%E7%A5%A5%E6%99%82%E4%BB%A3%E9%9B%BB%E5%BD%B1%E5%8F%B0.png",龍祥時代電影台 HD
 rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1  channel-id="65" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
