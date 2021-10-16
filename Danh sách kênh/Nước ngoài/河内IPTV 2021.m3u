@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png" tvg-chno="33",CCTV1 综合频道高清
 http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
@@ -251,16 +251,16 @@ http://193.160.32.4:8080/crtv.php?id=359
 
 #EXTINF:-1  channel-id="31" group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  channel-id="81" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1  channel-id="82" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/J2.png",J2
-http://61.238.6.49:8001/bysid/82
-#EXTINF:-1  channel-id="83" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A1%E7%B6%AB%E6%96%B0%E8%81%9E%E5%8F%B0.png",無綫新聞台
-http://61.238.6.49:8001/bysid/83
-#EXTINF:-1  channel-id="84" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%8E%E7%8F%A0%E5%8F%B0.png",明珠台
-http://61.238.6.49:8001/bysid/2
-#EXTINF:-1  channel-id="85" group-title="香港地區" tvg-logo=" ",無綫財經資訊台
-http://61.238.6.49:8001/bysid/85
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-chno="81",翡翠台
+http://gg.gg/HeNeiIPTV-Fei_Cui_Tai
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/J2.png" tvg-chno="82",J2
+http://gg.gg/HeNeiIPTV-J2
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A1%E7%B6%AB%E6%96%B0%E8%81%9E%E5%8F%B0.png" tvg-chno="83",無綫新聞台
+http://gg.gg/HeNeiIPTV-Wu_Xian_Xin_Wen_Tai
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" tvg-chno="84",明珠台
+http://gg.gg/HeNeiIPTV-TVB_Pearl
+#EXTINF:-1  group-title="香港地區" tvg-logo=" " tvg-chno="85",無綫財經資訊台
+http://gg.gg/HeNeiIPTV-Wu_Xian_Cai_Jing_Zi_Xun_Tai
 #EXTINF:-1  channel-id="90" group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w202404983.m3u8
 #EXTINF:-1  channel-id="95" tvg-id="http://193.160.32.4:8080/crtv.php?id=364" group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
