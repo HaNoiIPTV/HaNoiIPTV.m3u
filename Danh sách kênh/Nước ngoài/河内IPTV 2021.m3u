@@ -1,7 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png" tvg-chno="33",CCTV1 综合频道高清
-http://39.134.176.156/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道高清
@@ -249,8 +247,12 @@ http://193.160.32.4:8080/crtv.php?id=357
 http://193.160.32.4:8080/crtv.php?id=359
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80",鳳凰衛視香港台 HD
 
-#EXTINF:-1  channel-id="31" group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg",港台電視31
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-chno="31",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-chno="32",港台電視32
+http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_32
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png" tvg-chno="33",CCTV1 综合频道高清
+http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-chno="81",翡翠台
 http://gg.gg/HeNeiIPTV-Fei_Cui_Tai
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/J2.png" tvg-chno="82",J2
@@ -259,24 +261,18 @@ http://gg.gg/HeNeiIPTV-J2
 http://gg.gg/HeNeiIPTV-Wu_Xian_Xin_Wen_Tai
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" tvg-chno="84",明珠台
 http://gg.gg/HeNeiIPTV-TVB_Pearl
-#EXTINF:-1  group-title="香港地區" tvg-logo=" " tvg-chno="85",無綫財經資訊台
+#EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A1%E7%B6%AB%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0.png" tvg-chno="85",無綫財經資訊台
 http://gg.gg/HeNeiIPTV-Wu_Xian_Cai_Jing_Zi_Xun_Tai
-#EXTINF:-1  channel-id="90" group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png",澳視澳門
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/chunklist_w202404983.m3u8
-#EXTINF:-1  channel-id="95" tvg-id="http://193.160.32.4:8080/crtv.php?id=364" group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png",澳門 - Macau
-https://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w177665232.m3u8
-#EXTINF:-1  channel-id="96" group-title="香港地區" tvg-logo=" ",ViuTVsix
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1  channel-id="99" group-title="香港地區" tvg-logo=" ",ViuTV
-http://61.238.6.49:8000/bysid/99
+#EXTINF:-1  group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_macau_yellow_text.png" tvg-chno="90",澳視澳門
+http://gg.gg/HeNeiIPTV-Ao_Shi_Ao_Men
+#EXTINF:-1  group-title="澳門地區" tvg-logo="https://www.tdm.com.mo/c_images/title_img_yellow_text.png" tvg-chno="95",澳門 - Macau
+http://gg.gg/HeNeiIPTV-Ao_Guang_Shi_Wei_Xing_Pin_Dao
+#EXTINF:-1  channel-id="96" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/ViuTVsix.png",ViuTVsix
+http://gg.gg/HeNeiIPTV-ViuTVsix
+#EXTINF:-1  channel-id="99" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/ViuTV.png",ViuTV
+http://gg.gg/HeNeiIPTV-ViuTV
 #EXTINF:-1  group-title="香港地區" tvg-logo=" ",耀才財經台
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1925238753.m3u8
-#EXTINF:-1  group-title="香港人境外地區" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加東新時代電視1台
-http://gg.gg/Fairchild_1_East
-#EXTINF:-1  group-title="香港人境外地區" tvg-logo="https://www.fairchildtv.com/images/site-logo.png",加西新時代電視1台
-http://gg.gg/Fairchild_1_West
-#EXTINF:-1  group-title="香港人境外地區" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Fairchild_TV_2_HD.png/revision/latest/scale-to-width-down/200?cb=20200606192744",新時代電視2高清台
-http://gg.gg/Fairchild_2_HD
 #EXTINF:-1  channel-id="5" group-title="台灣地區" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png",民視 HD
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1  channel-id="7" tvg-id="http://gg.gg/HeNeiIPTV-Tai_Shi_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%20HD.png",台視 HD
@@ -513,57 +509,3 @@ http://193.160.32.4:8080/crtv.php?id=385
 http://193.160.32.4:8080/crtv.php?id=386
 #EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox%20Sports%20HD.png",福斯體育台 HD
 http://gg.gg/HeNeiIPTV-Fox_Sports_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png",VTV1 HD
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD.png",VTV2 HD
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD.png",VTV3 HD
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD.png",VTV4 HD
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD.png",VTV5 HD
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD.png",VTV6 HD
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD.png",VTV7 HD
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD.png",VTV8 HD
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD.png",VTV9 HD
-http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201%20HD.png",永龍衛視一頻道高清 (Truyền hình Vĩnh Long 1 HD)
-http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_1_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",永龍衛視二頻道高清 (Truyền hình Vĩnh Long 2 HD)
-http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_2_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",海防衛視高清 (THP - Truyền hình Hải Phòng HD)
-http://gg.gg/HaNoiIPTV-THP-Truyen_hinh_Hai_Phong_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD.png",海防衛視二頻道高清 (THP+ HD)
-https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",河内衛視一頻道高清 (Truyền hình Hà Nội 1 HD)
-https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD.png",河内衛視二頻道高清 (Truyền hình Hà Nội 2 HD)
-https://live.hanoitv.vn/hntvlive/tv2live.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD.png",吳安衛視高清 (Truyền hình Nghệ An HD)
-https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",永福衛視高清 (VP - Truyền hình Vĩnh Phúc HD)
-http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",麗洲衛視 (LTV - Truyền hình Lai Châu)
-http://gg.gg/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png",鴻顏衛視高清 (HYTV - Truyền hình Hưng Yên HD)
-http://gg.gg/HaNoiIPTV-HYTV-Truyen_hinh_Hung_Yen_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.png",海陽衛視高清 (HDTV - Truyền hình Hải Dương HD)
-http://gg.gg/HaNoiIPTV-HDTV-Truyen_hinh_Hai_Duong_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nam%20%C4%90%E1%BB%8Bnh.png",南定衛視高清 (NTV - Truyền hình Nam Định HD)
-http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nam_Dinh_HD
-#EXTINF:-1  group-title="鄰國：越南" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh%20HD.png",太平衛視高清 (TBTV - Truyền hình Thái Bình HD)
-http://gg.gg/HaNoiIPTV-TBTV-Truyen_hinh_Thai_Binh_HD
-#EXTINF:-1  group-title="國際/境外" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%201%20HD.png",貝因運動一台高畫質頻道 (beIN Sports 1 HD)
-http://gg.gg/beINSports1HD
-#EXTINF:-1  group-title="國際/境外" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%202%20HD.png",貝因運動二台高畫質頻道 (beIN Sports 2 HD)
-http://gg.gg/beINSports2HD
-#EXTINF:-1  group-title="國際/境外" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Bein%20Sport%203%20HD.png",貝因運動三台高畫質頻道 (beIN Sports 3 HD)
-http://gg.gg/beINSports3HD
-#EXTINF:-1  group-title="國際/境外" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Eurosport%201%20HD.png",歐洲體育一台高畫質頻道 (Eurosport 1 HD)
-http://gg.gg/Eurosport1HD
-#EXTINF:-1  group-title="國際/境外" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Eurosport%202%20HD.png",歐洲體育二台高畫質頻道 (Eurosport 2 HD)
-http://gg.gg/Eurosport2HD
