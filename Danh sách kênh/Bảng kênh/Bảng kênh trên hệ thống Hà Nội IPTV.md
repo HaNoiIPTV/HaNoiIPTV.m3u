@@ -106,8 +106,8 @@
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">100</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/COOL!%20Kids.png"/></td><td align="left">COOL! Kids</td><td align="left">102</td><td align="between"><img height="30" src="http://imageakm1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_640_360.png"/></td><td align="left">HTV3</td></tr>
-		<tr><td align="left">101</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV3%20-%20SeeTV.png"/></td><td align="left">SCTV3 - SeeTV</td></tr>
+		<tr><td align="left">35</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/K%2BKIDS%20HD.png"/></td><td align="left">K+ KIDS - Dành cho Trẻ em</td><td align="left">102</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/COOL!%20Kids.png"/></td><td align="left">COOL! Kids</td></tr>
+		<tr><td align="left">103</td><td align="between"><img height="40" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/SCTV3%20-%20See%20TV.png"/></td><td align="left">SCTV3 - See TV HD</td><td align="left">104</td><td align="between"><img height="30" src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TV360/HTV3.png"/></td><td align="left">HTV3</td></tr>
 		</tbody>
 </table>
 
