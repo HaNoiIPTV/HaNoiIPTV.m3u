@@ -414,14 +414,18 @@ http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
 http://gg.gg/HaNoiIPTV-VTV5_Tay_Nguyen
 #EXTINF:-1  tvg-name="VTV5 TÂY NAM BỘ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99.png",VTV5 Tây Nam Bộ
 http://gg.gg/HaNoiIPTV-VTV5_Tay_Nam_Bo
-#EXTINF:-1  tvg-name="TVBS HD" tvg-id="http://gg.gg/Ha_Noi_IPTV-TVBS_Asia_HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20HD.png",TVBS HD
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hP6_jfCFxyQ
+#EXTINF:-1  tvg-name="TVBS HD" tvg-id="https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hP6_jfCFxyQ" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20HD.png",TVBS HD
+http://gg.gg/HaNoiIPTV-TVBS_Asia_HD
 #EXTINF:-1  tvg-name="BLUE ANT ENTERTAIMENT HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Entertaiment%20HD.png",Blue Ant Entertaiment HD
 http://gg.gg/HaNoiIPTV-Blue_Ant_Entertaiment_HD
 #EXTINF:-1  tvg-name="ROCK EXTREME HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Extreme%20HD.png",Blue Ant Extreme HD
 http://gg.gg/HaNoiIPTV-Blue_Ant_Extreme_HD
+#EXTINF:-1  tvg-name="CCTV4 中文国际 HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",CCTV4 中文国际 HD
+http://gg.gg/HaNoiIPTV-CCTV4-Zhong_Wen_Guo_Ji_HD
 #EXTINF:-1  tvg-name="HISTORY HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
 http://gg.gg/HaNoiIPTV-History_HD
+#EXTINF:-1  tvg-name="衛視中文台 HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%A1%9B%E8%A6%96%E4%B8%AD%E6%96%87%E5%8F%B0.png",衛視中文台 HD
+http://gg.gg/HaNoiIPTV-Wei_Shi_Zhong_Wen_Tai_HD
 #EXTINF:-1  tvg-name="AXN HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/AXN%20HD.png",AXN HD
 http://gg.gg/HaNoiIPTV-AXN_HD
 #EXTINF:-1  tvg-name="NAT GEO WILD HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/National%20Geographic%20Wild%20HD.png",Nat Geo Wild HD
