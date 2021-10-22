@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道高清
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
+http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清
 http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道高清
