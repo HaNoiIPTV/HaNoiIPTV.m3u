@@ -1,7 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
-http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b91cf7496cf93e7425e5fbb379cc0d6.png",CCTV4 中文国际频道高清
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清
@@ -309,8 +307,6 @@ http://193.160.32.4:8080/crtv.php?id=325
 http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1  channel-id="30" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%89%E7%AB%8B%E9%83%BD%E6%9C%83%E5%8F%B0.png",三立都會台 HD
 http://gg.gg/HeNeiIPTV-San_Li_Du_Hui_Tai_HD
-#EXTINF:-1  channel-id="31" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%A1%9B%E8%A6%96%E4%B8%AD%E6%96%87%E5%8F%B0.png",衛視中文台 HD
-http://gg.gg/HeNeiIPTV-Wei_Shi_Zhong_Wen_Tai_HD
 #EXTINF:-1  channel-id="32" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png",東森綜合台 HD
 http://gg.gg/HeNeiIPTV-Dong_Sen_Zong_He_Tai_HD
 #EXTINF:-1  channel-id="33" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96%20HD.png",東森超視 HD
