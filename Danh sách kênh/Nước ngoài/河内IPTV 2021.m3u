@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
+http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清
@@ -241,16 +243,16 @@ http://hls333.dszbdq.cn/scmy.php?id=3
 http://hls333.dszbdq.cn/scmy.php?id=2
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
 http://193.160.32.4:8080/crtv.php?id=357
-#EXTINF:-1  group-title="地方/卫视" tvg-logo="http://www.iyingshi6.tv/Uploads/tv/2017-07-30/0f98572683edf08c52cc32de494b1fd0.png",鳳凰衛視資訊台 HD
+#EXTINF:-1  group-title="地方/卫视" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96%E8%B3%87%E8%A8%8A%E5%8F%B0%20HD.png",鳳凰衛視資訊台 HD
 http://193.160.32.4:8080/crtv.php?id=359
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80",鳳凰衛視香港台 HD
 
-#EXTINF:-1  group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-chno="31",港台電視31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1  group-title="香港地區" tvg-id="https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8?sd=10&rebase=on" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-chno="31",港台電視31
+http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_31
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-chno="32",港台電視32
 http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_32
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png" tvg-chno="33",CCTV1 综合频道高清
-http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  group-title="香港地區" tvg-logo=" " tvg-chno="33",港台電視33
+http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_33
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-chno="81",翡翠台
 http://gg.gg/HeNeiIPTV-Fei_Cui_Tai
 #EXTINF:-1  group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/J2.png" tvg-chno="82",J2
