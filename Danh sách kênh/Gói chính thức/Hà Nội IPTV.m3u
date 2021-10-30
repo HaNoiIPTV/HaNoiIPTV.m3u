@@ -354,8 +354,8 @@ http://113.162.84.113:8080/hls/fm/index.m3u8
 http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai_HD
 #EXTINF:-1  tvg-name="CRTV - TH CAO BẰNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
 http://gg.gg/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
-#EXTINF:-1  tvg-name="TBK - TH BẮC KẠN HD" tvg-id="http://gg.gg/HaNoiIPTV-TBK-Truyen_hinh_Bac_Kan_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - Truyền hình Bắc Kạn HD
-https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-name="TBK - TH BẮC KẠN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - Truyền hình Bắc Kạn HD
+http://gg.gg/HaNoiIPTV-TBK-Truyen_hinh_Bac_Kan_HD
 #EXTINF:-1  tvg-name="LSTV - TH LẠNG SƠN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",LSTV - Truyền hình Lạng Sơn HD
 http://gg.gg/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
 #EXTINF:-1  tvg-name="TN1 - TH THÁI NGUYÊN HD" tvg-id="http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN1 - Truyền hình Thái Nguyên HD
@@ -466,16 +466,22 @@ http://gg.gg/HaNoiIPTV-Tian_Jin_Wei_Shi_HD
 http://gg.gg/HaNoiIPTV-He_Bei_Wei_Shi_HD
 #EXTINF:-1  tvg-name="山东卫视 HD - TH SƠN ĐÔNG" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视 HD - Truyền hình Sơn Đông
 http://gg.gg/HaNoiIPTV-Shan_Dong_Wei_Shi_HD
-#EXTINF:-1  tvg-name="乡村振兴公共频道 HD" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",乡村振兴公共频道 HD
-rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 #EXTINF:-1  tvg-name="安徽卫视 HD - TH AN HUY" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视 HD - Truyền hình An Huy
 http://gg.gg/HaNoiIPTV-An_Hui_Wei_Shi_HD
+#EXTINF:-1  tvg-name="乡村振兴公共频道 HD" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",乡村振兴公共频道 HD
+rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
 #EXTINF:-1  tvg-name="深圳卫视 HD - TH THÂM QUYẾN" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png",深圳卫视 HD - Truyền hình Thâm Quyến
 http://gg.gg/HaNoiIPTV-Shen_Zhen_Wei_Shi_HD
 #EXTINF:-1  tvg-name="湖北卫视 HD - TH HỒ BẮC" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视 HD - Truyền hình Hồ Bắc
 http://gg.gg/HaNoiIPTV-Hu_Bei_Wei_Shi_HD
 #EXTINF:-1  tvg-name="黑龙江卫视 HD - TH HẮC LONG GIANG" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",黑龙江卫视 HD - TH Hắc Long Giang
 http://gg.gg/HaNoiIPTV-Hei_Long_Jiang_Wei_Shi_HD
+#EXTINF:-1  tvg-name="山西卫视 HD - TH SƠN TÂY" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo=" ",山西卫视 HD - Truyền hình Sơn Tây
+http://gg.gg/HaNoiIPTV-Shan_Xi_Wei_Shi_HD-Truyen_hinh_Son_Tay
+#EXTINF:-1  tvg-name="黄河卫视 HD - TH HOÀNG HÀ" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo=" ",黄河卫视 HD - Truyền hình Hoàng Hà
+http://gg.gg/HaNoiIPTV-Huang_He_Wei_Shi_HD
+#EXTINF:-1  tvg-name="河南卫视 HD - TH HÀ NAM" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo=" ",河南卫视 HD - Truyền hình Hà Nam
+http://gg.gg/HaNoiIPTV-He_Nan_Wei_Shi_HD
 #EXTINF:-1  tvg-name="四川卫视 HD - TH TỨ XUYÊN" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png",四川卫视 HD - Truyền hình Tứ Xuyên
 http://gg.gg/HaNoiIPTV-Si_Chuan_Wei_Shi_HD
 #EXTINF:-1  tvg-name="重庆卫视 HD - TH TRÙNG KHÁNH" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视 HD - Truyền hình Trùng Khánh
