@@ -94,6 +94,14 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226117/1000010000000006000000000235
 rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 #EXTINF:-1  tvg-name="福建少儿高清" group-title="福建省广播影视集团" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.png",福建少儿频道高青
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+#EXTINF:-1  tvg-name="福州1套" group-title="福建省福州市广播电视台" tvg-logo="福州新闻综合频道
+http://gg.gg/HeNeiIPTV-Fu_Zhou_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="福州2套" group-title="福建省福州市广播电视台" tvg-logo="福州影视频道
+http://gg.gg/HeNeiIPTV-Fu_Zhou_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="福州3套" group-title="福建省福州市广播电视台" tvg-logo="福州生活频道
+http://gg.gg/HeNeiIPTV-Fu_Zhou_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="福州4套" group-title="福建省福州市广播电视台" tvg-logo="福州少儿频道
+http://gg.gg/HeNeiIPTV-Fu_Zhou_Shao_Er_Pin_Dao
 #EXTINF:-1  tvg-name="厦门1套高清" group-title="福建省厦门市广播影视集团" tvg-id="http://nettv.live/hls/xiamen.php?id=16" tvg-logo=" ",厦门新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Xia_Men_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="厦门2套高清" group-title="福建省厦门市广播影视集团" tvg-logo=" ",厦门海峡频道高清
@@ -122,17 +130,19 @@ http://gg.gg/HeNeiIPTV-Ning_De_Gong_Gong_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Ping_Tan_Zong_He_Pin_Dao
 #EXTINF:-1  group-title="广东省广播电视台" tvg-logo=" ",广东经济科教频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Jing_Ji_Ke_Jiao_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/zhonghe.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",广州综合频道高清
+#EXTINF:-1  tvg-name="广州综合高清" tvg-id="http://aplay.gztv.com/sec/zhonghe.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",广州综合频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Zong_He_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/xinwen.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",广州新闻频道高清
+#EXTINF:-1  tvg-name="广州新闻高清" tvg-id="http://aplay.gztv.com/sec/xinwen.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9B%B4%E6%92%AD%E5%B9%BF%E5%B7%9E.png",广州新闻频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Xin_Wen_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/jingsai.m3u8" group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清
+#EXTINF:-1  tvg-name="广州竞赛高清" tvg-id="http://aplay.gztv.com/sec/jingsai.m3u8" group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Jing_Sai_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/yingshi.m3u8" group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV4/GZTV4.jpg?1",广州影视频道高清
+#EXTINF:-1  tvg-name="广州影视高清" tvg-id="http://aplay.gztv.com/sec/yingshi.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",广州影视频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Ying_Shi_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/fazhi.m3u8" group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV6/GZTV6.jpg?1",广州法治频道
+#EXTINF:-1  tvg-name="广州法治" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png",广州法治频道
+http://gg.gg/HeNeiIPTV-Guang_Zhou_Fa_Zhi_Pin_Dao
+#EXTINF:-1  tvg-name="广州法治高清" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png",广州法治频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Fa_Zhi_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-id="http://aplay.gztv.com/sec/shenghuos.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",南国都市频道超高清
+#EXTINF:-1  tvg-name="南国都市4K" tvg-id="http://aplay.gztv.com/sec/shenghuos.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",南国都市频道超高清
 http://gg.gg/HeNeiIPTV-Nan_Guo_Du_Shi_Pin_Dao_Chao_Gao_Qing
 #EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山综合频道高清
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao_Gao_Qing
