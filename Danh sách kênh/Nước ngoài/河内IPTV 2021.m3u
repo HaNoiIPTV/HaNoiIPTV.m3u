@@ -182,16 +182,26 @@ http://gg.gg/HeNeiIPTV-Yi_He_Gou_Wou_Pin_Dao
 http://gg.gg/HeNeiIPTV-Shen_Zhen_Guo_Ji_Pin_Dao
 #EXTINF:-1  tvg-name="深圳体育健康" group-title="广东省深圳市广播影视集团" tvg-logo=" ",深圳体育健康频道
 http://gg.gg/HeNeiIPTV-Shen_Zhen_Ti_Yu_Jian_Kang_Pin_Dao
-#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山综合频道高清
-http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共频道高清
-http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山教育频道高清
-http://gg.gg/HeNeiIPTV-Zhong_Shan_Jiao_Yu_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共信息频道
-http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Xin_Xi_Pin_Dao
-#EXTINF:-1  group-title="广东省中山市广播电视台" tvg-logo=" ",中山环球旅游频道
-http://gg.gg/HeNeiIPTV-Zhong_Shan_Huan_Qiu_Lv_You_Pin_Dao
+#EXTINF:-1  tvg-name="珠海1套高清" group-title="广东省珠海市广播电视台" tvg-logo=" ",珠海新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Zhu_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="珠海2套高清" tvg-id="http://nettv.live/hls/cutv.php?id=zhsh" group-title="广东省珠海市广播电视台" tvg-logo=" ",珠海公共生活频道高清
+http://gg.gg/HeNeiIPTV-Zhu_Hai_Gong_Gong_Sheng_Huo_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="中山综合" group-title="广东省中山市广播电视台" tvg-logo=" ",中山综合频道
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="中山公共" group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共频道
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="中山教育" group-title="广东省中山市广播电视台" tvg-logo=" ",中山教育频道
+http://gg.gg/HeNeiIPTV-Zhong_Shan_Jiao_Yu_Pin_Dao
+#EXTINF:-1  tvg-name="东莞1套高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Dong_Guan_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="东莞2套高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞公共频道高清
+http://gg.gg/HeNeiIPTV-Dong_Guan_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="江门综合" group-title="广东省江门市广播电视台" tvg-logo=" ",江门综合频道
+rtmp://tideweblive.jmtv.cn/tslsChannelLive/4x3T0dO/live
+#EXTINF:-1  tvg-name="江门公共" group-title="广东省江门市广播电视台" tvg-logo=" ",江门公共频道
+rtmp://tideweblive.jmtv.cn/tslsChannelLive/qzohscw/live
+#EXTINF:-1  tvg-name="江门教育" group-title="广东省江门市广播电视台" tvg-logo=" ",江门教育频道
+rtmp://tideweblive.jmtv.cn/tslsChannelLive/S020qM6/live
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
 http://hls333.dszbdq.cn/gdcz.php?id=11
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
