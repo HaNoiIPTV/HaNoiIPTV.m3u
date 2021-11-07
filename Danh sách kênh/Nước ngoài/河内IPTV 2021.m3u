@@ -284,44 +284,42 @@ http://gg.gg/HeNeiIPTV-Huan_Teng_Gou_Wou_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-He_Nan_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南乡村高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV9/HNTV9.jpg?1",河南乡村频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Xiang_Cun_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/d4ca3bdce5f1",甘肃经济频道高清
+#EXTINF:-1  tvg-name="甘肃经济高清" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/d4ca3bdce5f1",甘肃经济频道高清
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/323bba2421ca",甘肃文化影视频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/d98b415ae9f5",甘肃都市频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/ffd9719415c1“,甘肃公共应急频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/b4fe4261920d”,甘肃少儿频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃移动电视
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃品质生活频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E5%93%81%E8%B4%A8%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川文化旅游频道高清
+#EXTINF:-1  tvg-name="甘肃少儿高清" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/b4fe4261920d”,甘肃少儿频道高清
+http://gg.gg/HeNeiIPTV-Gan_Su_Shao_Er_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="甘肃公共应急高清" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/ffd9719415c1“,甘肃公共应急频道高清
+http://gg.gg/HeNeiIPTV-Gan_Su_Gong_Gong_Ying_Ji_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="甘肃都市高清" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/d98b415ae9f5",甘肃都市频道高清
+http://gg.gg/HeNeiIPTV-Gan_Su_Du_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="甘肃文化影视高清" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/323bba2421ca",甘肃文化影视频道高清
+http://gg.gg/HeNeiIPTV-Gan_Su_Wen_Hua_Ying_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="甘肃移动" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃移动电视
+http://gg.gg/HeNeiIPTV-Gan_Su_Yi_Dong_Dian_Shi
+#EXTINF:-1  tvg-name="四川经济高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川经济频道高清
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",四川经济频道高清
+#EXTINF:-1  tvg-name="四川文化旅游高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",四川文化旅游频道高清
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川新闻频道高清
+#EXTINF:-1  tvg-name="四川新闻高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川新闻频道高清
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川影视文艺频道高清
+#EXTINF:-1  tvg-name="四川影视文艺高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川影视文艺频道高清
 http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",四川星空购物频道高清
+#EXTINF:-1  tvg-name="星空购物高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",星空购物频道高清
 http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png",四川妇女儿童频道高清
+#EXTINF:-1  tvg-name="四川妇女儿童高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png",四川妇女儿童频道高清
 http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86",峨眉电影频道高清
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png",四川公共农村频道高清
+#EXTINF:-1  tvg-name="四川科教高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",四川科教频道高清
+
+#EXTINF:-1  tvg-name="四川乡村高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png",四川乡村频道高清
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-#EXTINF:-1  group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",四川科教频道
-http://3017ugjo.live2.danghongyun.com/live/hls/4dc0e927160647a2bd585cb5495810be/d98ad37763a24f05be5112a7aab62c63-1.m3u8
-#EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合频道高清
-http://www.qqdszb.com/diao/scmy.php?id=4
-#EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
-http://hls333.dszbdq.cn/scmy.php?id=3
-#EXTINF:-1  group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道高清
-http://hls333.dszbdq.cn/scmy.php?id=2
+#EXTINF:-1  tvg-name="峨眉电影高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86",峨眉电影频道高清
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1  tvg-name="绵阳新闻综合高清" group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Mian_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="绵阳公共高清" group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
+http://gg.gg/HeNeiIPTV-Mian_Yang_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="绵阳科技高清" group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV3/SCMYTV3.jpg?1",绵阳科技频道高清
+http://gg.gg/HeNeiIPTV-Mian_Yang_Ke_Zhi_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
 http://193.160.32.4:8080/crtv.php?id=357
 #EXTINF:-1  group-title="地方/卫视" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96%E8%B3%87%E8%A8%8A%E5%8F%B0%20HD.png",鳳凰衛視資訊台 HD
