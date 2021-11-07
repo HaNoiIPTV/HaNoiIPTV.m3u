@@ -268,24 +268,22 @@ rtmp://tideweblive.jmtv.cn/tslsChannelLive/S020qM6/live
 http://hls333.dszbdq.cn/gdcz.php?id=11
 #EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
 http://hls333.dszbdq.cn/gdcz.php?id=12
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV3/HNTV3.jpg?1",河南民生频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV4/HNTV4.jpg?1",河南法治频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV5/HNTV5.jpg?1",河南电视剧频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV6/HNTV6.jpg?1",河南新闻频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV7/HNTV7.jpg?1",河南欢腾购物频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV8/HNTV8.jpg?1",河南公共频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV9/HNTV9.jpg?1",河南乡村频道
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/a10ef9aa82b7",甘肃卫视高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.m3u8
+#EXTINF:-1  tvg-name="河南都市高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV2/HNTV2.jpg?1",河南都市频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Du_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南民生高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV3/HNTV3.jpg?1",河南民生频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Min_Sheng_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南法治高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV4/HNTV4.jpg?1",河南法治频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Fa_Zhi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南电视剧高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV5/HNTV5.jpg?1",河南电视剧频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Dian_Shi_Ju_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南新闻高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV6/HNTV6.jpg?1",河南新闻频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Xin_Wen_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="欢腾购物高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV7/HNTV7.jpg?1",欢腾购物频道高清
+http://gg.gg/HeNeiIPTV-Huan_Teng_Gou_Wou_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南公共高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV8/HNTV8.jpg?1",河南公共频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南乡村高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV9/HNTV9.jpg?1",河南乡村频道高清
+http://gg.gg/HeNeiIPTV-He_Nan_Xiang_Cun_Pin_Dao_Gao_Qing
 #EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/d4ca3bdce5f1",甘肃经济频道高清
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93%E9%AB%98%E6%B8%85.m3u8
 #EXTINF:-1  group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://file.tvsou.com/f/323bba2421ca",甘肃文化影视频道高清
