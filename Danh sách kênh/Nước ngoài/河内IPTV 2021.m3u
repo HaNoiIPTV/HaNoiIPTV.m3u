@@ -34,26 +34,26 @@ http://117.148.187.102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 #EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道高清
 http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
-#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV1/SCNCTV1.jpg?1",南充综合频道
+#EXTINF:-1  tvg-name="南充综合" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",南充综合频道
 http://gg.gg/HeNeiIPTV-Nan_Chong_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV2/SCNCTV2.jpg?1",南充公共频道
+#EXTINF:-1  tvg-name="南充公共" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",南充公共频道
 http://gg.gg/HeNeiIPTV-Nan_Chong_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch3.flv" group-title="四川省南充市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCNCTV3/SCNCTV3.jpg?1",南充科教频道
+#EXTINF:-1  tvg-name="南充科教" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch3.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",南充科教频道
 http://gg.gg/HeNeiIPTV-Nan_Chong_Ke_Jiao_Pin_Dao
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%A4%A7%E8%BF%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.m3u8
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道
-http://hls333.dszbdq.cn/lndl.php?id=2
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN3/DALIAN3.jpg?1",大连公共频道
-http://hls333.dszbdq.cn/lndl.php?id=3
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN1/DALIAN1.jpg?1",大连文体频道
-http://hls333.dszbdq.cn/lndl.php?id=4
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN5/DALIAN5.jpg?1",大连影视频道
-http://hls333.dszbdq.cn/lndl.php?id=5
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg?1",大连少儿频道
-http://hls333.dszbdq.cn/lndl.php?id=6
-#EXTINF:-1  group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN7/DALIAN7.jpg?1",大连财经频道
-http://hls333.dszbdq.cn/lndl.php?id=7
+#EXTINF:-1  tvg-name="大连新闻综合高清" group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Da_Lian_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="大连生活" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="大连公共" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN3/DALIAN3.jpg?1",大连公共频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="大连文体" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN1/DALIAN1.jpg?1",大连文体频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Wen_Ti_Pin_Dao
+#EXTINF:-1  tvg-name="大连影视" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN5/DALIAN5.jpg?1",大连影视频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="大连少儿" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN6/DALIAN6.jpg?1",大连少儿频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Shao_Er_Pin_Dao
+#EXTINF:-1  tvg-name="大连财经" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN7/DALIAN7.jpg?1",大连财经频道
+http://gg.gg/HeNeiIPTV-Da_Lian_Cai_Jing_Pin_Dao
 #EXTINF:-1  tvg-name="河北经济生活" group-title="河北省广播电视台" tvg-logo=" ",河北经济生活频道
 http://gg.gg/HeNeiIPTV-He_Bei_Jing_Ji_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="河北农民" group-title="河北省广播电视台" tvg-logo=" ",河北农民频道
@@ -210,7 +210,7 @@ http://gg.gg/HeNeiIPTV-Guang_Dong_Jing_Ji_Ke_Jiao_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广州新闻高清" tvg-id="http://aplay.gztv.com/sec/xinwen.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9B%B4%E6%92%AD%E5%B9%BF%E5%B7%9E.png",广州新闻频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Xin_Wen_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="广州竞赛高清" tvg-id="http://aplay.gztv.com/sec/jingsai.m3u8" group-title="广东省广州市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/GZTV3/GZTV3.jpg?1",广州竞赛频道高清
+#EXTINF:-1  tvg-name="广州竞赛高清" tvg-id="http://aplay.gztv.com/sec/jingsai.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B%E9%A2%91%E9%81%93.png",广州竞赛频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Jing_Sai_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广州影视高清" tvg-id="http://aplay.gztv.com/sec/yingshi.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",广州影视频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Ying_Shi_Pin_Dao_Gao_Qing
