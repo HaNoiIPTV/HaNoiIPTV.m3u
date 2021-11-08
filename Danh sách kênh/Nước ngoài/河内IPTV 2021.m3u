@@ -120,24 +120,24 @@ http://gg.gg/HeNeiIPTV-Chang_Zhou_Du_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-Chang_Zhou_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="常州公共" group-title="江苏省常州市广播电视台" tvg-logo=" ",常州公共频道
 http://gg.gg/HeNeiIPTV-Chang_Zhou_Gong_Gong_Pin_Dao
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV2/AHTV2.jpg?1",安徽经济生活频道
-http://zbbf2.ahtv.cn/live/750.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV3/AHTV3.jpg?1",安徽影视频道
-http://zbbf2.ahtv.cn/live/756.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV4/AHTV4.jpg?1",安徽综艺频道
-http://zbbf2.ahtv.cn/live/758.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV5/AHTV5.jpg?1",安徽公共频道
-http://zbbf2.ahtv.cn/live/752.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV6/AHTV6.jpg?1",安徽农业科教频道
-http://zbbf2.ahtv.cn/live/754.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人物频道
-http://zbbf2.ahtv.cn/live/da9.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV8/AHTV8.jpg?1",安徽国际频道
-http://zbbf2.ahtv.cn/live/dab.m3u8
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",晴彩安徽频道
-http://zbbf2.ahtv.cn/live/db9.m3u8
+#EXTINF:-1  tvg-name="安徽经济生活" tvg-id="http://zbbf2.ahtv.cn/live/750.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV2/AHTV2.jpg?1",安徽经济生活频道
+http://gg.gg/HeNeiIPTV-An_Hui_Jing_Ji_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="安徽影视" tvg-id="http://zbbf2.ahtv.cn/live/756.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV3/AHTV3.jpg?1",安徽影视频道
+http://gg.gg/HeNeiIPTV-An_Hui_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="安徽综艺体育" tvg-id="http://zbbf2.ahtv.cn/live/758.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV4/AHTV4.jpg?1",安徽综艺体育频道
+http://gg.gg/HeNeiIPTV-An_Hui_Zong_Yi_Ti_Yu_Pin_Dao
+#EXTINF:-1  tvg-name="安徽公共" tvg-id="http://zbbf2.ahtv.cn/live/752.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV5/AHTV5.jpg?1",安徽公共频道
+http://gg.gg/HeNeiIPTV-An_Hui_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="安徽农业科教" tvg-id="http://zbbf2.ahtv.cn/live/754.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV6/AHTV6.jpg?1",安徽农业科教频道
+http://gg.gg/HeNeiIPTV-An_Hui_Nong_Ye_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="安徽人物" tvg-id="http://zbbf2.ahtv.cn/live/da9.m3u8" group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人物频道
+http://gg.gg/HeNeiIPTV-An_Hui_Ren_Wu_Pin_Dao
+#EXTINF:-1  tvg-name="安徽国际" tvg-id="http://zbbf2.ahtv.cn/live/dab.m3u8" group-title="安徽省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/AHTV8/AHTV8.jpg?1",安徽国际频道
+http://gg.gg/HeNeiIPTV-An_Hui_Guo_Ji_Pin_Dao
+#EXTINF:-1  tvg-name="晴彩安徽" tvg-id="http://zbbf2.ahtv.cn/live/db9.m3u8" group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",晴彩安徽频道
+http://gg.gg/HeNeiIPTV-Qing_Cai_An_Hui_Pin_Dao
 #EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人民广播电台
-http://zbbf2.ahtv.cn/live/760.m3u8
+
 #EXTINF:-1  tvg-name="上海新闻综合高清" group-title="上海市广播电视台" tvg-logo="http://static.statickksmg.com/image/2017/01/22/17fac8b65d8802c28890549e31e3c77e.png",上海新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Shang_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="第一财经高清" group-title="上海市广播电视台" tvg-logo=" ",第一财经频道高清
