@@ -1,39 +1,39 @@
 ﻿#EXTM3U
 
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
+#EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2add21f4bf7be3db2081b9152631bf48.png",CCTV13 新闻频道高清
-http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清
-http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道高清
-http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道高清
-http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道高清
-http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
-http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道高清
-http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道高清
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道高清
-http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道高清
-http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道高清
-http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道高清
-http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/01.m3u8?fmt=ts2hls
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B%E9%A2%91%E9%81%93.png",CCTV7 国防军事频道高清
-http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道高清
-http://117.148.187.102/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0",加拿大国家电视台
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1  group-title="中国中央电视台" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道高清
-http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
+#EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
+http://gg.gg/HeNeiIPTV-CCTV2-Cai_Jing_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-3 综艺高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/2b6de1c8b4c04c62c810697599cf3549.png",CCTV3 综艺频道高清
+http://gg.gg/HeNeiIPTV-CCTV3-Zong_Yi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-5 体育高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/3a59f7a4b8b28dcaa1baac27e8410bf0.png",CCTV5 体育频道高清
+http://gg.gg/HeNeiIPTV-CCTV5-Ti_Yu_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-5+ 赛事高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/7c996868f0d429dd03323440306e769c.png",CCTV5+ 体育赛事频道高清
+http://gg.gg/HeNeiIPTV-CCTV5_Plus-Ti_Yu_Sai_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-6 电影高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/9cc560bc1b40aa3bf7d78bfc4b6f1fbc.png",CCTV6 电影频道高清
+http://gg.gg/HeNeiIPTV-CCTV6-Dian_Ying_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-7 国防军事高清" group-title="中国中央广播电视总台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B%E9%A2%91%E9%81%93.png",CCTV7 国防军事频道高清
+http://gg.gg/HeNeiIPTV-CCTV7-Guo_Fang_Jun_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-8 电视剧高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/d7118be28f7a3689accb2316a9e9be27.png",CCTV8 电视剧频道高清
+http://gg.gg/HeNeiIPTV-CCTV8-Dian_Shi_Ju_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-9 纪录高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/169f8d92bcabaa76909a68fbcf896894.png",CCTV9 纪录频道高清
+http://gg.gg/HeNeiIPTV-CCTV9-Ji_Lu_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-10 科教高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/cd0e7f021ca866e8b41907a697f78f06.png",CCTV10 科教频道高清
+http://gg.gg/HeNeiIPTV-CCTV10-Ke_Jiao_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-11 戏曲高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道高清
+http://gg.gg/HeNeiIPTV-CCTV11-Xi_Qu_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-12 社会与法高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道高清
+http://gg.gg/HeNeiIPTV-CCTV12-She_Hui_Yu_Fa_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-14 少儿高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/2289aa22c5bda67fd5d9cc7da6161a21.png",CCTV14 少儿频道高清
+http://gg.gg/HeNeiIPTV-CCTV14-Shao_Er_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-15 音乐高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/3acca35b6d351978d70da1c47e973b62.png",CCTV15 音乐频道高清
+http://gg.gg/HeNeiIPTV-CCTV15-Yin_Le_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="CCTV-17 农业农村高清" group-title="中国中央广播电视总台" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道高清
+http://gg.gg/HeNeiIPTV-CCTV17-Nong_Ye_Nong_Cun_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="加拿大电视台" group-title="中国中央广播电视总台" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0",加拿大国家电视台
+
+
+
 #EXTINF:-1  tvg-name="南充综合" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",南充综合频道
 http://gg.gg/HeNeiIPTV-Nan_Chong_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="南充公共" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",南充公共频道
@@ -240,7 +240,7 @@ http://gg.gg/HeNeiIPTV-Xia_Men_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Xia_Men_Hai_Xia_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="厦门移动" group-title="福建省厦门市广播影视集团" tvg-logo=" ",厦门移动电视
 http://gg.gg/HeNeiIPTV-Xia_Men_Yi_Dong_Dian_Shi
-#EXTINF:-1  tvg-name="泉州1套高清" group-title="福建省泉州市广播电视台" tvg-logo=" ",泉州新闻综合频道高清
+#EXTINF:-1  tvg-name="泉州1套高清" group-title="福建省泉州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",泉州新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Quan_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="漳州1套" group-title="福建省漳州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BC%B3%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",漳州新闻综合频道
 http://gg.gg/HeNeiIPTV-Zhang_Zhou_Xin_Wen_Zong_He_Pin_Dao
@@ -308,20 +308,20 @@ http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="中山教育" group-title="广东省中山市广播电视台" tvg-logo=" ",中山教育频道
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Jiao_Yu_Pin_Dao
-#EXTINF:-1  tvg-name="东莞1套高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞新闻综合频道高清
+#EXTINF:-1  tvg-name="东莞新闻综合高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Dong_Guan_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="东莞2套高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞公共频道高清
+#EXTINF:-1  tvg-name="东莞公共高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞公共频道高清
 http://gg.gg/HeNeiIPTV-Dong_Guan_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="江门综合" group-title="广东省江门市广播电视台" tvg-logo=" ",江门综合频道
 rtmp://tideweblive.jmtv.cn/tslsChannelLive/4x3T0dO/live
-#EXTINF:-1  tvg-name="江门公共" group-title="广东省江门市广播电视台" tvg-logo=" ",江门公共频道
+#EXTINF:-1  tvg-name="江门公共" group-title="广东省江门市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E9%97%A8%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",江门公共频道
 rtmp://tideweblive.jmtv.cn/tslsChannelLive/qzohscw/live
 #EXTINF:-1  tvg-name="江门教育" group-title="广东省江门市广播电视台" tvg-logo=" ",江门教育频道
 rtmp://tideweblive.jmtv.cn/tslsChannelLive/S020qM6/live
-#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
-http://hls333.dszbdq.cn/gdcz.php?id=11
-#EXTINF:-1  group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
-http://hls333.dszbdq.cn/gdcz.php?id=12
+#EXTINF:-1  tvg-name="潮州综合高清" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
+
+#EXTINF:-1  tvg-name="潮州公共高清" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
+
 #EXTINF:-1  tvg-name="河南都市高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",河南都市频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Du_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南民生高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道高清
@@ -332,7 +332,7 @@ http://gg.gg/HeNeiIPTV-He_Nan_Fa_Zhi_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-He_Nan_Dian_Shi_Ju_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南新闻高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",河南新闻频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Xin_Wen_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="欢腾购物高清" group-title="河南省广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HNTV7/HNTV7.jpg?1",欢腾购物频道高清
+#EXTINF:-1  tvg-name="欢腾购物高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",欢腾购物频道高清
 http://gg.gg/HeNeiIPTV-Huan_Teng_Gou_Wou_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南公共高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",河南公共频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Gong_Gong_Pin_Dao_Gao_Qing
@@ -351,23 +351,23 @@ http://gg.gg/HeNeiIPTV-Gan_Su_Wen_Hua_Ying_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="甘肃移动" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃移动电视
 http://gg.gg/HeNeiIPTV-Gan_Su_Yi_Dong_Dian_Shi
 #EXTINF:-1  tvg-name="四川经济高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川经济频道高清
-http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Jing_Ji_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="四川文化旅游高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",四川文化旅游频道高清
-http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Wen_Hua_Lv_You_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="四川新闻高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川新闻频道高清
-http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Xin_Wen_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="四川影视文艺高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",四川影视文艺频道高清
-http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Ying_Shi_Wen_Yi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="星空购物高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",星空购物频道高清
-http://scgctvshow.sctv.com/hdlive/sctv6/1.m3u8
+http://gg.gg/HeNeiIPTV-Xing_Kong_Gou_Wou_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="四川妇女儿童高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93.png",四川妇女儿童频道高清
-http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Fu_Nv_Er_Tong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="四川科教高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",四川科教频道高清
 
 #EXTINF:-1  tvg-name="四川乡村高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%85%AC%E5%85%B1%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png",四川乡村频道高清
-http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
+http://gg.gg/HeNeiIPTV-Si_Chuan_Xiang_Cun_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="峨眉电影高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86",峨眉电影频道高清
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+
 #EXTINF:-1  tvg-name="绵阳新闻综合高清" group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV1/SCMYTV1.jpg?1",绵阳新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Mian_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="绵阳公共高清" group-title="四川省绵阳市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCMYTV2/SCMYTV2.jpg?1",绵阳公共频道高清
