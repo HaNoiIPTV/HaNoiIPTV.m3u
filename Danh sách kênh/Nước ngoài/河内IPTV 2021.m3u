@@ -280,7 +280,13 @@ http://gg.gg/HeNeiIPTV-San_Ming_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ning_De_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁德2套高清" group-title="福建省宁德市广播电视台" tvg-logo=" ",宁德公共频道高清
 http://gg.gg/HeNeiIPTV-Ning_De_Gong_Gong_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="广东省广播电视台" tvg-logo=" ",广东经济科教频道高清
+#EXTINF:-1  tvg-name="广东珠江高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东珠江频道高清
+http://gg.gg/HeNeiIPTV-Guang_Dong_Zhu_Jiang_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="广东公共高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东公共频道高清
+http://gg.gg/HeNeiIPTV-Guang_Dong_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="广东新闻高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东新闻频道高清
+http://gg.gg/HeNeiIPTV-Guang_Dong_Xin_Wen_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="广东经济科教高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东经济科教频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Jing_Ji_Ke_Jiao_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广州综合高清" tvg-id="http://aplay.gztv.com/sec/zhonghe.m3u8" group-title="广东省广州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",广州综合频道高清
 http://gg.gg/HeNeiIPTV-Guang_Zhou_Zong_He_Pin_Dao_Gao_Qing
@@ -382,11 +388,11 @@ http://gg.gg/HeNeiIPTV-Hai_Nan_Gong_Gong_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Hai_Nan_Shao_Er_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="海南文旅高清" group-title="海南省网络广播电视台" tvg-logo=" ",海南文旅频道高清
 http://gg.gg/HeNeiIPTV-Hai_Nan_Wen_Lv_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="海口1套" group-title="海南省海口市广播电视台" tvg-logo=" ",海口综合频道
+#EXTINF:-1  tvg-name="海口1套高清" group-title="海南省海口市广播电视台" tvg-logo=" ",海口综合频道高清
 http://gg.gg/HeNeiIPTV-Hai_Kou_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="海口2套" group-title="海南省海口市广播电视台" tvg-logo=" ",海口生活娱乐频道
+#EXTINF:-1  tvg-name="海口2套高清" group-title="海南省海口市广播电视台" tvg-logo=" ",海口生活娱乐频道高清
 http://gg.gg/HeNeiIPTV-Hai_Kou_Sheng_Huo_Yu_Le_Pin_Dao
-#EXTINF:-1  tvg-name="海口3套" group-title="海南省海口市广播电视台" tvg-logo=" ",海口城乡经济频道
+#EXTINF:-1  tvg-name="海口3套高清" group-title="海南省海口市广播电视台" tvg-logo=" ",海口城乡经济频道高清
 http://gg.gg/HeNeiIPTV-Hai_Kou_Cheng_Xiang_Jing_Ji_Pin_Dao
 #EXTINF:-1  tvg-name="陵水台" group-title="海南省陵水县广播电视台" tvg-logo=" ",陵水电视台
 http://gg.gg/HeNeiIPTV-Ling_Shui_Dian_Shi_Tai
@@ -406,7 +412,7 @@ http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_32
 http://gg.gg/HeNeiIPTV-Gang_Tai_Dian_Shi_33
 #EXTINF:-1  tvg-name="香港國際財經台" group-title="香港地區" tvg-logo=" " tvg-chno="76",香港國際財經台
 http://gg.gg/HeNeiIPTV-HKIBC-Xiang_Gang_Guo_Ji_Cai_Jing_Tai
-#EXTINF:-1  tvg-name="香港開電視" tvg-id="http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8" group-title="香港地區" tvg-logo=" " tvg-chno="77",香港開電視
+#EXTINF:-1  tvg-name="香港開電視" tvg-id="https://cdn.hkdtmb.com/hls/77/index.m3u8" group-title="香港地區" tvg-logo=" " tvg-chno="77",香港開電視
 http://gg.gg/HeNeiIPTV-Xiang_Gang_Kai_Dian_Shi
 #EXTINF:-1  tvg-name="翡翠台" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" tvg-chno="81",翡翠台
 http://gg.gg/HeNeiIPTV-Fei_Cui_Tai
