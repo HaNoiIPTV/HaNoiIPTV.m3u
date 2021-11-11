@@ -366,7 +366,7 @@ http://gg.gg/HeNeiIPTV-Ning_De_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Ning_De_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广东珠江高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东珠江频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Zhu_Jiang_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="广东公共高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东公共频道高清
+#EXTINF:-1  tvg-name="广东公共高清" group-title="广东省网络广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E4%B8%9C%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",广东公共频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广东新闻高清" group-title="广东省网络广播电视台" tvg-logo=" ",广东新闻频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Xin_Wen_Pin_Dao_Gao_Qing
@@ -412,12 +412,36 @@ http://gg.gg/HeNeiIPTV-Shen_Zhen_Ti_Yu_Jian_Kang_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zhu_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="珠海2套高清" tvg-id="http://nettv.live/hls/cutv.php?id=zhsh" group-title="广东省珠海市传媒集团" tvg-logo=" ",珠海公共生活频道高清
 http://gg.gg/HeNeiIPTV-Zhu_Hai_Gong_Gong_Sheng_Huo_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="佛山综合" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山综合频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="佛山影视" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山影视频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="佛山公共" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山公共频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="佛山南海" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山南海频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Nan_Hai_Pin_Dao
+#EXTINF:-1  tvg-name="佛山顺德" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山顺德频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Shun_De_Pin_Dao
+#EXTINF:-1  tvg-name="佛山三水" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山三水频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_San_Shui_Pin_Dao
+#EXTINF:-1  tvg-name="佛山高明" group-title="广东省佛山市广播电视台" tvg-logo=" ",佛山高明频道
+http://gg.gg/HeNeiIPTV-Fo_Shan_Gao_Ming_Pin_Dao
 #EXTINF:-1  tvg-name="中山综合" group-title="广东省中山市广播电视台" tvg-logo=" ",中山综合频道
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="中山公共" group-title="广东省中山市广播电视台" tvg-logo=" ",中山公共频道
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="中山教育" group-title="广东省中山市广播电视台" tvg-logo=" ",中山教育频道
 http://gg.gg/HeNeiIPTV-Zhong_Shan_Jiao_Yu_Pin_Dao
+#EXTINF:-1  tvg-name="湛江新闻综合" group-title="广东省湛江市广播电视台" tvg-logo=" ",湛江新闻综合频道
+http://gg.gg/HeNeiIPTV-Zhan_Jiang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="湛江公共" group-title="广东省湛江市广播电视台" tvg-logo=" ",湛江公共频道
+http://gg.gg/HeNeiIPTV-Zhan_Jiang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="潮州综合" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道
+http://gg.gg/HeNeiIPTV-Chao_Zhou_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="潮州公共" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道
+
+#EXTINF:-1  tvg-name="饶平新闻综合" group-title="广东省潮州市饶平县广播电视台" tvg-logo=" ",饶平新闻综合频道
+http://gg.gg/HeNeiIPTV-Rao_Ping_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="东莞新闻综合高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Dong_Guan_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="东莞公共高清" group-title="广东省东莞市广播电视台" tvg-logo=" ",东莞公共频道高清
@@ -428,10 +452,28 @@ rtmp://tideweblive.jmtv.cn/tslsChannelLive/4x3T0dO/live
 rtmp://tideweblive.jmtv.cn/tslsChannelLive/qzohscw/live
 #EXTINF:-1  tvg-name="江门教育" group-title="广东省江门市广播电视台" tvg-logo=" ",江门教育频道
 rtmp://tideweblive.jmtv.cn/tslsChannelLive/S020qM6/live
-#EXTINF:-1  tvg-name="潮州综合高清" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV1/CZBTV1.jpg?1",潮州综合频道高清
-
-#EXTINF:-1  tvg-name="潮州公共高清" group-title="广东省潮州市广播电视台：看潮州" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/CZBTV2/CZBTV2.jpg?1",潮州公共频道高清
-
+#EXTINF:-1  tvg-name="开平综合高清" group-title="广东省江门市开平市广播电视台" tvg-logo=" ",开平综合频道高清
+http://gg.gg/HeNeiIPTV-Kai_Ping_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="开平生活高清" group-title="广东省江门市开平市广播电视台" tvg-logo=" ",开平生活频道高清
+http://gg.gg/HeNeiIPTV-Kai_Ping_Sheng_Huo_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="台山综合高清" group-title="广东省江门市台山市广播电视台" tvg-logo=" ",台山综合频道高清
+http://gg.gg/HeNeiIPTV-Tai_Shan_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="鹤山综合" group-title="广东省江门市鹤山市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%B9%A4%E5%B1%B1%E7%94%B5%E8%A7%86%E5%8F%B0.png",鹤山综合频道
+http://gg.gg/HeNeiIPTV-He_Shan_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="新会综合高清" group-title="广东省江门市新会区广播电视台" tvg-logo=" ",新会综合频道高清
+http://gg.gg/HeNeiIPTV-Xin_Hui_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="茂名综合" group-title="广东省茂名市广播电视台" tvg-logo=" ",茂名综合频道
+http://gg.gg/HeNeiIPTV-Mao_Ming_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="汕头综合" group-title="广东省汕头市广播电视台：大华网" tvg-logo=" ",汕头综合频道
+http://gg.gg/HeNeiIPTV-Shan_Tou_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="汕头经济生活" group-title="广东省汕头市广播电视台：大华网" tvg-logo=" ",汕头经济生活频道
+http://gg.gg/HeNeiIPTV-Shan_Tou_Jing_Ji_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="汕头文旅体育" group-title="广东省汕头市广播电视台：大华网" tvg-logo=" ",汕头文旅体育频道
+http://gg.gg/HeNeiIPTV-Shan_Tou_Wen_Lv_Ti_Yu_Pin_Dao
+#EXTINF:-1  tvg-name="惠州1套高清" group-title="广东省惠州市广播电视台" tvg-logo=" ",惠州新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Hui_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="惠州2套高清" group-title="广东省惠州市广播电视台" tvg-logo=" ",惠州公共频道高清
+http://gg.gg/HeNeiIPTV-Hui_Zhou_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南都市高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",河南都市频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Du_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南民生高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道高清
