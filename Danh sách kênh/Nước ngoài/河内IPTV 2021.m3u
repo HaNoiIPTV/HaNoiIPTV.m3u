@@ -886,7 +886,7 @@ http://125.227.210.37:16408/VideoInput/play.ts
 http://125.227.210.37:10388/VideoInput/play.ts
 #EXTINF:-1  tvg-name="探索科學 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/254.png?rand=761",探索科學台 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
-#EXTINF:-1  tvg-name="探索動力 HD" group-title="中華電信" tvg-logo=" ",探索動力台 HD
+#EXTINF:-1  tvg-name="探索動力 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/255.png",探索動力台 HD
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
 #EXTINF:-1  tvg-name="美食星球 HD" group-title="中華電信" tvg-logo=" ",美食星球頻道 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
@@ -948,8 +948,6 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d68?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1  tvg-name="生活英語 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/103.png?rand=998",ELTV 生活英語台 HD
 http://193.160.32.4:8080/crtv.php?id=323
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/255.png",DMAX HD
-http://193.160.32.4:8080/crtv.php?id=335
 #EXTINF:-1  tvg-name="靖天卡通 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/107.png?rand=427",靖天卡通台 HD
 http://193.160.32.4:8080/crtv.php?id=344
 #EXTINF:-1  tvg-name="靖天國際 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/265.png?rand=654",靖天國際台 HD
