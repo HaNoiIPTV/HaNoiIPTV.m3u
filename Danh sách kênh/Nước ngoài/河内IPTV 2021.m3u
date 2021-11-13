@@ -1,7 +1,6 @@
 ﻿#EXTM3U
 
-
-http://125.227.210.55:18789/VideoInput/play.ts
+http://125.227.210.55:13498/VideoInput/play.ts
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
@@ -932,6 +931,8 @@ http://193.160.32.4:8080/crtv.php?id=345
 http://193.160.32.4:8080/crtv.php?id=348
 #EXTINF:-1  group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv070_mobile.png",愛爾達娛樂台 HD
 http://193.160.32.4:8080/crtv.php?id=351
+#EXTINF:-1  tvg-name="衛視西片 HD" group-title="中華電信" tvg-logo=" ",衛視西片台 HD
+http://125.227.210.55:18789/VideoInput/play.ts
 #EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/626.png?rand=88",CatchPlay電影台 HD
 http://193.160.32.4:8080/crtv.php?id=362
 #EXTINF:-1  group-title="中華電信" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn01_pc.png",龍華卡通台 HD
