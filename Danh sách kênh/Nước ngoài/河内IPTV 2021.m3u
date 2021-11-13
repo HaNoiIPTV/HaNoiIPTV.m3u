@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-http://125.227.210.55:13498/VideoInput/play.ts
+http://125.227.210.55:14250/VideoInput/play.ts
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
@@ -945,9 +945,3 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 http://193.160.32.4:8080/crtv.php?id=375
 #EXTINF:-1  group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn11_mobile.png",龍華日韓台 HD
 http://193.160.32.4:8080/crtv.php?id=382
-#EXTINF:-1  group-title="中華電信" tvg-logo=" ",FOX Action Movies HD
-http://193.160.32.4:8080/crtv.php?id=385
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/622.png?rand=889",福斯警匪頻道 HD
-http://193.160.32.4:8080/crtv.php?id=386
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Fox%20Sports%20HD.png",福斯體育台 HD
-http://gg.gg/HeNeiIPTV-Fox_Sports_HD
