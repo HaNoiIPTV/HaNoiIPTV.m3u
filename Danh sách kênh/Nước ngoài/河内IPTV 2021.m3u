@@ -716,16 +716,18 @@ http://gg.gg/HeNeiIPTV-Pi_Li_Tai_Wan_Tai_HD
 rtmp://59.124.75.138/sat/tv111
 #EXTINF:-1  tvg-name="公視 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AC%E8%A6%96%20HD.png" tvg-chno="13",公視 HD
 http://gg.gg/HeNeiIPTV-Gong_Shi_HD
-#EXTINF:-1  tvg-name="公視台語 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0%20HD.png" tvg-chno="14",公視台語台 HD
-http://gg.gg/HeNeiIPTV-Gong_Shi_Tai_Yu_Tai_HD
+#EXTINF:-1  tvg-name="公視台語 HD" tvg-id="http://gg.gg/HeNeiIPTV-Gong_Shi_Tai_Yu_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0%20HD.png" tvg-chno="14",公視台語台 HD
+rtmp://45.92.126.226/channel/60c31796961593122ebaf908
 #EXTINF:-1  tvg-name="客家電視 HD" group-title="台灣地區" tvg-logo="https://hakkatv.s3-accelerate.amazonaws.com/hakkatv/photos/default/logo.large.png" tvg-chno="17",客家電視台 HD
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d40?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  tvg-name="TLC 旅游生活 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TLC%20HD.png" tvg-chno="20",旅游生活頻道 HD
-http://gg.gg/HeNeiIPTV-TLC-Lv_You_Sheng_Huo_Pin_Dao_HD
-#EXTINF:-1  tvg-name="Animal Planet 動物星球 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animal%20Planet%20HD.png" tvg-chno="21",動物星球頻道 HD
-http://gg.gg/HeNeiIPTV-Animal_Planet-Dong_Wu_Xing_Qiu_Pin_Dao_HD
-#EXTINF:-1  tvg-name="CN卡通 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cartoon%20Network%20HD.png" tvg-chno="23",CN卡通頻道 HD
-http://gg.gg/HeNeiIPTV-Cartoon_Network-Ka_Tong_Pin_Dao_HD
+rtmp://45.92.126.226/channel/61003b23f0618408855f3748
+#EXTINF:-1  tvg-name="探索頻道 HD" group-title="台灣地區" tvg-logo=" " tvg-chno="19",探索頻道 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
+#EXTINF:-1  tvg-name="TLC 旅游生活 HD" tvg-id="http://gg.gg/HeNeiIPTV-TLC-Lv_You_Sheng_Huo_Pin_Dao_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TLC%20HD.png" tvg-chno="20",旅游生活頻道 HD
+http://125.227.210.55:19020/VideoInput/play.ts
+#EXTINF:-1  tvg-name="Animal Planet 動物星球 HD" tvg-id="http://gg.gg/HeNeiIPTV-Animal_Planet-Dong_Wu_Xing_Qiu_Pin_Dao_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animal%20Planet%20HD.png" tvg-chno="21",動物星球頻道 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
+#EXTINF:-1  tvg-name="CN卡通 HD" tvg-id="http://gg.gg/HeNeiIPTV-Cartoon_Network-Ka_Tong_Pin_Dao_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cartoon%20Network%20HD.png" tvg-chno="23",CN卡通頻道 HD
+http://125.227.210.55:16671/VideoInput/play.ts
 #EXTINF:-1  tvg-name="東森幼幼 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC%E5%8F%B0%20HD.png" tvg-chno="25",東森幼幼台 HD
 http://gg.gg/HeNeiIPTV-Dong_Sen_You_You_Tai_HD
 #EXTINF:-1  tvg-name="緯來綜合 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="26",緯來綜合台 HD
@@ -808,8 +810,8 @@ rtmp://59.124.75.138/sat/tv761
 http://gg.gg/HeNeiIPTV-Bo_Si_Yun_Dong_Yi_Tai_HD
 #EXTINF:-1  tvg-name="緯來日本 HD" tvg-id="http://gg.gg/HeNeiIPTV-Wei_Lai_Ri_Ben_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E6%97%A5%E6%9C%AC%E5%8F%B0%20HD.png" tvg-chno="77",緯來日本台 HD
 rtmp://59.124.75.138/sat/tv771
-#EXTINF:-1  tvg-name="Z頻道 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Z%E9%A0%BB%E9%81%93.png" tvg-chno="81",Z頻道 HD
-http://gg.gg/HeNeiIPTV-Z_Pin_Dao_HD
+#EXTINF:-1  tvg-name="Z頻道 HD" tvg-id="http://gg.gg/HeNeiIPTV-Z_Pin_Dao_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/Z%E9%A0%BB%E9%81%93.png" tvg-chno="81",Z頻道 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 #EXTINF:-1  tvg-name="MTV HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MTV%20HD.png" tvg-chno="83",MTV HD
 http://gg.gg/HeNeiIPTV-MTV_HD
 #EXTINF:-1  tvg-name="冠軍電視 HD" group-title="台灣地區" tvg-logo=" " tvg-chno="87",冠軍電視台 HD
@@ -820,6 +822,8 @@ http://gg.gg/HeNeiIPTV-San_Li_iNews_HD
 http://gg.gg/HeNeiIPTV-Fei_Fan_Shang_Ye_Tai_HD
 #EXTINF:-1  tvg-name="WAKU WAKU JAPAN HD" group-title="台灣地區" tvg-logo="tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Waku%20Waku%20Japan%20HD.png" tvg-chno="91",Waku Waku Japan HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d38?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1  tvg-name="NHK HD" group-title="台灣地區" tvg-logo=" " tvg-chno="98",NHK HD
+rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
 #EXTINF:-1  tvg-name="海豚綜合 HD" group-title="台灣地區" tvg-logo=" " tvg-chno="98",海豚綜合台 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
 #EXTINF:-1  tvg-name="華視教育體育文化 HD" tvg-id="http://gg.gg/HeNeiIPTV-Hua_Shi_Jiao_Yu_Ti_Yu_Wen_Hua_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%8F%AF%E8%A6%96%E6%95%99%E8%82%B2%E9%AB%94%E8%82%B2%E6%96%87%E5%8C%96%E5%8F%B0%20HD.png" tvg-chno="113",華視教育體育文化台 HD
@@ -835,13 +839,13 @@ http://gg.gg/HeNeiIPTV-Tai_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  tvg-name="台視財經 HD" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/521.png?rand=311" tvg-chno="156",台視財經台 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 #EXTINF:-1  tvg-name="台視綜合 HD" tvg-id="http://gg.gg/HeNeiIPTV-Tai_Shi_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="157",台視綜合台 HD
-rtmp://45.92.126.226/channel/60c31796961593122ebaf908
+
 #EXTINF:-1  tvg-name="寰宇新聞 HD" channel-id="116" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/501.png?rand=269",寰宇新聞台 HD
 http://193.160.32.4:8080/crtv.php?id=304
 #EXTINF:-1  tvg-name="公視3台 HD" tvg-id="http://gg.gg/HeNeiIPTV-Gong_Shi_San_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AC%E8%A6%963%E5%8F%B0%20HD.png" tvg-chno="200",公視三台 HD
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-#EXTINF:-1  tvg-name="HBO 原創鉅獻 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/HBO%20%E5%8E%9F%E5%89%B5%E9%89%85%E7%8D%BB%E9%A0%BB%E9%81%93.png" tvg-chno="218",HBO 原創鉅獻頻道 HD
-http://gg.gg/HeNeiIPTV-HBO_Signature_HD
+#EXTINF:-1  tvg-name="HBO 原創鉅獻 HD" tvg-id="http://gg.gg/HeNeiIPTV-HBO_Signature_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/HBO%20%E5%8E%9F%E5%89%B5%E9%89%85%E7%8D%BB%E9%A0%BB%E9%81%93.png" tvg-chno="218",HBO 原創鉅獻頻道 HD
+rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
 #EXTINF:-1  tvg-name="HBO 強檔鉅獻 HD" tvg-id="http://gg.gg/HeNeiIPTV-HBO_Hits_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/HBO%20%E5%BC%B7%E6%AA%94%E9%89%85%E7%8D%BB%E9%A0%BB%E9%81%93.png" tvg-chno="219",HBO 強檔鉅獻頻道 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
 #EXTINF:-1  tvg-name="HBO 家庭影院 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/HBO%20%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E9%A0%BB%E9%81%93.png" tvg-chno="220",HBO 家庭影院頻道 HD
@@ -877,74 +881,90 @@ rtmp://59.124.75.138/sat/md011
 #EXTINF:-1  tvg-name="愛爾達體育3 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/202.png?rand=966",愛爾達體育3台 HD
 rtmp://59.124.75.138/sat/md051
 #EXTINF:-1  tvg-name="國家地理 HD" group-title="中華電信" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png",國家地理頻道 HD
-http://193.160.32.4:8080/crtv.php?id=302
+http://125.227.210.37:16408/VideoInput/play.ts
+#EXTINF:-1  tvg-name="探索亞洲 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Asia%20HD.png",探索亞洲台 HD
+http://125.227.210.37:10388/VideoInput/play.ts
+#EXTINF:-1  tvg-name="探索科學 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/254.png?rand=761",探索科學台 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
+#EXTINF:-1  tvg-name="探索動力 HD" group-title="中華電信" tvg-logo=" ",探索動力台 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
+#EXTINF:-1  tvg-name="美食星球 HD" group-title="中華電信" tvg-logo=" ",美食星球頻道 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
+#EXTINF:-1  tvg-name="靖天綜合 HD" group-title="中華電信" tvg-logo=" ",靖天綜合台 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
 #EXTINF:-1  tvg-name="中視經典 HD" tvg-id="rtmp://45.88.148.178/channel/60c31708961593122ebaf902" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0%20HD.png",中視經典台 HD
 http://gg.gg/HeNeiIPTV-Zhong_Shi_Jing_Dian_Tai_HD
 #EXTINF:-1  tvg-name="寰宇綜合 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/309.png?rand=591",寰宇綜合台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 #EXTINF:-1  tvg-name="TVBS精采 HD" group-title="中華電信" tvg-logo=" ",TVBS 精采台 HD
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Asia%20HD.png",Discovery Asia HD
-http://193.160.32.4:8080/crtv.php?id=306
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/378.png?rand=200",華藝MBC綜合台 HD
+#EXTINF:-1  tvg-name="華藝MBC HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/378.png?rand=200",華藝MBC綜合台 HD
 http://193.160.32.4:8080/crtv.php?id=310
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/611.png?rand=852",龍華電影台 HD
+#EXTINF:-1  tvg-name="星衛娛樂 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%9F%E8%A1%9B%E5%A8%9B%E6%A8%82%E5%8F%B0%20HD.png",星衛娛樂台 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
+#EXTINF:-1  tvg-name="龍華電影 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/611.png?rand=852",龍華電影台 HD
 http://193.160.32.4:8080/crtv.php?id=311
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout955_pc_20180522.png",空中英語教室 HD
+#EXTINF:-1  tvg-name="空中英語 HD" group-title="中華電信" tvg-logo="https://cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout955_pc_20180522.png",空中英語教室 HD
 http://193.160.32.4:8080/crtv.php?id=313
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png",愛爾達綜合台 HD
+#EXTINF:-1  tvg-name="愛爾達綜合 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png",愛爾達綜合台 HD
 http://gg.gg/HeNeiIPTV-Ai_Er_Da_Zong_He_Tai_HD
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/301.png?rand=16",三立綜合台 HD
+#EXTINF:-1  tvg-name="三立綜合 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/301.png?rand=16",三立綜合台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d28?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0%20HD.png",愛爾達影劇台 HD
+#EXTINF:-1  tvg-name="愛爾達影劇 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87%E5%8F%B0%20HD.png",愛爾達影劇台 HD
 http://gg.gg/HeNeiIPTV-Ai_Er_Da_Ying_Ju_Tai_HD
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/312.png?rand=243",壹電視綜合台 HD
+#EXTINF:-1  tvg-name="壹綜合 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/312.png?rand=243",壹電視綜合台 HD
 http://193.160.32.4:8080/crtv.php?id=305
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E7%B2%BE%E9%87%87%E5%8F%B0%20HD.png",緯來精采台 HD
+#EXTINF:-1  tvg-name="緯來精采 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E7%B2%BE%E9%87%87%E5%8F%B0%20HD.png",緯來精采台 HD
 http://gg.gg/HeNeiIPTV-Wei_Lai_Jing_Cai_Tai_HD
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/350.png?rand=364",三立戲劇台 HD
+#EXTINF:-1  tvg-name="靖天歡樂 HD" group-title="中華電信" tvg-logo=" ",靖天歡樂台 HD
+rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
+#EXTINF:-1  tvg-name="三立戲劇 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/350.png?rand=364",三立戲劇台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d30?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/357.png?rand=958",靖洋戲劇台 HD
+#EXTINF:-1  tvg-name="靖洋戲劇 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/357.png?rand=958",靖洋戲劇台 HD
 http://193.160.32.4:8080/crtv.php?id=319
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/372.png?rand=624",曼迪日本台 HD
+#EXTINF:-1  tvg-name="靖天日本 HD" group-title="中華電信" tvg-logo=" ",靖天日本台 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
+#EXTINF:-1  tvg-name="曼迪日本 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/372.png?rand=624",曼迪日本台 HD
 http://193.160.32.4:8080/crtv.php?id=316
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0%20HD.png",華視新聞資訊台 HD
+#EXTINF:-1  tvg-name="華視新聞資訊 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A%E5%8F%B0%20HD.png",華視新聞資訊台 HD
 http://gg.gg/HeNeiIPTV-Hua_Shi_Xin_Wen_Zi_Xun_Tai_HD
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/520.png?rand=379",寰宇財經台 HD
-http://193.160.32.4:8080/crtv.php?id=320
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/353.png?rand=823",龍華偶像台 HD
+#EXTINF:-1  tvg-name="寰宇財經 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/520.png?rand=379",寰宇財經台 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
+#EXTINF:-1  tvg-name="彭博財經 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978",彭博財經台 HD
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1  tvg-name="龍華偶像 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/353.png?rand=823",龍華偶像台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/611.png?rand=666",龍華電影台 HD
+#EXTINF:-1  tvg-name="美亞電影 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/610.png?rand=627",美亞電影台 HD
+http://193.160.32.4:8080/crtv.php?id=375
+#EXTINF:-1  tvg-name="龍華電影 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/611.png?rand=666",龍華電影台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d4c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://www.fng.tw/scmhd/images/StarChinese%20MoviesHD_logo.png",星衛電影台 HD
+#EXTINF:-1  tvg-name="星衛電影 HD" group-title="中華電信" tvg-logo="https://www.fng.tw/scmhd/images/StarChinese%20MoviesHD_logo.png",星衛電影台 HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/613.png?rand=248",靖天映畫台 HD
-rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d54?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+#EXTINF:-1  tvg-name="靖天映畫 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/613.png?rand=248",靖天映畫台 HD
+rtmp://45.92.126.226/channel/60c34395961593122ebaf994
+#EXTINF:-1  tvg-name="靖天電影 HD" group-title="中華電信" tvg-logo=" ",靖天電影台 HD
+rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 #EXTINF:-1  group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Warner%20TV%20HD.png",Warner TV HD
 rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d68?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/103.png?rand=998",ELTV 生活英語台 HD
+#EXTINF:-1  tvg-name="生活英語 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/103.png?rand=998",ELTV 生活英語台 HD
 http://193.160.32.4:8080/crtv.php?id=323
 #EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/255.png",DMAX HD
 http://193.160.32.4:8080/crtv.php?id=335
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/254.png?rand=761",Discovery 科學頻道 HD
-http://193.160.32.4:8080/crtv.php?id=343
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/107.png?rand=427",靖天卡通台 HD
+#EXTINF:-1  tvg-name="靖天卡通 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/107.png?rand=427",靖天卡通台 HD
 http://193.160.32.4:8080/crtv.php?id=344
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/265.png?rand=654",靖天國際台 HD
+#EXTINF:-1  tvg-name="靖天國際 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/265.png?rand=654",靖天國際台 HD
 http://193.160.32.4:8080/crtv.php?id=345
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/106.png?rand=216",靖洋卡通台 HD
-http://193.160.32.4:8080/crtv.php?id=348
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv070_mobile.png",愛爾達娛樂台 HD
+#EXTINF:-1  tvg-name="靖洋卡通 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/106.png?rand=216",靖洋卡通台 HD
+rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
+#EXTINF:-1  tvg-name="愛爾達娛樂 HD" group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv070_mobile.png",愛爾達娛樂台 HD
 http://193.160.32.4:8080/crtv.php?id=351
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/626.png?rand=88",CatchPlay電影台 HD
-http://193.160.32.4:8080/crtv.php?id=362
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn01_pc.png",龍華卡通台 HD
+#EXTINF:-1  tvg-name="CatchPlay電影 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/626.png?rand=88",CatchPlay電影台 HD
+rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
+#EXTINF:-1  tvg-name="光影歐洲 HD" group-title="中華電信" tvg-logo=" ",光影歐洲電影台 HD
+rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
+#EXTINF:-1  tvg-name="龍華卡通 HD" group-title="中華電信" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn01_pc.png",龍華卡通台 HD
 http://193.160.32.4:8080/crtv.php?id=366
 #EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/262.png?rand=841",Pet Club TV HD
 http://193.160.32.4:8080/crtv.php?id=368
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978",Bloomberg HD
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1  group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/610.png?rand=627",美亞電影台 HD
-http://193.160.32.4:8080/crtv.php?id=375
-#EXTINF:-1  group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn11_mobile.png",龍華日韓台 HD
+#EXTINF:-1  tvg-name="龍華日韓 HD" group-title="中華電信" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn11_mobile.png",龍華日韓台 HD
 http://193.160.32.4:8080/crtv.php?id=382
