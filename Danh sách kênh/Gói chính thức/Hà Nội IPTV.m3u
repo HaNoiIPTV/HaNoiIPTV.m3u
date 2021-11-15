@@ -4,6 +4,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=4
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
 
+
+udp://@225.1.1.150:30120
 #EXTINF:-1  tvg-name="TH Hà Nội IPTV HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%20IPTV%20HD.png",Truyền hình Hà Nội IPTV HD
 http://gg.gg/Truyen_hinh_Ha_Noi_IPTV_HD
 #EXTINF:-1  tvg-name="ĐIỂM HẸN HANOITV HD" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Điểm hẹn HanoiTV HD
