@@ -488,20 +488,20 @@ http://gg.gg/HeNeiIPTV-San_Ming_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ning_De_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁德2套高清" group-title="福建省宁德市广播电视台" tvg-logo=" ",宁德公共频道高清
 http://gg.gg/HeNeiIPTV-Ning_De_Gong_Gong_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="江西2套高清" group-title="江西省广播电视台" tvg-logo=" ",江西都市频道高清
-rtsp://118.212.169.134/PLTV/88888888/224/3221226942/10000100000000060000000000525021_0.smil
-#EXTINF:-1  tvg-name="江西3套高清" group-title="江西省广播电视台" tvg-logo=" ",江西经济生活频道高清
+#EXTINF:-1  tvg-name="江西2套" group-title="江西省网络广播电视台" tvg-logo=" ",江西都市频道
+http://gg.gg/HeNeiIPTV-Jiang_Xi_Du_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="江西3套高清" group-title="江西省网络广播电视台" tvg-logo=" ",江西经济生活频道高清
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Jing_Ji_Sheng_Huo_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="江西4套" group-title="江西省广播电视台" tvg-logo=" ",江西影视旅游频道
+#EXTINF:-1  tvg-name="江西4套" group-title="江西省网络广播电视台" tvg-logo=" ",江西影视旅游频道
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Ying_Shi_Lv_You_Pin_Dao
-#EXTINF:-1  tvg-name="江西5套" group-title="江西省广播电视台" tvg-logo=" ",江西公共农业频道
+#EXTINF:-1  tvg-name="江西5套" group-title="江西省网络广播电视台" tvg-logo=" ",江西公共农业频道
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Gong_Gong_Nong_Ye_Pin_Dao
-#EXTINF:-1  tvg-name="江西6套高清" group-title="江西省广播电视台" tvg-logo=" ",江西少儿频道高清
+#EXTINF:-1  tvg-name="江西6套高清" group-title="江西省网络广播电视台" tvg-logo=" ",江西少儿频道高清
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Shao_Er_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="江西7套高清" group-title="江西省广播电视台" tvg-logo=" ",江西新闻频道高清
+#EXTINF:-1  tvg-name="江西7套高清" group-title="江西省网络广播电视台" tvg-logo=" ",江西新闻频道高清
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Xin_Wen_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="江西8套" group-title="江西省广播电视台" tvg-logo=" ",江西移动电视
-
+#EXTINF:-1  tvg-name="江西8套" group-title="江西省网络广播电视台" tvg-logo=" ",江西移动电视
+http://gg.gg/HeNeiIPTV-Jiang_Xi_Yi_Dong_Dian_Shi
 #EXTINF:-1  tvg-name="江西教育高清" group-title="江西省教育电视台" tvg-logo=" ",江西教育电视台高清
 http://gg.gg/HeNeiIPTV-Jiang_Xi_Jiao_Yu_Dian_Shi_Tai_Gao_Qing
 #EXTINF:-1  tvg-name="广东珠江高清" tvg-id="http://nettv.live/hls/itouch.php?id=1183" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",广东珠江频道高清
