@@ -460,18 +460,18 @@ http://gg.gg/HeNeiIPTV-Fu_Zhou_Ying_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-Fu_Zhou_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="福州少儿" group-title="福建省福州市广播电视台" tvg-logo="福州少儿频道
 http://gg.gg/HeNeiIPTV-Fu_Zhou_Shao_Er_Pin_Dao
-#EXTINF:-1  tvg-name="闽侯综合" group-title="福建省福州市闽侯县广播电视台" tvg-logo=" ",闽侯综合频道
-http://gg.gg/HeNeiIPTV-Min_Hou_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="闽侯综合高清" group-title="福建省福州市闽侯县广播电视台" tvg-logo=" ",闽侯综合频道高清
+http://gg.gg/HeNeiIPTV-Min_Hou_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="长乐台" group-title="福建省福州市长乐区广播电视台" tvg-logo=" ",长乐电视台
 http://gg.gg/HeNeiIPTV-Chang_Le_Dian_Shi_Tai
-#EXTINF:-1  tvg-name="福清综合" group-title="福建省福州市福清市广播电视台" tvg-logo=" ",福清综合频道
-http://gg.gg/HeNeiIPTV-Fu_Qing_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="永泰台" group-title="福建省福州市永泰县广播电视台" tvg-logo=" ",永泰电视台
-http://gg.gg/HeNeiIPTV-Yong_Tai_Dian_Shi_Tai
 #EXTINF:-1  tvg-name="平潭综合" group-title="福建省福州市平潭县广播电视台" tvg-logo=" ",平潭综合频道
 http://gg.gg/HeNeiIPTV-Ping_Tan_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="平潭文旅" group-title="福建省福州市平潭县广播电视台" tvg-logo=" ",平潭文旅频道
 http://gg.gg/HeNeiIPTV-Ping_Tan_Wen_Lv_Pin_Dao
+#EXTINF:-1  tvg-name="福清综合" group-title="福建省福州市福清市广播电视台" tvg-logo=" ",福清综合频道
+http://gg.gg/HeNeiIPTV-Fu_Qing_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="永泰台" group-title="福建省福州市永泰县广播电视台" tvg-logo=" ",永泰电视台
+http://gg.gg/HeNeiIPTV-Yong_Tai_Dian_Shi_Tai
 #EXTINF:-1  tvg-name="厦门1套高清" group-title="福建省厦门市广播影视集团" tvg-id="http://nettv.live/hls/xiamen.php?id=16" tvg-logo=" ",厦门新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Xia_Men_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="厦门2套高清" group-title="福建省厦门市广播影视集团" tvg-logo=" ",厦门海峡频道高清
@@ -480,8 +480,18 @@ http://gg.gg/HeNeiIPTV-Xia_Men_Hai_Xia_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Xia_Men_Yi_Dong_Dian_Shi
 #EXTINF:-1  tvg-name="泉州1套高清" group-title="福建省泉州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B3%89%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",泉州新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Quan_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="德化台" group-title="福建省泉州市德化县广播电视台" tvg-logo=" ",德化电视台
+http://gg.gg/HeNeiIPTV-De_Hua_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="南安新闻综合" group-title="福建省泉州市南安市广播电视台" tvg-logo=" ",南安新闻综合频道
+http://gg.gg/HeNeiIPTV-Nan_An_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="晋江台高清" group-title="福建省泉州市晋江市广播电视台" tvg-logo=" ",晋江市电视台高清
+http://gg.gg/HeNeiIPTV-Jin_Jiang_Dian_Shi_Tai_Gao_Qing
+#EXTINF:-1  tvg-name="石狮新闻综合" group-title="福建省泉州市石狮市广播电视台" tvg-logo=" ",石狮新闻综合频道
+http://gg.gg/HeNeiIPTV-Shi_Shi_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="漳州1套" group-title="福建省漳州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BC%B3%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",漳州新闻综合频道
 http://gg.gg/HeNeiIPTV-Zhang_Zhou_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="云霄台" group-title="福建省漳州市广播电视台" tvg-logo=" ",云霄电视台
+http://gg.gg/HeNeiIPTV-Yun_Xiao_Dian_Shi_Tai
 #EXTINF:-1  tvg-name="莆田1套高清" group-title="福建省莆田市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%8E%86%E7%94%B0%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",莆田新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Pu_Tian_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="莆田2套高清" group-title="福建省莆田市广播电视台" tvg-logo=" ",莆田公共频道高清
@@ -492,10 +502,36 @@ http://gg.gg/HeNeiIPTV-Xian_You_Dian_Shi_Tai
 http://gg.gg/HeNeiIPTV-Long_Yan_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="龙岩公共高清" group-title="福建省龙岩市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BE%99%E5%B2%A9%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",龙岩公共频道高清
 http://gg.gg/HeNeiIPTV-Long_Yan_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="上杭综合" group-title="福建省龙岩市上杭县广播电视台" tvg-logo=" ",上杭综合频道
+http://gg.gg/HeNeiIPTV-Shang_Hang_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="三明1套高清" group-title="福建省三明市广播电视台" tvg-id="http://nettv.live/hls/guangdianyun.php?id=1994" tvg-logo=" ",三明新闻综合频道高清
 http://gg.gg/HeNeiIPTV-San_Ming_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="三明2套高清" group-title="福建省三明市广播电视台" tvg-id="http://nettv.live/hls/guangdianyun.php?id=1995" tvg-logo=" ",三明公共频道高清
 http://gg.gg/HeNeiIPTV-San_Ming_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="尤溪新闻综合" group-title="福建省三明市尤溪县广播电视台" tvg-logo=" ",尤溪新闻综合频道
+http://gg.gg/HeNeiIPTV-You_Xi_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="尤溪台" group-title="福建省三明市尤溪县广播电视台" tvg-logo=" ",尤溪电视台
+http://gg.gg/HeNeiIPTV-You_Xi_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="将乐1套" group-title="福建省三明市将乐县广播电视台" tvg-logo=" ",将乐新闻综合频道
+http://gg.gg/HeNeiIPTV-Jiang_Le_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="将乐2套" group-title="福建省三明市将乐县广播电视台" tvg-logo=" ",将乐公共频道
+http://gg.gg/HeNeiIPTV-Jiang_Le_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="永安综合" group-title="福建省三明市永安市广播电视台" tvg-logo=" ",永安综合频道
+http://gg.gg/HeNeiIPTV-Yong_An_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="永安生活" group-title="福建省三明市永安市广播电视台" tvg-logo=" ",永安生活频道
+http://gg.gg/HeNeiIPTV-Yong_An_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="沙县新闻综合" group-title="福建省三明市沙县县广播电视台" tvg-logo=" ",沙县新闻综合频道
+http://gg.gg/HeNeiIPTV-Sha_Xian_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="沙县小吃旅游" group-title="福建省三明市沙县县广播电视台" tvg-logo=" ",沙县小吃旅游频道
+http://gg.gg/HeNeiIPTV-Sha_Xian_Xiao_Chi_Lv_You_Pin_Dao
+#EXTINF:-1  tvg-name="武夷山综合" group-title="福建省南平市武夷山市广播电视台" tvg-logo=" ",武夷山综合频道
+http://gg.gg/HeNeiIPTV-Wu_Yi_Shan_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="武夷山公共信息" group-title="福建省南平市武夷山市广播电视台" tvg-logo=" ",武夷山公共信息频道
+http://gg.gg/HeNeiIPTV-Wu_Yi_Shan_Gong_Gong_Xin_Xi_Pin_Dao
+#EXTINF:-1  tvg-name="武夷山文旅茶" group-title="福建省南平市武夷山市广播电视台" tvg-logo=" ",武夷山文旅茶频道
+http://gg.gg/HeNeiIPTV-Wu_Yi_Shan_Wen_Lv_Cha_Pin_Dao
+#EXTINF:-1  tvg-name="邵武新闻综合" group-title="福建省南平市邵武县广播电视台" tvg-logo=" ",邵武新闻综合频道
+http://gg.gg/HeNeiIPTV-Shao_Wu_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="宁德1套高清" group-title="福建省宁德市广播电视台" tvg-logo=" ",宁德新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Ning_De_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁德2套高清" group-title="福建省宁德市广播电视台" tvg-logo=" ",宁德公共频道高清
