@@ -30,7 +30,7 @@ http://gg.gg/HeNeiIPTV-CCTV14-Shao_Er_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-CCTV15-Yin_Le_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-17 农业农村高清" group-title="中国中央广播电视总台" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV17 农业农村频道高清
 http://gg.gg/HeNeiIPTV-CCTV17-Nong_Ye_Nong_Cun_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="加拿大电视台" group-title="中国中央广播电视总台" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0",加拿大国家电视台
+#EXTINF:-1  tvg-name="加拿大国家" group-title="中国中央广播电视总台" tvg-logo="https://www.cntvcanada.com/sites/default/files/styles/scaled_max_width/public/media/images/cntv-logo.png?itok=8Ey4T4v0",加拿大国家电视台
 
 #EXTINF:-1  tvg-name="四川文化旅游高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",四川文化旅游频道高清
 http://gg.gg/HeNeiIPTV-Si_Chuan_Wen_Hua_Lv_You_Pin_Dao_Gao_Qing
@@ -354,17 +354,17 @@ http://gg.gg/HeNeiIPTV-An_Hui_Guo_Ji_Pin_Dao
 http://gg.gg/HeNeiIPTV-Qing_Cai_An_Hui_Pin_Dao
 #EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人民广播电台
 
-#EXTINF:-1  tvg-name="合肥公共" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥公共频道
+#EXTINF:-1  tvg-name="合肥公共" tvg-id="http://nettv.live/hls/hefei.php?id=ggpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥公共频道
 http://gg.gg/HeNeiIPTV-He_Fei_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="合肥新闻" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥新闻频道
+#EXTINF:-1  tvg-name="合肥新闻" tvg-id="http://nettv.live/hls/hefei.php?id=xwpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥新闻频道
 http://gg.gg/HeNeiIPTV-He_Fei_Xin_Wen_Pin_Dao
-#EXTINF:-1  tvg-name="合肥生活" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥生活频道
+#EXTINF:-1  tvg-name="合肥生活" tvg-id="http://nettv.live/hls/hefei.php?id=shpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥生活频道
 http://gg.gg/HeNeiIPTV-He_Fei_Sheng_Huo_Pin_Dao
-#EXTINF:-1  tvg-name="合肥教育法制" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥教育法制频道
+#EXTINF:-1  tvg-name="合肥教育法制" tvg-id="http://nettv.live/hls/hefei.php?id=fzpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥教育法制频道
 http://gg.gg/HeNeiIPTV-He_Fei_Jiao_Yu_Fa_Zhi_Pin_Dao
-#EXTINF:-1  tvg-name="合肥财经" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥财经频道
+#EXTINF:-1  tvg-name="合肥财经" tvg-id="http://nettv.live/hls/hefei.php?id=cjpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥财经频道
 http://gg.gg/HeNeiIPTV-He_Fei_Cai_Jing_Pin_Dao
-#EXTINF:-1  tvg-name="合肥故事休闲" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥故事休闲频道
+#EXTINF:-1  tvg-name="合肥故事休闲" tvg-id="http://nettv.live/hls/hefei.php?id=gsxxpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥故事休闲频道
 http://gg.gg/HeNeiIPTV-He_Fei_Gu_Shi_Xiu_Xian_Pin_Dao
 #EXTINF:-1  tvg-name="上海新闻综合高清" group-title="上海市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",上海新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Shang_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
