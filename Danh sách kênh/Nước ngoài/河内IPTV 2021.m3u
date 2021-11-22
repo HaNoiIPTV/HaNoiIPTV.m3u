@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-
-
-http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
@@ -1056,6 +1053,8 @@ http://gg.gg/HeNeiIPTV-Gan_Su_Du_Shi_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Gan_Su_Wen_Hua_Ying_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="甘肃移动" group-title="甘肃省广播电视总台：视听甘肃" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃移动电视
 http://gg.gg/HeNeiIPTV-Gan_Su_Yi_Dong_Dian_Shi
+
+http://livepull.sxiptv.cn/live/shanxiweishihd.m3u8
 #EXTINF:-1  tvg-name="陕西新闻资讯高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西新闻资讯频道高清
 http://gg.gg/HeNeiIPTV-Shan_Xi_Xin_Wen_Zi_Xun_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="陕西都市青春高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西都市青春频道高清
