@@ -951,8 +951,8 @@ http://gg.gg/HeNeiIPTV-Shen_Zhen_Ti_Yu_Jian_Kang_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zhu_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="珠海2套高清" tvg-id="http://nettv.live/hls/cutv.php?id=zhsh" group-title="广东省珠海市传媒集团" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%8F%A0%E6%B5%B7%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",珠海公共生活频道高清
 http://gg.gg/HeNeiIPTV-Zhu_Hai_Gong_Gong_Sheng_Huo_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="佛山综合" group-title="广东省佛山市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BD%9B%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",佛山综合频道
-
+#EXTINF:-1  tvg-name="佛山综合 高清测试" group-title="广东省佛山市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BD%9B%E5%B1%B1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",佛山综合频道
+https://youtu.be/hpTtEvNkEVM
 #EXTINF:-1  tvg-name="佛山影视" group-title="广东省佛山市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BD%9B%E5%B1%B1%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",佛山影视频道
 
 #EXTINF:-1  tvg-name="佛山公共" group-title="广东省佛山市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BD%9B%E5%B1%B1%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",佛山公共频道
@@ -1155,6 +1155,12 @@ http://gg.gg/HeNeiIPTV-Zheng_Zhou_Ying_Shi_Xi_Qu_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Fu_Nv_Er_Tong_Pin_Dao
 #EXTINF:-1  tvg-name="郑州6套" group-title="河南省郑州市广播电视台" tvg-logo=" ",郑州都市生活频道
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Du_Shi_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="洛阳1套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳新闻综合频道高清
+rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
+#EXTINF:-1  tvg-name="洛阳2套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳科教频道高清
+rtmp://live1.lytv.com.cn:1935/live/LYTV2-1
+#EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳公共频道高清
+rtmp://live1.lytv.com.cn:1935/live/LYTV3-1
 #EXTINF:-1  tvg-name="宁夏公共高清" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏公共频道高清
 http://gg.gg/HeNeiIPTV-Ning_Xia_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁夏经济" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏经济频道
@@ -1406,9 +1412,9 @@ http://gg.gg/HeNeiIPTV-Dong_Sen_You_You_Tai_HD
 #EXTINF:-1  tvg-name="緯來綜合 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="26",緯來綜合台 HD
 http://gg.gg/HeNeiIPTV-Wei_Lai_Zong_He_Tai_HD
 #EXTINF:-1  tvg-name="八大第一 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0%20HD.png" tvg-chno="27",八大第一台 HD
-http://193.160.32.4:8080/crtv.php?id=318
+https://youtu.be/6VShQ5cM2WQ
 #EXTINF:-1  tvg-name="八大綜合 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%AB%E5%A4%A7%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="28",八大綜合台 HD
-http://193.160.32.4:8080/crtv.php?id=325
+https://youtu.be/ZnCdTjWtRcg
 #EXTINF:-1  tvg-name="三立台灣 HD" tvg-id="http://gg.gg/HeNeiIPTV-San_Li_Tai_Wan_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%89%E7%AB%8B%E5%8F%B0%E7%81%A3%E5%8F%B0%20HD%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.png" tvg-chno="29",三立台灣台 HD
 http://125.227.210.55:15714/VideoInput/play.ts
 #EXTINF:-1  tvg-name="三立都會 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%89%E7%AB%8B%E9%83%BD%E6%9C%83%E5%8F%B0%20HD%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%EF%BC%89.png" tvg-chno="30",三立都會台 HD
