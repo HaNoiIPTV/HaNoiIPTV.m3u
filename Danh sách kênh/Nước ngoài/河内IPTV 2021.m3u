@@ -1155,12 +1155,50 @@ http://gg.gg/HeNeiIPTV-Zheng_Zhou_Ying_Shi_Xi_Qu_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Fu_Nv_Er_Tong_Pin_Dao
 #EXTINF:-1  tvg-name="郑州6套" group-title="河南省郑州市广播电视台" tvg-logo=" ",郑州都市生活频道
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Du_Shi_Sheng_Huo_Pin_Dao
-#EXTINF:-1  tvg-name="洛阳1套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳新闻综合频道高清
+#EXTINF:-1  tvg-name="洛阳1套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳新闻综合频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
-#EXTINF:-1  tvg-name="洛阳2套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳科教频道高清
+#EXTINF:-1  tvg-name="洛阳2套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳科教频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV2-1
-#EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",洛阳公共频道高清
+#EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳公共频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV3-1
+#EXTINF:-1  tvg-name="南阳1套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳新闻综合频道
+http://gg.gg/HeNeiIPTV-Nan_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="南阳2套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳公共频道
+http://gg.gg/HeNeiIPTV-Nan_Yang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="南阳3套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳科教频道
+http://gg.gg/HeNeiIPTV-Nan_Yang_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="开封1套" group-title="河南省开封市广播电视台" tvg-logo=" ",开封新闻综合频道
+http://gg.gg/HeNeiIPTV-Kai_Feng_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="开封3套" group-title="河南省开封市广播电视台" tvg-logo=" ",开封公共频道
+http://gg.gg/HeNeiIPTV-Kai_Feng_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="济源1套" group-title="河南省济源市广播电视台" tvg-logo=" ",济源新闻综合频道
+http://gg.gg/HeNeiIPTV-Ji_Yuan_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="新乡新闻综合" group-title="河南省新乡市广播电视台" tvg-logo=" ",新乡新闻综合频道
+http://gg.gg/HeNeiIPTV-Xin_Xiang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="新乡公共" group-title="河南省新乡市广播电视台" tvg-logo=" ",新乡公共频道
+http://gg.gg/HeNeiIPTV-Xin_Xiang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="信阳综合" group-title="河南省信阳市广播电视台" tvg-logo=" ",信阳综合频道
+http://gg.gg/HeNeiIPTV-Xin_Yang_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="三门峡新闻综合" group-title="河南省三门峡市广播电视台" tvg-logo=" ",三门峡新闻综合频道
+http://gg.gg/HeNeiIPTV-San_Men_Xia_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="安阳新闻综合" group-title="河南省安阳市广播电视台" tvg-logo=" ",安阳新闻综合频道
+http://gg.gg/HeNeiIPTV-An_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="安阳公共" group-title="河南省安阳市广播电视台" tvg-logo=" ",安阳公共频道
+http://gg.gg/HeNeiIPTV-An_Yang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="安阳科教" group-title="河南省安阳市广播电视台" tvg-logo=" ",安阳科教频道
+http://gg.gg/HeNeiIPTV-An_Yang_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="鹤壁新闻综合" group-title="河南省鹤壁市广播电视台" tvg-logo=" ",鹤壁新闻综合频道
+http://gg.gg/HeNeiIPTV-He_Bi_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="周口1套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口新闻综合频道
+http://gg.gg/HeNeiIPTV-Zhou_Kou_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="周口2套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口经济生活频道
+http://gg.gg/HeNeiIPTV-Zhou_Kou_Jing_Ji_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="周口3套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口科教文化频道
+http://gg.gg/HeNeiIPTV-Zhou_Kou_Ke_Jiao_Wen_Hua_Pin_Dao
+#EXTINF:-1  tvg-name="周口4套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口图文信息频道
+http://gg.gg/HeNeiIPTV-Zhou_Kou_Tu_Wen_Xin_Xi_Pin_Dao
+#EXTINF:-1  tvg-name="许昌综合" group-title="河南省许昌市广播电视台" tvg-logo=" ",许昌综合频道
+http://gg.gg/HeNeiIPTV-Xu_Chang_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="宁夏公共高清" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏公共频道高清
 http://gg.gg/HeNeiIPTV-Ning_Xia_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁夏经济" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏经济频道
