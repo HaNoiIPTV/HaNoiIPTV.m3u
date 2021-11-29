@@ -1647,9 +1647,13 @@ rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
 rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
 #EXTINF:-1  tvg-name="高點育樂 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%AB%98%E9%BB%9E%E8%82%B2%E6%A8%82%E5%8F%B0%20HD.png" tvg-chno="126",高點育樂台 HD
 http://gg.gg/HeNeiIPTV-Gao_Dian_Yu_Le_Tai_HD
-#EXTINF:-1  tvg-name="中視菁采 HD" group-title="中華電信" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E8%A6%96%E8%8F%81%E8%8F%9C%E5%8F%B0%20HD.png" tvg-chno="153",中視菁采台 HD
+#EXTINF:-1  tvg-name="民視第一 HD" group-title="台灣地區" tvg-logo=" " tvg-chno="151",民視第一台 HD
+http://gg.gg/HeNeiIPTV-Min_Shi_Di_Yi_Tai_HD
+#EXTINF:-1  tvg-name="民視台灣 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0%20HD.png" tvg-chno="152",民視台灣台 HD
+http://gg.gg/HeNeiIPTV-Min_Shi_Tai_Wan_Tai_HD
+#EXTINF:-1  tvg-name="中視菁采 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E8%A6%96%E8%8F%81%E8%8F%9C%E5%8F%B0%20HD.png" tvg-chno="153",中視菁采台 HD
 http://gg.gg/HeNeiIPTV-Zhong_Shi_Jing_Cai_Tai_HD
-#EXTINF:-1  tvg-name="中視新聞 HD" group-title="中華電信" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/500.png?rand=165" tvg-chno="154",中視新聞台 HD
+#EXTINF:-1  tvg-name="中視新聞 HD" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/500.png?rand=165" tvg-chno="154",中視新聞台 HD
 http://gg.gg/HeNeiIPTV-Zhong_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  tvg-name="台視新聞 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png" tvg-chno="155",台視新聞台 HD
 http://gg.gg/HeNeiIPTV-Tai_Shi_Xin_Wen_Tai_HD
