@@ -1,6 +1,4 @@
 ﻿#EXTM3U
- 
-https://zbxclive.cbg.cn/app_2/ls_4.stream/playlist.m3u8
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/acb5bccceb45633804405de97ead7d3b.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
@@ -897,7 +895,7 @@ http://gg.gg/HeNeiIPTV-Guang_Dong_Gong_Gong_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Guang_Dong_Xin_Wen_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广东国际" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",广东国际频道
 http://gg.gg/HeNeiIPTV-Guang_Dong_Guo_Ji_Pin_Dao
-#EXTINF:-1  tvg-name="广东经济科教高清" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",广东经济科教频道高清
+#EXTINF:-1  tvg-name="广东经济科教高清" group-title="广东省广播电视台：荔枝网" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E4%B8%9C%E7%BB%8F%E6%B5%8E%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",广东经济科教频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Jing_Ji_Ke_Jiao_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="南方卫视高清" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",南方卫视高清
 http://gg.gg/HeNeiIPTV-Nan_Fang_Wei_Shi_Gao_Qing
@@ -1357,12 +1355,30 @@ http://gg.gg/HeNeiIPTV-Shan_Xi_Xin_Wen_Zi_Xun_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Shan_Xi_Du_Shi_Qing_Chun_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="陕西生活" group-title="陕西省广播电视台" tvg-logo=" ",陕西生活频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="陕西影视" group-title="陕西省广播电视台" tvg-logo=" ",陕西影视频道
+http://gg.gg/HeNeiIPTV-Shan_Xi_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="陕西公共" group-title="陕西省广播电视台" tvg-logo=" ",陕西公共频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="陕西体育全运高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西体育全运频道高清
 http://gg.gg/HeNeiIPTV-Shan_Xi_Ti_Yu_Quan_Yun_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="农林卫视" group-title="陕西省广播电视台" tvg-logo=" ",农林卫视
+http://gg.gg/HeNeiIPTV-Nong_Lin_Wei_Shi
+#EXTINF:-1  tvg-name="西部电影" group-title="陕西省广播电视台" tvg-logo=" ",西部电影频道
+http://gg.gg/HeNeiIPTV-Xi_Bu_Dian_Ying_Pin_Dao
 #EXTINF:-1  tvg-name="西安新闻综合" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安新闻综合频道
 http://gg.gg/HeNeiIPTV-Xi_An_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="西安都市" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安都市频道
+http://gg.gg/HeNeiIPTV-Xi_An_Du_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="西安商务资讯" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安商务资讯频道
+http://gg.gg/HeNeiIPTV-Xi_An_Shang_Wu_Zi_Xun_Pin_Dao
+#EXTINF:-1  tvg-name="西安影视" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安影视频道
+http://gg.gg/HeNeiIPTV-Xi_An_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="西安丝路" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安丝路频道
+http://gg.gg/HeNeiIPTV-Xi_An_Si_Lu_Pin_Dao
+#EXTINF:-1  tvg-name="西安移动" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安移动电视
+http://gg.gg/HeNeiIPTV-Xi_An_Yi_Dong_Dian_Shi
+#EXTINF:-1  tvg-name="乐购购物" group-title="陕西省西安市广播电视台" tvg-logo=" ",乐购购物频道
+http://gg.gg/HeNeiIPTV-Le_Gou_Gou_Wou_Pin_Dao
 #EXTINF:-1  tvg-name="重庆影视高清" group-title="重庆市广播电视台" tvg-logo=" ",重庆影视频道高清
 http://gg.gg/HeNeiIPTV-Chong_Qing_Ying_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="重庆新闻" group-title="重庆市广播电视台" tvg-logo=" ",重庆新闻频道
@@ -1391,6 +1407,8 @@ http://gg.gg/HeNeiIPTV-Gui_Yang_Jing_Ji_Sheng_Huo_Pin_Dao
 http://gg.gg/HeNeiIPTV-La_Sa_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="拉萨2套" group-title="西藏自治区拉萨市广播电视台" tvg-logo=" ",拉萨藏语综合频道
 http://gg.gg/HeNeiIPTV-La_Sa_Zang_Yu_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="新疆卫视高清" group-title="新疆维吾尔族自治区广播电视台" tvg-logo=" ",新疆卫视高清
+http://gg.gg/HaNoiIPTV-Xin_Jiang_Wei_Shi_HD
 #EXTINF:-1  tvg-name="新疆2套高清" group-title="新疆维吾尔族自治区广播电视台" tvg-logo=" ",新疆维吾尔语新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Xin_Jiang_Wei_Wu_Er_Yu_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="新疆3套高清" group-title="新疆维吾尔族自治区广播电视台" tvg-logo=" ",新疆哈萨克语新闻综合频道高清
