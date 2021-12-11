@@ -387,8 +387,8 @@ http://gg.gg/HaNoiIPTV-TRT-Truyen_hinh_Thua_Thien_Hue
 http://gg.gg/HaNoiIPTV-DRT1-Truyen_hinh_Da_Nang_1_HD
 #EXTINF:-1  tvg-name="DRT2 - TH ĐÀ NẴNG 2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20HD.png",DRT2 - Truyền hình Đà Nẵng 2 HD
 http://gg.gg/HaNoiIPTV-DRT2_Truyen_hinh_Da_Nang_2_HD
-#EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" tvg-id="http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD.png",THHN - Truyền hình Hà Nam HD
-http://gg.gg/HaNoiIPTV-THHN-Truyen_hinh_Ha_Nam_HD
+#EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" tvg-id="http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8 và http://gg.gg/HaNoiIPTV-THHN-Truyen_hinh_Ha_Nam_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD.png",THHN - Truyền hình Hà Nam HD
+https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="QRT - TH QUẢNG NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Nam%20HD.png",QRT - Truyền hình Quảng Nam HD
 http://gg.gg/HaNoiIPTV-QRT-Truyen_hinh_Quang_Nam_HD
 #EXTINF:-1  tvg-name="PTQ - TH QUẢNG NGÃI HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",PTQ - Truyền hình Quảng Ngãi HD
