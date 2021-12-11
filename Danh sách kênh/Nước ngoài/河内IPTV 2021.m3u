@@ -25,7 +25,7 @@ http://gg.gg/HeNeiIPTV-CCTV9-Ji_Lu_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-CCTV10-Ke_Jiao_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-11 戏曲高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://iptv.live/images/logo/channel/crops/270b0144e65362eb156d41940bd08f7c.png",CCTV11 戏曲频道高清
 http://gg.gg/HeNeiIPTV-CCTV11-Xi_Qu_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="CCTV-12 社会与法高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://iptv.live/images/logo/channel/crops/cb075b6b56bc44702ad73538d6409cc5.png",CCTV12 社会与法频道高清
+#EXTINF:-1  tvg-name="CCTV-12 社会与法高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E9%A2%91%E9%81%93.png",CCTV12 社会与法频道高清
 http://gg.gg/HeNeiIPTV-CCTV12-She_Hui_Yu_Fa_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-13 新闻高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV13%20%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",CCTV13 新闻频道高清
 http://gg.gg/HaNoiIPTV-CCTV13-Xin_Wen_Pin_Dao_HD
@@ -161,10 +161,6 @@ http://gg.gg/HeNeiIPTV-Guang_Yuan_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zi_Gong_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="自贡公共" group-title="四川省自贡市广播电视台" tvg-logo=" ",自贡公共频道
 http://gg.gg/HeNeiIPTV-Zi_Gong_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="攀枝花新闻综合" group-title="四川省攀枝花市广播电视台" tvg-logo=" ",攀枝花新闻综合频道
-http://gg.gg/HeNeiIPTV-Pan_Zhi_Hua_Xin_Wen_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="攀枝花公共" group-title="四川省攀枝花市广播电视台" tvg-logo=" ",攀枝花公共频道
-http://gg.gg/HeNeiIPTV-Pan_Zhi_Hua_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="绵阳新闻综合高清" group-title="四川省绵阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BB%B5%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",绵阳新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Mian_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="绵阳公共高清" group-title="四川省绵阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%BB%B5%E9%98%B3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",绵阳公共频道高清
@@ -187,6 +183,10 @@ http://gg.gg/HeNeiIPTV-Zi_Tong_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-San_Tai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="三台2套高清" group-title="四川省绵阳市三台县广播电视台" tvg-logo=" ",三台公共频道高清
 http://gg.gg/HeNeiIPTV-San_Tai_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="德阳新闻综合高清" group-title="四川省德阳市广播电视台" tvg-logo=" ",德阳新闻综合频道高清
+http://gg.gg/HeNeiIPTV-De_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="德阳公共高清" group-title="四川省德阳市广播电视台" tvg-logo=" ",德阳公共频道高清
+http://gg.gg/HeNeiIPTV-De_Yang_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="南充综合" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch1.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",南充综合频道
 http://gg.gg/HeNeiIPTV-Nan_Chong_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="南充公共" tvg-id="http://tv.drs.ncntv.com.cn:8100/channellive/ch2.flv" group-title="四川省南充市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%85%85%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",南充公共频道
@@ -203,14 +203,20 @@ http://gg.gg/HeNeiIPTV-Xi_Chong_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Peng_An_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="营山台" group-title="四川省南充市营山县广播电视台" tvg-logo=" ",营山电视台
 http://gg.gg/HeNeiIPTV-Ying_Shan_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="巴中综合高清" group-title="四川省巴中市广播电视台" tvg-logo=" ",巴中综合频道高清
+http://gg.gg/HeNeiIPTV-Ba_Zhong_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广安新闻综合" group-title="四川省广安市广播电视台" tvg-logo=" ",广安新闻综合频道
 http://gg.gg/HeNeiIPTV-Guang_An_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="广安公共" group-title="四川省广安市广播电视台" tvg-logo=" ",广安公共频道
 http://gg.gg/HeNeiIPTV-Guang_An_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="巴中综合高清" group-title="四川省巴中市广播电视台" tvg-logo=" ",巴中综合频道高清
-http://gg.gg/HeNeiIPTV-Ba_Zhong_Zong_He_Pin_Dao_Gao_Qing
-
-
+#EXTINF:-1  tvg-name="筠连台高清" group-title="四川省宜宾市筠连县广播电视台" tvg-logo=" ",筠连电视台高清
+http://gg.gg/HeNeiIPTV-Yun_Lian_Dian_Shi_Tai_Gao_Qing
+#EXTINF:-1  tvg-name="达州1套" group-title="四川省达州市广播电视台" tvg-logo=" ",达州新闻综合频道
+http://gg.gg/HeNeiIPTV-Da_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="攀枝花新闻综合" group-title="四川省攀枝花市广播电视台" tvg-logo=" ",攀枝花新闻综合频道
+http://gg.gg/HeNeiIPTV-Pan_Zhi_Hua_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="攀枝花公共" group-title="四川省攀枝花市广播电视台" tvg-logo=" ",攀枝花公共频道
+http://gg.gg/HeNeiIPTV-Pan_Zhi_Hua_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="乐山新闻综合高清" group-title="四川省乐山市广播电视台" tvg-logo=" ",乐山新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Le_Shan_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="射洪综合" group-title="四川省乐山市射洪市广播电视台" tvg-logo=" ",射洪综合频道
@@ -237,7 +243,7 @@ http://gg.gg/HeNeiIPTV-Liao_Ning_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Liao_Ning_Ti_Yu_Pin_Dao
 #EXTINF:-1  tvg-name="辽宁经济" group-title="辽宁省广播电视台" tvg-logo=" ",辽宁经济频道
 http://gg.gg/HeNeiIPTV-Liao_Ning_Jing_Ji_Pin_Dao
-#EXTINF:-1  tvg-name="大连新闻综合高清" group-title="辽宁省大连市广播电视台" tvg-logo="http://www.dltv.cn/img/header_logo.png",大连新闻综合频道高清
+#EXTINF:-1  tvg-name="大连新闻综合高清" group-title="辽宁省大连市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%A4%A7%E8%BF%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",大连新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Da_Lian_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="大连生活" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN2/DALIAN2.jpg?1",大连生活频道
 http://gg.gg/HeNeiIPTV-Da_Lian_Sheng_Huo_Pin_Dao
@@ -251,6 +257,8 @@ http://gg.gg/HeNeiIPTV-Da_Lian_Ying_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-Da_Lian_Shao_Er_Pin_Dao
 #EXTINF:-1  tvg-name="大连财经" group-title="辽宁省大连市广播电视台" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/DALIAN7/DALIAN7.jpg?1",大连财经频道
 http://gg.gg/HeNeiIPTV-Da_Lian_Cai_Jing_Pin_Dao
+#EXTINF:-1  tvg-name="锦州1套" group-title="辽宁省锦州市广播电视台" tvg-logo=" ",锦州新闻综合频道
+http://gg.gg/HeNeiIPTV-Jin_Zhou_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="北京文艺" group-title="北京市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA%E9%A2%91%E9%81%93.png",北京文艺频道
 http://gg.gg/HeNeiIPTV-Bei_Jing_Wen_Yi_Pin_Dao
 #EXTINF:-1  tvg-name="北京科教" group-title="北京市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8C%97%E4%BA%AC%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",北京科教频道
