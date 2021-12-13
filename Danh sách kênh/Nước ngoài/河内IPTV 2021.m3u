@@ -623,10 +623,10 @@ http://gg.gg/HeNeiIPTV-An_Hui_Nong_Ye_Ke_Jiao_Pin_Dao
 http://gg.gg/HeNeiIPTV-An_Hui_Ren_Wu_Pin_Dao
 #EXTINF:-1  tvg-name="安徽国际" tvg-id="http://zbbf2.ahtv.cn/live/dab.m3u8" group-title="安徽省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",安徽国际频道
 http://gg.gg/HeNeiIPTV-An_Hui_Guo_Ji_Pin_Dao
+#EXTINF:-1  tvg-name="安徽移动" group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽移动电视
+http://gg.gg/HeNeiIPTV-An_Hui_Yi_Dong_Dian_Shi
 #EXTINF:-1  tvg-name="晴彩安徽" tvg-id="http://zbbf2.ahtv.cn/live/db9.m3u8" group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",晴彩安徽频道
 http://gg.gg/HeNeiIPTV-Qing_Cai_An_Hui_Pin_Dao
-#EXTINF:-1  group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人民广播电台
-
 #EXTINF:-1  tvg-name="合肥公共" tvg-id="http://nettv.live/hls/hefei.php?id=ggpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥公共频道
 http://gg.gg/HeNeiIPTV-He_Fei_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="合肥新闻" tvg-id="http://nettv.live/hls/hefei.php?id=xwpd" group-title="安徽省合肥市广播电视台" tvg-logo=" ",合肥新闻频道
@@ -1237,6 +1237,10 @@ http://gg.gg/HeNeiIPTV-Fang_Cheng_Gang_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Fang_Cheng_Gang_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="崇左综合" group-title="广西壮族自治区崇左市广播电视台" tvg-logo=" ",崇左综合频道
 http://gg.gg/HeNeiIPTV-Chong_Zuo_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="云南都市" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南都市频道
+http://gg.gg/HeNeiIPTV-Yun_Nan_Du_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="云南娱乐" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南娱乐频道
+
 #EXTINF:-1  tvg-name="吉林都市" group-title="吉林省广播电视台" tvg-logo=" ",吉林都市频道
 http://gg.gg/HeNeiIPTV-Ji_Lin_Du_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="吉林生活" group-title="吉林省广播电视台" tvg-logo=" ",吉林生活频道
