@@ -617,6 +617,8 @@ http://gg.gg/HeNeiIPTV-An_Hui_Ying_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-An_Hui_Zong_Yi_Ti_Yu_Pin_Dao
 #EXTINF:-1  tvg-name="安徽公共" tvg-id="http://zbbf2.ahtv.cn/live/752.m3u8" group-title="安徽省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",安徽公共频道
 http://gg.gg/HeNeiIPTV-An_Hui_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="安徽公共高清" group-title="安徽省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",安徽公共频道高清
+https://youtu.be/TeE4qtRPnic
 #EXTINF:-1  tvg-name="安徽农业科教" tvg-id="http://zbbf2.ahtv.cn/live/754.m3u8" group-title="安徽省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%86%9C%E4%B8%9A%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",安徽农业科教频道
 http://gg.gg/HeNeiIPTV-An_Hui_Nong_Ye_Ke_Jiao_Pin_Dao
 #EXTINF:-1  tvg-name="安徽人物" tvg-id="http://zbbf2.ahtv.cn/live/da9.m3u8" group-title="安徽省广播电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽人物频道
@@ -1301,7 +1303,7 @@ http://gg.gg/HeNeiIPTV-Wu_Shu_Shi_Jie_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Wen_Wu_Bao_Ku_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="睛彩中原高清" group-title="河南省广播电视台" tvg-logo=" ",睛彩中原频道高清
 http://gg.gg/HeNeiIPTV-Qing_Cai_Zhong_Yuan_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="郑州1套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",郑州新闻综合频道高清
+#EXTINF:-1  tvg-name="郑州1套高清" group-title="河南省郑州市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",郑州新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="郑州2套高清" group-title="河南省郑州市广播电视台" tvg-logo=" ",郑州商都频道高清
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Shang_Du_Pin_Dao_Gao_Qing
@@ -1399,22 +1401,42 @@ http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="运城3套" group-title="山西省运城市广播电视台" tvg-logo=" ",运城科教频道
 http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="湖北综合高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北综合频道高清
+#EXTINF:-1  tvg-name="湖北综合高清" group-title="湖北省广播电视台：长江云" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",湖北综合频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Zong_He_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北影视高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北影视频道高清
+#EXTINF:-1  tvg-name="湖北影视高清" group-title="湖北省广播电视台：长江云" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",湖北影视频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Ying_Shi_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北教育高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北教育频道高清
+#EXTINF:-1  tvg-name="湖北教育高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北教育频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Jiao_Yu_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北生活高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北生活频道高清
+#EXTINF:-1  tvg-name="湖北生活高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北生活频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Sheng_Huo_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="美嘉购物高清" group-title="湖北省广播电视台" tvg-logo=" ",美嘉购物频道高清
+#EXTINF:-1  tvg-name="美嘉购物高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",美嘉购物频道高清
 http://gg.gg/HeNeiIPTV-Mei_Jia_Gou_Wou_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北公共新闻高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北公共新闻频道高清
+#EXTINF:-1  tvg-name="湖北公共新闻高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北公共新闻频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Gong_Gong_Xin_Wen_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北经视高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北经视频道高清
+#EXTINF:-1  tvg-name="湖北经视高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北经视频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Jing_Shi_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北垄上高清" group-title="湖北省广播电视台" tvg-logo=" ",湖北垄上频道高清
+#EXTINF:-1  tvg-name="湖北垄上高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北垄上频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Long_Shang_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="武汉1套高清" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Wu_Han_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="武汉2套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉电视剧频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Dian_Shi_Ju_Pin_Dao
+#EXTINF:-1  tvg-name="武汉3套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉科教生活频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Ke_Jiao_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="武汉4套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉经济频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Jing_Ji_Pin_Dao
+#EXTINF:-1  tvg-name="武汉5套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉文体频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Wen_Ti_Pin_Dao
+#EXTINF:-1  tvg-name="武汉6套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉海外频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Hai_Wai_Pin_Dao
+#EXTINF:-1  tvg-name="武汉7套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",武汉少儿频道
+http://gg.gg/HeNeiIPTV-Wu_Han_Shao_Er_Pin_Dao
+#EXTINF:-1  tvg-name="武汉教育" group-title="湖北省武汉市教育电视台" tvg-logo=" ",武汉教育电视台
+http://gg.gg/HeNeiIPTV-Wu_Han_Jiao_Yu_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="武汉8套" group-title="湖北省武汉市广播电视台" tvg-logo=" ",睛彩武汉频道
+http://gg.gg/HeNeiIPTV-Qing_Cai_Wu_Han_Pin_Dao
+#EXTINF:-1  tvg-name="荆州新闻" group-title="湖北省荆州市广播电视台" tvg-logo=" ",荆州新闻频道
+http://gg.gg/HeNeiIPTV-Jing_Zhou_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="襄阳综合" group-title="湖北省襄阳市广播电视台" tvg-logo=" ",襄阳综合频道
 http://gg.gg/HeNeiIPTV-Xiang_Yang_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="孝感新闻综合" group-title="湖北省孝感市广播电视台" tvg-logo=" ",孝感新闻综合频道
@@ -1441,7 +1463,7 @@ http://gg.gg/HeNeiIPTV-Hu_Nan_Dian_Shi_Ju_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Hu_Nan_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="潇湘电影高清" group-title="湖南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png",湖南电影频道高清
 http://gg.gg/HeNeiIPTV-Xiao_Xiang_Dian_Ying_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖南国际高清" group-title="湖南省广播电视台" tvg-logo="",湖南国际频道高清
+#EXTINF:-1  tvg-name="湖南国际高清" group-title="湖南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",湖南国际频道高清
 http://gg.gg/HeNeiIPTV-Hu_Nan_Guo_Ji_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="湖南教育高清" group-title="湖南省教育电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",湖南教育电视台高清
 http://gg.gg/HeNeiIPTV-Hu_Nan_Jiao_Yu_Dian_Shi_Tai_Gao_Qing
@@ -1455,7 +1477,7 @@ http://gg.gg/HeNeiIPTV-Jin_Ying_Ji_Shi_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Chang_Sha_Xin_Wen_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="长沙政法高清" group-title="湖南省长沙市广播电视台" tvg-logo=" ",长沙政法频道高清
 http://gg.gg/HeNeiIPTV-Chang_Sha_Zheng_Fa_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="长沙影视" group-title="湖南省长沙市广播电视台" tvg-logo=" ",长沙影视频道
+#EXTINF:-1  tvg-name="长沙影视高清" group-title="湖南省长沙市广播电视台" tvg-logo=" ",长沙影视频道高清
 http://gg.gg/HeNeiIPTV-Chang_Sha_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="长沙女性" group-title="湖南省长沙市广播电视台" tvg-logo=" ",长沙女性频道
 http://gg.gg/HeNeiIPTV-Chang_Sha_Nv_Xing_Pin_Dao
@@ -1527,23 +1549,23 @@ http://gg.gg/HeNeiIPTV-Wu_Wei_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Wu_Wei_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="临夏综合" group-title="甘肃省临夏市广播电视台" tvg-logo=" ",临夏综合频道
 http://gg.gg/HeNeiIPTV-Lin_Xia_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="陕西新闻资讯高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西新闻资讯频道高清
-http://gg.gg/HeNeiIPTV-Shan_Xi_Xin_Wen_Zi_Xun_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="陕西都市青春高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西都市青春频道高清
-http://gg.gg/HeNeiIPTV-Shan_Xi_Du_Shi_Qing_Chun_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="陕西新闻资讯" group-title="陕西省广播电视台" tvg-logo=" ",陕西新闻资讯频道
+http://gg.gg/HeNeiIPTV-Shan_Xi_Xin_Wen_Zi_Xun_Pin_Dao
+#EXTINF:-1  tvg-name="陕西都市青春" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93.png",陕西都市青春频道
+http://gg.gg/HeNeiIPTV-Shan_Xi_Du_Shi_Qing_Chun_Pin_Dao
 #EXTINF:-1  tvg-name="陕西生活" group-title="陕西省广播电视台" tvg-logo=" ",陕西生活频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="陕西影视" group-title="陕西省广播电视台" tvg-logo=" ",陕西影视频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="陕西公共" group-title="陕西省广播电视台" tvg-logo=" ",陕西公共频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="陕西体育全运高清" group-title="陕西省广播电视台" tvg-logo=" ",陕西体育全运频道高清
-http://gg.gg/HeNeiIPTV-Shan_Xi_Ti_Yu_Quan_Yun_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="陕西体育全运" group-title="陕西省广播电视台" tvg-logo=" ",陕西体育全运频道
+http://gg.gg/HeNeiIPTV-Shan_Xi_Ti_Yu_Quan_Yun_Pin_Dao
 #EXTINF:-1  tvg-name="农林卫视" group-title="陕西省广播电视台" tvg-logo=" ",农林卫视
 http://gg.gg/HeNeiIPTV-Nong_Lin_Wei_Shi
 #EXTINF:-1  tvg-name="西部电影" group-title="陕西省广播电视台" tvg-logo=" ",西部电影频道
 http://gg.gg/HeNeiIPTV-Xi_Bu_Dian_Ying_Pin_Dao
-#EXTINF:-1  tvg-name="西安新闻综合" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安新闻综合频道
+#EXTINF:-1  tvg-name="西安新闻综合" group-title="陕西省西安市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%A5%BF%E5%AE%89%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",西安新闻综合频道
 http://gg.gg/HeNeiIPTV-Xi_An_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="西安都市" group-title="陕西省西安市广播电视台" tvg-logo=" ",西安都市频道
 http://gg.gg/HeNeiIPTV-Xi_An_Du_Shi_Pin_Dao
