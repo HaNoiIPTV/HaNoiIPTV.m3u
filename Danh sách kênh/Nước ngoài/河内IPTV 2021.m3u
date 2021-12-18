@@ -497,6 +497,24 @@ http://gg.gg/HeNeiIPTV-Tai_An_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Tai_An_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="泰安3套" group-title="山东省泰安市广播电视台" tvg-logo=" ",泰安科教频道
 http://gg.gg/HeNeiIPTV-Tai_An_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="枣庄新闻综合" group-title="山东省枣庄市广播电视台" tvg-logo=" ",枣庄新闻综合频道
+http://gg.gg/HeNeiIPTV-Zao_Zhuang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="枣庄公共" group-title="山东省枣庄市广播电视台" tvg-logo=" ",枣庄公共频道
+http://gg.gg/HeNeiIPTV-Zao_Zhuang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="枣庄教育" group-title="山东省枣庄市广播电视台" tvg-logo=" ",枣庄教育频道
+http://gg.gg/HeNeiIPTV-Zao_Zhuang_Jiao_Yu_Pin_Dao
+#EXTINF:-1  tvg-name="峄城综合" group-title="山东省枣庄市峄城区广播电视台" tvg-logo=" ",峄城综合频道
+http://gg.gg/HeNeiIPTV-Yi_Cheng_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="烟台新闻综合" group-title="山东省烟台市广播电视台" tvg-logo=" ",烟台新闻综合频道
+http://gg.gg/HeNeiIPTV-Yan_Tai_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="烟台公共" group-title="山东省烟台市广播电视台" tvg-logo=" ",烟台公共频道
+http://gg.gg/HeNeiIPTV-Yan_Tai_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="烟台影视" group-title="山东省烟台市广播电视台" tvg-logo=" ",烟台影视频道
+http://gg.gg/HeNeiIPTV-Yan_Tai_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="烟台经济科技" group-title="山东省烟台市广播电视台" tvg-logo=" ",烟台经济科技频道
+http://gg.gg/HeNeiIPTV-Yan_Tai_Jing_Ji_Ke_Zhi_Pin_Dao
+#EXTINF:-1  tvg-name="莱阳新闻综合" group-title="山东省烟台市莱阳市广播电视台" tvg-logo=" ",莱阳新闻综合频道
+http://gg.gg/HeNeiIPTV-Lai_Yang_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="江苏综艺" group-title="江苏省广播电视总台" tvg-logo=" ",江苏综艺频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Zong_Yi_Pin_Dao
 #EXTINF:-1  tvg-name="江苏城市" group-title="江苏省广播电视总台" tvg-logo=" ",江苏城市频道
@@ -1065,6 +1083,10 @@ http://gg.gg/HeNeiIPTV-Gan_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Shang_Rao_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="上饶2套" group-title="江西省上饶市广播电视台" tvg-logo=" ",上饶公共频道
 http://gg.gg/HeNeiIPTV-Shang_Rao_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="抚州综合" group-title="江西省抚州市广播电视台" tvg-logo=" ",抚州综合频道
+rtmp://111.75.179.195:1935/live/fz1
+#EXTINF:-1  tvg-name="抚州公共" group-title="江西省抚州市广播电视台" tvg-logo=" ",抚州公共频道
+rtmp://111.75.179.195:1935/live/fz2
 #EXTINF:-1  tvg-name="广东珠江高清" tvg-id="http://nettv.live/hls/itouch.php?id=1183" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",广东珠江频道高清
 http://gg.gg/HeNeiIPTV-Guang_Dong_Zhu_Jiang_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="广东体育高清" group-title="广东省广播电视台：荔枝网" tvg-logo=" ",广东体育频道高清
