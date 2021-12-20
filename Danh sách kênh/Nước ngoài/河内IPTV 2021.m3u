@@ -421,7 +421,7 @@ http://gg.gg/HeNeiIPTV-Cang_Zhou_Ying_Shi_Yu_Le_Pin_Dao
 
 #EXTINF:-1  tvg-name="廊坊公共" group-title="河北省廊坊市广播电视台" tvg-logo=" ",廊坊公共频道
 
-#EXTINF:-1  tvg-name="邯郸新闻综合高清" group-title="河北省邯郸市广播电视台" tvg-logo=" ",邯郸新闻综合频道高清
+#EXTINF:-1  tvg-name="邯郸新闻综合高清" group-title="河北省邯郸市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%82%AF%E9%83%B8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",邯郸新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Han_Dan_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="邯郸公共高清" group-title="河北省邯郸市广播电视台" tvg-logo=" ",邯郸公共频道高清
 http://gg.gg/HeNeiIPTV-Han_Dan_Gong_Gong_Pin_Dao
@@ -453,7 +453,7 @@ http://gg.gg/HeNeiIPTV-Ji_Nan_Ying_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ji_Nan_Yu_Le_Pin_Dao
 #EXTINF:-1  tvg-name="济南生活" group-title="山东省济南市广播电视台：济南网" tvg-logo=" ",济南生活频道
 http://gg.gg/HeNeiIPTV-Ji_Nan_Sheng_Huo_Pin_Dao
-#EXTINF:-1  tvg-name="青岛1套高清" group-title="山东省青岛市广播电视台：爱青岛" tvg-logo=" ",青岛新闻综合频道高清
+#EXTINF:-1  tvg-name="青岛1套高清" group-title="山东省青岛市广播电视台：爱青岛" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E5%B2%9B%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",青岛新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Qing_Dao_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="青岛2套高清" group-title="山东省青岛市广播电视台：爱青岛" tvg-logo=" ",青岛生活服务频道高清
 http://gg.gg/HeNeiIPTV-Qing_Dao_Sheng_Huo_Fu_Wu_Pin_Dao_Gao_Qing
@@ -493,11 +493,11 @@ http://gg.gg/HeNeiIPTV-Ri_Zhao_Ke_Jiao_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ri_Zhao_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="日照房车" group-title="山东省日照市广播电视台" tvg-logo=" ",日照房车频道
 http://gg.gg/HeNeiIPTV-Ri_Zhao_Fang_Che_Pin_Dao
-#EXTINF:-1  tvg-name="泰安1套" group-title="山东省泰安市广播电视台" tvg-logo=" ",泰安综合频道
+#EXTINF:-1  tvg-name="泰安1套" group-title="山东省泰安市广播电视台：泰山网" tvg-logo=" ",泰安综合频道
 http://gg.gg/HeNeiIPTV-Tai_An_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="泰安2套" group-title="山东省泰安市广播电视台" tvg-logo=" ",泰安公共频道
+#EXTINF:-1  tvg-name="泰安2套" group-title="山东省泰安市广播电视台：泰山网" tvg-logo=" ",泰安公共频道
 http://gg.gg/HeNeiIPTV-Tai_An_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="泰安3套" group-title="山东省泰安市广播电视台" tvg-logo=" ",泰安科教频道
+#EXTINF:-1  tvg-name="泰安3套" group-title="山东省泰安市广播电视台：泰山网" tvg-logo=" ",泰安科教频道
 http://gg.gg/HeNeiIPTV-Tai_An_Ke_Jiao_Pin_Dao
 #EXTINF:-1  tvg-name="枣庄新闻综合" group-title="山东省枣庄市广播电视台" tvg-logo=" ",枣庄新闻综合频道
 http://gg.gg/HeNeiIPTV-Zao_Zhuang_Xin_Wen_Zong_He_Pin_Dao
@@ -515,8 +515,30 @@ http://gg.gg/HeNeiIPTV-Yan_Tai_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Yan_Tai_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="烟台经济科技" group-title="山东省烟台市广播电视台" tvg-logo=" ",烟台经济科技频道
 http://gg.gg/HeNeiIPTV-Yan_Tai_Jing_Ji_Ke_Zhi_Pin_Dao
-#EXTINF:-1  tvg-name="莱阳新闻综合" group-title="山东省烟台市莱阳市广播电视台" tvg-logo=" ",莱阳新闻综合频道
-http://gg.gg/HeNeiIPTV-Lai_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="莱阳新闻综合高清" group-title="山东省烟台市莱阳市广播电视台" tvg-logo=" ",莱阳新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Lai_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="聊城综合高清" group-title="山东省聊城市广播电视台" tvg-logo=" ",聊城综合频道高清
+http://gg.gg/HeNeiIPTV-Liao_Cheng_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="聊城公共高清" group-title="山东省聊城市广播电视台" tvg-logo=" ",聊城公共频道高清
+http://gg.gg/HeNeiIPTV-Liao_Cheng_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="德州新闻综合高清" group-title="山东省德州市广播电视台：大略网" tvg-logo=" ",德州新闻综合频道高清
+http://gg.gg/HeNeiIPTV-De_Zhou_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="德州公共高清" group-title="山东省德州市广播电视台：大略网" tvg-logo=" ",德州公共频道高清
+http://gg.gg/HeNeiIPTV-De_Zhou_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="济宁综合高清" group-title="山东省济宁市广播电视台" tvg-logo=" ",济宁综合频道高清
+http://gg.gg/HeNeiIPTV-Ji_Ning_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="济宁教育高清" group-title="山东省济宁市广播电视台" tvg-logo=" ",济宁教育频道高清
+http://gg.gg/HeNeiIPTV-Ji_Ning_Jiao_Yu_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="济宁公共" group-title="山东省济宁市广播电视台" tvg-logo=" ",济宁公共频道
+http://gg.gg/HeNeiIPTV-Ji_Ning_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="滨州新闻综合" group-title="山东省滨州市广播电视台" tvg-logo=" ",滨州新闻综合频道
+http://gg.gg/HeNeiIPTV-Bin_Zhou_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="滨州公共" group-title="山东省滨州市广播电视台" tvg-logo=" ",滨州公共频道
+http://gg.gg/HeNeiIPTV-Bin_Zhou_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="菏泽1套" group-title="山东省菏泽市广播电视台" tvg-logo=" ",菏泽新闻综合频道
+http://gg.gg/HeNeiIPTV-He_Ze_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="菏泽2套" group-title="山东省菏泽市广播电视台" tvg-logo=" ",菏泽公共频道
+http://gg.gg/HeNeiIPTV-He_Ze_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="江苏综艺" group-title="江苏省广播电视总台" tvg-logo=" ",江苏综艺频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Zong_Yi_Pin_Dao
 #EXTINF:-1  tvg-name="江苏城市" group-title="江苏省广播电视总台" tvg-logo=" ",江苏城市频道
@@ -1308,7 +1330,19 @@ http://gg.gg/HeNeiIPTV-Chong_Zuo_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="云南都市" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南都市频道
 http://gg.gg/HeNeiIPTV-Yun_Nan_Du_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="云南娱乐" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南娱乐频道
-
+http://gg.gg/HeNeiIPTV-Yun_Nan_Yu_Le_Pin_Dao
+#EXTINF:-1  tvg-name="云南生活资讯" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南生活资讯频道
+http://gg.gg/HeNeiIPTV-Yun_Nan_Sheng_Huo_Zi_Xun_Pin_Dao
+#EXTINF:-1  tvg-name="云南影视" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南影视频道
+http://gg.gg/HeNeiIPTV-Yun_Nan_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="云南公共" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南公共频道
+http://gg.gg/HeNeiIPTV-Yun_Nan_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="云南少儿" group-title="云南省广播电视台：云视网" tvg-logo=" ",云南少儿频道
+http://gg.gg/HeNeiIPTV-Yun_Nan_Shao_Er_Pin_Dao
+#EXTINF:-1  tvg-name="澜湄国际" group-title="云南省广播电视台：云视网" tvg-logo=" ",澜湄国际卫视
+http://gg.gg/HeNeiIPTV-Lan_Mei_Guo_Ji_Wei_Shi
+#EXTINF:-1  tvg-name="昆明1套高清" group-title="云南省昆明市广播电视台" tvg-logo=" ",昆明新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Kun_Ming_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="文山新闻综合" group-title="云南省文山市广播电视台" tvg-logo=" ",文山新闻综合频道
 http://gg.gg/HeNeiIPTV-Wen_Shan_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="文山公共" group-title="云南省文山市广播电视台" tvg-logo=" ",文山公共频道
@@ -1491,7 +1525,7 @@ http://gg.gg/HeNeiIPTV-Hu_Bei_Jiao_Yu_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Hu_Bei_Sheng_Huo_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="美嘉购物高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",美嘉购物频道高清
 http://gg.gg/HeNeiIPTV-Mei_Jia_Gou_Wou_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="湖北公共新闻高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北公共新闻频道高清
+#EXTINF:-1  tvg-name="湖北公共新闻高清" group-title="湖北省广播电视台：长江云" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",湖北公共新闻频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Gong_Gong_Xin_Wen_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="湖北经视高清" group-title="湖北省广播电视台：长江云" tvg-logo=" ",湖北经视频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Jing_Shi_Pin_Dao_Gao_Qing
