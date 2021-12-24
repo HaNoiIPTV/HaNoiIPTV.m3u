@@ -1,5 +1,5 @@
 ﻿#EXTM3U
- 
+#EXTINF:-1  tvg-name="不知道频道" tvg-logo=" ",
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1  tvg-name="河内IPTV • 测试频道" tvg-logo=" ",河内IPTV • 测试频道
 http://gg.gg/He_Nei_IPTV-Ce_Shi_Pin_Dao
