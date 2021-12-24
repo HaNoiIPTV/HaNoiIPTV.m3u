@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+ 
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1  tvg-name="河内IPTV • 测试频道" tvg-logo=" ",河内IPTV • 测试频道
 http://gg.gg/He_Nei_IPTV-Ce_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV1%20%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",CCTV1 综合频道高清
