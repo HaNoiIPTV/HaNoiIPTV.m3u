@@ -1359,6 +1359,8 @@ http://gg.gg/HeNeiIPTV-Ji_Lin_Xiang_Cun_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ji_Lin_Gong_Gong_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="吉视综艺文化" group-title="吉林省广播电视台" tvg-logo=" ",吉林综艺文化频道
 http://gg.gg/HeNeiIPTV-Ji_Lin_Zong_Yi_Wen_Hua_Pin_Dao
+#EXTINF:-1  tvg-name="内蒙古语卫视高清" group-title="内蒙古自治区广播电视台" tvg-logo=" ",内蒙古蒙古语卫视高清
+http://gg.gg/HeNeiIPTV-Nei_Meng_Gu_Meng_Gu_Yu_Wei_Shi_Gao_Qing
 #EXTINF:-1  tvg-name="黑龙江影视高清" group-title="黑龙江省广播电视台" tvg-logo=" ",黑龙江影视频道高清
 http://gg.gg/HeNeiIPTV-Hei_Long_Jiang_Ying_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="黑龙江文体高清" group-title="黑龙江省广播电视台" tvg-logo=" ",黑龙江文体频道高清
@@ -1383,10 +1385,14 @@ http://gg.gg/HeNeiIPTV-Ha_Er_Bin_Yu_Le_Pin_Dao
 http://gg.gg/HeNeiIPTV-Ha_Er_Bin_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="伊春新闻综合" group-title="黑龙江省伊春市广播电视台" tvg-logo=" ",伊春新闻综合频道
 http://gg.gg/HeNeiIPTV-Yi_Chun_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="河南卫视" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+http://gg.gg/HaNoiIPTV-He_Nan_Wei_Shi
 #EXTINF:-1  tvg-name="河南都市高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",河南都市频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Du_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="河南民生" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道
+http://gg.gg/HeNeiIPTV-He_Nan_Min_Sheng_Pin_Dao
 #EXTINF:-1  tvg-name="河南民生高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道高清
-http://gg.gg/HeNeiIPTV-He_Nan_Min_Sheng_Pin_Dao_Gao_Qing
+https://youtu.be/ZZRIwrUsQVw
 #EXTINF:-1  tvg-name="河南法治高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png",河南法治频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Fa_Zhi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南电视剧高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png",河南电视剧频道高清
@@ -1402,7 +1408,7 @@ http://gg.gg/HeNeiIPTV-He_Nan_Xiang_Cun_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南国际高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",河南国际频道高清
 http://gg.gg/HeNeiIPTV-He_Nan_Guo_Ji_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南IPTV • 导视高清" group-title="河南省有线电视" tvg-logo=" ",河南IPTV • 导视频道高清
-http://gg.gg/HeNeiIPTV-He_Nan_IPTV-Dao_Shi_Pin_Dao_Gao_Qing
+
 #EXTINF:-1  tvg-name="移动戏曲高清" group-title="河南省广播电视台" tvg-logo=" ",移动戏曲频道高清
 http://gg.gg/HeNeiIPTV-Yi_Dong_Xi_Qu_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="河南梨园高清" group-title="河南省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png",河南梨园频道高清
@@ -1457,6 +1463,8 @@ http://gg.gg/HeNeiIPTV-An_Yang_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-An_Yang_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="安阳科教" group-title="河南省安阳市广播电视台" tvg-logo=" ",安阳科教频道
 http://gg.gg/HeNeiIPTV-An_Yang_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="林州台" group-title="河南省安阳市林州市广播电视台" tvg-logo=" ",林州电视台
+http://gg.gg/HeNeiIPTV-Lin_Zhou_Dian_Shi_Tai
 #EXTINF:-1  tvg-name="鹤壁新闻综合" group-title="河南省鹤壁市广播电视台" tvg-logo=" ",鹤壁新闻综合频道
 http://gg.gg/HeNeiIPTV-He_Bi_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="周口1套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口新闻综合频道
@@ -1483,6 +1491,26 @@ http://gg.gg/HeNeiIPTV-Jiao_Zuo_Gong_Gong_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Jiao_Zuo_Jiao_Yu_Pin_Dao
 #EXTINF:-1  tvg-name="晴彩焦作" group-title="河南省焦作市广播电视台" tvg-logo=" ",晴彩焦作频道
 http://gg.gg/HeNeiIPTV-Qing_Cai_Jiao_Zuo_Pin_Dao
+#EXTINF:-1  tvg-name="沁阳新闻综合" group-title="河南省焦作市沁阳市广播电视台" tvg-logo=" ",沁阳新闻综合频道
+http://gg.gg/HeNeiIPTV-Qin_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="濮阳综合" group-title="河南省濮阳市广播电视台" tvg-logo=" ",濮阳综合频道
+http://gg.gg/HeNeiIPTV-Pu_Yang_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="驻马店1套" group-title="河南省驻马店市广播电视台" tvg-logo=" ",驻马店新闻综合频道
+http://gg.gg/HeNeiIPTV-Zhu_Ma_Dian_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="驻马店2套" group-title="河南省驻马店市广播电视台" tvg-logo=" ",驻马店公共频道
+http://gg.gg/HeNeiIPTV-Zhu_Ma_Dian_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="商丘1套" group-title="河南省商丘市广播电视台" tvg-logo=" ",商丘新闻综合频道
+http://gg.gg/HeNeiIPTV-Shang_Qiu_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="商丘2套" group-title="河南省商丘市广播电视台" tvg-logo=" ",商丘公共频道
+http://gg.gg/HeNeiIPTV-Shang_Qiu_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="商丘3套" group-title="河南省商丘市广播电视台" tvg-logo=" ",商丘文体科教频道
+http://gg.gg/HeNeiIPTV-Shang_Qiu_Wen_Ti_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="漯河新闻综合" group-title="河南省漯河市广播电视台" tvg-logo=" ",漯河新闻综合频道
+http://gg.gg/HeNeiIPTV-Luo_He_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="漯河公共" group-title="河南省商丘市广播电视台" tvg-logo=" ",漯河公共频道
+http://gg.gg/HeNeiIPTV-Luo_He_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="宝丰1套" group-title="河南省平顶山市宝丰县广播电视台" tvg-logo=" ",宝丰综合频道
+http://gg.gg/HeNeiIPTV-Bao_Feng_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="宁夏公共高清" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏公共频道高清
 http://gg.gg/HeNeiIPTV-Ning_Xia_Gong_Gong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁夏经济" group-title="宁夏回族自治区广播电视台" tvg-logo=" ",宁夏经济频道
@@ -1493,6 +1521,12 @@ http://gg.gg/HeNeiIPTV-Ning_Xia_Ying_Shi_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Ning_Xia_Shao_Er_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="宁夏教育高清" group-title="宁夏回族自治区教育电视台" tvg-logo=" ",宁夏教育电视台高清
 http://gg.gg/HeNeiIPTV-Ning_Xia_Jiao_Yu_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="银川公共" group-title="宁夏回族自治区银川市广播电视台" tvg-logo=" ",银川公共频道
+http://gg.gg/HeNeiIPTV-Yin_Chuan_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="银川生活" group-title="宁夏回族自治区银川市广播电视台" tvg-logo=" ",银川生活频道
+http://gg.gg/HeNeiIPTV-Yin_Chuan_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="银川文体" group-title="宁夏回族自治区银川市广播电视台" tvg-logo=" ",银川文体频道
+http://gg.gg/HeNeiIPTV-Yin_Chuan_Wen_Ti_Pin_Dao
 #EXTINF:-1  tvg-name="山西经济科技高清" group-title="山西省广播电视台" tvg-logo=" ",山西经济与科技频道高清
 http://gg.gg/HeNeiIPTV-Shan_Xi_Jing_Ji_Yu_Ke_Zhi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="山西影视高清" group-title="山西省广播电视台" tvg-logo=" ",山西影视频道高清
@@ -1525,6 +1559,12 @@ http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="运城3套" group-title="山西省运城市广播电视台" tvg-logo=" ",运城科教频道
 http://gg.gg/HeNeiIPTV-Yun_Cheng_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="大同1套高清" group-title="山西省大同市广播电视台" tvg-logo=" ",大同新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Da_Tong_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="大同2套高清" group-title="山西省大同市广播电视台" tvg-logo=" ",大同公共频道高清
+http://gg.gg/HeNeiIPTV-Da_Tong_Gong_Gong_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="大同3套高清" group-title="山西省大同市广播电视台" tvg-logo=" ",大同煤都生活频道高清
+http://gg.gg/HeNeiIPTV-Da_Tong_Mei_Du_Sheng_Huo_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="湖北综合高清" group-title="湖北省广播电视台：长江云" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",湖北综合频道高清
 http://gg.gg/HeNeiIPTV-Hu_Bei_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="湖北影视高清" group-title="湖北省广播电视台：长江云" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",湖北影视频道高清
