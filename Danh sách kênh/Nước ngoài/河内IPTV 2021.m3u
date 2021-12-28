@@ -941,6 +941,8 @@ http://gg.gg/HeNeiIPTV-Jia_Xing_Wen_Hua_Ying_Shi_Pin_Dao
 http://gg.gg/HeNeiIPTV-Jia_Xing_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="嘉善新闻综合" group-title="浙江省嘉兴市嘉善县广播电视台" tvg-logo=" ",嘉善新闻综合频道
 rtmp://118.31.110.219:1935/jsgdxwzh/myStream
+#EXTINF:-1  tvg-name="嘉善文化" group-title="浙江省嘉兴市嘉善县广播电视台" tvg-logo=" ",嘉善文化频道
+rtmp://118.31.110.219:1935/jsgdswh/myStream
 #EXTINF:-1  tvg-name="金华新闻综合" group-title="浙江省金华市广播电视台" tvg-logo=" ",金华新闻综合频道
 http://gg.gg/HeNeiIPTV-Jin_Hua_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="金华教育科技" group-title="浙江省金华市广播电视台" tvg-logo=" ",金华教育科技频道
@@ -957,6 +959,12 @@ http://gg.gg/HeNeiIPTV-Shao_Xing_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Shao_Xing_Wen_Hua_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="诸暨新闻综合" group-title="浙江省绍兴市诸暨县广播电视台" tvg-logo=" ",诸暨新闻综合频道
 http://gg.gg/HeNeiIPTV-Zhu_Ji_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="上虞新闻综合" group-title="浙江省绍兴市上虞区广播电视台" tvg-logo=" ",上虞新闻综合频道
+http://gg.gg/HeNeiIPTV-Shang_Yu_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="上虞文化影视" group-title="浙江省绍兴市上虞区广播电视台" tvg-logo=" ",上虞文化影视频道
+http://gg.gg/HeNeiIPTV-Shang_Yu_Wen_Hua_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="上虞新商都" group-title="浙江省绍兴市上虞区广播电视台" tvg-logo=" ",上虞新商都频道
+http://gg.gg/HeNeiIPTV-Shang_Yu_Xin_Shang_Du_Pin_Dao
 #EXTINF:-1  tvg-name="舟山新闻综合" group-title="浙江省舟山市广播电视台" tvg-logo=" ",舟山新闻综合频道
 http://gg.gg/HeNeiIPTV-Zhou_Shan_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="舟山公共" group-title="浙江省舟山市广播电视台" tvg-logo=" ",舟山公共频道
