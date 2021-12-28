@@ -539,11 +539,11 @@ http://gg.gg/HeNeiIPTV-Bin_Zhou_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-He_Ze_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="菏泽2套" group-title="山东省菏泽市广播电视台" tvg-logo=" ",菏泽公共频道
 http://gg.gg/HeNeiIPTV-He_Ze_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="江苏综艺" group-title="江苏省广播电视总台" tvg-logo=" ",江苏综艺频道
+#EXTINF:-1  tvg-name="江苏综艺" group-title="江苏省广播电视总台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA%E9%A2%91%E9%81%93.png",江苏综艺频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Zong_Yi_Pin_Dao
-#EXTINF:-1  tvg-name="江苏城市" group-title="江苏省广播电视总台" tvg-logo=" ",江苏城市频道
+#EXTINF:-1  tvg-name="江苏城市" group-title="江苏省广播电视总台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93.png",江苏城市频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Cheng_Shi_Pin_Dao
-#EXTINF:-1  tvg-name="江苏影视" group-title="江苏省广播电视总台" tvg-logo=" ",江苏影视频道
+#EXTINF:-1  tvg-name="江苏影视" group-title="江苏省广播电视总台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",江苏影视频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Ying_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="江苏靓妆" group-title="江苏省广播电视总台" tvg-logo=" ",江苏靓妆频道
 http://gg.gg/HeNeiIPTV-Jiang_Su_Jing_Zhuang_Pin_Dao
@@ -1367,14 +1367,14 @@ http://gg.gg/HeNeiIPTV-Kun_Ming_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Wen_Shan_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="文山公共" group-title="云南省文山市广播电视台" tvg-logo=" ",文山公共频道
 http://gg.gg/HeNeiIPTV-Wen_Shan_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="吉视都市" group-title="吉林省广播电视台" tvg-logo=" ",吉林都市频道
-http://gg.gg/HeNeiIPTV-Ji_Lin_Du_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="吉视都市高清" tvg-id="http://gg.gg/HeNeiIPTV-Ji_Lin_Du_Shi_Pin_Dao" group-title="吉林省广播电视台" tvg-logo=" ",吉视都市频道高清
+https://www.youtube.com/watch?v=peiGejfMLk4
 #EXTINF:-1  tvg-name="吉视生活" group-title="吉林省广播电视台" tvg-logo=" ",吉林生活频道
 http://gg.gg/HeNeiIPTV-Ji_Lin_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="吉视影视" group-title="吉林省广播电视台" tvg-logo=" ",吉林影视频道
 http://gg.gg/HeNeiIPTV-Ji_Lin_Ying_Shi_Pin_Dao
-#EXTINF:-1  tvg-name="吉视乡村" group-title="吉林省广播电视台" tvg-logo=" ",吉林乡村频道
-http://gg.gg/HeNeiIPTV-Ji_Lin_Xiang_Cun_Pin_Dao
+#EXTINF:-1  tvg-name="吉视乡村高清" tvg-id="http://gg.gg/HeNeiIPTV-Ji_Lin_Xiang_Cun_Pin_Dao" group-title="吉林省广播电视台" tvg-logo=" ",吉林乡村频道高清
+https://www.youtube.com/watch?v=9itYH1SpDx4
 #EXTINF:-1  tvg-name="吉视公共新闻" group-title="吉林省广播电视台" tvg-logo=" ",吉林公共新闻频道
 http://gg.gg/HeNeiIPTV-Ji_Lin_Gong_Gong_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="吉视综艺文化" group-title="吉林省广播电视台" tvg-logo=" ",吉林综艺文化频道
@@ -1809,18 +1809,18 @@ http://gg.gg/HeNeiIPTV-Wu_Wei_Xin_Wen_Zong_He_Pin_Dao
 http://gg.gg/HeNeiIPTV-Wu_Wei_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="临夏综合" group-title="甘肃省临夏市广播电视台" tvg-logo=" ",临夏综合频道
 http://gg.gg/HeNeiIPTV-Lin_Xia_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="陕西新闻资讯" group-title="陕西省广播电视台" tvg-logo=" ",陕西新闻资讯频道
+#EXTINF:-1  tvg-name="陕西新闻资讯" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF%E9%A2%91%E9%81%93.png",陕西新闻资讯频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Xin_Wen_Zi_Xun_Pin_Dao
 #EXTINF:-1  tvg-name="陕西都市青春" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E9%83%BD%E5%B8%82%E9%9D%92%E6%98%A5%E9%A2%91%E9%81%93.png",陕西都市青春频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Du_Shi_Qing_Chun_Pin_Dao
-#EXTINF:-1  tvg-name="陕西生活" group-title="陕西省广播电视台" tvg-logo=" ",陕西生活频道
+#EXTINF:-1  tvg-name="陕西生活" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",陕西生活频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Sheng_Huo_Pin_Dao
 #EXTINF:-1  tvg-name="陕西影视" group-title="陕西省广播电视台" tvg-logo=" ",陕西影视频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Ying_Shi_Pin_Dao
-#EXTINF:-1  tvg-name="陕西公共" group-title="陕西省广播电视台" tvg-logo=" ",陕西公共频道
+#EXTINF:-1  tvg-name="陕西公共" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",陕西公共频道
 http://gg.gg/HeNeiIPTV-Shan_Xi_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="陕西体育全运" group-title="陕西省广播电视台" tvg-logo=" ",陕西体育全运频道
-http://gg.gg/HeNeiIPTV-Shan_Xi_Ti_Yu_Quan_Yun_Pin_Dao
+#EXTINF:-1  tvg-name="陕西体育休闲" group-title="陕西省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93.png",陕西体育休闲频道
+http://gg.gg/HeNeiIPTV-Shan_Xi_Ti_Yu_Xiu_Xian_Pin_Dao
 #EXTINF:-1  tvg-name="农林卫视" group-title="陕西省广播电视台" tvg-logo=" ",农林卫视
 http://gg.gg/HeNeiIPTV-Nong_Lin_Wei_Shi
 #EXTINF:-1  tvg-name="西部电影" group-title="陕西省广播电视台" tvg-logo=" ",西部电影频道
@@ -2163,7 +2163,7 @@ http://gg.gg/HeNeiIPTV-Zhong_Shi_Jing_Cai_Tai_HD
 http://gg.gg/HeNeiIPTV-Zhong_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  tvg-name="台視新聞 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png" tvg-chno="155",台視新聞台 HD
 http://gg.gg/HeNeiIPTV-Tai_Shi_Xin_Wen_Tai_HD
-#EXTINF:-1  tvg-name="台視財經 HD" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/521.png?rand=311" tvg-chno="156",台視財經台 HD
+#EXTINF:-1  tvg-name="台視財經 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E8%B2%A1%E7%B6%93%E5%8F%B0%20HD.png" tvg-chno="156",台視財經台 HD
 rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
 #EXTINF:-1  tvg-name="台視綜合 HD" tvg-id="http://gg.gg/HeNeiIPTV-Tai_Shi_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="157",台視綜合台 HD
 
