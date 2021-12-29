@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="河内IPTV • 测试频道" tvg-id="http://gg.gg/He_Nei_IPTV-Ce_Shi_Pin_Dao" tvg-logo=" ",河内IPTV • 测试频道
-https://www.youtube.com/watch?v=phvblw-Jlh8
+#EXTINF:-1  tvg-name="河内IPTV • 测试频道" tvg-id="https://www.youtube.com/watch?v=phvblw-Jlh8" tvg-logo=" ",河内IPTV • 测试频道
+http://gg.gg/He_Nei_IPTV-Ce_Shi_Pin_Dao
 #EXTINF:-1  tvg-name="CCTV-1 综合高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CCTV1%20%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",CCTV1 综合频道高清
 http://gg.gg/HeNeiIPTV-CCTV1-Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="CCTV-2 财经高清" group-title="中国中央广播电视总台：央视网" tvg-logo="https://iptv.live/images/logo/channel/crops/8e8af22efea448a210ce28c4bba9c033.png",CCTV2 财经频道高清
@@ -357,6 +357,8 @@ http://gg.gg/HeNeiIPTV-He_Bei_Nong_Min_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-San_Jia_Gou_Wou_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="石家庄新闻综合" group-title="河北省石家庄市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",石家庄新闻综合频道
 http://gg.gg/HeNeiIPTV-Shi_Jia_Zhuang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="石家庄新闻综合高清" group-title="河北省石家庄市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",石家庄新闻综合频道高清
+https://www.youtube.com/watch?v=w_KtjjQ01xk
 #EXTINF:-1  tvg-name="石家庄娱乐" group-title="河北省石家庄市广播电视台" tvg-logo=" ",石家庄娱乐频道
 http://gg.gg/HeNeiIPTV-Shi_Jia_Zhuang_Yu_Le_Pin_Dao
 #EXTINF:-1  tvg-name="石家庄生活" group-title="河北省石家庄市广播电视台" tvg-logo=" ",石家庄生活频道
@@ -2176,7 +2178,7 @@ http://gg.gg/HeNeiIPTV-Zhong_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  tvg-name="台視新聞 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png" tvg-chno="155",台視新聞台 HD
 http://gg.gg/HeNeiIPTV-Tai_Shi_Xin_Wen_Tai_HD
 #EXTINF:-1  tvg-name="台視財經 HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E8%B2%A1%E7%B6%93%E5%8F%B0%20HD.png" tvg-chno="156",台視財經台 HD
-rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
+https://www.youtube.com/watch?v=ZvTJ1qQNEPY
 #EXTINF:-1  tvg-name="台視綜合 HD" tvg-id="http://gg.gg/HeNeiIPTV-Tai_Shi_Zong_He_Tai_HD" group-title="台灣地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8F%B0%E8%A6%96%E7%B6%9C%E5%90%88%E5%8F%B0%20HD.png" tvg-chno="157",台視綜合台 HD
 
 #EXTINF:-1  tvg-name="寰宇新聞 HD" channel-id="116" group-title="台灣地區" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/501.png?rand=269",寰宇新聞台 HD
