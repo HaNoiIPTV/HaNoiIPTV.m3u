@@ -440,7 +440,7 @@ http://gg.gg/HaNoiIPTV-THTV-Truyen_hinh_Tra_Vinh_HD
 http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
 #EXTINF:-1  tvg-name="STV1 - TH SÓC TRĂNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%20HD.png",STV1 - Truyền hình Sóc Trăng HD
 http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
-#EXTINF:-1  tvg-name="ON TENNIS HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Tennis%20HD.png",On Tennis HD • KÊNH THỬ NGHIỆM
+#EXTINF:-1  tvg-name="ON TENNIS HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Tennis%20HD.png",ON Tennis HD • KÊNH THỬ NGHIỆM
 
 #EXTINF:-1  tvg-name="ON SPORTS+ HD • KÊNH THỬ NGHIỆM" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD • KÊNH THỬ NGHIỆM
 http://gg.gg/HaNoiIPTV-VTVCab6-On_Sports_Plus_HD
@@ -563,12 +563,12 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sct
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
 https://kpluslive.akamaized.net/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
-#EXTINF:-1  tvg-name="Toàn cảnh NỘI THÀNH" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/To%C3%A0n%20c%E1%BA%A3nh%20H%C3%A0%20N%E1%BB%99i%20HD.png",Toàn cảnh NỘI THÀNH
+#EXTINF:-1  tvg-name="HÀ NỘI & CẢ NƯỚC" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20v%C3%A0%20c%E1%BA%A3%20n%C6%B0%E1%BB%9Bc.png",Hà Nội & Cả nước
+http://gg.gg/Ha_Noi_va_ca_nuoc
+#EXTINF:-1  tvg-name="Toàn cảnh NỘI THÀNH HÀ NỘI" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/To%C3%A0n%20c%E1%BA%A3nh%20N%E1%BB%99i%20th%C3%A0nh%20H%C3%A0%20N%E1%BB%99i.png",Toàn cảnh Nội thành Hà Nội
 http://gg.gg/Toan_canh_Noi_thanh_Ha_Noi
-#EXTINF:-1  tvg-name="Toàn cảnh NGOẠI THÀNH" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/To%C3%A0n%20c%E1%BA%A3nh%20H%C3%A0%20N%E1%BB%99i%20HD.png",Toàn cảnh NGOẠI THÀNH
-http://gg.gg/Toan_canh_Ha_Noi_2_HD
-#EXTINF:-1  tvg-name="HÀ NỘI & CẢ NƯỚC HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Hà Nội và Cả nước HD
-http://gg.gg/Ha_Noi_va_ca_nuoc_HD
+#EXTINF:-1  tvg-name="Toàn cảnh NGOẠI THÀNH HÀ NỘI" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/To%C3%A0n%20c%E1%BA%A3nh%20Ngo%E1%BA%A1i%20th%C3%A0nh%20H%C3%A0%20N%E1%BB%99i.png",Toàn cảnh Ngoại thành Hà Nội
+http://gg.gg/Toan_canh_Ngoai_thanh_Ha_Noi
 #EXTINF:-1  tvg-name="Hà Nội IPTV 17+ - EBS1 HD" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2017%2B%20-%20EBS1%20HD.png",Hà Nội IPTV 17+ - EBS1 HD
 http://gg.gg/Ha_Noi_IPTV_17_Plus-EBS1_HD
 #EXTINF:-1  tvg-name="Hà Nội IPTV 18+ - EBS2 HD" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2018%2B%20-%20EBS2%20HD.png",Hà Nội IPTV 18+ - EBS2 HD
