@@ -54,16 +54,16 @@ http://gg.gg/HaNoiIPTV-VTVCab14-V_Shopping
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="VTVCab17 - YEAH1 TV" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.217:9276 và http://gg.gg/HaNoiIPTV-VTVCab17-Yeah1_TV" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20Yeah1%20TV.png",VTVCab17 - Yeah1 TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="VTVCab19 - Vie DRAMAS" tvg-id="http://gg.gg/HaNoiIPTV-VTVCab19-Vie_Dramas_HD" ch-number="29" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.169:8988" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20Vie%20DRAMAS%20HD.png",VTVCab19 - Vie Dramas
+#EXTINF:-1  tvg-name="VTVCab19 - Vie DRAMAS" tvg-id="http://gg.gg/HaNoiIPTV-VTVCab19-Vie_Dramas_HD" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.169:8988" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20Vie%20DRAMAS%20HD.png",VTVCab19 - Vie Dramas
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="VTVCab20 - V FAMILY" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.245:10344 và http://gg.gg/HaNoiIPTV-VTVCab20-V_Family" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab20%20-%20VFamily.png",VTVCab20 - V Family
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="VTVCab21 - CARTOON KIDS HD" tvg-id="http://gg.gg/HaNoiIPTV-VTVCab21-Cartoon_Kids_HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20Cartoon%20Kids%20HD.png",VTVCab21 - Cartoon Kids HD
-https://livetdcdn.vtvcab.vn/5cf76f15db4a153de89b8fa8/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8|Referer=http://vtvcab.vn/
+#EXTINF:-1  tvg-name="VTVCab21 - CARTOON KIDS HD" tvg-id="https://livetdcdn.vtvcab.vn/5cf76f15db4a153de89b8fa8/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8|Referer=http://vtvcab.vn/" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20Cartoon%20Kids%20HD.png",VTVCab21 - Cartoon Kids HD
+http://gg.gg/HaNoiIPTV-VTVCab21-Cartoon_Kids_HD
 #EXTINF:-1  tvg-name="VTVCab22 - LIFE TV HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Love%20Nature%204K%20(VTVCab22%20-%20Life%20TV%20HD).png",VTVCab22 - Life TV HD
 http://gg.gg/HaNoiIPTV-VTVCab22-Life_TV_HD
 #EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports%20HD.png",ON Sports HD
-
+http://gg.gg/HaNoiIPTV-VTVCab3-ON_Sports_HD
 #EXTINF:-1  tvg-name="ON FOOTBALL - BÓNG ĐÁ HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20ON%20Football%20HD.png",ON Football HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON SPORTS NEWS Premium HD • KÊNH THỬ NGHIỆM" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.193:10942" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab18%20-%20ON%20Sports%20News%20Premium%20HD.png",ON Sports News HD • KÊNH THỬ NGHIỆM
