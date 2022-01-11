@@ -62,7 +62,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 http://gg.gg/HaNoiIPTV-VTVCab21-Cartoon_Kids_HD
 #EXTINF:-1  tvg-name="VTVCab22 - LIFE TV HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Love%20Nature%204K%20(VTVCab22%20-%20Life%20TV%20HD).png",VTVCab22 - Life TV HD
 http://gg.gg/HaNoiIPTV-VTVCab22-Life_TV_HD
-#EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports%20HD.png",ON Sports HD
+#EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO HD" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab3/playlist_1080p.m3u8" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports%20HD.png",ON Sports HD
 http://gg.gg/HaNoiIPTV-VTVCab3-ON_Sports_HD
 #EXTINF:-1  tvg-name="ON FOOTBALL - BÓNG ĐÁ HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20ON%20Football%20HD.png",ON Football HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -443,7 +443,7 @@ http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
 #EXTINF:-1  tvg-name="STV1 - TH SÓC TRĂNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%20HD.png",STV1 - Truyền hình Sóc Trăng HD
 http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
 #EXTINF:-1  tvg-name="ON TENNIS HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Tennis%20HD.png",ON Tennis HD • KÊNH THỬ NGHIỆM
-
+http://gg.gg/HaNoiIPTV-ON_Tennis_HD
 #EXTINF:-1  tvg-name="ON ACTION SPORTS PREMIUM HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Action%20Sports%20Premium%20HD.png",ON Action Sports HD • KÊNH THỬ NGHIỆM
 
 #EXTINF:-1  tvg-name="STV2 - TH SÓC TRĂNG 2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%202%20HD.png",STV2 - Truyền hình Sóc Trăng 2 HD
