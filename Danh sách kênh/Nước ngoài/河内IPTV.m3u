@@ -113,6 +113,8 @@ http://gg.gg/HaNoiIPTV-Yun_Nan_Wei_Shi_HD
 http://gg.gg/HaNoiIPTV-Gui_Zhou_Wei_Shi_HD
 #EXTINF:-1  tvg-name="重庆卫视高清" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png",重庆卫视高清
 http://gg.gg/HaNoiIPTV-Chong_Qing_Wei_Shi_HD
+#EXTINF:-1  tvg-name="西藏卫视" group-title="卫视频道" tvg-logo=" ",西藏卫视
+rtmp://video.vtibet.com/masvod/hanyuTV_q1&t=flv
 #EXTINF:-1  tvg-name="新疆卫视高清" group-title="卫视频道" tvg-logo=" ",新疆卫视高清
 http://gg.gg/HaNoiIPTV-Xin_Jiang_Wei_Shi_HD
 #EXTINF:-1  tvg-name="四川文化旅游高清" group-title="四川省广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",四川文化旅游频道高清
@@ -2047,10 +2049,14 @@ http://gg.gg/HeNeiIPTV-Chong_Qing_Ying_Shi_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Chong_Qing_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="重庆社会与法" group-title="重庆市广播电视台" tvg-logo=" ",重庆社会与法频道
 http://gg.gg/HeNeiIPTV-Chong_Qing_She_Hui_Yu_Fa_Pin_Dao
+#EXTINF:-1  tvg-name="西藏语卫视" group-title="西藏自治区广播电视台" tvg-logo=" ",西藏藏语卫视
+rtmp://video.vtibet.com/masvod/zangyuTV_q1
 #EXTINF:-1  tvg-name="拉萨1套" group-title="西藏自治区拉萨市广播电视台" tvg-logo=" ",拉萨综合频道
 http://gg.gg/HeNeiIPTV-La_Sa_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="拉萨2套" group-title="西藏自治区拉萨市广播电视台" tvg-logo=" ",拉萨藏语综合频道
 http://gg.gg/HeNeiIPTV-La_Sa_Zang_Yu_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="拉萨3套" group-title="西藏自治区拉萨市广播电视台" tvg-logo=" ",拉萨文化旅游频道
+http://gg.gg/HeNeiIPTV-La_Sa_Wen_Hua_Lv_You_Pin_Dao
 #EXTINF:-1  tvg-name="新疆2套高清" group-title="新疆维吾尔族自治区广播电视台" tvg-logo=" ",新疆维吾尔语新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Xin_Jiang_Wei_Wu_Er_Yu_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="新疆3套高清" group-title="新疆维吾尔族自治区广播电视台" tvg-logo=" ",新疆哈萨克语新闻综合频道高清
@@ -2075,6 +2081,22 @@ http://gg.gg/HeNeiIPTV-Xin_Jiang_Xin_Xi_Fu_Wu_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Xin_Jiang_Shao_Er_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="乌鲁木齐综合" group-title="新疆维吾尔族自治区乌鲁木齐市广播电视台" tvg-logo=" ",乌鲁木齐综合频道
 http://gg.gg/HeNeiIPTV-Wu_Lu_Mu_Qi_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="乌鲁木齐维语" group-title="新疆维吾尔族自治区乌鲁木齐市广播电视台" tvg-logo=" ",乌鲁木齐维语综合频道
+http://gg.gg/HeNeiIPTV-Wu_Lu_Mu_Qi_Wei_Yu_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="乌鲁木齐影视" group-title="新疆维吾尔族自治区乌鲁木齐市广播电视台" tvg-logo=" ",乌鲁木齐影视频道
+http://gg.gg/HeNeiIPTV-Wu_Lu_Mu_Qi_Ying_Shi_Pin_Dao
+#EXTINF:-1  tvg-name="乌鲁木齐都市生活" group-title="新疆维吾尔族自治区乌鲁木齐市广播电视台" tvg-logo=" ",乌鲁木齐都市生活频道
+http://gg.gg/HeNeiIPTV-Wu_Lu_Mu_Qi_Du_Shi_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="昌吉台" group-title="新疆维吾尔族自治区昌吉回族自治州昌吉市广播电视台" tvg-logo=" ",昌吉电视台
+http://gg.gg/HeNeiIPTV-Chang_Ji_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="呼图壁1套" group-title="新疆维吾尔族自治区昌吉回族自治州呼图壁县广播电视台" tvg-logo=" ",呼图壁新闻综合频道
+http://gg.gg/HeNeiIPTV-Hu_Tu_Bi_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="呼图壁2套" group-title="新疆维吾尔族自治区昌吉回族自治州呼图壁县广播电视台" tvg-logo=" ",呼图壁公共频道
+http://gg.gg/HeNeiIPTV-Hu_Tu_Bi_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-name="塔城1套" group-title="新疆维吾尔族自治区塔城地区广播电视台" tvg-logo=" ",塔城新闻综合频道
+http://gg.gg/HeNeiIPTV-Ta_Cheng_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="巴州4套" group-title="新疆维吾尔族自治区巴音郭楞蒙古自治州广播电视台" tvg-logo=" ",巴州教育频道
+http://gg.gg/HeNeiIPTV-Ba_Yin_Guo_Leng_Zi_Zhi_Zhou_Jiao_Yu_Pin_Dao
 #EXTINF:-1  tvg-name="鳳凰中文 HD" group-title="香港地區" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png",鳳凰衛視中文台 HD
 http://gg.gg/HeNeiIPTV-Feng_Huang_Wei_Shi_Zhong_Wen_Tai_HD
 #EXTINF:-1  tvg-name="鳳凰資訊 HD" group-title="香港地區" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96%E8%B3%87%E8%A8%8A%E5%8F%B0%20HD.png",鳳凰衛視資訊台 HD
