@@ -731,8 +731,8 @@ rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
 rtmp://live1.lytv.com.cn:1935/live/LYTV2-1
 #EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳公共频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV3-1
-#EXTINF:-1  tvg-name="南阳1套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳新闻综合频道
-http://gg.gg/HeNeiIPTV-Nan_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="南阳1套高清" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳新闻综合频道高清
+http://gg.gg/HeNeiIPTV-Nan_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="南阳2套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳公共频道
 http://gg.gg/HeNeiIPTV-Nan_Yang_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="南阳3套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳科教频道
