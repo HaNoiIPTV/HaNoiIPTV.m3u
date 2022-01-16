@@ -725,6 +725,18 @@ http://gg.gg/HeNeiIPTV-Zheng_Zhou_Ying_Shi_Xi_Qu_Pin_Dao
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Fu_Nv_Er_Tong_Pin_Dao
 #EXTINF:-1  tvg-name="郑州6套" group-title="河南省郑州市广播电视台" tvg-logo=" ",郑州都市生活频道
 http://gg.gg/HeNeiIPTV-Zheng_Zhou_Du_Shi_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="郑州教育高清" group-title="河南省郑州市教育电视台" tvg-logo=" ",郑州教育电视台高清
+http://gg.gg/HeNeiIPTV-Zheng_Zhou_Jiao_Yu_Dian_Shi_Tai_Gao_Qing
+#EXTINF:-1  tvg-name="中牟1套" group-title="河南省郑州市中牟县广播电视台" tvg-logo=" ",中牟综合频道
+http://gg.gg/HeNeiIPTV-Zhong_Mu_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="上街台" group-title="河南省郑州市上街区广播电视台" tvg-logo=" ",上街电视台
+http://gg.gg/HeNeiIPTV-Shang_Jie_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="荥阳1套" group-title="河南省郑州市荥阳市广播电视台" tvg-logo=" ",荥阳新闻频道
+http://gg.gg/HeNeiIPTV-Xing_Yang_Xin_Wen_Pin_Dao
+#EXTINF:-1  tvg-name="巩义1套" group-title="河南省郑州市巩义市广播电视台" tvg-logo=" ",巩义新闻综合频道
+http://gg.gg/HeNeiIPTV-Gong_Yi_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="登封综合" group-title="河南省郑州市登封市广播电视台" tvg-logo=" ",登封综合频道
+http://gg.gg/HeNeiIPTV-Deng_Feng_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="洛阳1套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳新闻综合频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
 #EXTINF:-1  tvg-name="洛阳2套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳科教频道高清
@@ -751,18 +763,24 @@ http://gg.gg/HeNeiIPTV-Xin_Xiang_Gong_Gong_Pin_Dao
 http://gg.gg/HeNeiIPTV-Xin_Yang_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="三门峡新闻综合" group-title="河南省三门峡市广播电视台" tvg-logo=" ",三门峡新闻综合频道
 http://gg.gg/HeNeiIPTV-San_Men_Xia_Xin_Wen_Zong_He_Pin_Dao
-#EXTINF:-1  tvg-name="安阳新闻综合" group-title="河南省安阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",安阳新闻综合频道
-http://gg.gg/HeNeiIPTV-An_Yang_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="安阳新闻综合高清" tvg-id="http://gg.gg/HeNeiIPTV-An_Yang_Xin_Wen_Zong_He_Pin_Dao" group-title="河南省安阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",安阳新闻综合频道高清
+https://www.youtube.com/watch?v=LhRbld_ONbc
 #EXTINF:-1  tvg-name="安阳公共" group-title="河南省安阳市广播电视台" tvg-logo=" ",安阳公共频道
 http://gg.gg/HeNeiIPTV-An_Yang_Gong_Gong_Pin_Dao
-#EXTINF:-1  tvg-name="安阳科教" group-title="河南省安阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E9%98%B3%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",安阳科教频道
-http://gg.gg/HeNeiIPTV-An_Yang_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="安阳科教高清" tvg-id="http://gg.gg/HeNeiIPTV-An_Yang_Ke_Jiao_Pin_Dao" group-title="河南省安阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E9%98%B3%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",安阳科教频道高清
+https://www.youtube.com/watch?v=ERoohAu7cNA
 #EXTINF:-1  tvg-name="安阳台" group-title="河南省安阳市安阳县广播电视台" tvg-logo=" ",安阳电视台
 http://gg.gg/HeNeiIPTV-An_Yang_Dian_Shi_Tai
 #EXTINF:-1  tvg-name="林州台" group-title="河南省安阳市林州市广播电视台" tvg-logo=" ",林州电视台
 http://gg.gg/HeNeiIPTV-Lin_Zhou_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="滑县1套" group-title="河南省安阳市滑县县广播电视台" tvg-logo=" ",滑县新闻综合频道
+http://gg.gg/HeNeiIPTV-Hua_Xian_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="滑县2套" group-title="河南省安阳市滑县县广播电视台" tvg-logo=" ",滑县公共频道
+http://gg.gg/HeNeiIPTV-Hua_Xian_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="内黄综合" group-title="河南省安阳市内黄县广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%86%85%E9%BB%84%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",内黄综合频道
 http://gg.gg/HeNeiIPTV-Nei_Huang_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="汤阴新闻综合" group-title="河南省安阳市汤阴县广播电视台" tvg-logo=" ",汤阴新闻综合频道
+http://gg.gg/HeNeiIPTV-Tang_Yin_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="鹤壁新闻综合" group-title="河南省鹤壁市广播电视台" tvg-logo=" ",鹤壁新闻综合频道
 http://gg.gg/HeNeiIPTV-He_Bi_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="周口1套" group-title="河南省周口市广播电视台" tvg-logo=" ",周口新闻综合频道
