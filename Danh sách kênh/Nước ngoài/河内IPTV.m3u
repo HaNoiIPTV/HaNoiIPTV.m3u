@@ -741,14 +741,42 @@ http://gg.gg/HeNeiIPTV-Deng_Feng_Zong_He_Pin_Dao
 rtmp://live1.lytv.com.cn:1935/live/LYTV1-1
 #EXTINF:-1  tvg-name="洛阳2套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳科教频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV2-1
-#EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳公共频道高清
+#EXTINF:-1  tvg-name="洛阳3套高清" group-title="河南省洛阳市广播电视台" tvg-logo=" ",洛阳文旅频道高清
 rtmp://live1.lytv.com.cn:1935/live/LYTV3-1
+#EXTINF:-1  tvg-name="新安新闻综合" group-title="河南省洛阳市新安县广播电视台" tvg-logo=" ",新安新闻综合频道
+http://gg.gg/HeNeiIPTV-Xin_An_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="宜阳综合" group-title="河南省洛阳市宜阳县广播电视台" tvg-logo=" ",宜阳综合频道
+http://gg.gg/HeNeiIPTV-Yi_Yang_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="伊川台" group-title="河南省洛阳市伊川县广播电视台" tvg-logo=" ",伊川电视台
+http://gg.gg/HeNeiIPTV-Yi_Chuan_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="偃师新闻" group-title="河南省洛阳市偃师市广播电视台" tvg-logo=" ",偃师新闻频道
+http://gg.gg/HeNeiIPTV-Yan_Shi_Xin_Wen_Pin_Dao
+#EXTINF:-1  tvg-name="偃师文化生活" group-title="河南省洛阳市偃师市广播电视台" tvg-logo=" ",偃师文化生活频道
+http://gg.gg/HeNeiIPTV-Yan_Shi_Wen_Hua_Sheng_Huo_Pin_Dao
+#EXTINF:-1  tvg-name="汝阳综合" group-title="河南省洛阳市汝阳县广播电视台" tvg-logo=" ",汝阳综合频道
+http://gg.gg/HeNeiIPTV-Ru_Yang_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="栾川新闻" group-title="河南省洛阳市栾川县广播电视台" tvg-logo=" ",栾川新闻频道
+http://gg.gg/HeNeiIPTV-Luan_Chuan_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="南阳1套高清" group-title="河南省南阳市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",南阳新闻综合频道高清
 http://gg.gg/HeNeiIPTV-Nan_Yang_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="南阳2套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳公共频道
 http://gg.gg/HeNeiIPTV-Nan_Yang_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-name="南阳3套" group-title="河南省南阳市广播电视台" tvg-logo=" ",南阳科教频道
 http://gg.gg/HeNeiIPTV-Nan_Yang_Ke_Jiao_Pin_Dao
+#EXTINF:-1  tvg-name="桐柏1套" group-title="河南省南阳市桐柏县广播电视台" tvg-logo=" ",桐柏新闻综合频道
+http://gg.gg/HeNeiIPTV-Tong_Bai_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="社旗台" group-title="河南省南阳市社旗县广播电视台" tvg-logo=" ",社旗电视台
+http://gg.gg/HeNeiIPTV-She_Qi_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="方城1套" group-title="河南省南阳市方城县广播电视台" tvg-logo=" ",方城新闻综合频道
+http://gg.gg/HeNeiIPTV-Fang_Cheng_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="镇平新闻综合" group-title="河南省南阳市镇平县广播电视台" tvg-logo=" ",镇平新闻综合频道
+http://gg.gg/HeNeiIPTV-Zhen_Ping_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="内乡台" group-title="河南省南阳市内乡县广播电视台" tvg-logo=" ",内乡电视台
+http://gg.gg/HeNeiIPTV-Nei_Xiang_Dian_Shi_Tai
+#EXTINF:-1  tvg-name="淅川1套" group-title="河南省南阳市淅川县广播电视台" tvg-logo=" ",淅川新闻综合频道
+http://gg.gg/HeNeiIPTV-Xi_Chuan_Xin_Wen_Zong_He_Pin_Dao
+#EXTINF:-1  tvg-name="邓州新闻" group-title="河南省南阳市邓州市广播电视台" tvg-logo=" ",邓州新闻频道
+http://gg.gg/HeNeiIPTV-Deng_Zhou_Xin_Wen_Pin_Dao
 #EXTINF:-1  tvg-name="开封1套" group-title="河南省开封市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",开封新闻综合频道
 http://gg.gg/HeNeiIPTV-Kai_Feng_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="开封2套" group-title="河南省开封市广播电视台" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%BC%80%E5%B0%81%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",开封文化旅游频道
