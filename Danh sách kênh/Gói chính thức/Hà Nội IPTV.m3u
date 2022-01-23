@@ -62,74 +62,64 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 http://gg.gg/HaNoiIPTV-VTVCab21-Cartoon_Kids_HD
 #EXTINF:-1  tvg-name="VTVCab22 - LIFE TV HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Love%20Nature%204K%20(VTVCab22%20-%20Life%20TV%20HD).png",VTVCab22 - Life TV HD
 http://gg.gg/HaNoiIPTV-VTVCab22-Life_TV_HD
+#EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO" tvg-id="https://sglive.akamaized.net/bpk-tv/prod_on_sports/default/i.mpd" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports.png",ON Sports
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO HD" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab3/playlist_1080p.m3u8" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports%20HD.png",ON Sports HD
 http://gg.gg/HaNoiIPTV-VTVCab3-ON_Sports_HD
 #EXTINF:-1  tvg-name="ON FOOTBALL - BÓNG ĐÁ HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20ON%20Football%20HD.png",ON Football HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-name="ON FOOTBALL - BÓNG ĐÁ" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.138:8802 và http://gg.gg/HaNoiIPTV-VTVCab16-ON_Football" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20ON%20Football.png",ON Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_on_football/default/i.mpd
+#EXTINF:-1  tvg-name="ON TENNIS - QUẦN VỢT HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Tennis%20HD.png",ON Tennis HD
+http://gg.gg/HaNoiIPTV-ON_Tennis_HD
 #EXTINF:-1  tvg-name="ON SPORTS NEWS Premium - THỂ THAO TIN TỨC HD" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab18/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.193:10942" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab18%20-%20ON%20Sports%20News%20Premium%20HD.png",ON Sports News HD
 http://gg.gg/HaNoiIPTV-VTVCab18-ON_Sports_News_Premium
 #EXTINF:-1  tvg-name="ON GOLF Premium - THỂ THAO GOLF HD" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab23/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.246:10876" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab23%20-%20ON%20Golf%20Premium%20HD.png",ON Golf HD
 http://gg.gg/HaNoiIPTV-VTVCab23-ON_Golf_Premium
 #EXTINF:-1  tvg-name="ON SPORTS+ - THỂ THAO & GIẢI TRÍ HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD
 http://gg.gg/HaNoiIPTV-VTVCab6-On_Sports_Plus_HD
-#EXTINF:-1  tvg-name="K+CINE - PHIM & ĐIỆN ẢNH" tvg-id="http://gg.gg/HaNoiIPTV-K_Plus_Cine_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1  tvg-name="K+CINE - PHIM & THỂ THAO HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-#EXTINF:-1  tvg-name="K+LIFE - NHỊP SỐNG" tvg-id="http://gg.gg/HaNoiIPTV-K_Plus_Life_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIFE%20HD.png",K+LIFE HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+#EXTINF:-1  tvg-name="K+LIFE - GIẢI TRÍ & CUỘC SỐNG HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIFE%20HD.png",K+LIFE HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-#EXTINF:-1  tvg-name="K+SPORT1 - THỂ THAO TỔNG HỢP" tvg-id="http://gg.gg/HaNoiIPTV-K_Plus_Sport_1_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%201%20HD.png",K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
+#EXTINF:-1  tvg-name="K+SPORT1 - THỂ THAO TỔNG HỢP HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%201%20HD.png",K+SPORT1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-#EXTINF:-1  tvg-name="K+SPORT2 - PHÁI MẠNH & PHONG CÁCH" tvg-id="http://gg.gg/HaNoiIPTV-K_Plus_Sport_2_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%202%20HD.png",K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+#EXTINF:-1  tvg-name="K+SPORT2 - DÀNH CHO ĐÀN ÔNG HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%202%20HD.png",K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-#EXTINF:-1  tvg-name="K+KIDS - HOẠT HÌNH & GIẢI TRÍ" tvg-id="http://gg.gg/HaNoiIPTV-K_Plus_Kids_HD" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BKIDS%20HD.png",K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+#EXTINF:-1  tvg-name="K+KIDS - HOẠT HÌNH ĐẶC SẮC HD" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BKIDS%20HD.png",K+KIDS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-#EXTINF:-1  tvg-name="K+LIVE 1 HD" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIVE%201%20HD.png",K+LIVE 1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
-#EXTINF:-1  tvg-name="K+LIVE 2 HD" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIVE%202%20HD.png",K+LIVE 2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
-#EXTINF:-1  tvg-name="K+LIVE 3 HD" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIVE%203%20HD.png",K+LIVE 3 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000019|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #EXTINF:-1  tvg-name="tvN - GIẢI TRÍ HÀNG ĐẦU" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN - GIẢI TRÍ HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_5-tvN_HD
-#EXTINF:-1  tvg-name="tvN SHOW - HÀI HƯỚC & HẤP DẪN" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20Show%20HD.png",tvN SHOW - HÀI HƯỚC & HẤP DẪN
+#EXTINF:-1  tvg-name="tvN SHOW - CHƯƠNG TRÌNH HẤP DẪN" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20Show%20HD.png",tvN SHOW - CHƯƠNG TRÌNH HẤP DẪN
 http://gg.gg/Ha_Noi_IPTV_24-tvN_Show_HD
-#EXTINF:-1  tvg-name="tvN DRAMA - PHIM TRUYỆN & GIẢI TRÍ" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2025%20-%20tvN%20Drama%20HD.png",tvN DRAMA - PHIM & GIẢI TRÍ
+#EXTINF:-1  tvg-name="tvN DRAMA - PHIM ĐẶC SẮC" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2025%20-%20tvN%20Drama%20HD.png",tvN DRAMA - PHIM ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_25-tvN_Drama_HD
+#EXTINF:-1  tvg-name="tvN STORY - SỰ KIỆN TỔNG HỢP" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2025%20-%20tvN%20Drama%20HD.png",tvN STORY - SỰ KIỆN TỔNG HỢP
+http://gg.gg/Ha_Noi_IPTV_21-tvN_STORY_HD
 #EXTINF:-1  tvg-name="MNet - ÂM NHẠC CHUYÊN BIỆT" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD.png",MNet - ÂM NHẠC CHUYÊN BIỆT
 http://gg.gg/Ha_Noi_IPTV_6-MNet_HD
 #EXTINF:-1  tvg-name="SCTV18 HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV18.png",SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="THP+ - THÔNG TIN & GIẢI TRÍ" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B.png",THP+ - THÔNG TIN & GIẢI TRÍ
-https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1  tvg-name="VTC3 HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="39" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
 http://gg.gg/HaNoiIPTV-VTC3_HD
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
 #EXTINF:-1  tvg-name="SCTV17 - THỂ THAO & CUỘC SỐNG HD" tvg-id="http://gg.gg/HaNoiIPTV-SCTV17_HD" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-name="THP+ - THÔNG TIN & GIẢI TRÍ" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B.png",THP+ - THÔNG TIN & GIẢI TRÍ
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1  tvg-name="VTC7 - TODAY TV HD" tvg-id="https://live2cdn.todayplus.com.vn/hdb/smil:vtc7.smil/chunklist.m3u8" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7%20-%20Today%20TV%20HD.png" tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC7 Today TV HD
 http://gg.gg/HaNoiIPTV-VTC7-Today_TV_HD
 #EXTINF:-1  tvg-name="SCTV4 HD" tvg-id="http://gg.gg/HaNoiIPTV-SCTV4_HD/" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
@@ -264,8 +254,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://s
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="YouTV - Hanoicab 2" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YouTV%20-%20Hanoicab%202.png",YouTV - Hanoicab 2
 http://gg.gg/HaNoiIPTV-YouTV-Hanoicab_2
-#EXTINF:-1  tvg-name="BTV10 - NCM" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV10%20-%20NCM.png",BTV10 - NCM
-http://gg.gg/HaNoiIPTV-BTV10-NCM
 #EXTINF:-1  tvg-name="HTV1" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV1.png",HTV1
 http://gg.gg/HaNoiIPTV-HTV1
 #EXTINF:-1  tvg-name="HTV4" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV4.png",HTV4
@@ -440,8 +428,6 @@ http://gg.gg/HaNoiIPTV-THTV-Truyen_hinh_Tra_Vinh_HD
 http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
 #EXTINF:-1  tvg-name="STV1 - TH SÓC TRĂNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%20HD.png",STV1 - Truyền hình Sóc Trăng HD
 http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_HD
-#EXTINF:-1  tvg-name="ON TENNIS HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Tennis%20HD.png",ON Tennis HD • KÊNH THỬ NGHIỆM
-http://gg.gg/HaNoiIPTV-ON_Tennis_HD
 #EXTINF:-1  tvg-name="ON ACTION SPORTS PREMIUM HD • KÊNH THỬ NGHIỆM" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%C3%AAnh%20th%E1%BB%AD%20nghi%E1%BB%87m%20%E2%80%A2%20ON%20Action%20Sports%20Premium%20HD.png",ON Action Sports HD • KÊNH THỬ NGHIỆM
 http://gg.gg/HaNoiIPTV-ON_Action_Sports_HD
 #EXTINF:-1  tvg-name="STV2 - TH SÓC TRĂNG 2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C3%B3c%20Tr%C4%83ng%202%20HD.png",STV2 - Truyền hình Sóc Trăng 2 HD
@@ -546,13 +532,6 @@ http://gg.gg/HaNoiIPTV-BBC_Earth_HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1  tvg-name="ON CINE - THẾ GIỚI PHIM" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine.png",ON Cine
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="ON SPORTS - THỂ THAO" tvg-id="https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab3%20-%20ON%20Sports.png",ON Sports
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="ON FOOTBALL - BÓNG ĐÁ" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.138:8802 và http://gg.gg/HaNoiIPTV-VTVCab16-ON_Football" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab16%20-%20ON%20Football.png",ON Football
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
-https://kpluslive.akamaized.net/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
 #EXTINF:-1  tvg-name="ON SPORTS+ - THỂ THAO & GIẢI TRÍ" tvg-id="https://livetdcdn.vtvcab.vn/5cf749cb1d62773e00bbf8ad/5cf0b4e9b492e63e299f2936/1080p/playlist.m3u8 và https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd" group-title="KÊNH ĐẶC SẮC CỦA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B.png",On Sports+
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="HÀ NỘI & CẢ NƯỚC" group-title="KÊNH GIỚI THIỆU" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/H%C3%A0%20N%E1%BB%99i%20v%C3%A0%20c%E1%BA%A3%20n%C6%B0%E1%BB%9Bc.png",Hà Nội & Cả nước
