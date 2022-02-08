@@ -710,8 +710,8 @@ http://gg.gg/HaNoiIPTVPlus-TNTV-Phat_thanh_Thai_Nguyen
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lai_Chau
 #EXTINF:-1  tvg-name="STV - PT SƠN LA" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - Phát thanh Sơn La
 http://gg.gg/HaNoiIPTVPlus-STV-Phat_thanh_Son_La
-#EXTINF:-1  tvg-name="HDTV - TH HẢI DƯƠNG" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",HDTV - Truyền hình Hải Dương
-http://gg.gg/HaNoiIPTVPlus-HDTV-Truyen_hinh_Hai_Duong
+#EXTINF:-1  tvg-name="HDTV - PT HẢI DƯƠNG" tvg-id="http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",HDTV - Phát thanh Hải Dương
+http://gg.gg/HaNoiIPTVPlus-HDTV-Phat_thanh_Hai_Duong
 #EXTINF:-1  tvg-name="BTV6 - DÀNH CHO GIỚI TRẺ" group-title="NHÌN RA HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV6.png",BTV6 - Dành cho giới trẻ
 http://gg.gg/HaNoiIPTV-BTV6-Kenh_Danh_cho_Gioi_tre
 #EXTINF:-1  tvg-name="THTG - PT TIỀN GIANG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ti%E1%BB%81n%20Giang.png",THTG - Phát thanh Tiền Giang
