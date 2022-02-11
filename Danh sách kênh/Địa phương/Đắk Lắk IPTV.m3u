@@ -1,0 +1,8 @@
+﻿#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=4
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
+
+#EXTINF:-1  tvg-name="VTV4 SD" tvg-id="http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20SD.png",VTV4 SD
+https://sglive.akamaized.net/bpk-tv/prod_vtv4/default/i.mpd
