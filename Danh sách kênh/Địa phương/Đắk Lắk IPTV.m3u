@@ -4,5 +4,31 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 m3uautoload=4
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
 
-#EXTINF:-1  tvg-name="VTV4 SD" tvg-id="http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20SD.png",VTV4 SD
+#EXTINF:-1  tvg-name="VTV4 SD" tvg-id="http://vn.tvnet.gov.vn/kenh-truyen-hinh/1009/vtv4" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4.png",VTV4 SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
 https://sglive.akamaized.net/bpk-tv/prod_vtv4/default/i.mpd
+#EXTINF:-1  tvg-name="VTV5 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD.png" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
+http://gg.gg/HaNoiIPTV-VTV5_HD
+#EXTINF:-1  tvg-name="VTV7 SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7.png",VTV7 SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
+https://sglive.akamaized.net/bpk-tv/prod_vtv7/default/i.mpd
+#EXTINF:-1  tvg-name="VTV8 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
+http://gg.gg/HaNoiIPTV-VTV8_HD
+#EXTINF:-1  tvg-name="VTV1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+http://gg.gg/HaNoiIPTV-VTV1_HD
+#EXTINF:-1  tvg-name="VTV2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
+http://gg.gg/HaNoiIPTV-VTV2_HD
+#EXTINF:-1  tvg-name="VTV3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
+http://gg.gg/HaNoiIPTV-VTV3_HD
+#EXTINF:-1  tvg-name="VTV6 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
+http://gg.gg/HaNoiIPTV-VTV6_HD
+#EXTINF:-1  tvg-name="VTV9 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
+http://gg.gg/HaNoiIPTV-VTV9_HD
+#EXTINF:-1  tvg-name="DRT - TH ĐẮK LẮK HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk%20HD.png",DRT - Truyền hình Đắk Lắk HD
+http://gg.gg/HaNoiIPTV-DRT-Truyen_hinh_Dak_Lak_HD
+#EXTINF:-1  tvg-name="VTV8 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
+http://gg.gg/HaNoiIPTV-VTV8_HD
+#EXTINF:-1  tvg-name="VTV5 TÂY NGUYÊN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nguy%C3%AAn.png",VTV5 Tây Nguyên
+http://gg.gg/HaNoiIPTV-VTV5_Tay_Nguyen
