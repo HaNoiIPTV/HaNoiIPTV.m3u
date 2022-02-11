@@ -16,7 +16,6 @@ http://gg.gg/HaNoiIPTV-HTV9_HD
 http://gg.gg/HaNoiIPTV-VTC7-Today_TV_HD
 #EXTINF:-1  tvg-name="VTV6 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
 http://gg.gg/HaNoiIPTV-VTV6_HD
-
 #EXTINF:-1  tvg-name="VTV1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:-1  tvg-name="SCTV2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV2%20HD.png",SCTV2 HD
@@ -181,8 +180,8 @@ http://gg.gg/HaNoiIPTV-THP-Truyen_hinh_Hai_Phong_HD
 http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
 #EXTINF:-1  tvg-name="ĐN9 - SKYshop TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90NRTV9%20-%20Sky%20Shop%20TV.png",ĐN9 - SKYshop TV
 http://gg.gg/HaNoiIPTV-DN9-Sky_Shop_TV
-#EXTINF:-1  tvg-name="VTVCab11 - VGS SHOP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab11%20-%20VGS%20SHOP.png",VTVCab11 - VGS SHOP
-http://gg.gg/HaNoiIPTV-VTVCab11-VGS_SHOP
+#EXTINF:-1  tvg-name="HTVC SHOPPING" tvg-logo=" ",HTVC Shopping
+http://gg.gg/HaNoiIPTV-HTVC_Shopping
 #EXTINF:-1  tvg-name="TH VĨNH LONG 2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",Truyền hình Vĩnh Long 2 HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_2_HD
 #EXTINF:-1  tvg-name="TH VĨNH LONG 3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%203%20HD.png",Truyền hình Vĩnh Long 3 HD
