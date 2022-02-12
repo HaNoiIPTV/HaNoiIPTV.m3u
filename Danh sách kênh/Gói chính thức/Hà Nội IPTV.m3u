@@ -348,6 +348,8 @@ http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nam_Dinh_HD
 http://gg.gg/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD
 #EXTINF:-1  tvg-name="HBTV - TH HÒA BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD.png",HBTV - Truyền hình Hòa Bình HD
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD%20(B%E1%BA%A3n%202).png",THHN - Truyền hình Hà Nam HD
+https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="LTV - TH LAI CHÂU HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u%20HD.png",LTV - Truyền hình Lai Châu HD
 http://gg.gg/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
 #EXTINF:-1  tvg-name="ĐTV - TH ĐIỆN BIÊN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90TV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20HD.png",ĐTV - Truyền hình Điện Biên HD
@@ -424,8 +426,6 @@ http://gg.gg/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD
 http://gg.gg/HaNoiIPTV-THDT1-Truyen_hinh_Dong_Thap_HD
 #EXTINF:-1  tvg-name="THTG - TH TIỀN GIANG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ti%E1%BB%81n%20Giang%20HD.png",THTG - Truyền hình Tiền Giang HD
 http://gg.gg/HaNoiIPTV-THTG-Truyen_hinh_Tien_Giang_HD
-#EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD.png",THHN - Truyền hình Hà Nam HD
-https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="THBT - TH BẾN TRE" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%BFn%20Tre.png",THBT - Truyền hình Bến Tre
 http://gg.gg/HaNoiIPTV-THBT-Truyen_hinh_Ben_Tre
 #EXTINF:-1  tvg-name="ATV - TH AN GIANG" tvg-id="http://221.133.9.35:1935/live/1.stream_360p/chunklist_w1915837796.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang.png",ATV - Truyền hình An Giang
