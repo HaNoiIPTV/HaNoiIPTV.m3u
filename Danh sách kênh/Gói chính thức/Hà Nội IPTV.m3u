@@ -16,9 +16,9 @@ http://gg.gg/HaNoiIPTV-VTV2_HD
 http://gg.gg/HaNoiIPTV-VTV3_HD
 #EXTINF:-1  tvg-name="VTV4 HD" tvg-id="https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 http://gg.gg/HaNoiIPTV-VTV4_HD
-#EXTINF:-1  tvg-name="VTV5 HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
+#EXTINF:-1  tvg-name="VTV5 HD" tvg-id="http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 http://gg.gg/HaNoiIPTV-VTV5_HD
-#EXTINF:-1  tvg-name="VTV6 HD" tvg-id="https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
+#EXTINF:-1  tvg-name="VTV6 HD" tvg-id="http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV6%20HD.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
 http://gg.gg/HaNoiIPTV-VTV6_HD
 #EXTINF:-1  tvg-name="VTV7 HD" tvg-id="https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
 http://gg.gg/HaNoiIPTV-VTV7_HD
@@ -72,7 +72,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
 https://sglive.akamaized.net/bpk-tv/prod_on_football/default/i.mpd
-#EXTINF:-1  tvg-name="ON E.Sports HD • THỂ THAO GAME" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20E.Sports%20HD.png",ON E.Sports HD
+#EXTINF:-1  tvg-name="ON E.Sports HD • THỂ THAO ĐIỆN TỬ" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20E.Sports%20HD.png",ON E.Sports HD
 
 #EXTINF:-1  tvg-name="ON Sports News HD • THỂ THAO TIN TỨC" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab18/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.193:10942" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab18%20-%20ON%20Sports%20News%20Premium%20HD.png",ON Sports News HD
 http://gg.gg/HaNoiIPTV-VTVCab18-ON_Sports_News_Premium
@@ -96,7 +96,6 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
 https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
 #EXTINF:-1  tvg-name="tvN HD • GIẢI TRÍ HÀNG ĐẦU" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_5-tvN_HD
 #EXTINF:-1  tvg-name="tvN SHOW HD • CHƯƠNG TRÌNH HẤP DẪN" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20Show%20HD.png",tvN SHOW • CHƯƠNG TRÌNH HẤP DẪN
