@@ -684,8 +684,14 @@ http://gg.gg/HaNoiIPTVPlus-THP-Phat_thanh_Hai_Phong
 http://gg.gg/HaNoiIPTVPlus-Phat_thanh_Nghe_An
 #EXTINF:-1  tvg-name="BTV - PT BẮC NINH" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%E1%BA%AFc%20Ninh.png",BTV - Phát thanh Bắc Ninh
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Bac_Ninh
-#EXTINF:-1  tvg-name="HDTV - PT HẢI DƯƠNG" tvg-id="http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",HDTV - Phát thanh Hải Dương
+#EXTINF:-1  tvg-name="HYTV - PT HƯNG YÊN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Ph%C3%A1t%20thanh%20H%C6%B0ng%20Y%C3%AAn.png",HYTV - Phát thanh Hưng Yên
+http://gg.gg/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
+#EXTINF:-1  tvg-name="HDTV - PT HẢI DƯƠNG" tvg-id="http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Ph%C3%A1t%20thanh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",HDTV - Phát thanh Hải Dương
 http://gg.gg/HaNoiIPTVPlus-HDTV-Phat_thanh_Hai_Duong
+#EXTINF:-1  tvg-name="TBTV - PT THÁI BÌNH" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20B%C3%ACnh.png",TBTV - Phát thanh Thái Bình
+http://gg.gg/HaNoiIPTVPlus-TBTV-Phat_thanh_Thai_Binh
+#EXTINF:-1  tvg-name="NBTV - PT NINH BÌNH" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Ph%C3%A1t%20thanh%20Ninh%20B%C3%ACnh.png",NBTV - Phát thanh Ninh Bình
+http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  tvg-name="THHN - PT HÀ NAM" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Ph%C3%A1t%20thanh%20H%C3%A0%20Nam.png",THHN - Phát thanh Hà Nam
 https://mediatech.vncdn.vn/thhnlive/radio.m3u8
 #EXTINF:-1  tvg-name="LTV - PT LAI CHÂU" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Ph%C3%A1t%20thanh%20Lai%20Ch%C3%A2u.png",LTV - Phát thanh Lai Châu
