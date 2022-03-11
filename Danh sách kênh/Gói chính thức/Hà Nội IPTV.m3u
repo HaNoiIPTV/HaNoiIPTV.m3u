@@ -63,7 +63,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 #EXTINF:-1  tvg-name="ON Life HD • KHOA GIÁO" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab22%20-%20ON%20Life%20HD.png",ON Life HD
 
 #EXTINF:-1  tvg-name="ON Sports HD • THỂ THAO" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab3-hd/playlist_1080p.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
-http://gg.gg/HaNoiIPTV-VTVCab3-ON_Sports_HD
+http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1  tvg-name="ON Sports • THỂ THAO" tvg-id="https://sglive.akamaized.net/bpk-tv/prod_on_sports/default/i.mpd" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports.png",ON Sports
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Football HD • BÓNG ĐÁ" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
@@ -75,9 +75,9 @@ https://sglive.akamaized.net/bpk-tv/prod_on_football/default/i.mpd
 #EXTINF:-1  tvg-name="ON E.Sports HD • THỂ THAO ĐIỆN TỬ" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20E.Sports%20HD.png",ON E.Sports HD
 
 #EXTINF:-1  tvg-name="ON Sports News HD • THỂ THAO TIN TỨC" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab18/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.193:10942" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20Premium%20HD.png",ON Sports News HD
-http://gg.gg/HaNoiIPTV-VTVCab18-ON_Sports_News_Premium
+http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
 #EXTINF:-1  tvg-name="ON Golf HD • THỂ THAO GOLF" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab23/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.246:10876" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20Premium%20HD.png",ON Golf HD
-http://gg.gg/HaNoiIPTV-VTVCab23-ON_Golf_Premium
+http://gg.gg/HaNoiIPTV-ON_Golf_HD
 #EXTINF:-1  tvg-name="On Sports+ HD • THỂ THAO & GIẢI TRÍ" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD
 http://gg.gg/HaNoiIPTV-VTVCab6-On_Sports_Plus_HD
 #EXTINF:-1  tvg-name="K+CINE HD • PHIM & THỂ THAO" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
