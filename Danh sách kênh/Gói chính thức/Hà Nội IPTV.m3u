@@ -67,7 +67,7 @@ http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1  tvg-name="ON Sports • THỂ THAO" tvg-id="https://sglive.akamaized.net/bpk-tv/prod_on_sports/default/i.mpd" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports.png",ON Sports
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Football HD • BÓNG ĐÁ" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/index.m3u8|Referer=http://sctvonline.vn/
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Football • BÓNG ĐÁ" tvg-id="http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.1.138:8802" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
