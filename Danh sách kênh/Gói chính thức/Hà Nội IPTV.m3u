@@ -344,7 +344,7 @@ http://gg.gg/HaNoiIPTV-TBTV-Truyen_hinh_Thai_Binh_HD
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nam_Dinh_HD
 #EXTINF:-1  tvg-name="NBTV - TH NINH BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD.png",NBTV - Truyền hình Ninh Bình HD
 http://gg.gg/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD
-#EXTINF:-1  tvg-name="HBTV - TH HÒA BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD.png",HBTV - Truyền hình Hòa Bình HD
+#EXTINF:-1  tvg-name="HBTV - TH HÒA BÌNH HD" tvg-id="http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD.png",HBTV - Truyền hình Hòa Bình HD
 http://gg.gg/HaNoiIPTV-HBTV-Truyen_hinh_Hoa_Binh_HD
 #EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD.png",THHN - Truyền hình Hà Nam HD
 https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
@@ -376,7 +376,7 @@ http://gg.gg/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD
 http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Tuyen_Quang_HD
 #EXTINF:-1  tvg-name="HTTV - TH HÀ TĨNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",HTTV - Truyền hình Hà Tĩnh HD
 https://hatinhtv.vn/hls/httv.m3u8
-#EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" tvg-id="http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - Truyền hình Quảng Bình HD
+#EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - Truyền hình Quảng Bình HD
 http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD
 #EXTINF:-1  tvg-name="TRT - TH THỪA THIÊN HUẾ" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",TRT - Truyền hình Thừa Thiên Huế
 http://gg.gg/HaNoiIPTV-TRT-Truyen_hinh_Thua_Thien_Hue
@@ -428,8 +428,8 @@ http://gg.gg/HaNoiIPTV-THDT1-Truyen_hinh_Dong_Thap_HD
 http://gg.gg/HaNoiIPTV-THTG-Truyen_hinh_Tien_Giang_HD
 #EXTINF:-1  tvg-name="THBT - TH BẾN TRE" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%BFn%20Tre.png",THBT - Truyền hình Bến Tre
 http://gg.gg/HaNoiIPTV-THBT-Truyen_hinh_Ben_Tre
-#EXTINF:-1  tvg-name="ATV - TH AN GIANG" tvg-id="http://221.133.9.35:1935/live/1.stream_360p/chunklist_w1915837796.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang.png",ATV - Truyền hình An Giang
-http://gg.gg/HaNoiIPTV-ATV-Truyen_hinh_An_Giang
+#EXTINF:-1  tvg-name="ATV - TH AN GIANG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ATV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang%20HD.png",ATV - Truyền hình An Giang HD
+http://gg.gg/HaNoiIPTV-ATV-Truyen_hinh_An_Giang_HD
 #EXTINF:-1  tvg-name="THTPCT - TH CẦN THƠ HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTPCT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A0nh%20ph%E1%BB%91%20C%E1%BA%A7n%20Th%C6%A1%20HD.png",THTPCT - Truyền hình Cần Thơ HD
 http://gg.gg/HaNoiIPTV-THTPCT-Truyen_hinh_Thanh_pho_Can_Tho_HD
 #EXTINF:-1  tvg-name="THTV - TH TRÀ VINH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh%20HD.png",THTV - Truyền hình Trà Vinh HD
