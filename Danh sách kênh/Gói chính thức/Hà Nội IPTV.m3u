@@ -78,8 +78,8 @@ https://sglive.akamaized.net/bpk-tv/prod_on_football/default/i.mpd
 http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
 #EXTINF:-1  tvg-name="ON Golf HD • THỂ THAO GOLF" tvg-id="https://r5yqppqecmliv.vcdn.cloud/manifest/vtvcab23/playlist_1080p.m3u8 và http://xxxx.xxxx.xxxx.xxxx:xxxx/rtp/232.84.2.246:10876" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png",ON Golf HD
 http://gg.gg/HaNoiIPTV-ON_Golf_HD
-#EXTINF:-1  tvg-name="On Sports+ HD • THỂ THAO & GIẢI TRÍ" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD
-http://gg.gg/HaNoiIPTV-VTVCab6-On_Sports_Plus_HD
+#EXTINF:-1  tvg-name="On Sports+ HD tường thuật" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ tường thuật HD
+http://gg.gg/HaNoiIPTV-On_Sports_Plus_HD
 #EXTINF:-1  tvg-name="K+CINE HD • PHIM & THỂ THAO" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
@@ -386,7 +386,7 @@ http://gg.gg/HaNoiIPTV-DRT1-Truyen_hinh_Da_Nang_1_HD
 http://gg.gg/HaNoiIPTV-DRT2_Truyen_hinh_Da_Nang_2_HD
 #EXTINF:-1  tvg-name="QRT - TH QUẢNG NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Nam%20HD.png",QRT - Truyền hình Quảng Nam HD
 http://gg.gg/HaNoiIPTV-QRT-Truyen_hinh_Quang_Nam_HD
-#EXTINF:-1  tvg-name="PTQ - TH QUẢNG NGÃI HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",PTQ - Truyền hình Quảng Ngãi HD
+#EXTINF:-1  tvg-name="PTQ - TH QUẢNG NGÃI HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i%20HD.png",PTQ - Truyền hình Quảng Ngãi HD
 http://gg.gg/HaNoiIPTV-PTQ-Truyen_hinh_Quang_Ngai_HD
 #EXTINF:-1  tvg-name="BTV - TH BÌNH ĐỊNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20HD.png",BTV - Truyền hình Bình Định HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Binh_Dinh_HD
