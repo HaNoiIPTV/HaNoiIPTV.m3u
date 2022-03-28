@@ -391,7 +391,7 @@ http://gg.gg/HaNoiIPTV-DRT1-Truyen_hinh_Da_Nang_1_HD
 http://gg.gg/HaNoiIPTV-DRT2_Truyen_hinh_Da_Nang_2_HD
 #EXTINF:-1  tvg-name="QRT - TH QUẢNG NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Nam%20HD.png",QRT - Truyền hình Quảng Nam HD
 http://gg.gg/HaNoiIPTV-QRT-Truyen_hinh_Quang_Nam_HD
-#EXTINF:-1  tvg-name="PTQ - TH QUẢNG NGÃI HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i%20HD.png",PTQ - Truyền hình Quảng Ngãi HD
+#EXTINF:-1  tvg-name="PTQ - TH QUẢNG NGÃI" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",PTQ - Truyền hình Quảng Ngãi
 http://gg.gg/HaNoiIPTV-PTQ-Truyen_hinh_Quang_Ngai_HD
 #EXTINF:-1  tvg-name="BTV - TH BÌNH ĐỊNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh%20HD.png",BTV - Truyền hình Bình Định HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Binh_Dinh_HD
@@ -705,16 +705,50 @@ http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 https://mediatech.vncdn.vn/thhnlive/radio.m3u8
 #EXTINF:-1  tvg-name="LTV - PT LAI CHÂU" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Ph%C3%A1t%20thanh%20Lai%20Ch%C3%A2u.png",LTV - Phát thanh Lai Châu
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lai_Chau
+#EXTINF:-1  tvg-name="YTV - PT YÊN BÁI" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Ph%C3%A1t%20thanh%20Y%C3%AAn%20B%C3%A1i.png",YTV - Phát thanh Yên Bái
+https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+#EXTINF:-1  tvg-name="HGTV - PT HÀ GIANG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - Phát thanh Hà Giang
+http://gg.gg/HaNoiIPTVPlus-HGTV-Phat_thanh_Ha_Giang
+#EXTINF:-1  tvg-name="TBK - PT BẮC KẠN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Ph%C3%A1t%20thanh%20B%E1%BA%AFc%20K%E1%BA%A1n.png",TBK - Phát thanh Bắc Kạn
+http://113.160.162.131:8080/hls/radio.m3u8
+#EXTINF:-1  tvg-name="LSTV - PT LẠNG SƠN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Ph%C3%A1t%20thanh%20L%E1%BA%A1ng%20S%C6%A1n.png",LSTV - Phát thanh Lạng Sơn
+http://gg.gg/HaNoiIPTVPlus-LSTV-Phat_thanh_Lang_Son
 #EXTINF:-1  tvg-name="TNTV - PT THÁI NGUYÊN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",TNTV - Phát thanh Thái Nguyên
 http://gg.gg/HaNoiIPTVPlus-TNTV-Phat_thanh_Thai_Nguyen
 #EXTINF:-1  tvg-name="STV - PT SƠN LA" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Ph%C3%A1t%20thanh%20S%C6%A1n%20La.png",STV - Phát thanh Sơn La
 http://gg.gg/HaNoiIPTVPlus-STV-Phat_thanh_Son_La
 #EXTINF:-1  tvg-name="TTV - PT TUYÊN QUANG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Ph%C3%A1t%20thanh%20Tuy%C3%AAn%20Quang.png",TTV - Phát thanh Tuyên Quang
 http://gg.gg/HaNoiIPTVPlus-TTV-Phat_thanh_Tuyen_Quang
+#EXTINF:-1  tvg-name="HTTV - PT HÀ TĨNH" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Ph%C3%A1t%20thanh%20H%C3%A0%20T%C4%A9nh.png",HTTV - Phát thanh Hà Tĩnh
+https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
+#EXTINF:-1  tvg-name="TRT - PT THỪA THIÊN HUẾ" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",TRT - Phát thanh Thừa Thiên Huế
+http://gg.gg/HaNoiIPTVPlus-TRT-Phat_thanh_Thua_Thien_Hue
+#EXTINF:-1  tvg-name="QRT - PT QUẢNG NAM" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Ph%C3%A1t%20thanh%20Qu%E1%BA%A3ng%20Nam.png",QRT - Phát thanh Quảng Nam
+http://gg.gg/HaNoiIPTVPlus-QRT-Phat_thanh_Quang_Nam
+#EXTINF:-1  tvg-name="PTQ - PT QUẢNG NGÃI" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Ph%C3%A1t%20thanh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",PTQ - Phát thanh Quảng Ngãi
+http://gg.gg/HaNoiIPTVPlus-PTQ-Phat_thanh_Quang_Ngai
+#EXTINF:-1  tvg-name="KTV - PT KHÁNH HÒA" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a%20HD.png",KTV - Phát thanh Khánh Hòa
+http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1  tvg-name="NTV - PT NINH THUẬN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Ph%C3%A1t%20thanh%20Ninh%20Thu%E1%BA%ADn.png",NTV - Phát thanh Ninh Thuận
+http://gg.gg/HaNoiIPTVPlus-NTV-Phat_thanh_Ninh_Thuan
 #EXTINF:-1  tvg-name="BTV - PT BÌNH THUẬN" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%C3%ACnh%20Thu%E1%BA%ADn.png",BTV - Phát thanh Bình Thuận
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Thuan
+#EXTINF:-1  tvg-name="KRT - PT KON TUM" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",KRT - Phát thanh Kon Tum
+http://gg.gg/HaNoiIPTVPlus-KRT-Phat_thanh_Kon_Tum
+#EXTINF:-1  tvg-name="THGL - PT GIA LAI" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THGL%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Gia%20Lai.png",THGL - Phát thanh Gia Lai
+http://113.161.25.3:8134/hls/radio/radio.m3u8
+#EXTINF:-1  tvg-name="LTV - PT LÂM ĐỒNG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",LTV - Phát thanh Lâm Đồng
+http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lam_Dong
+#EXTINF:-1  tvg-name="CTV - PT CÀ MAU" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau%20HD.png",CTV - Phát tHanh Cà Mau
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1  tvg-name="BTV - PT BÌNH DƯƠNG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png",BTV - Phát thanh Bình Dương
+http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong
+#EXTINF:-1  tvg-name="ĐNRTV - PT ĐỒNG NAI" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201%20HD.png",ĐNRTV - Phát thanh Đồng Nai
+http://gg.gg/HaNoiIPTVPlus-DNRTV-Phat_thanh_Dong_Nai
 #EXTINF:-1  tvg-name="BRT - PT BÀ RỊA VŨNG TÀU" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Ph%C3%A1t%20thanh%20B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u.png",BRT - Phát thanh Bà Rịa Vũng Tàu
 http://gg.gg/HaNoiIPTVPlus-BRT-Phat_thanh_Ba_Ria_Vung_Tau
+#EXTINF:-1  tvg-name="THĐT - PT ĐỒNG THÁP" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T%20-%20Ph%C3%A1t%20thanh%20%C4%90%E1%BB%93ng%20Th%C3%A1p.png",THĐT - Phát thanh Đồng Tháp
+http://gg.gg/HaNoiIPTVPlus-THDT-Phat_thanh_Dong_Thap
 #EXTINF:-1  tvg-name="THTG - PT TIỀN GIANG" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Ph%C3%A1t%20thanh%20Ti%E1%BB%81n%20Giang.png",THTG - Phát thanh Tiền Giang
 http://gg.gg/HaNoiIPTVPlus-THTG-Phat_thanh_Tien_Giang
 #EXTINF:-1  tvg-name="THBT - PT BẾN TRE" group-title="KÊNH PHÁT THANH" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Ph%C3%A1t%20thanh%20B%E1%BA%BFn%20Tre.png",THBT - Phát thanh Bến Tre
