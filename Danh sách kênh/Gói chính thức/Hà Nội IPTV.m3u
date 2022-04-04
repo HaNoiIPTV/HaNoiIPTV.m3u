@@ -102,13 +102,13 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:L412WykJlFjyyUt6gCwdFQMT-QEZrDFUkPvGHPzPF-8%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ4MzcyMTc3NDkyLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 #EXTINF:-1  tvg-name="tvN • GIẢI TRÍ HÀNG ĐẦU" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN • GIẢI TRÍ HÀNG ĐẦU
-http://gg.gg/Ha_Noi_IPTV_5-tvN_HD-Giai_tri_Hang_dau
+http://gg.gg/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 #EXTINF:-1  tvg-name="tvN SHOW • CHƯƠNG TRÌNH HẤP DẪN" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20Show%20HD.png",tvN SHOW • CHƯƠNG TRÌNH HẤP DẪN
-http://gg.gg/Ha_Noi_IPTV_24-tvN_Show_HD-Chuong_trinh_Hap_dan
+http://gg.gg/Ha_Noi_IPTV_24-tvN_Show-Chuong_trinh_Hap_dan
 #EXTINF:-1  tvg-name="tvN DRAMA • PHIM & GIẢI TRÍ" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2025%20-%20tvN%20Drama%20HD.png",tvN DRAMA • PHIM & GIẢI TRÍ
-http://gg.gg/Ha_Noi_IPTV_25-tvN_Drama_HD-Phim_va_Giai_tri
+http://gg.gg/Ha_Noi_IPTV_25-tvN_Drama-Phim_va_Giai_tri
 #EXTINF:-1  tvg-name="MNet • ÂM NHẠC CHUYÊN BIỆT" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD.png",MNet • ÂM NHẠC CHUYÊN BIỆT
-http://gg.gg/Ha_Noi_IPTV_6-MNet_HD-Am_nhac_Chuyen_biet
+http://gg.gg/Ha_Noi_IPTV_6-MNet-Am_nhac_Chuyen_biet
 #EXTINF:-1  tvg-name="东方卫视高清 - TH THƯỢNG HẢI HD" tvg-id="http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227688/index.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视高清 - TH Thượng Hải HD
 http://gg.gg/HaNoiIPTV-Dong_Fang_Wei_Shi_HD
 #EXTINF:-1  tvg-name="SCTV18 HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV18.png",SCTV18 HD
@@ -301,7 +301,7 @@ http://gg.gg/Truyen_hinh_Ha_Noi_4-Yonhap_News_TV_HD
 http://gg.gg/Ha_Noi_nhung_goc_nhin
 #EXTINF:-1  tvg-name="ARIRANG" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arirang.png",Arirang
 http://gg.gg/HaNoiIPTV-Arirang
-#EXTINF:-1  tvg-name="Первый Канал HD" tvg-id="http://gg.gg/HaNoiIPTV-OPT1-Pervyi_Kanal_HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
+#EXTINF:-1  tvg-name="Первый Канал HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:-1  tvg-name="NHK WORLD JAPAN HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK World
 http://gg.gg/HaNoiIPTV-NHK_World_Japan_HD
@@ -587,32 +587,30 @@ http://gg.gg/Ha_Noi_IPTV_18-OCN_Movies_HD
 http://gg.gg/Ha_Noi_IPTV_19-OCN_Thrills_HD
 #EXTINF:-1  tvg-name="KBS1 HD • TỔNG HỢP QUỐC GIA" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%204K.png",KBS1 HD • TỔNG HỢP QUỐC GIA
 http://gg.gg/Truyen_hinh_Ha_Noi_4K
-#EXTINF:-1  tvg-name="OBS HD • TRUYỀN HÌNH GYEONG-IN" tvg-id="http://132.145.83.248:9981/stream/channel/52623c275f4f6e35c9585918dd7017e3" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%204%20-%20OBS%20HD.png",OBS HD • TRUYỀN HÌNH GYEONG-IN
+#EXTINF:-1  tvg-name="OBS • TRUYỀN HÌNH GYEONG-IN" tvg-id="http://221.167.205.241:9981/stream/channelid/61" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%204%20-%20OBS%20HD.png",OBS • TRUYỀN HÌNH GYEONG-IN
 http://gg.gg/Ha_Noi_IPTV_4-OBS_HD
-#EXTINF:-1  tvg-name="YTN2 HD • TIN TỨC & CUỘC SỐNG" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202+%20-%20YTN2%20HD.png",YTN2 HD • TIN TỨC & CUỘC SỐNG
-http://gg.gg/Ha_Noi_IPTV_2_Plus-YTN2_HD
-#EXTINF:-1  tvg-name="JTBC HD • ĐẶC SẮC DÀNH CHO GIỚI TRẺ" tvg-id="http://132.145.83.248:9981/stream/channel/e83a6602005543d5a98b2532978d63cd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%207%20-%20JTBC%20HD.png",JTBC HD • ĐẶC SẮC DÀNH CHO GIỚI TRẺ
-http://gg.gg/Ha_Noi_IPTV_7-JTBC_HD
-#EXTINF:-1  tvg-name="MBN HD • THIẾT YẾU ĐẶC SẮC" tvg-id="http://132.145.83.248:9981/stream/channel/1c610e8070d8402050b5e9bbb2f94403" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2011%20-%20MBN%20HD.png",MBN HD • THIẾT YẾU ĐẶC SẮC
-http://gg.gg/Ha_Noi_IPTV_11-MBN_HD
-#EXTINF:-1  tvg-name="TV CHOSUN HD • ĐẶC SẮC DÀNH CHO GIA ĐÌNH" tvg-id="http://132.145.83.248:9981/stream/channel/3b0054f7377424e2f606f019bacafb90" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2013%20-%20TV%20Chosun%20HD.png",TV CHOSUN HD • GIẢI TRÍ DÀNH CHO GIA ĐÌNH 
-http://gg.gg/Ha_Noi_IPTV_13-TV_Chosun_HD
-#EXTINF:-1  tvg-name="CHANNEL A HD • TH BÁO ĐÔNG Á" tvg-id="http://132.145.83.248:9981/stream/channel/c24f7551a2281ff35763eb73544b2ae4" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2015%20-%20Channel%20A%20HD.png",CHANNEL A HD • TH BÁO ĐÔNG Á
-http://gg.gg/Ha_Noi_IPTV_15-Channel_A_HD
-#EXTINF:-1  tvg-name="JTBC2 HD • PHIM DÀNH CHO GIỚI TRẺ" tvg-id="http://132.145.83.248:9981/stream/channel/372e5536e249774f43bc368f4e62fd8f" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%208%20-%20JTBC2%20HD.png",JTBC2 HD • PHIM DÀNH CHO GIỚI TRẺ
-http://gg.gg/Ha_Noi_IPTV_8-JTBC2_HD
-#EXTINF:-1  tvg-name="JTBC4 HD • GIẢI TRÍ DÀNH CHO GIỚI TRẺ" tvg-id="http://132.145.83.248:9981/stream/channel/7ea7eedb28fd0b2983ade3d75c311066" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%209%20-%20JTBC4%20HD.png",JTBC4 HD • GIẢI TRÍ DÀNH CHO GIỚI TRẺ
-http://gg.gg/Ha_Noi_IPTV_9-JTBC4_HD
-#EXTINF:-1  tvg-name="MBN+ HD • KÊNH PHỤ ĐẶC SẮC" tvg-id="http://132.145.83.248:9981/stream/channel/7fa7d65cf654af5aa4333f6706c7c12d" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2012%20-%20MBN%2B%20HD.png",MBN+ HD • KÊNH PHỤ ĐẶC SẮC
-http://gg.gg/Ha_Noi_IPTV_12-MBN_Plus_HD
-#EXTINF:-1  tvg-name="TV CHOSUN 2 HD • KÊNH PHỤ DÀNH CHO GIA ĐÌNH" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2014%20-%20TV%20Chosun%202%20HD.png",TV CHOSUN 2 HD • KÊNH PHỤ DÀNH CHO GIA ĐÌNH
-http://gg.gg/Ha_Noi_IPTV_14-TV_Chosun_2_HD
-#EXTINF:-1  tvg-name="TV CHOSUN 3 HD • GIẢI TRÍ DÀNH CHO GIA ĐÌNH" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2014%2B%20-%20TV%20Chosun%203%20HD.png",TV CHOSUN 3 HD • GIẢI TRÍ DÀNH CHO GIA ĐÌNH
-http://gg.gg/Ha_Noi_IPTV_14_Plus-TV_Chosun_3_HD
-#EXTINF:-1  tvg-name="CHANNEL A+ HD • KÊNH PHỤ BÁO ĐÔNG Á" tvg-id="http://132.145.83.248:9981/stream/channel/64061807c52442821a93bf2df18c261f" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2016%20-%20Channel%20A%20Plus%20HD.png",CHANNEL A+ HD • KÊNH PHỤ BÁO ĐÔNG Á
-http://gg.gg/Ha_Noi_IPTV_16-Channel_A_Plus_HD
-#EXTINF:-1  tvg-name="Olive HD • ẨM THỰC CHUYÊN BIỆT" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20Olive%20HD.png",Olive HD • ẨM THỰC CHUYÊN BIỆT
-http://gg.gg/Ha_Noi_IPTV_20-Olive_HD
+#EXTINF:-1  tvg-name="YTN2 • TIN TỨC & CUỘC SỐNG" tvg-id="http://106.255.223.76:9981/stream/channelid/7" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202+%20-%20YTN2%20HD.png",YTN2 • TIN TỨC & CUỘC SỐNG
+http://gg.gg/Ha_Noi_IPTV_2_Plus-YTN2-Tin_tuc_va_Cuoc_song
+#EXTINF:-1  tvg-name="JTBC • DÀNH CHO GIỚI TRẺ" tvg-id="http://106.255.223.76:9981/stream/channelid/131" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%207%20-%20JTBC%20HD.png",JTBC • DÀNH CHO GIỚI TRẺ
+http://gg.gg/Ha_Noi_IPTV_7-JTBC-Danh_cho_Gioi_tre
+#EXTINF:-1  tvg-name="MBN • THIẾT YẾU ĐẶC SẮC" tvg-id="http://106.255.223.76:9981/stream/channelid/122" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2011%20-%20MBN%20HD.png",MBN • THIẾT YẾU ĐẶC SẮC
+http://gg.gg/Ha_Noi_IPTV_11-MBN-Thiet_yeu_Quoc_gia
+#EXTINF:-1  tvg-name="TV CHOSUN • DÀNH CHO GIA ĐÌNH" tvg-id="http://106.255.223.76:9981/stream/channelid/108" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2013%20-%20TV%20Chosun%20HD.png",TV CHOSUN • DÀNH CHO GIA ĐÌNH 
+http://gg.gg/Ha_Noi_IPTV_13-TV_Chosun-Danh_cho_Gia_dinh
+#EXTINF:-1  tvg-name="CHANNEL A • TH BÁO ĐÔNG Á" tvg-id="http://106.255.223.76:9981/stream/channelid/98" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2015%20-%20Channel%20A%20HD.png",CHANNEL A • TH BÁO ĐÔNG Á
+http://gg.gg/Ha_Noi_IPTV_15-Channel_A-Truyen_hinh_Bao_Dong_A
+#EXTINF:-1  tvg-name="JTBC2 • GIẢI TRÍ ĐẶC SẮC" tvg-id="http://106.255.223.76:9981/stream/channelid/117" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%208%20-%20JTBC2%20HD.png",JTBC2 • PHIM DÀNH CHO GIỚI TRẺ
+http://gg.gg/Ha_Noi_IPTV_8-JTBC2-Giai_tri_Dac_sac
+#EXTINF:-1  tvg-name="JTBC4 • GIẢI TRÍ TỔNG HỢP" tvg-id="http://106.255.223.76:9981/stream/channelid/56" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%209%20-%20JTBC4%20HD.png",JTBC4 • GIẢI TRÍ DÀNH CHO GIỚI TRẺ
+http://gg.gg/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Tong_hop
+#EXTINF:-1  tvg-name="MBN+ • KÊNH PHỤ" tvg-id="http://106.255.223.76:9981/stream/channelid/65" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2012%20-%20MBN%2B%20HD.png",MBN+ • KÊNH PHỤ
+http://gg.gg/Ha_Noi_IPTV_12-MBN_Plus-Kenh_phu
+#EXTINF:-1  tvg-name="TV CHOSUN 2 • PHIM DÀNH CHO GIA ĐÌNH" tvg-id="http://106.255.223.76:9981/stream/channelid/152" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2014%20-%20TV%20Chosun%202%20HD.png",TV CHOSUN 2 • PHIM DÀNH CHO GIA ĐÌNH
+http://gg.gg/Ha_Noi_IPTV_14-TV_Chosun_2-Phim_danh_cho_Gia_dinh
+#EXTINF:-1  tvg-name="CHANNEL A+ • GIẢI TRÍ CHỌN LỌC" tvg-id="http://132.145.83.248:9981/stream/channel/64061807c52442821a93bf2df18c261f" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2016%20-%20Channel%20A%20Plus%20HD.png",CHANNEL A+ • KÊNH PHỤ BÁO ĐÔNG Á
+http://gg.gg/Ha_Noi_IPTV_16-Channel_A_Plus-Giai_tri_Chon_loc
+#EXTINF:-1  tvg-name="Olive • ẨM THỰC CHUYÊN BIỆT" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20Olive%20HD.png",Olive • ẨM THỰC CHUYÊN BIỆT
+http://gg.gg/Ha_Noi_IPTV_20-Olive-Am_thuc_Chuyen_biet
 #EXTINF:-1  tvg-name="OGN HD • GAME CHUYÊN NGHIỆP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%22-%20OGN%20HD.png",OGN HD • GAME CHUYÊN NGHIỆP
 http://gg.gg/Ha_Noi_IPTV_22-OGN_HD
 #EXTINF:-1  tvg-name="中华TV HD • 最佳电视剧" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%85%A7IPTV%2023%20-%20%E4%B8%AD%E5%8D%8ETV%20HD.png",中华TV HD • 最佳电视剧
