@@ -141,7 +141,7 @@ http://gg.gg/HaNoiIPTV-HTV2-Vie_CHANNEL_HD
 http://gg.gg/HaNoiIPTV-HTV7_HD
 #EXTINF:-1  tvg-name="HTV9 HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="48" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 http://gg.gg/HaNoiIPTV-HTV9_HD
-#EXTINF:-1  tvg-name="TH TTXVN - VNEWS HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews HD
+#EXTINF:-1  tvg-name="TH TTXVN - VNEWS HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews HD
 http://gg.gg/HaNoiIPTV-TTXVN-VNEWS_HD
 #EXTINF:-1  tvg-name="QPVN - QUỐC PHÒNG VIỆT NAM HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Quốc phòng Việt Nam HD
 http://gg.gg/HaNoiIPTV-QPVN-Quoc_phong_Viet_Nam_HD
