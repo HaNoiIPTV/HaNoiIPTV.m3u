@@ -67,15 +67,19 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi:2:6OM0o61jF2hcDXWZCUP2SnfD7h-JH0KLipbQUKyWFAo:MTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjM4MDM2ODM1NjUxLHU6IjU2OGE5NTYzLTg0NTEtYTZhNi0wNjczLTdmYjcxYjJlYzYyMSIsZGU6MyxsZjowfQ&SessionId=A0675D250147132D&Ticket=D7A79A8F2D399CC4
 https://sglive.akamaized.net/bpk-tv/prod_on_football/default/i.mpd
 #EXTINF:-1  tvg-name="ON Sports News HD • THỂ THAO TIN TỨC" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png",ON Sports News HD
-http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="ON Golf HD • THỂ THAO GOLF" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png",ON Golf HD
-http://gg.gg/HaNoiIPTV-ON_Golf_HD
-#EXTINF:-1  tvg-name="On Sports+ HD tường thuật" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD tường thuật
-http://gg.gg/HaNoiIPTV-On_Sports_Plus_HD
-#EXTINF:-1  tvg-name="VTC3 HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="39" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="On Sports+ • THỂ THAO & GIẢI TRÍ" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B.png",On Sports+
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-name="VTC3 HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="39" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="SCTV15 HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="SCTV17 HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
@@ -99,11 +103,11 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="HTV9 HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="48" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="TH TTXVN - VNEWS HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH TTXVN - VNews HD
-https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
 #EXTINF:-1  tvg-name="QPVN - QUỐC PHÒNG VIỆT NAM HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Quốc phòng Việt Nam HD
 https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="TH QUỐC HỘI HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD.png",TH Quốc hội HD
-https://live.quochoitv.vn/qhtv/qhtv@720p.m3u8
+https://media.quochoitv.vn/live/qhtv_720p/chunklist_w723774267.m3u8
 #EXTINF:-1  tvg-name="THND - TH NHÂN DÂN HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THND%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nh%C3%A2n%20D%C3%A2n%20HD.png",THND - TH Nhân Dân HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u8
 #EXTINF:-1  tvg-name="ANTV - TH AN NINH HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png",ANTV - TH An Ninh HD
@@ -143,9 +147,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:
 #EXTINF:-1  tvg-name="HOLLYWOOD CLASSICS HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",Hollywood Classics HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="BOX HITS HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png" tvg-chno="75" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8",BOX Hits HD
-https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+http://gg.gg/HaNoiIPTV-BOX_Hits_HD
 #EXTINF:-1  tvg-name="IN THE BOX CHANNEL" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" tvg-chno="76" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8",In The BOX Channel
-https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
+http://gg.gg/HaNoiIPTV-In_The_Box_Channel
 #EXTINF:-1  tvg-name="PARAMOUNT CHANNEL HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Paramount%20Channel%20HD.jpg",Paramount Channel HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1  tvg-name="HITS HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HITS%20HD.png",HITS HD
@@ -159,7 +163,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1  tvg-name="MUSIC BOX HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",Music BOX HD
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="MAN" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png" tvg-chno="87" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8",MAN
-https://pprex49o5aliv.vcdn.cloud/live/man-tv/chunklist_2.m3u8
+http://gg.gg/HaNoiIPTV-MAN
 #EXTINF:-1  tvg-name="KIX HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Kix%20HD.png",Kix HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="PLANET EARTH HD" group-title="KÊNH GIẢI TRÍ ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",Planet Earth HD
@@ -255,7 +259,7 @@ http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1055472684_b1384000.m3u8
 #EXTINF:-1  tvg-name="HYTV HD - TH HƯNG YÊN" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png",HYTV HD - TH Hưng Yên
 https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="HDTV - TH HẢI DƯƠNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.png",HDTV - TH Hải Dương HD
-#Không có tín hiệu
+http://gg.gg/HaNoiIPTV-HDTV-Truyen_hinh_Hai_Duong_HD
 #EXTINF:-1  tvg-name="TBTV - TH THÁI BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20B%C3%ACnh%20HD.png",TBTV - TH Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="NBTV - TH NINH BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD.png",NBTV - TH Ninh Bình HD
@@ -273,7 +277,7 @@ http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.png",TTV - TH Thanh Hóa HD
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg12
 #EXTINF:-1  tvg-name="HTTV - TH HÀ TĨNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",HTTV - TH Hà Tĩnh HD
-https://hatinhtv.vn/hls/httv.m3u8
+https://wse.hatinhtv.net/live/httv1/chunklist_w271915096.m3u8
 #EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - TH Quảng Bình HD
 http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh
 #EXTINF:-1  tvg-name="TRT - TH THỪA THIÊN HUẾ" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",TRT - TH Thừa Thiên Huế
@@ -310,3 +314,5 @@ https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 http://113.163.189.104:8135/liveevent.m3u8
 #EXTINF:-1  tvg-name="HiTV" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
+#EXTINF:-1  tvg-name="On Sports+ HD tường thuật" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD tường thuật
+http://gg.gg/HaNoiIPTV-On_Sports_Plus_HD
