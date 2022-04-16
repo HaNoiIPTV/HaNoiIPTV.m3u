@@ -139,7 +139,7 @@ http://gg.gg/HaNoiIPTV-Truyen_hinh_Vinh_Long_2_HD
 http://gg.gg/HaNoiIPTV-HTV2-Vie_CHANNEL_HD
 #EXTINF:-1  tvg-name="HTV7 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png" tvg-chno="47" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
 http://gg.gg/HaNoiIPTV-HTV7_HD
-#EXTINF:-1  tvg-name="HTV9 HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="48" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
+#EXTINF:-1  tvg-name="HTV9 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="48" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 http://gg.gg/HaNoiIPTV-HTV9_HD
 #EXTINF:-1  tvg-name="TH TTXVN - VNEWS HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews HD
 http://gg.gg/HaNoiIPTV-TTXVN-VNEWS_HD
@@ -465,10 +465,10 @@ http://gg.gg/HaNoiIPTV-ON_Tennis_HD
 http://gg.gg/HaNoiIPTV-ON_Action_Sports_HD
 #EXTINF:-1  tvg-name="TTV - PT THANH HÓA" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Ph%C3%A1t%20thanh%20Thanh%20H%C3%B3a.png",TTV - Phát thanh Thanh Hóa
 http://113.160.182.222:8080/hls/radio/index.m3u8
-#EXTINF:-1  tvg-name="PT HÀ NỘI 1 HD" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2090MHz%20-%20Tin%20t%E1%BB%A9c%20%26%20Gi%E1%BA%A3i%20tr%C3%AD%20T%E1%BB%95ng%20h%E1%BB%A3p.png",Phát thanh Hà Nội 1 HD
-http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_1_HD
-#EXTINF:-1  tvg-name="PT HÀ NỘI 2 HD" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2096Mhz%20-%20K%C3%AAnh%20ph%E1%BB%A5.png",Phát thanh Hà Nội 2 HD
-http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_2_HD
+#EXTINF:-1  tvg-name="PT HÀ NỘI 1" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2090MHz%20-%20Tin%20t%E1%BB%A9c%20%26%20Gi%E1%BA%A3i%20tr%C3%AD%20T%E1%BB%95ng%20h%E1%BB%A3p.png",Phát thanh Hà Nội 1
+http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_1
+#EXTINF:-1  tvg-name="PT HÀ NỘI 2" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2096Mhz%20-%20K%C3%AAnh%20ph%E1%BB%A5.png",Phát thanh Hà Nội 2
+http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_2
 #EXTINF:-1  tvg-name="HiTV" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV
 http://gg.gg/HaNoiIPTV-HiTV
 #EXTINF:-1  tvg-name="ON Sports HD tường thuật" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD%20t%C6%B0%E1%BB%9Dng%20thu%E1%BA%ADt.png",ON Sports HD tường thuật
