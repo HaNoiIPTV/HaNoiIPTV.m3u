@@ -17,10 +17,10 @@ Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình vớ
 - Ngoài ra quý vị và các bạn còn có thể theo dõi các kênh truyền hình thiết yếu cho dịch vụ trên (bao gồm các kênh truyền hình thiết yếu của Trung ương và Địa phương) được chúng tôi cung cấp 100% với tiêu chuẩn HD, miễn phí theo dõi các nội dung tổng hợp với các lĩnh vực/chủ đề khác nhau được phát sóng liên tục trong ngày.<br />
 ### * Lưu ý: Đối với gói chính thức, quý khán giả cần cài đặt app IPTV, Dimplay, Tivimate trên hệ điều hành Android để theo dõi một cách đầy đủ và trọn vẹn hơn các app khác.<br />
 ## II. [Gói phụ](http://gg.gg/hanoiiptvfamily)
-- Gói phụ được sắp xếp bởi các kênh truyền hình không trả phí nguồn từ một số hạ tầng đầu thu kỹ thuật số mặt đất.<br />
+- Gói phụ được sắp xếp bởi các kênh truyền hình không trả phí cung cấp từ hạ tầng đầu thu kỹ thuật số mặt đất (DVB-T2).<br />
 
 # D. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
-Quý khán giả có thể thực hiện thao tác trên đa thiết bị, phương tiện khác nhau.<br />
+Quý khán giả có thể thực hiện thao tác đơn giản cho mọi nền tảng, thiết bị và phương tiện khác nhau cùng 1 thời điểm, mọi lúc - mọi nơi.<br />
 
 Hướng dẫn chi tiết như sau:<br />
 
