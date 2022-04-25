@@ -19,38 +19,39 @@ Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình vớ
 ## II. [Gói phụ](http://gg.gg/hanoiiptvfamily)
 - Gói phụ được sắp xếp bởi các kênh truyền hình không trả phí cung cấp từ hạ tầng đầu thu kỹ thuật số mặt đất (DVB-T2).<br />
 
-# D. Hướng dẫn dò kênh để theo dõi Hà Nội IPTV
+# D. Hướng dẫn dò kênh
 Quý khán giả có thể thực hiện thao tác đơn giản cho mọi nền tảng, thiết bị và phương tiện khác nhau cùng 1 thời điểm, mọi lúc - mọi nơi.<br />
 
-Hướng dẫn chi tiết như sau:<br />
+Cụ thể như sau:<br />
 
 ## I. Đối với hệ điều hành Android
 ### Cách 1:
-a) Chọn CH Play, tìm kiếm với từ khóa IPTV và cài đặt một trong các ứng dụng sau đây:<br />
-- IPTV: Vào ứng dụng này khi thêm playlist bằng URL [tại đây](http://gg.gg/hanoiiptv) thì bạn sẽ được theo dõi cho hơn 500 kênh truyền hình kèm theo lịch phát sóng đầy đủ trong ngày cho một số kênh trong nước và quốc tế.<br />
-- IPTV 3U: Vào ứng dụng này muốn theo dõi được dịch vụ phải thêm vào playlist bằng link gốc của [link chính thức](http://gg.gg/hanoiiptv) vì ứng dụng này không thể hỗ trợ [tên miền](http://gg.gg) để có thể thêm được playlist. Sau đó bạn phải chọn nhóm kênh bất kỳ rồi mới được chọn kênh. Ngoài ra ứng dụng còn có thể vừa xem TV, vừa nghe âm thanh, vừa ghi lại một hoặc nhiều kênh truyền hình cho các chương trình bất kỳ lúc nào lên đến 1080P hoặc 4K tùy theo thiết bị hỗ trợ giới hạn độ phân giải nêu trên.<br />
-b) Sau khi cài đặt xong ứng dụng nào thì mở bằng ứng dụng đó và làm theo hướng dẫn nêu trên.<br />
-* Lưu ý: Nếu Smart TV của bạn sử dụng hệ điều hành Android TV vẫn có thể thực hiện cài đặt và làm theo hướng dẫn trên.<br />
+a) Vào Cửa hàng Play, chọn phần tìm kiếm, gõ với từ khóa IPTV và sau đó bạn có thể lựa chọn và cài đặt một trong các ứng dụng sau đây:<br />
+- Dimplay: Sau khi mở được ứng dụng này, để có thể theo dõi được các kênh truyền hình được cung cấp từ dịch vụ thì trước tiên bạn phải copy cho link gốc [tại đây](https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u), sau đó nhấn vào biểu tượng dấu "+" thì bạn chọn "Add list from URL" và nhấn Paste để dán vào link gốc vừa copy (Do không thể hỗ trợ [nguồn](http://gg.gg) để tiến hành dò kênh tự động). Sau khi copy và dán vào link gốc xong, trên màn hình của ứng dụng sẽ xuất hiện dòng chữ "Hà Nội IPTV" và bạn chỉ cần click vào đó, sau đó chọn nhóm kênh được xuất hiện trong dịch vụ hoặc bạn có thể vào phần "Search" và gõ vào kênh mà bạn cần xem sau đó chọn kênh tương ứng với nhóm và từ khóa mà bạn đã tìm kiếm.<br />
+- OTT Navigator IPTV<br />
+- Tivimate<br />
+b) Nếu bạn đã chắc chắn cài đặt xong ứng dụng nào thì mở ngay ứng dụng đó và bạn có thể "Gỡ cài đặt/Xóa ứng dụng" bằng cách nhấn nút "Gỡ cài đặt" ở nút bên trái sau nút "Mở" trên kho ứng dụng của Cửa hàng Play hoặc bạn vào menu, sau đó ngón tay của bạn phải bấm và giữ biểu tượng của bất kỳ ứng dụng nào, rồi nhấn nút X và xác nhận việc gỡ cài đặt.<br />
+* Lưu ý: Nếu bạn đang dùng Smart TV hỗ trợ cho hệ điều hành Android TV thì bạn vẫn có thể thực hiện qua hướng dẫn nêu trên.<br />
 
 ## IV. Đối với Smart TV
 ### 1. Về hệ điều hành LG WebOS
-a) Trước khi cài đặt ứng dụng để theo dõi dịch vụ<br />
-- Cách 1: Nếu Smart TV của bạn đang sử dụng hệ điều hành trên thì hãy cầm trên tay điều khiển TV của bạn, bấm vào nút tìm kiếm trên điều khiển, sau đó gõ vào từ khóa SS IPTV, FPlayer để tiến hành cài đặt hoặc bấm vào nút bên phải và sau đó nói với từ khóa nêu trên.<br />
-- Cách 2: Cũng cầm trên tay điều khiển TV của bạn bấm vào nút Home, chọn LG Content Store sau đó bạn chọn tìm kiếm trên màn hình và làm tương tự như cách 1.<br />
+a) Trước khi cài đặt ứng dụng<br />
+- Cách 1: Nếu Smart TV của bạn đang sử dụng hệ điều hành nêu trên thì hãy cầm điều khiển TV của bạn, bấm vào nút biểu tượng "Tìm kiếm" trên điều khiển, sau đó gõ vào các từ khóa như: "SS IPTV, FPlayer" hoặc bấm vào biểu tượng microphone và sau đó nói với các từ khóa nêu trên.<br />
+- Cách 2: Bạn vẫn cầm điều khiển TV của bạn để bấm vào nút Home, chọn LG Content Store và sau đó bạn nhấn vào nút biểu tượng "Tìm kiếm" trên màn hình và thực hiện tương tự như cách 1.<br />
 b) Sau khi cài đặt ứng dụng<br />
-1. Sau khi cài đặt ứng dụng SS IPTV, bạn mở vào ứng dụng sau đó bấm vào Agree, khi màn hình xuất hiện quốc gia bạn bấm vào Skip nếu đang sinh sống ở quốc gia/khu vực Việt Nam. Sau đó bạn chọn Settings trên ứng dụng, chọn Playlists, nhấn Add. Khi màn hình xuất hiện tiêu đề PLAYLIST_1, bạn có thể thêm vào link: http://gg.gg/hanoiiptv sau phần tiêu đề và nhấn Save rồi quay lại phần Menu và chờ làm mới thì bạn vào phần PLAYLIST_1 như vừa nãy rồi chọn All và chọn kênh thích hợp.<br />
-2. Sau khi cài đặt ứng dụng FPlayer, bạn mở vào ứng dụng sau đó bấm vào nút màu đỏ trên điều khiển, thêm playlist bằng cách gõ vào địa chỉ: http://gg.gg/hanoiiptv và nhấn nút màu xanh để lưu lại.<br />
-## * Lưu ý: Ứng dụng này sẽ chỉ được xem 5 kênh trong phần bảng kênh và lịch phát sóng từ Hà Nội IPTV cũng như các dịch vụ khác. Tuy nhiên, ngay sau khi bạn thực hiện set-up EPG (lịch phát sóng) trên dịch vụ thì bạn sẽ không thể theo dõi được.
+1. SS IPTV: Bạn nhấn vào nút "Bắt đầu" thì ứng dụng sẽ bắt đầu mở trên TV của bạn. Sau khi mở, trước tiên bấm vào nút "Agree" cho đến khi màn hình xuất hiện các quốc gia mà bạn đang sử dụng mà không nhìn thấy cờ của Nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ghi trên ứng dụng này thì bấm vào nút Skip. Tiếp theo, màn hình sẽ xuất hiện menu của ứng dụng này thì tại đây bạn chọn "Settings", sau đó chọn Playlists và nhấn Add. Sau khi màn hình xuất hiện tiêu đề "PLAYLIST_1" thì bạn có thể gõ vào [link](http://gg.gg/hanoiiptv) ở bên cạnh phần tiêu đề trên và sau đó nhấn "Save" để lưu. Ngay sau khi thao tác xong trên điều khiên TV của bạn nhấn vào nút "Return" để quay lại phần Menu và chờ trong giây lát, sau đó bạn chọn "PLAYLIST_1" xuất hiện trên menu rồi bấm vào thanh "All" để chọn kênh mà bạn muốn theo dõi.<br />
+## * Lưu ý: Tại ứng dụng này, bạn cũng có thể thay đổi tiêu đề cho "PLAYLIST_1" bằng bất kỳ tên nào thì ứng dụng đó vẫn có thể lưu được tên mà bạn đã thay đổi.
+2. FPlayer: Bạn nhấn vào nút "Bắt đầu" thì ứng dụng sẽ bắt đầu mở trên TV của bạn và sẽ báo trên màn hình. Sau đó trên điều khiển TV của bạn bấm vào nút màu đỏ và di chuyển xuống phần URL và gõ vào [link](http://gg.gg/hanoiiptv). Sau khi thực hiện thao tác xong thì trên điều khiển TV của bạn nhấn nút màu xanh lá cây để ứng dụng sẽ tự động lưu lại và xuất hiện trên màn hình các kênh có trong [link](http://gg.gg/hanoiiptv). Tại đây, trên điều khiển TV của bạn có thể di chuyển bằng cách bấm và giữ các nút mũi tên trên, dưới để di chuyển theo các kênh trong cùng một nhóm và trái, phải để di chuyển sang các nhóm kênh.<br />
+## * Lưu ý: Nếu là lần đầu tiên bạn cài đặt ứng dụng này thì bạn sẽ được nhìn thấy 1 trong 5 tên kênh truyền hình xuất hiện trên màn hình do là phiên bản "Free trial".
+## Khi sử dụng các ứng dụng trên hệ điều hành có thể có một số kênh không thể theo dõi được do không được hỗ trợ. Vì vậy, bạn chỉ có thể theo dõi trên smartphone và chia sẻ lên màn hình smartphone đó trên TV để theo dõi trực tiếp từ các ứng dụng có trong phần I.
 
 ### 2. Về hệ điều hành Samsung Tizen
-Nếu Smart TV của bạn sử dụng hệ điều hành này thì hiện tại không có ứng dụng nào hoàn toàn miễn phí để theo dõi dịch vụ mà bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để truyền từ smartphone lên TV. Cụ thể như sau:<br />
+Nếu Smart TV của bạn sử dụng hệ điều hành này thì hiện tại không có ứng dụng nào hỗ trợ sử dụng hoàn toàn miễn phí để theo dõi dịch vụ. Thay vào đó bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để chia sẻ lên Smart TV đó. Cụ thể như sau:<br />
 a) Đối với hệ điều hành Android
-- Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn IPTV, nhấn dấu cộng và gõ vào địa chỉ: https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/H%C3%A0%20N%E1%BB%99i%20IPTV%202021%20(Ph%E1%BA%A7n%202).m3u rồi nhấn Lưu. Sau đó bạn vào Hà Nội IPTV 2021.m3u, chọn kênh bạn muốn xem rồi chọn TV của bạn để tiến hành kết nối và có thể theo dõi ngay lập tức.<br />
+- Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn biểu tượng IPTV, nhấn biểu tượng dấu "+" để copy, dán vào link [tại đây](https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u) và nhấn Lưu. Sau đó bạn vào Hà Nội IPTV.m3u và chọn kênh mà bạn muốn xem cũng như TV của bạn đang sử dụng để tiến hành kết nối và theo dõi được kênh mà bạn đang lựa chọn.<br />
+## LƯU Ý: Tất cả các smart TV trên hệ điều hành này đều không hỗ trợ một số kênh truyền hình của VTVCab, InTheBOX.TV, SCTV,.... nên quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
 
-# D. Thăm dò ý kiến
-Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn ra [một cuộc thăm dò ý kiến](https://linkto.run/p/WEUP0YCK) về việc theo dõi trên các thiết bị đang sử dụng để giúp dịch vụ có thể xác định được thông tin của khách hàng một cách dễ dàng và hoàn thiện hơn.<br />
-
-# E. Kết nối với Hà Nội IPTV
+# D. Kết nối với Hà Nội IPTV
 ### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
 ### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
 Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
@@ -62,13 +63,13 @@ Ngay sau khi đọc xong phần Hướng dẫn dò kênh, chúng tôi có diễn
 ### - [Hà Nội IPTV tại Thanh Hóa](http://gg.gg/thanhhoaiptv)<br />
 Địa chỉ 1: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
 Địa chỉ 2: Quốc lộ 1A (Đại lộ Hùng Vương), phường Đông Hải, TP. Thanh Hóa<br />
-### Ngoài ra, Hà Nội IPTV còn hỗ trợ ngôn ngữ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý vị đã biết tiếng Trung Quốc (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道中文/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道中文 ).
+### Ngoài ra, Hà Nội IPTV còn hỗ trợ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý khán giả đã biết đến ngôn ngữ này (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道).
 
-# I. Những nội dung khác
+# E. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
 - [Văn bản và Chính sách dành cho người dùng](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/tree/master/V%C4%83n%20b%E1%BA%A3n%20%26%20Ch%C3%ADnh%20s%C3%A1ch%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng): Để tăng tính răn đe, người dùng phải đọc kỹ và tuân thủ các chính sách của Hà Nội IPTV.<br />
 
-# K. Liên hệ
+# G. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
 ### Trung tâm Chức năng và Quản lý
