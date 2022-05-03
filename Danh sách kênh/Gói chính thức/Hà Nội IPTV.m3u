@@ -452,11 +452,13 @@ http://gg.gg/HaNoiIPTV-STV2-Truyen_hinh_Soc_Trang_2_HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-name="KG1 - TH KIÊN GIANG 1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ki%C3%AAn%20Giang.png",KG1 - Truyền hình Kiên Giang 1 HD
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-
-
+#EXTINF:-1  tvg-name="VOV Giao thông Hà Nội" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV%20Giao%20th%C3%B4ng.png",VOV Giao thông Hà Nội
+http://gg.gg/HaNoiIPTV-VOV_Giao_thong_Ha_Noi
+#EXTINF:-1  tvg-name="VOV1" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV1.png",VOV1
+http://gg.gg/HaNoiIPTV-VOV1
 #EXTINF:-1  tvg-name="TTV - PT THANH HÓA" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Ph%C3%A1t%20thanh%20Thanh%20H%C3%B3a.png",TTV - Phát thanh Thanh Hóa
 http://113.160.182.222:8080/hls/radio/index.m3u8
-#EXTINF:-1  tvg-name="PT HÀ NỘI 1" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2090MHz%20-%20Tin%20t%E1%BB%A9c%20%26%20Gi%E1%BA%A3i%20tr%C3%AD%20T%E1%BB%95ng%20h%E1%BB%A3p.png",Phát thanh Hà Nội 1
+#EXTINF:-1  tvg-name="PT HÀ NỘI 1" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2090MHz%20-%20Tin%20t%E1%BB%A9c%20%26%20Gi%E1%BA%A3i%20tr%C3%AD%20T%E1%BB%95ng%20h%E1%BB%A3p.png",Phát thanh Hà Nội 1
 http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_1
 #EXTINF:-1  tvg-name="PT HÀ NỘI 2" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2096Mhz%20-%20K%C3%AAnh%20ph%E1%BB%A5.png",Phát thanh Hà Nội 2
 http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_2
