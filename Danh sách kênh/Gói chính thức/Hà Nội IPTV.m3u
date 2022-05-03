@@ -62,21 +62,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 http://gg.gg/HaNoiIPTV-ON_Kids_HD
 #EXTINF:-1  tvg-name="ON Life HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab22%20-%20ON%20Life%20HD.png",ON Life HD
 http://gg.gg/HaNoiIPTV-ON_Life_HD
-#EXTINF:-1  tvg-name="ON Sports HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
+#EXTINF:-1  tvg-name="ON Sports HD" tvg-id="http://s2129133.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv304&offset=1&nodelay=1" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="ON Sports" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports.png",ON Sports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
-http://s2129133.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv304&offset=1&nodelay=1
-#EXTINF:-1  tvg-name="ON Football HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
+#EXTINF:-1  tvg-name="ON Tennis HD" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Tennis%20HD.png",ON Tennis HD
+http://gg.gg/HaNoiIPTV-ON_Tennis_HD
+#EXTINF:-1  tvg-name="ON Football HD" tvg-id="http://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv302&offset=1&nodelay=1" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="ON Football" tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_on_football/default/i.mpd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football.png",ON Football
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZGY2MTM2NGItZmRmMy0zZTRkLTgwMTItMTNhMDkzM2E3ZWZl
-http://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv302&offset=1&nodelay=1
-#EXTINF:-1  tvg-name="ON E.Sports HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20E.Sports%20HD.png",ON E.Sports HD
+#EXTINF:-1  tvg-name="ON E.Sports HD" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20E.Sports%20HD.png",ON E.Sports HD
 http://gg.gg/HaNoiIPTV-ON_ESports_HD
 #EXTINF:-1  tvg-name="ON Sports News HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png",ON Sports News HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -88,6 +80,8 @@ http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
+#EXTINF:-1  tvg-name="ON Action Sports HD" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Action%20Sports%20Premium%20HD.png",ON Action Sports HD
+http://gg.gg/HaNoiIPTV-ON_Action_Sports_HD
 #EXTINF:-1  tvg-name="On Sports+" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B.png",On Sports+
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="K+CINE HD" tvg-id="https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd và http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
@@ -458,10 +452,6 @@ http://gg.gg/HaNoiIPTV-STV2-Truyen_hinh_Soc_Trang_2_HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-name="KG1 - TH KIÊN GIANG 1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ki%C3%AAn%20Giang.png",KG1 - Truyền hình Kiên Giang 1 HD
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1  tvg-name="ON Tennis HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Tennis%20HD.png",ON Tennis HD
-http://gg.gg/HaNoiIPTV-ON_Tennis_HD
-#EXTINF:-1  tvg-name="ON Action Sports HD" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Action%20Sports%20Premium%20HD.png",ON Action Sports HD
-http://gg.gg/HaNoiIPTV-ON_Action_Sports_HD
 #EXTINF:-1  tvg-name="TTV - PT THANH HÓA" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Ph%C3%A1t%20thanh%20Thanh%20H%C3%B3a.png",TTV - Phát thanh Thanh Hóa
 http://113.160.182.222:8080/hls/radio/index.m3u8
 #EXTINF:-1  tvg-name="PT HÀ NỘI 1" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM%2090MHz%20-%20Tin%20t%E1%BB%A9c%20%26%20Gi%E1%BA%A3i%20tr%C3%AD%20T%E1%BB%95ng%20h%E1%BB%A3p.png",Phát thanh Hà Nội 1
