@@ -288,8 +288,8 @@ http://gg.gg/HaNoiIPTV-HTVC_Du_lich_va_Cuoc_song
 http://gg.gg/HaNoiIPTV-HTVC_Gia_Dinh
 #EXTINF:-1  tvg-name="HTVC PHỤ NỮ" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Ph%E1%BB%A5%20N%E1%BB%AF%20HD.png",HTVC Phụ Nữ
 http://gg.gg/HaNoiIPTV-HTVC_Phu_Nu
-#EXTINF:-1  tvg-name="VTC10 HD" tvg-id="https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC10%20HD.png" tvg-chno="126" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC10 HD
-http://gg.gg/HaNoiIPTV-VTC10
+#EXTINF:-1  tvg-name="VTC10 HD" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC10%20HD.png" tvg-chno="126" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC10 HD
+http://gg.gg/HaNoiIPTV-VTC10_HD
 #EXTINF:-1  tvg-name="MIỀN TÂY - THĐT2" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T2%20-%20K%C3%AAnh%20mi%E1%BB%81n%20T%C3%A2y.png",Miền Tây - THĐT2
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w2022876202.m3u8
 #EXTINF:-1  tvg-name="SCTV10 HD" group-title="KÊNH GIẢI TRÍ TỔNG HỢP" tvg-logo=" ",SCTV10 HD
