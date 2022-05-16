@@ -584,7 +584,7 @@ http://gg.gg/Ha_Noi_IPTV_17_Plus-EBS1_HD
 http://gg.gg/Ha_Noi_IPTV_18_Plus-EBS2_HD
 #EXTINF:-1  tvg-name="KCTV - TH TRUNG ƯƠNG TRIỀU TIÊN" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Trung%20%C6%B0%C6%A1ng%20Tri%E1%BB%81u%20Ti%C3%AAn.png",KCTV - Truyền hình Trung ương Triều Tiên
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1  tvg-name="SBS Biz • KINH TẾ TÀI CHÍNH" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2058%20-%20SBS%20Biz%20HD.png",SBS Biz • KINH TẾ TÀI CHÍNH
+#EXTINF:-1  tvg-name="SBS Biz • KINH TẾ TÀI CHÍNH" tvg-id="http://221.167.205.241:9981/stream/channelid/86" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2058%20-%20SBS%20Biz%20HD.png",SBS Biz • KINH TẾ TÀI CHÍNH
 http://gg.gg/Ha_Noi_IPTV_58-SBS_Biz-Kinh_te_Tai_chinh
 #EXTINF:-1  tvg-name="BABYTV HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png",BabyTV HD
 http://gg.gg/HaNoiIPTV-BabyTV_HD
@@ -652,7 +652,7 @@ http://gg.gg/Ha_Noi_IPTV_54-SBS_funE-Giai_tri_Dac_sac
 http://gg.gg/Ha_Noi_IPTV_55-SBS_FiL-Giai_tri_Cao_cap
 #EXTINF:-1  tvg-name="JTBC Golf & Sports • THỂ THAO HÀNG ĐẦU" tvg-id="http://106.255.223.76:9981/stream/channelid/67" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00588.png",JTBC Golf & Sports • THỂ THAO HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_10-JTBC_Golf_and_Sports-The_thao_Hang_dau
-#EXTINF:-1  tvg-name="KBSN Sports+ • THỂ THAO ĐẶC SẮC" tvg-id="http://106.255.223.76:9981/stream/channelid/129" group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",KBSN Sports+ • THỂ THAO ĐẶC SẮC
+#EXTINF:-1  tvg-name="KBSN SPORTS • THỂ THAO ĐẶC SẮC" tvg-id="http://106.255.223.76:9981/stream/channelid/129" group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",KBSN SPORTS • THỂ THAO ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_47-KBSN_Sports-The_thao_Dac_sac
 #EXTINF:-1  tvg-name="MBC SPORTS+ • THỂ THAO ĐẶC SẮC" tvg-id="http://106.255.223.76:9981/stream/channelid/46" group-title="KÊNH ĐẶC SẮC" tvg-logo=" ",MBC SPORTS+ • THỂ THAO ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_52-MBC_Sports_Plus-The_thao_Dac_sac
