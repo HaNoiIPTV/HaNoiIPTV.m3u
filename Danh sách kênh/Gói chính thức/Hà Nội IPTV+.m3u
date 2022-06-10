@@ -121,21 +121,25 @@ https://live.hanoitv.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1  tvg-name="TH NGHỆ AN HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/NTV%20-%20%C4%90%C3%A0i%20Ph%C3%A1t%20thanh%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An.png",TH Nghệ An HD
 http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="K+CINE HD • PHIM & THỂ THAO" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+CINE%20HD.png",K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
-https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/afdcb443747e2c0149b546992a0b215c/1651034949979/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="K+LIFE HD • GIẢI TRÍ & CUỘC SỐNG" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+LIFE%20HD.png",K+LIFE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
-https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/4f2f844ce4e9aadd39287455f0888341/1651034950128/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_web.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="K+SPORT1 HD • THỂ THAO ĐỈNH CAO" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%201%20HD.png",K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
-https://hni-fpt-001-livecdn-vthn2-vnd.vieon.vn/90cbecb534a58001bdf4a018579b046a/1651034950195/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="K+SPORT2 HD • PHÁI MẠNH & PHONG CÁCH" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K+SPORT%202%20HD.png",K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
-https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/bb1eb4af39111628e3d74f47dbee610f/1651034950270/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1  tvg-name="BTV9 - TH AN VIÊN HD" group-title="KÊNH TRONG NƯỚC ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV9%20-%20An%20Vi%C3%AAn%20HD.png",BTV9 - TH An Viên HD
 https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-name="BOX MOVIE 1 HD" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
