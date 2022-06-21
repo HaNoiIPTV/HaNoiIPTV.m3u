@@ -332,7 +332,7 @@ http://gg.gg/HaNoiIPTV-TV5Monde_Asie
 http://gg.gg/HaNoiIPTV-DW
 #EXTINF:-1  tvg-name="FRANCE 24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
 http://gg.gg/HaNoiIPTV-France_24
-#EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/S%E1%BB%B1%20ki%E1%BB%87n/VP%20-%20TH%20V%C4%A9nh%20Ph%C3%BAc%20HD%20%E2%80%A2%20B%E1%BA%A3n%20T%E1%BA%BFt%202020%20kh%C3%B4ng%20hoa.png",VP - Truyền hình Vĩnh Phúc HD
+#EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
 http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
 #EXTINF:-1  tvg-name="QRTV - TH QUẢNG TRỊ HD" tvg-id="https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Tr%E1%BB%8B%20HD.png",QRTV - Truyền hình Quảng Trị HD
 http://gg.gg/HaNoiIPTV-QRTV-Truyen_hinh_Quang_Tri_HD
@@ -364,7 +364,7 @@ http://gg.gg/HaNoiIPTV-DTV-Truyen_hinh_Dien_Bien_HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  tvg-name="HGTV - TH HÀ GIANG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - Truyền hình Hà Giang HD
 http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Ha_Giang_HD
-#EXTINF:-1  tvg-name="TBK - TH BẮC KẠN HD" tvg-id="https://live.thhp.vn/drt/index.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - Truyền hình Bắc Kạn HD
+#EXTINF:-1  tvg-name="TBK - TH BẮC KẠN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - Truyền hình Bắc Kạn HD
 http://gg.gg/HaNoiIPTV-TBK-Truyen_hinh_Bac_Kan_HD
 #EXTINF:-1  tvg-name="LSTV - TH LẠNG SƠN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",LSTV - Truyền hình Lạng Sơn HD
 http://gg.gg/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
@@ -376,7 +376,7 @@ http://gg.gg/HaNoiIPTV-TN2_HD-Khoa_giao_va_Giai_tri
 http://gg.gg/HaNoiIPTV-BGTV-Truyen_hinh_Bac_Giang_HD
 #EXTINF:-1  tvg-name="QTV1 - TH QUẢNG NINH 1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%201%20HD.png",QTV1 - Truyền hình Quảng Ninh 1 HD
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-#EXTINF:-1  tvg-name="QTV3 - TH QUẢNG NINH 3 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%203%20HD.png",QTV3 - Truyền hình Quảng Ninh 3 HD
+#EXTINF:-1  tvg-name="QTV3 - TH QUẢNG NINH 3 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%203%20HD.png",QTV3 - Truyền hình Quảng Ninh 3 HD
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  tvg-name="STV - TH SƠN LA HD" tvg-id="http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w2092559905_b1384000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - Truyền hình Sơn La HD
 http://gg.gg/HaNoiIPTV-STV-Truyen_hinh_Son_La_HD
@@ -386,7 +386,7 @@ http://gg.gg/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD
 http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Tuyen_Quang_HD
 #EXTINF:-1  tvg-name="HTTV - TH HÀ TĨNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",HTTV - Truyền hình Hà Tĩnh HD
 http://gg.gg/HaNoiIPTV-HTTV-Truyen_hinh_Ha_Tinh_HD
-#EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - Truyền hình Quảng Bình HD
+#EXTINF:-1  tvg-name="QBTV - TH QUẢNG BÌNH HD" tvg-id="http://vn.tvnet.gov.vn/kenh-truyen-hinh/1051/quang-binh" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20B%C3%ACnh%20HD.png",QBTV - Truyền hình Quảng Bình HD
 http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD
 #EXTINF:-1  tvg-name="TRT - TH THỪA THIÊN HUẾ" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",TRT - Truyền hình Thừa Thiên Huế
 http://gg.gg/HaNoiIPTV-TRT-Truyen_hinh_Thua_Thien_Hue
@@ -410,7 +410,7 @@ http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Ninh_Thuan_HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Binh_Thuan_HD
 #EXTINF:-1  tvg-name="THGL - TH GIA LAI HD" tvg-id="http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THGL%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Gia%20Lai%20HD.png",THGL - Truyền hình Gia Lai HD
 http://gg.gg/HaNoiIPTV-THGL-Truyen_hinh_Gia_Lai_HD
-#EXTINF:-1  tvg-name="KRT - TH KON TUM" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",KRT - Truyền hình Kon Tum
+#EXTINF:-1  tvg-name="KRT - TH KON TUM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",KRT - Truyền hình Kon Tum HD
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1  tvg-name="DRT - TH ĐẮK LẮK HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk.png",DRT - Truyền hình Đắk Lắk HD
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
