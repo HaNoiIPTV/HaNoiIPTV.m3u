@@ -308,7 +308,7 @@ http://gg.gg/HaNoiIPTV-Arirang
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:-1  tvg-name="NHK WORLD JAPAN HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK World
 http://gg.gg/HaNoiIPTV-NHK_World_Japan_HD
-#EXTINF:-1  tvg-name="CNN" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNN.png",CNN
+#EXTINF:-1  tvg-name="CNN" tvg-id="https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNN.png",CNN
 http://gg.gg/HaNoiIPTV-CNN
 #EXTINF:-1  tvg-name="BBC WORLD NEWS" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20WORLD%20NEWS.png",BBC WORLD NEWS
 http://gg.gg/HaNoiIPTV-BBC_World_News
@@ -326,8 +326,8 @@ http://gg.gg/HaNoiIPTV-SCTV8-ViTV
 http://gg.gg/HaNoiIPTV-CNBC
 #EXTINF:-1  tvg-name="CHANNEL NEWS ASIA" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Channel%20News%20Asia.png",Channel News Asia
 http://gg.gg/HaNoiIPTV-Channel_News_Asia
-#EXTINF:-1  tvg-name="TV5"group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5Monde Asie
-http://gg.gg/HaNoiIPTV-TV5Monde_Asie
+#EXTINF:-1  tvg-name="TV5" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5
+http://gg.gg/HaNoiIPTV-TV5_MONDE_ASIE
 #EXTINF:-1  tvg-name="DW" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 http://gg.gg/HaNoiIPTV-DW
 #EXTINF:-1  tvg-name="FRANCE 24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
