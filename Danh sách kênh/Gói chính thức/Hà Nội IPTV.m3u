@@ -118,7 +118,7 @@ http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_1
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="VTC3 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="49" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD
 http://gg.gg/HaNoiIPTV-VTC3_HD
-#EXTINF:-1  tvg-name="tvN SPORTS • THỂ THAO HÀNG ĐẦU" tvg-id="http://49.167.236.190:9981/stream/channelid/68" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20tvN%20SPORTS%20HD.png",tvN SPORTS • THỂ THAO HÀNG ĐẦU
+#EXTINF:-1  tvg-name="tvN SPORTS • THỂ THAO HÀNG ĐẦU" tvg-id="http://49.167.236.190:9981/stream/channelid/68" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20tvN%20SPORTS%20HD.png",tvN SPORTS • THỂ THAO HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_20-tvN_SPORTS-The_thao_Hang_dau
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
@@ -340,7 +340,7 @@ http://gg.gg/HaNoiIPTV-QRTV-Truyen_hinh_Quang_Tri_HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
 #EXTINF:-1  tvg-name="CRTV - TH CAO BẰNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
 http://gg.gg/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
-#EXTINF:-1  tvg-name="THLC - TH LÀO CAI" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - Truyền hình Lào Cai
+#EXTINF:-1  tvg-name="THLC - TH LÀO CAI" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - Truyền hình Lào Cai
 http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai_HD
 #EXTINF:-1  tvg-name="HYTV HD - TH HƯNG YÊN" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png",HYTV HD - Truyền hình Hưng Yên
 http://gg.gg/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
