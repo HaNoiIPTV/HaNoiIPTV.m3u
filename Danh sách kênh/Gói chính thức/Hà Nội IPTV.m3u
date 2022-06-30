@@ -6,7 +6,7 @@
 
 #EXTINF:-1  tvg-name="ĐIỂM HẸN HANOITV HD" group-title="KÊNH ĐỘC QUYỀN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Điểm hẹn HanoiTV HD
 http://gg.gg/Diem_hen_HanoiTV_HD
-#EXTINF:-1  tvg-name="SBS HD • TRUYỀN HÌNH THỦ ĐÔ" tvg-id="http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png",SBS HD • TRUYỀN HÌNH THỦ ĐÔ
+#EXTINF:-1  tvg-name="SBS HD • TRUYỀN HÌNH THỦ ĐÔ" tvg-id="http://132.145.83.248:9981/stream/channel/a305dc9c0a63b2b8de7a0eb76d0583f5 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png",SBS HD • TRUYỀN HÌNH THỦ ĐÔ
 http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
 #EXTINF:-1  tvg-name="VTV1 HD" tvg-id="https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png" tvg-chno="3" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
@@ -210,7 +210,7 @@ http://gg.gg/HaNoiIPTV-Kix_HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="NGC HD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/National%20Geographic%20HD.png",National Geographic HD
 http://gg.gg/HaNoiIPTV-National_Geographic_HD
-#EXTINF:-1  tvg-name="HISTORY HD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
+#EXTINF:-1  tvg-name="HISTORY HD" tvg-id="http://132.145.83.248:9981/stream/channel/a2464cb9aeccbf14b7e18a1cc79a707a" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
 http://gg.gg/HaNoiIPTV-History_HD
 #EXTINF:-1  tvg-name="SCTV14 - KÊNH PHIM VIỆT HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV14%20-%20K%C3%AAnh%20Phim%20Vi%E1%BB%87t%20HD.png",SCTV14 - Kênh Phim Việt HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8|Referer=http://sctvonline.vn/
@@ -644,9 +644,9 @@ http://gg.gg/Ha_Noi_IPTV_49-MBC_Drama-Phim_truyen_Dac_sac
 http://gg.gg/Ha_Noi_IPTV_50-MBCM-Am_nhac_va_Giai_tri
 #EXTINF:-1  tvg-name="MBC ON • PHIM TRUYỆN TỔNG HỢP" tvg-id="http://106.255.223.76:9981/stream/channelid/126 và http://221.167.205.241:9981/stream/channelid/57" group-title="KÊNH ĐỘC QUYỀN" tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_06.png",MBC ON • PHIM TRUYỆN TỔNG HỢP
 http://gg.gg/Ha_Noi_IPTV_52_Plus-MBC_ON-Phim_truyen_Tong_hop
-#EXTINF:-1  tvg-name="SBS Plus • PHIM TRUYỆN ĐẶC SẮC" tvg-id="http://221.167.205.241:9981/stream/channelid/54" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2053%20-%20SBS%20Plus%20HD.png",SBS Plus • PHIM TRUYỆN ĐẶC SẮC
+#EXTINF:-1  tvg-name="SBS Plus • PHIM TRUYỆN ĐẶC SẮC" tvg-id="http://132.145.83.248:9981/stream/channel/fa9962e7bda00f0ea3c89eecbd987036 và http://221.167.205.241:9981/stream/channelid/54" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2053%20-%20SBS%20Plus%20HD.png",SBS Plus • PHIM TRUYỆN ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_53-SBS_Plus-Phim_truyen_Dac_sac
-#EXTINF:-1  tvg-name="SBS funE • GIẢI TRÍ ĐẶC SẮC" tvg-id="http://221.167.205.241:9981/stream/channelid/84" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2054%20-%20SBS%20funE%20HD.png",SBS funE • GIẢI TRÍ ĐẶC SẮC
+#EXTINF:-1  tvg-name="SBS funE • GIẢI TRÍ ĐẶC SẮC" tvg-id="http://132.145.83.248:9981/stream/channel/a6ee5a457071295e01c4da508c075449 và http://221.167.205.241:9981/stream/channelid/84" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2054%20-%20SBS%20funE%20HD.png",SBS funE • GIẢI TRÍ ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_54-SBS_funE-Giai_tri_Dac_sac
 #EXTINF:-1  tvg-name="SBS F!L • GIẢI TRÍ CAO CẤP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2055%20-%20SBS%20F!L%20HD.png",SBS F!L • GIẢI TRÍ CAO CẤP
 http://gg.gg/Ha_Noi_IPTV_55-SBS_FiL-Giai_tri_Cao_cap
@@ -658,7 +658,7 @@ http://gg.gg/Ha_Noi_IPTV_47-KBSN_Sports-The_thao_Dac_sac
 http://gg.gg/Ha_Noi_IPTV_52-MBC_Sports_Plus-The_thao_Dac_sac
 #EXTINF:-1  tvg-name="SBS Sports • THỂ THAO ĐẶC SẮC" tvg-id="http://49.167.236.190:9981/stream/channelid/75 và http://106.255.223.76:9981/stream/channelid/113" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa5f101981105100902.png",SBS Sports • THỂ THAO ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_56-SBS_Sports-The_thao_Dac_sac
-#EXTINF:-1  tvg-name="SBS Golf • THỂ THAO GOLF" tvg-id="http://106.255.223.76:9981/stream/channelid/115" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2057%20-%20SBS%20Golf%20HD.png",SBS Golf • THỂ THAO GOLF
+#EXTINF:-1  tvg-name="SBS Golf • THỂ THAO GOLF" tvg-id="http://132.145.83.248:9981/stream/channel/f0c95810d6cc153bd31d6c8e8a0237c4 và http://106.255.223.76:9981/stream/channelid/115" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2057%20-%20SBS%20Golf%20HD.png",SBS Golf • THỂ THAO GOLF
 http://gg.gg/Ha_Noi_IPTV_57-SBS_Golf-The_thao_Golf
 #EXTINF:-1  tvg-name="SPOTV • THỂ THAO HÀNG ĐẦU" tvg-id="http://49.167.236.190:9981/stream/channelid/85 và http://106.255.223.76:9981/stream/channelid/76" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2059%20-%20SPOTV%20HD.png",SPOTV • THỂ THAO HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_59-SPOTV-The_thao_Hang_dau
