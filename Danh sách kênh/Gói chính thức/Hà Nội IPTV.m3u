@@ -24,7 +24,7 @@ http://gg.gg/HaNoiIPTV-VTV6_HD
 http://gg.gg/HaNoiIPTV-VTV7_HD
 #EXTINF:-1  tvg-name="VTV8 HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8.png" tvg-chno="10" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD
 http://gg.gg/HaNoiIPTV-VTV8_HD
-#EXTINF:-1  tvg-name="VTV9 HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/vtv9hd_vhls.smil/chunklist_b5000000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD.png" tvg-chno="11" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
+#EXTINF:-1  tvg-name="VTV9 HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/vtv9hd_vhls.smil/chunklist_b5000000.m3u8 và http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD.png" tvg-chno="11" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
 http://gg.gg/HaNoiIPTV-VTV9_HD
 #EXTINF:-1  tvg-name="VTV HYUNDAI HOMESHOPPING" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab13%20-%20VTV%20HYUNDAI%20HOMESHOPPING.png",VTV Hyundai Homeshopping
 http://gg.gg/HaNoiIPTV-VTVCab13-VTV_Hyundai_Homeshopping
