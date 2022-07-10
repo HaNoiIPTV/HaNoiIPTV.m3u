@@ -238,8 +238,8 @@ http://gg.gg/HaNoiIPTV-Animax_HD
 http://gg.gg/HaNoiIPTV-Dreamworks_HD
 #EXTINF:-1  tvg-name="CBEEBIES HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CBeebies%20HD.png",CBeebies HD
 http://gg.gg/HaNoiIPTV-CBeebies_HD
-#EXTINF:-1  tvg-name="YTN2 • TIN TỨC & CUỘC SỐNG" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%2B%20-%20YTN2%20HD.png",YTN2 • TIN TỨC & CUỘC SỐNG
-http://gg.gg/Ha_Noi_IPTV_2_Plus-YTN2-Tin_tuc_va_Cuoc_song
+#EXTINF:-1  tvg-name="哈哈炫动 • HOẠT HÌNH ĐẶC SẮC" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8%E5%8D%AB%E8%A7%86.png",哈哈炫动 • HOẠT HÌNH ĐẶC SẮC
+http://gg.gg/HaNoiIPTV-Ha_Ha_Xuan_Dong_Wei_Shi_HD
 #EXTINF:-1  tvg-name="SCTV3 - SEE TV HD" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV3%20-%20SeeTV.png",SCTV3 - SeeTV
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv3/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="HTV3" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV3%20-%20DreamsTV.png",HTV3
@@ -620,8 +620,8 @@ http://gg.gg/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Danh_cho_Gioi_tre
 http://gg.gg/Ha_Noi_IPTV_12-MBN_Plus-Kenh_phu_Quoc_gia
 #EXTINF:-1  tvg-name="TV CHOSUN 2 • PHIM DÀNH CHO GIA ĐÌNH" tvg-id="http://221.167.205.241:9981/stream/channelid/102 và http://106.255.223.76:9981/stream/channelid/152" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2014%20-%20TV%20Chosun%202%20HD.png",TV CHOSUN 2 • PHIM DÀNH CHO GIA ĐÌNH
 http://gg.gg/Ha_Noi_IPTV_14-TV_Chosun_2-Phim_danh_cho_Gia_dinh
-#EXTINF:-1  tvg-name="TV CHOSUN 3 • GIẢI TRÍ DÀNH CHO GIA ĐÌNH" tvg-id="http://106.255.223.76:9981/stream/channelid/148" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2014%2B%20-%20TV%20Chosun%203%20HD.png",TV CHOSUN 3 • GIẢI TRÍ DÀNH CHO GIA ĐÌNH
-http://gg.gg/Ha_Noi_IPTV_14_Plus-TV_Chosun_3-Giai_tri_danh_cho_Gia_dinh
+#EXTINF:-1  tvg-name="YTN2 • TIN TỨC & CUỘC SỐNG" tvg-id="http://106.255.223.76:9981/stream/channelid/148" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%2B%20-%20YTN2%20HD.png",YTN2 • TIN TỨC & CUỘC SỐNG
+http://gg.gg/Ha_Noi_IPTV_2_Plus-YTN2-Tin_tuc_va_Cuoc_song
 #EXTINF:-1  tvg-name="CHANNEL A+ • GIẢI TRÍ CHỌN LỌC" tvg-id="http://132.145.83.248:9981/stream/channel/64061807c52442821a93bf2df18c261f và http://221.167.205.241:9981/stream/channelid/104" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2016%20-%20Channel%20A%20Plus%20HD.png",CHANNEL A+ • GIẢI TRÍ CHỌN LỌC
 http://gg.gg/Ha_Noi_IPTV_16-Channel_A_Plus-Giai_tri_Chon_loc
 #EXTINF:-1  tvg-name="中华TV • 最佳电视剧" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%86%85IPTV%2023%20-%20%E4%B8%AD%E5%8D%8ETV%20HD.png",中华TV • 最佳电视剧
