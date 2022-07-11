@@ -110,24 +110,24 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-#EXTINF:-1  tvg-name="tvN • GIẢI TRÍ HÀNG ĐẦU" tvg-id="http://221.167.205.241:9981/stream/channelid/78 và http://106.255.223.76:9981/stream/channelid/118" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN • GIẢI TRÍ HÀNG ĐẦU
-http://gg.gg/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
-#EXTINF:-1  tvg-name="tvN SHOW • CHƯƠNG TRÌNH HẤP DẪN" tvg-id="http://221.167.205.241:9981/stream/channelid/39 và http://106.255.223.76:9981/stream/channelid/107" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20SHOW%20HD.png",tvN SHOW • CHƯƠNG TRÌNH HẤP DẪN
-http://gg.gg/Ha_Noi_IPTV_24-tvN_Show-Chuong_trinh_Hap_dan
-#EXTINF:-1  tvg-name="tvN DRAMA • PHIM & GIẢI TRÍ" tvg-id="http://221.167.205.241:9981/stream/channelid/55 và http://106.255.223.76:9981/stream/channelid/73" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2025%20-%20tvN%20DRAMA%20HD.png",tvN DRAMA • PHIM & GIẢI TRÍ
-http://gg.gg/Ha_Noi_IPTV_25-tvN_Drama-Phim_va_Giai_tri
-#EXTINF:-1  tvg-name="MNet • ÂM NHẠC CHUYÊN BIỆT" tvg-id="http://221.167.205.241:9981/stream/channelid/83 và http://106.255.223.76:9981/stream/channelid/36" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%206%20-%20MNet%20HD.png",MNet • ÂM NHẠC CHUYÊN BIỆT
-http://gg.gg/Ha_Noi_IPTV_6-MNet-Am_nhac_Chuyen_biet
 #EXTINF:-1  tvg-name="东方卫视高清 - TH THƯỢNG HẢI HD" tvg-id="http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视高清 - TH Thượng Hải HD
 http://gg.gg/HaNoiIPTV-Dong_Fang_Wei_Shi_HD
+#EXTINF:-1  tvg-name="新闻综合 • TIN TỨC TỔNG HỢP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",新闻综合 • TIN TỨC TỔNG HỢP
+http://gg.gg/HeNeiIPTV-Shang_Hai_Xin_Wen_Zong_He_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="外语频道 • NGOẠI NGỮ TỔNG HỢP" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E5%A4%96%E8%AF%AD%E9%A2%91%E9%81%93.png",外语频道 • NGOẠI NGỮ TỔNG HỢP
+http://gg.gg/HeNeiIPTV-Shang_Hai_Wai_Yu_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="东方影视 • PHIM TRUYỆN ĐẶC SẮC" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",东方影视 • PHIM TRUYỆN ĐẶC SẮC
+http://gg.gg/HeNeiIPTV-Dong_Fang_Ying_Shi_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="都市频道 • GIẢI TRÍ ĐẶC SẮC" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",都市频道 • GIẢI TRÍ ĐẶC SẮC
+http://gg.gg/HeNeiIPTV-Shang_Hai_Du_Shi_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="FM90 • TIN TỨC GIAO THÔNG" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM90%20Mhz%20%E2%80%A2%20TIN%20T%E1%BB%A8C%20GIAO%20TH%C3%94NG.png",FM90 • TIN TỨC GIAO THÔNG
 http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_1
 #EXTINF:-1  tvg-name="SCTV18 HD" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV18.png",SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="VTC3 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="49" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD
 http://gg.gg/HaNoiIPTV-VTC3_HD
-#EXTINF:-1  tvg-name="tvN SPORTS • THỂ THAO HÀNG ĐẦU" tvg-id="http://221.167.205.241:9981/stream/channelid/44" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20tvN%20SPORTS%20HD.png",tvN SPORTS • THỂ THAO HÀNG ĐẦU
-http://gg.gg/Ha_Noi_IPTV_20-tvN_SPORTS-The_thao_Hang_dau
+#EXTINF:-1  tvg-name="五星体育 • THỂ THAO ĐẶC SẮC" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png",五星体育 • THỂ THAO ĐẶC SẮC
+http://gg.gg/HeNeiIPTV-Wu_Xing_Ti_Yu_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 http://gg.gg/HaNoiIPTV-HTV_The_Thao_HD
 #EXTINF:-1  tvg-name="SCTV17 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
