@@ -160,10 +160,10 @@ https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
 #EXTINF:-1  tvg-name="NTV - TH NGHỆ AN HD" tvg-id="https://live.truyenhinhnghean.vn/hls/na1/index.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD.png",NTV - Truyền hình Nghệ An HD
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nghe_An_HD
-#EXTINF:-1  tvg-name="KBS2 HD • GIẢI TRÍ QUỐC GIA" tvg-id="http://132.145.83.248:9981/stream/channel/b158a20a94db5422aa33ccc9c21c8b9c" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%201%20-%20KBS2%20HD.png",KBS2 HD • GIẢI TRÍ QUỐC GIA
-http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
-#EXTINF:-1  tvg-name="MBC HD • ĐẶC SẮC QUỐC GIA" tvg-id="http://132.145.83.248:9981/stream/channel/25180a1aa6550d272c38f723827cf68d" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%203%20-%20MBC%20HD.png",MBC HD • ĐẶC SẮC QUỐC GIA
-http://gg.gg/Ha_Noi_IPTV_3-MBC_HD-Dac_sac_Quoc_gia
+#EXTINF:-1  tvg-name="星尚频道 • GIẢI TRÍ TỔNG HỢP" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%9F%E5%B0%9A%E9%A2%91%E9%81%93.png",星尚频道 • GIẢI TRÍ TỔNG HỢP
+http://gg.gg/HeNeiIPTV-Xing_Shang_Pin_Dao_Gao_Qing
+#EXTINF:-1  tvg-name="娱乐频道 • GIẢI TRÍ TỔNG HỢP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E5%A8%B1%E4%B9%90%E9%A2%91%E9%81%93.png",娱乐频道 • GIẢI TRÍ TỔNG HỢP
+http://gg.gg/HeNeiIPTV-Shang_Hai_Yu_Le_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="SCTV15 HD" group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="BOX MOVIE 1 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1 HD
@@ -456,10 +456,6 @@ http://gg.gg/HaNoiIPTV-BTV9-Truyen_hinh_An_Vien_HD
 http://gg.gg/HeNeiIPTV-Shang_Hai_Yi_Shu_Ren_Wen_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="电视剧频道 • PHIM TỔNG HỢP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png",电视剧频道 • PHIM TỔNG HỢP
 http://gg.gg/HeNeiIPTV-Shang_Hai_Dian_Shi_Ju_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="星尚频道 • GIẢI TRÍ TỔNG HỢP" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%9F%E5%B0%9A%E9%A2%91%E9%81%93.png",星尚频道 • GIẢI TRÍ TỔNG HỢP
-http://gg.gg/HeNeiIPTV-Xing_Shang_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="娱乐频道 • GIẢI TRÍ TỔNG HỢP" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E5%A8%B1%E4%B9%90%E9%A2%91%E9%81%93.png",娱乐频道 • GIẢI TRÍ TỔNG HỢP
-http://gg.gg/HeNeiIPTV-Shang_Hai_Yu_Le_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="东方电影 • ĐIỆN ẢNH THẾ GIỚI" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png",东方电影 • ĐIỆN ẢNH THẾ GIỚI
 http://gg.gg/HeNeiIPTV-Dong_Fang_Dian_Ying_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="FM96 • KÊNH PHỤ" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM96%20Mhz%20%E2%80%A2%20K%C3%8ANH%20PH%E1%BB%A4.png",FM96 • KÊNH PHỤ
