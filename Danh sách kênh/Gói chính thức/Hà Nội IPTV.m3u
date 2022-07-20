@@ -294,8 +294,8 @@ http://gg.gg/HaNoiIPTV-HTVC_Gia_Dinh
 http://gg.gg/HaNoiIPTV-HTVC_Phu_Nu
 #EXTINF:-1  tvg-name="VTC10 HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC10%20HD.png" tvg-chno="126" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC10 HD
 http://gg.gg/HaNoiIPTV-VTC10_HD
-#EXTINF:-1  tvg-name="MIỀN TÂY - THĐT2" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T2%20-%20K%C3%AAnh%20mi%E1%BB%81n%20T%C3%A2y.png",Miền Tây - THĐT2
-http://202.43.109.145:1935/thdt2/thdt2/chunklist_w2022876202.m3u8
+#EXTINF:-1  tvg-name="HiTV • TIN TỨC TỔNG HỢP" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV • TIN TỨC TỔNG HỢP
+http://gg.gg/HaNoiIPTV-HiTV
 #EXTINF:-1  tvg-name="SCTV10 HD" group-title="KÊNH TỔNG HỢP" tvg-logo=" ",SCTV10 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="연합뉴스TV • MỌI LÚC MỌI NƠI" tvg-id="http://gg.gg/Ha_Noi_IPTV_Plus_2-Yonhap_News_TV-Moi_luc_Moi_noi" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV.png",연합뉴스TV • MỌI LÚC MỌI NƠI
@@ -466,10 +466,10 @@ http://gg.gg/Ha_Noi_IPTV_30-OLIFE-Du_lich_va_Cuoc_song
 http://gg.gg/Ha_Noi_IPTV_29-ONCE-Lich_su_Chuyen_biet
 #EXTINF:-1  tvg-name="tvN STORY • CÂU CHUYỆN ĐẶC SẮC" tvg-id="http://121.176.2.26:9981/stream/channelid/4" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%2B%20-%20tvN%20STORY%20HD.png",tvN STORY • CÂU CHUYỆN ĐẶC SẮC
 http://gg.gg/Ha_Noi_IPTV_21-tvN_Story-Cau_chuyen_Dac_sac
+#EXTINF:-1  tvg-name="THĐT2 - VĂN HÓA MIỀN TÂY" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T2%20-%20K%C3%AAnh%20mi%E1%BB%81n%20T%C3%A2y.png",THĐT2 • VĂN HÓA MIỀN TÂY
+http://202.43.109.145:1935/thdt2/thdt2/chunklist_w2022876202.m3u8
 #EXTINF:-1  tvg-name="FM96 • KÊNH PHỤ" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM96%20Mhz%20%E2%80%A2%20K%C3%8ANH%20PH%E1%BB%A4.png",FM96 • KÊNH PHỤ
 http://gg.gg/HaNoiIPTV-Phat_thanh_Ha_Noi_2
-#EXTINF:-1  tvg-name="HiTV • TIN TỨC TỔNG HỢP" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HiTV%20-%20Hanoicab%201.png",HiTV • TIN TỨC TỔNG HỢP
-http://gg.gg/HaNoiIPTV-HiTV
 #EXTINF:-1  tvg-name="TVBS 新聞台" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",TVBS 新聞台
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1  tvg-name="ON Action Sports HD" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Action%20Sports%20Premium%20HD.png",ON Action Sports HD
