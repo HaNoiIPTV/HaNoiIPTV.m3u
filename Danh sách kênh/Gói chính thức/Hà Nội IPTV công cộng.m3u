@@ -26,16 +26,16 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTINF:-1  tvg-name="THND - TH NHÂN DÂN HD" tvg-id="https://api.vthanhtivii.xyz/v1/getlink/mytv_web/224/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THND%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nh%C3%A2n%20D%C3%A2n%20HD.png",THND - Truyền hình Nhân Dân HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1386832030.m3u8
-#EXTINF:-1  tvg-name="VTC1 HD" tvg-id="https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC1%20HD.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/188/hd
+#EXTINF:-1  tvg-name="VTC1 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/188/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC1%20HD.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD
+https://api.television4you.xyz/v1/getlink/tv360/16/6
 #EXTINF:-1  tvg-name="TH TTXVN - VNEWS HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH Thông tấn xã Việt Nam - VNews HD
 https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-#EXTINF:-1  tvg-name="ANTV - TH AN NINH HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png",ANTV - Truyền hình An Ninh HD
+#EXTINF:-1  tvg-name="ANTV - TH AN NINH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png",ANTV - Truyền hình An Ninh HD
 https://live.antv.gov.vn/antv/chunklist.m3u8
-#EXTINF:-1  tvg-name="QPVN - QUỐC PHÒNG VIỆT NAM HD" tvg-id="https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Quốc phòng Việt Nam HD
-https://api.television4you.xyz/v1/getlink/mytv_web/227/hd
-#EXTINF:-1  tvg-name="VTV HYUNDAI HOMESHOPPING" tvg-id="https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab13%20-%20VTV%20HYUNDAI%20HOMESHOPPING.png",VTV Hyundai Homeshopping
-https://api.television4you.xyz/v1/getlink/mytv_web/251/high
+#EXTINF:-1  tvg-name="QPVN - QUỐC PHÒNG VIỆT NAM HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/227/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Quốc phòng Việt Nam HD
+https://api.television4you.xyz/v1/getlink/tv360/19/7808454
+#EXTINF:-1  tvg-name="VTV HYUNDAI HOMESHOPPING" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/251/high" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab13%20-%20VTV%20HYUNDAI%20HOMESHOPPING.png",VTV Hyundai Homeshopping
+https://api.television4you.xyz/v1/getlink/tv360/27/3
 #EXTINF:-1  tvg-name="VTVCab1 - Vie GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20HD.png",VTVCab1 - Vie Giải Trí
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="ON Phim Việt HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab2%20-%20ON%20Phim%20Vi%E1%BB%87t%20HD.png",ON Phim Việt HD
@@ -124,30 +124,30 @@ http://nettv.live/hls/shanghai.php?id=dspd
 https://livept.hanoitv.vn/hntvRadio/fm90.sdp_aac/chunklist_w1989609062.m3u8
 #EXTINF:-1  tvg-name="SCTV18 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV18.png",SCTV18 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="VTC3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/192/hd
+#EXTINF:-1  tvg-name="VTC3 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/192/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC3%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD
+https://api.television4you.xyz/v1/getlink/tv360/197/6
 #EXTINF:-1  tvg-name="五星体育 • THỂ THAO ĐẶC SẮC" tvg-id="http://gg.gg/HeNeiIPTV-Wu_Xing_Ti_Yu_Pin_Dao_Gao_Qing" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png",五星体育 • THỂ THAO ĐẶC SẮC
 http://stream-shbu.bestvcdn.com:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+https://api.television4you.xyz/v1/getlink/tv360/195/5
 #EXTINF:-1  tvg-name="SCTV17 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="VTC7 - TODAY TV HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7%20-%20Today%20TV%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/todaytv_1000.stream/chunks_dvr_range-${start}-3600.m3u8",VTC7 Today TV HD
-https://api.television4you.xyz/v1/getlink/mytv_web/398/hd
+#EXTINF:-1  tvg-name="VTC7 - TODAY TV HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/398/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7%20-%20Today%20TV%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/todaytv_1000.stream/chunks_dvr_range-${start}-3600.m3u8",VTC7 - Today TV HD
+https://api.television4you.xyz/v1/getlink/tv360/201/6
 #EXTINF:-1  tvg-name="THP+ HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP+%20HD.png",THP+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1  tvg-name="SCTV4 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="TH VĨNH LONG 1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201%20HD.png",Truyền hình Vĩnh Long 1 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/421/hd
-#EXTINF:-1  tvg-name="TH VĨNH LONG 2 HD" tvg-id="https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist_b2500000.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",Truyền hình Vĩnh Long 2 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/423/hd
-#EXTINF:-1  tvg-name="HTV2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png" tvg-chno="57" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv2hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",HTV2 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/127/hd
-#EXTINF:-1  tvg-name="HTV7 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png" tvg-chno="58" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/128/hd
-#EXTINF:-1  tvg-name="HTV9 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="59" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9 HD
-https://api.television4you.xyz/v1/getlink/mytv_web/190/hd
+#EXTINF:-1  tvg-name="TH VĨNH LONG 1 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/421/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201%20HD.png",Truyền hình Vĩnh Long 1 HD
+https://api.television4you.xyz/v1/getlink/tv360/25/7808462
+#EXTINF:-1  tvg-name="TH VĨNH LONG 2 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/423/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",Truyền hình Vĩnh Long 2 HD
+https://api.television4you.xyz/v1/getlink/tv360/26/7808462
+#EXTINF:-1  tvg-name="HTV2 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/127/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png" tvg-chno="57" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv2hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",HTV2 HD
+https://api.television4you.xyz/v1/getlink/tv360/191/5
+#EXTINF:-1  tvg-name="HTV7 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/128/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png" tvg-chno="58" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7 HD
+https://api.television4you.xyz/v1/getlink/tv360/193/5
+#EXTINF:-1  tvg-name="HTV9 HD" tvg-id="https://api.television4you.xyz/v1/getlink/mytv_web/190/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png" tvg-chno="59" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9 HD
+https://api.television4you.xyz/v1/getlink/tv360/194/5
 #EXTINF:-1  tvg-name="THTNVN - VOVTV HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20VOV%20HD.png",TH Tiếng nói Việt Nam - VOVTV HD
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD" tvg-id="https://api.vthanhtivii.xyz/v1/getlink/mytv_web/477/hd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.png",TTV - Truyền hình Thanh Hóa HD
@@ -173,7 +173,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 #EXTINF:-1  tvg-name="BOX HITS HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png" tvg-chno="75" catchup="append" catchup-days="0.3" catchup-source="https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2_${start}.m3u8",BOX Hits HD
 http://live.television4you.xyz/boxhits/mpegts
 #EXTINF:-1  tvg-name="IN THE BOX CHANNEL" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png" tvg-chno="76" catchup="append" catchup-days="0.3" catchup-source="https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2_${start}.m3u8",In The BOX Channel
-http://live.television4you.xyz:8080/inthebox
+https://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 #EXTINF:-1  tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",Cinemax HD
@@ -195,7 +195,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1  tvg-name="MUSIC BOX HD" tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",Music BOX HD
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="MAN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png" tvg-chno="87" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8",MAN
-http://live.television4you.xyz:8080/man
+https://api.television4you.xyz/v1/getlink/tv360_s2/237/3
 #EXTINF:-1  tvg-name="BLUE ANT ENTERTAIMENT HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Entertaiment%20HD.png",Blue Ant Entertaiment HD
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="BLUE ANT EXTREME HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Blue%20Ant%20Extreme%20HD.png",Blue Ant Extreme HD
