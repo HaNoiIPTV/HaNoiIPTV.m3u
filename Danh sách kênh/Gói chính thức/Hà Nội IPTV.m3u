@@ -28,11 +28,11 @@ http://gg.gg/HaNoiIPTV-VTV7_HD
 http://gg.gg/HaNoiIPTV-VTV8_HD
 #EXTINF:-1  tvg-name="VTV9 HD" tvg-id="https://vips-livecdn.fptplay.net/hda2/vtv9hd_vhls.smil/chunklist_b5000000.m3u8 và https://api.vthanhtivii.xyz/v1/getlink/mytv_web/381/hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD.png" tvg-chno="11" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
 http://gg.gg/HaNoiIPTV-VTV9_HD
-#EXTINF:-1  tvg-name="THP+ HD" group-title="KÊNH TRONG NƯỚC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP+%20HD.png",THP+ HD
+#EXTINF:-1  tvg-name="THP+ HD" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP+%20HD.png",THP+ HD
 https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1  tvg-name="TH HÀ NỘI 1 HD" tvg-id="http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",Truyền hình Hà Nội 1 HD
+#EXTINF:-1  tvg-name="TH HÀ NỘI 1 HD" tvg-id="http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TH%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20Ch%E1%BB%A7%20%C4%91%E1%BB%81%20N%C4%83m%20h%E1%BB%8Dc%20m%E1%BB%9Bi%202022%2C%202023.png",Truyền hình Hà Nội 1 HD
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1  tvg-name="TH HÀ NỘI 2 HD" tvg-id="https://api.vthanhtivii.xyz/v1/getlink/mytv_web/401/hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD.png",Truyền hình Hà Nội 2 HD
+#EXTINF:-1  tvg-name="TH HÀ NỘI 2 HD" tvg-id="https://api.vthanhtivii.xyz/v1/getlink/mytv_web/401/hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TH%20H%C3%A0%20N%E1%BB%99i%202%20HD%20%E2%80%A2%20Ch%E1%BB%A7%20%C4%91%E1%BB%81%20N%C4%83m%20h%E1%BB%8Dc%20m%E1%BB%9Bi%202022%2C%202023.png",Truyền hình Hà Nội 2 HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
 #EXTINF:-1  tvg-name="THND - TH NHÂN DÂN HD" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THND%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Nh%C3%A2n%20D%C3%A2n%20HD.png",THND - Truyền hình Nhân Dân HD
 http://gg.gg/HaNoiIPTV-THND-Truyen_hinh_Nhan_Dan_HD
