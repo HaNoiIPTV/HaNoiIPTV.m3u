@@ -1,4 +1,4 @@
-Hà Nội IPTV - Truyền hình số thế hệ mới xin kính chào quý khách! Hiện nay, Hà Nội IPTV đang áp dụng 2 gói cơ bản đang được áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Hà Nội IPTV](http://gg.gg/hanoiiptv), [Hà Nội IPTV+](http://gg.gg/hanoiiptvplus)) và [gói phụ](http://gg.gg/hanoiiptvfamily)
+Hà Nội IPTV - Truyền hình số thế hệ mới xin kính chào quý khách! Hiện nay, Hà Nội IPTV đang áp dụng 3 gói cơ bản đang được áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Hà Nội IPTV](http://gg.gg/hanoiiptv), [Hà Nội IPTV+](http://gg.gg/hanoiiptvplus) và [dành cho một số thiết bị không được hỗ trợ một số kênh](http://gg.gg/hanoiiptvpublic)).
 =======
 Tròn 3 năm ra mắt (2020 - 2022), quý khách đã tận hưởng trọn vẹn dịch vụ này hoàn toàn miễn phí của chúng tôi. Tuy nhiên để tăng sự thu hút của quý khán giả ngày một tốt hơn, bắt đầu từ năm 2022, Hà Nội IPTV chính thức xóa bỏ các kênh truyền hình không còn phải sản xuất các chương trình trên lĩnh vực du lịch và khám phả tại Hà Nội và các tỉnh thành lân cận mà đã cho ra mắt 6 kênh truyền hình tường thuật thể thao đỉnh cao như: ON Sports HD tường thuật, ON Football HD tường thuật và ON Sports News tường thuật cùng với 2 kênh truyền hình tương tác trực tiếp trên dịch vụ như: TH Hà Nội 1 tương tác và Hình ảnh từ Cuộc sống [bằng phương pháp CDN công khai trên toàn cầu](http://sirv.com). Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
@@ -15,10 +15,10 @@ Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình vớ
 - Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: Điểm hẹn HanoiTV HD, SBS HD - TRUYỀN HÌNH THỦ ĐÔ, VTV1 HD, VTV2 HD, VTV3 HD, VTV6 HD, Vie GIẢI TRÍ, ON Phim Việt, VTVCab5 - E CHANNEL HD, ON Sports HD, ON Football HD, ON Sports News HD, ON Golf HD, On Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, MNet - ÂM NHẠC CHUYÊN BIỆT, SCTV17 HD, HTV2 HD, HTV7 HD, HTV9 HD, TH Hà Nội 1 HD, BOX Movie 1 HD, Hollywood Classics HD cùng một số kênh truyền hình đặc sắc khác,....<br />
 - Độc quyền sản xuất và phát sóng các chương trình, sự kiện đặc sắc cho 5 kênh truyền hình tường thuật thể thao & bóng đá cùng 2 kênh truyền hình tương tác trực tiếp trên dịch vụ với logo màn hình chữ "HD".<br />
 - Ngoài ra quý vị và các bạn còn có thể theo dõi các kênh truyền hình thiết yếu cho dịch vụ trên (bao gồm các kênh truyền hình thiết yếu của Trung ương và Địa phương) được chúng tôi cung cấp 100% với tiêu chuẩn HD, miễn phí theo dõi các nội dung tổng hợp với các lĩnh vực/chủ đề khác nhau được phát sóng liên tục trong ngày.<br />
-=> Chi tiết về các kênh nằm trong gói chính thức, mời quý vị và các bạn theo dõi [tại đây](https://diemhenhanoitv.sirv.com/B%E1%BA%A2NG%20K%C3%8ANH%20TR%C3%8AN%20D%E1%BB%8ACH%20V%E1%BB%A4%20H%C3%80%20N%E1%BB%98I%20IPTV.pdf).
+=> Chi tiết về các kênh nằm trong gói chính thức, mời quý vị và các bạn theo dõi [tại đây](https://hanoiiptv.sirv.com/B%E1%BA%A2NG%20K%C3%8ANH%20TR%C3%8AN%20D%E1%BB%8ACH%20V%E1%BB%A4%20H%C3%80%20N%E1%BB%98I%20IPTV.pdf).
 ### * Lưu ý: Đối với gói chính thức, quý khán giả cần cài đặt app IPTV, Dimplay, Tivimate trên hệ điều hành Android để theo dõi một cách đầy đủ và trọn vẹn hơn các app khác.<br />
-## II. [Gói phụ](http://gg.gg/hanoiiptvfamily)
-- Gói phụ được sắp xếp bởi các kênh truyền hình không trả phí cung cấp từ hạ tầng đầu thu kỹ thuật số mặt đất (DVB-T2).<br />
+## II. [Gói phụ](http://gg.gg/hanoiiptvplus) và [Gói dành cho một số thiết bị không được hỗ trợ một số kênh](http://gg.gg/hanoiiptvpublic)
+- Gói phụ được sắp xếp bởi các kênh truyền hình tương tự với gói chính thức nhưng sẽ loại bỏ một số kênh không cần thiết.<br />
 
 # D. Hướng dẫn dò kênh
 Quý khán giả có thể thực hiện thao tác đơn giản cho mọi nền tảng, thiết bị và phương tiện khác nhau cùng 1 thời điểm, mọi lúc - mọi nơi.<br />
@@ -73,8 +73,8 @@ a) Đối với hệ điều hành Android
 # G. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
-### Trung tâm Chức năng và Quản lý
-Địa chỉ: Số 1, Ngách 2/3/5 Đường Liên Cơ, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội<br />
+### Trung tâm Quản lý Dịch vụ
+Địa chỉ: Phòng 1604, Tầng 16, Tòa nhà COWA Tower, Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Cạnh chợ tự phát)<br />
 ### Quê hương Hà Nội IPTV
 Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
 Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
