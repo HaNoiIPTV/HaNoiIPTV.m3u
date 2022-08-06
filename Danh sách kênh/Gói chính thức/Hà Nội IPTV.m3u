@@ -208,18 +208,18 @@ https://cutt.ly/HaNoiIPTV-Blue_Ant_Extreme_HD
 https://cutt.ly/HaNoiIPTV-Kix_HD
 #EXTINF:-1  tvg-name="PLANET EARTH HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="NGC HD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/National%20Geographic%20HD.png",National Geographic HD
-http://gg.gg/HaNoiIPTV-National_Geographic_HD
-#EXTINF:-1  tvg-name="HISTORY HD" tvg-id="http://132.145.83.248:9981/stream/channel/a2464cb9aeccbf14b7e18a1cc79a707a" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
-http://gg.gg/HaNoiIPTV-History_HD
+#EXTINF:-1  tvg-name="NGC HD" tvg-id="http://gg.gg/HaNoiIPTV-National_Geographic_HD" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/National%20Geographic%20HD.png",National Geographic HD
+https://cutt.ly/HaNoiIPTV-National_Geographic_HD
+#EXTINF:-1  tvg-name="HISTORY HD" tvg-id="http://gg.gg/HaNoiIPTV-History_HD và http://132.145.83.248:9981/stream/channel/a2464cb9aeccbf14b7e18a1cc79a707a" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
+https://cutt.ly/HaNoiIPTV-History_HD
 #EXTINF:-1  tvg-name="SCTV14 - KÊNH PHIM VIỆT HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV14%20-%20K%C3%AAnh%20Phim%20Vi%E1%BB%87t%20HD.png",SCTV14 - Kênh Phim Việt HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14/s2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-name="SCTV PHIM TỔNG HỢP HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV%20Phim%20T%E1%BB%95ng%20H%E1%BB%A3p%20HD.png",SCTV Phim Tổng Hợp HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-name="BTV1 - TH BÌNH DƯƠNG 1 HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png",BTV1 - Truyền hình Bình Dương 1 HD
-http://gg.gg/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_1_HD
-#EXTINF:-1  tvg-name="KBS WORLD" tvg-id="https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS%20WORLD.png",KBS World
-http://gg.gg/HaNoiIPTV-KBS_World
+#EXTINF:-1  tvg-name="BTV1 - TH BÌNH DƯƠNG 1 HD" tvg-id="http://gg.gg/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_1_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png",BTV1 - Truyền hình Bình Dương 1 HD
+https://cutt.ly/HaNoiIPTV-BTV1-Truyen_hinh_Binh_Duong_1_HD
+#EXTINF:-1  tvg-name="KBS WORLD" tvg-id="http://gg.gg/HaNoiIPTV-KBS_World và https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KBS%20WORLD.png",KBS World
+https://cutt.ly/HaNoiIPTV-KBS_World
 #EXTINF:-1  tvg-name="BTV3 - TH BÌNH DƯƠNG 3 HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%203%20HD.png",BTV3 - Truyền hình Bình Dương 3 HD
 http://gg.gg/HaNoiIPTV-BTV3-Truyen_hinh_Binh_Duong_3_HD
 #EXTINF:-1  tvg-name="BTV4 HD - PHIM TRUYỆN TỔNG HỢP" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV4%20-%20iMOVIES%20HD.png",BTV4 HD - Phim truyện Tổng hợp
