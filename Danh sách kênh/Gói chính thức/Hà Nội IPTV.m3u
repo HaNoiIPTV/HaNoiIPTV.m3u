@@ -316,32 +316,32 @@ https://cutt.ly/HaNoiIPTV-BBC_World_News
 https://cutt.ly/HaNoiIPTV-Bloomberg
 #EXTINF:-1  tvg-name="ABC AUSTRALIA" tvg-id="http://gg.gg/HaNoiIPTV-ABC_Australia" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ABC%20AUSTRALIA.png",ABC AUSTRALIA
 https://cutt.ly/HaNoiIPTV-ABC_Australia
-#EXTINF:-1  tvg-name="VTC16 HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC16%20HD.png" tvg-chno="148" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
-http://gg.gg/HaNoiIPTV-VTC16_HD
-#EXTINF:-1  tvg-name="VTC14 HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC14%20HD.png" tvg-chno="149" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
-http://gg.gg/HaNoiIPTV-VTC14_HD
-#EXTINF:-1  tvg-name="SCTV8 - ViTV" tvg-id="https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8|Referer=http://sctvonline.vn/" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",SCTV8 - ViTV
-http://gg.gg/HaNoiIPTV-SCTV8-ViTV
-#EXTINF:-1  tvg-name="CNBC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNBC.png",CNBC
-http://gg.gg/HaNoiIPTV-CNBC
+#EXTINF:-1  tvg-name="VTC16 HD" tvg-id="http://gg.gg/HaNoiIPTV-VTC16_HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC16%20HD.png" tvg-chno="148" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
+https://cutt.ly/HaNoiIPTV-VTC16_HD
+#EXTINF:-1  tvg-name="VTC14 HD" tvg-id="http://gg.gg/HaNoiIPTV-VTC14_HD" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC14%20HD.png" tvg-chno="149" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
+https://cutt.ly/HaNoiIPTV-VTC14_HD
+#EXTINF:-1  tvg-name="SCTV8 - ViTV" tvg-id="http://gg.gg/HaNoiIPTV-SCTV8-ViTV và https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/s2/index.m3u8|Referer=http://sctvonline.vn/" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",SCTV8 - ViTV
+https://cutt.ly/HaNoiIPTV-SCTV8-ViTV
+#EXTINF:-1  tvg-name="CNBC" tvg-id="http://gg.gg/HaNoiIPTV-CNBC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNBC.png",CNBC
+https://cutt.ly/HaNoiIPTV-CNBC
 #EXTINF:-1  tvg-name="CHANNEL NEWS ASIA" tvg-id="http://gg.gg/HaNoiIPTV-Channel_News_Asia" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Channel%20News%20Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1  tvg-name="TV5" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5
-http://gg.gg/HaNoiIPTV-TV5_MONDE_ASIE
+#EXTINF:-1  tvg-name="TV5" tvg-id="http://gg.gg/HaNoiIPTV-TV5_MONDE_ASIE" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE.png",TV5
+https://cutt.ly/HaNoiIPTV-TV5_MONDE_ASIE
 #EXTINF:-1  tvg-name="DW" tvg-id="http://gg.gg/HaNoiIPTV-DW" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1  tvg-name="FRANCE 24" tvg-id="http://gg.gg/HaNoiIPTV-France_24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",France 24
 https://www.youtube.com/watch?v=h3MuIUNCCzI
-#EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
-http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
-#EXTINF:-1  tvg-name="QRTV - TH QUẢNG TRỊ HD" tvg-id="https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Tr%E1%BB%8B%20HD.png",QRTV - Truyền hình Quảng Trị HD
-http://gg.gg/HaNoiIPTV-QRTV-Truyen_hinh_Quang_Tri_HD
-#EXTINF:-1  tvg-name="BTV - TH BẮC NINH HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.png",BTV - Truyền hình Bắc Ninh HD
-http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
-#EXTINF:-1  tvg-name="CRTV - TH CAO BẰNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
-http://gg.gg/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
-#EXTINF:-1  tvg-name="THLC - TH LÀO CAI" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - Truyền hình Lào Cai
-http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai_HD
+#EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC HD" tvg-id="http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD.png",VP - Truyền hình Vĩnh Phúc HD
+https://cutt.ly/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
+#EXTINF:-1  tvg-name="QRTV - TH QUẢNG TRỊ HD" tvg-id="http://gg.gg/HaNoiIPTV-QRTV-Truyen_hinh_Quang_Tri_HD" tvg-id="https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Tr%E1%BB%8B%20HD.png",QRTV - Truyền hình Quảng Trị HD
+https://cutt.ly/HaNoiIPTV-QRTV-Truyen_hinh_Quang_Tri_HD
+#EXTINF:-1  tvg-name="BTV - TH BẮC NINH HD" tvg-id="http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD.png",BTV - Truyền hình Bắc Ninh HD
+https://cutt.ly/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
+#EXTINF:-1  tvg-name="CRTV - TH CAO BẰNG HD" tvg-id="http://gg.gg/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - Truyền hình Cao Bằng HD
+https://cutt.ly/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
+#EXTINF:-1  tvg-name="THLC - TH LÀO CAI" tvg-id="http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - Truyền hình Lào Cai
+https://cutt.ly/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai_HD
 #EXTINF:-1  tvg-name="HYTV HD - TH HƯNG YÊN" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20HD.png",HYTV HD - Truyền hình Hưng Yên
 http://gg.gg/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
 #EXTINF:-1  tvg-name="HDTV - TH HẢI DƯƠNG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD.png",HDTV - Truyền hình Hải Dương HD
