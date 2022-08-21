@@ -5,7 +5,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/programme-tv.net.guide.xml" tvg-shift=0 m3uautoload=5
 
 #EXTINF:-1  tvg-name="ĐIỂM HẸN HANOITV" tvg-id="http://gg.gg/Diem_hen_HanoiTV_HD" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90i%E1%BB%83m%20h%E1%BA%B9n%20HanoiTV.png",Điểm hẹn HanoiTV
-https://cutt.ly/Diem_hen_HanoiTV_tu_15-8_den_21-8-2022
+https://cutt.ly/Diem_hen_HanoiTV_tu_22-8_den_28-8-2022
 #EXTINF:-1  tvg-name="SBS HD • TRUYỀN HÌNH THỦ ĐÔ" tvg-id="http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do và http://140.238.6.140:8881/stream/channel/b242403dee7f2b4d8335c503f2442712 và http://132.145.83.248:9981/stream/channel/a305dc9c0a63b2b8de7a0eb76d0583f5 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png",SBS HD • TRUYỀN HÌNH THỦ ĐÔ
 https://cutt.ly/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
 #EXTINF:-1  tvg-name="VTV1 HD" tvg-id="http://gg.gg/HaNoiIPTV-VTV1_HD và https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8 và https://api.vthanhtivii.xyz/v1/getlink/mytv_web/210/hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD.png" tvg-chno="3" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
@@ -426,11 +426,11 @@ https://cutt.ly/HaNoiIPTV-BPTV1-Truyen_hinh_Binh_Phuoc_1_HD
 https://cutt.ly/HaNoiIPTV-BPTV2-Truyen_hinh_Binh_Phuoc_2_HD
 #EXTINF:-1  tvg-name="TTV11 - TH TÂY NINH HD" tvg-id="http://gg.gg/HaNoiIPTV-TTV11-Truyen_hinh_Tay_Ninh_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD.png",TTV11 - Truyền hình Tây Ninh HD
 https://cutt.ly/HaNoiIPTV-TTV11-Truyen_hinh_Tay_Ninh_HD
-#EXTINF:-1  tvg-name="LA34 - TH LONG AN HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LA34%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Long%20An%20HD.png",LA34 - Truyền hình Long An HD
-http://gg.gg/HaNoiIPTV-LA34-Truyen_hinh_Long_An_HD
-#EXTINF:-1  tvg-name="ĐN1 - TH ĐỒNG NAI 1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201%20HD.png",ĐN1 - Truyền hình Đồng Nai 1 HD
-http://gg.gg/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD
-#EXTINF:-1  tvg-name="ĐN2 - TH ĐỒNG NAI 2 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%202%20HD.png",ĐN2 - Truyền hình Đồng Nai 2 HD
+#EXTINF:-1  tvg-name="LA34 - TH LONG AN HD" tvg-id="http://gg.gg/HaNoiIPTV-LA34-Truyen_hinh_Long_An_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LA34%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Long%20An%20HD.png",LA34 - Truyền hình Long An HD
+https://cutt.ly/HaNoiIPTV-LA34-Truyen_hinh_Long_An_HD
+#EXTINF:-1  tvg-name="ĐN1 - TH ĐỒNG NAI 1 HD" tvg-id="http://gg.gg/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201%20HD.png",ĐN1 - Truyền hình Đồng Nai 1 HD
+https://cutt.ly/HaNoiIPTV-DN1-Truyen_hinh_Dong_Nai_1_HD
+#EXTINF:-1  tvg-name="ĐN2 - TH ĐỒNG NAI 2 HD" tvg-id=" " group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%202%20HD.png",ĐN2 - Truyền hình Đồng Nai 2 HD
 http://gg.gg/HaNoiIPTV-DN2-Truyen_hinh_Dong_Nai_2_HD
 #EXTINF:-1  tvg-name="BRT - TH BÀ RỊA VŨNG TÀU HD" tvg-id="http://gg.gg/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD và https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A0%20R%E1%BB%8Ba%20V%C5%A9ng%20T%C3%A0u%20HD.png",BRT - Truyền hình Bà Rịa Vũng Tàu HD
 http://gg.gg/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD
