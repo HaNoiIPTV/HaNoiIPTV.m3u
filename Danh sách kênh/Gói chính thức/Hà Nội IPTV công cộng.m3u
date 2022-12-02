@@ -60,6 +60,10 @@ https://1028789839.vnns.net/hntvRadio/fm90.sdp_aac/chunklist_w1967496128.m3u8
 http://stream-shbu.bestvcdn.com:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1  tvg-name="THTNVN - VOVTV HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20VOV%20HD.png",TH Tiếng nói Việt Nam - VOVTV HD
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",QTV1 HD
+https://live.baoquangninh.com.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",QTV3 HD
+https://live.baoquangninh.com.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  tvg-name="NTV - TH NGHỆ AN HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD.png",NTV - Truyền hình Nghệ An HD
 http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1  tvg-name="星尚频道 • GIẢI TRÍ TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%98%9F%E5%B0%9A%E9%A2%91%E9%81%93.png",星尚频道 • GIẢI TRÍ TỔNG HỢP
@@ -105,20 +109,20 @@ https://live.hungyentv.vn/hytvlive/tv1live.m3u8
 https://live.thaibinhtv.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD%2C%20PB%20tinh%20ch%E1%BB%89nh.png",NBTV - TH NINH BÌNH HD
 https://live.nbtv.vn/nbtvlive/tv1live.m3u8
-#EXTINF:-1  tvg-name="HBTV - TH HÒA BÌNH HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD.png",HBTV - Truyền hình Hòa Bình HD
-http://gg.gg/HaNoiIPTV-HBTV-Truyen_hinh_Hoa_Binh_HD
-#EXTINF:-1  tvg-name="THHN - TH HÀ NAM HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20t%E1%BB%91i.png",THHN - Truyền hình Hà Nam HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD.png",HBTV - TH HÒA BÌNH HD
+https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20t%E1%BB%91i.png",THHN - TH HÀ NAM HD
 https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
-#EXTINF:-1  tvg-name="LTV - TH LAI CHÂU" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",LTV - Truyền hình Lai Châu
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",LTV - TH LAI CHÂU
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
-#EXTINF:-1  tvg-name="YTV - TH YÊN BÁI HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",YTV - Truyền hình Yên Bái HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",YTV - TH YÊN BÁI HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
-#EXTINF:-1  tvg-name="HGTV - TH HÀ GIANG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - Truyền hình Hà Giang HD
-http://gg.gg/HaNoiIPTV-HGTV-Truyen_hinh_Ha_Giang_HD
-#EXTINF:-1  tvg-name="LSTV - TH LẠNG SƠN HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",LSTV - Truyền hình Lạng Sơn HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - TH HÀ GIANG HD
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",LSTV - TH LẠNG SƠN HD
 http://gg.gg/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
-#EXTINF:-1  tvg-name="TN1 - TH THÁI NGUYÊN HD" tvg-id="https://tacnghiep.thainguyentv.vn/hls/livestream.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN1 - Truyền hình Thái Nguyên HD
-http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN1 - TH THÁI NGUYÊN HD
+https://tacnghiep.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  tvg-name="BGTV - TH BẮC GIANG HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Giang%20HD.png",BGTV - Truyền hình Bắc Giang HD
 http://gg.gg/HaNoiIPTV-BGTV-Truyen_hinh_Bac_Giang_HD
 #EXTINF:-1  tvg-name="STV - TH SƠN LA HD" tvg-id="http://118.107.85.5:1935/live/smil:STV.smil/chunklist_w2092559905_b1384000.m3u8" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - Truyền hình Sơn La HD
