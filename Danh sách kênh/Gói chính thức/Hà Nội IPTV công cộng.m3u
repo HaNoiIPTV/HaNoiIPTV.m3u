@@ -55,9 +55,9 @@ http://stream-shbu.bestvcdn.com:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",都市频道 • GIẢI TRÍ ĐẶC SẮC
 http://nettv.live/hls/shanghai.php?id=dspd
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM90%20Mhz%20%E2%80%A2%20TIN%20T%E1%BB%A8C%20GIAO%20TH%C3%94NG.png",FM90 • TIN TỨC & GIAO THÔNG
-https://1028789839.vnns.net/hntvRadio/fm90.sdp_aac/chunklist_w1967496128.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM96%20Mhz%20%E2%80%A2%20K%C3%8ANH%20PH%E1%BB%A4.png",FM96 • KÊNH PHỤ
-https://1028789839.vnns.net/hntvRadio/fm96.sdp_aac/chunklist_w567460023.m3u8
+https://1028513096.vnns.net/fm90/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM96%20Mhz%20%E2%80%A2%20K%C3%8ANH%20PH%E1%BB%A4.png",FM96 • THÔNG TIN & GIẢI TRÍ
+https://1028513096.vnns.net/fm96/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png",五星体育 • THỂ THAO ĐẶC SẮC
 http://stream-shbu.bestvcdn.com:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20VOV%20HD.png",THTNVN - VOVTV HD
