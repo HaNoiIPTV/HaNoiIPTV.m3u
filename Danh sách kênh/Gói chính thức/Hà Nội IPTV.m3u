@@ -240,8 +240,8 @@ https://cutt.ly/HaNoiIPTV-HTV3-Dreams_TV
 https://cutt.ly/HaNoiIPTV-Da_Vinci_Kids_HD
 #EXTINF:-1  tvg-name="OUTDOOR CHANNEL HD" tvg-id="http://gg.gg/HaNoiIPTV-Outdoor_Channel_HD"  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Outdoor%20Channel%20HD.png",Outdoor Channel HD
 https://cutt.ly/HaNoiIPTV-Outdoor_Channel_HD
-#EXTINF:-1  tvg-name="HGTV HD" tvg=id="http://gg.gg/HaNoiIPTV-HGTV_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png",HGTV HD
-https://cutt.ly/HaNoiIPTV-HGTV_HD
+#EXTINF:-1  tvg-name="HGTV HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png",HGTV HD
+http://gg.gg/HaNoiIPTV-HGTV_HD
 #EXTINF:-1  tvg-name="ASIAN FOOD NETWORK" tvg-id="http://gg.gg/HaNoiIPTV-Asian_Food_Network_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Asian%20Food%20Network.png",Asian Food Network
 https://cutt.ly/HaNoiIPTV-Asian_Food_Network_HD
 #EXTINF:-1  tvg=name="HTVC THUẦN VIỆT HD" tvg-id="http://gg.gg/HaNoiIPTV-HTVC_Thuan_Viet_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTVC%20Thu%E1%BA%A7n%20Vi%E1%BB%87t%20HD.png",HTVC Thuần Việt HD
@@ -289,7 +289,7 @@ https://cutt.ly/HaNoiIPTV-VTC10_HD
 #EXTINF:-1  tvg-name="TN - TH THÁI NGUYÊN HD" tvg-id="https://cutt.ly/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD và https://api.vthanhtivi.pw/v1/getlink/mytv_web/406/hd" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN - Truyền hình Thái Nguyên HD
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  tvg-name="VP - TH VĨNH PHÚC 4K" tvg-id="http://gg.gg/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_4K" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%204K.png",VP - Truyền hình Vĩnh Phúc 4K
-https://www.youtube.com/watch?v=uLpXI_Mqlzw
+https://www.youtube.com/watch?v=eXbu6IyJG3g
 #EXTINF:-1  tvg-name="연합뉴스TV • MỌI LÚC MỌI NƠI" tvg-id="http://gg.gg/Ha_Noi_IPTV_Plus_2-Yonhap_News_TV-Moi_luc_Moi_noi" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV.png",연합뉴스TV • MỌI LÚC MỌI NƠI
 https://www.youtube.com/watch?v=0GN8t2u3flc
 #EXTINF:-1  tvg-name="YTN • TIN TỨC HÀNG ĐẦU" tvg-id="http://gg.gg/Ha_Noi_IPTV_Plus_1-YTN-Tin_tuc_Hang_dau" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/YTN.png",YTN • TIN TỨC HÀNG ĐẦU
