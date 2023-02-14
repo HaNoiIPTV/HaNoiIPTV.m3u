@@ -66,6 +66,14 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/398/hd.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png",ON Golf HD
 http://gg.gg/HaNoiIPTV-ON_Golf_HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
+http://gg.gg/HaNoiIPTV-ON_Sports_HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
+http://gg.gg/HaNoiIPTV-ON_Football_HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png",ON Sports News HD
+http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD
+http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
 http://gg.gg/HaNoiIPTV-BOX_Hits_HD
 #EXTINF:-1  tvg-name="VTV HYUNDAI HOMESHOPPING" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab13%20-%20VTV%20HYUNDAI%20HOMESHOPPING.png",VTV Hyundai Homeshopping
