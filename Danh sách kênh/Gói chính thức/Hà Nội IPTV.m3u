@@ -138,7 +138,7 @@ https://cutt.ly/HaNoiIPTV-VTC3_HD
 https://cutt.ly/HaNoiIPTV-HTV_The_Thao_HD
 #EXTINF:-1  tvg-name="SCTV17 HD" tvg-id="https://livevlive.vtvcab.vn/hls/SCTV17_CL/sc-gaFEAA/m30_index.m3u8 và https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s2/index.m3u8|Referer=http://sctvonline.vn/" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV17%20HD.png",SCTV17 HD
 http://gg.gg/HaNoiIPTV-SCTV17_HD
-#EXTINF:-1  tvg-name="VTC7 - TODAY TV HD" tvg-id="https://api.vthanhtivi.pw/v1/getlink/tv360/201/6 và https://api.vthanhtivi.pw/v1/getlink/mytv_web/398/hd và http://gg.gg/HaNoiIPTV-VTC7-Today_TV_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7%20-%20Today%20TV%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/todaytv_1000.stream/chunks_dvr_range-${start}-3600.m3u8",VTC7 Today TV HD
+#EXTINF:-1  tvg-name="VTC7 - TODAY TV HD" tvg-id="https://api.vthanhtivi.pw/v1/getlink/tv360/201/6 và https://api.vthanhtivi.pw/v1/getlink/mytv_web/398/hd và http://gg.gg/HaNoiIPTV-VTC7-Today_TV_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC7%20-%20Today%20TV%20HD.png" tvg-chno="52" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/todaytv_1000.stream/chunks_dvr_range-${start}-3600.m3u8",VTC7 - Today TV HD
 https://cutt.ly/HaNoiIPTV-VTC7-Today_TV_HD
 #EXTINF:-1  tvg-name="SCTV4 HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv4/s2/index.m3u8|Referer=http://sctvonline.vn/
