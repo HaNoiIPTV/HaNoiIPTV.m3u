@@ -2,10 +2,20 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV1 HD
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV2 HD
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV3 HD
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV4%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV4 HD
 http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV5 HD
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",VTV CẦN THƠ HD
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD.png",TH QUỐC HỘI HD
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV7 HD
 http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV8%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV8 HD
@@ -14,8 +24,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20VOV%20HD.png",THTNVN - VOVTV HD
 https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20h%E1%BB%99i%20Vi%E1%BB%87t%20Nam%20HD.png",TH QUỐC HỘI HD
-https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",TH HÀ NỘI 1 HD
 https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD.png",TH HÀ NỘI 2 HD
