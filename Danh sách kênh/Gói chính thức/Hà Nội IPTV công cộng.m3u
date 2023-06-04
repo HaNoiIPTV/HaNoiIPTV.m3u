@@ -40,28 +40,36 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
 http://lu1.cc/itv/php/cqyx.php?id=hnws
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%B3%E9%A1%B6%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",平顶山新闻综合 (高清)
 http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3c9961718d03cbecc9021bd27580
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",河南都市频道 (高清)
-http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道 (高清)
-http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png",河南乡村频道 (高清)
+#EXTINF:-1  tvg-id="http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",河南都市频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41101/2300.m3u8
+#EXTINF:-1  tvg-id="http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93.png",河南民生频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41102/2300.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png",河南法治频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41103/2300.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",河南新闻频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41105/2300.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png",河南电视剧频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41106/2300.m3u8
+#EXTINF:-1  tvg-id="http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41107/2300.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png",河南乡村频道 (高清)
 http://media.hndyjyfw.gov.cn/live/jz-henanxinnong/live.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png",河南梨园频道 (高清)
-http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+#EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png",河南梨园频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13001/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png",武术世界频道 (高清)
 http://live.dxhmt.cn:9080/live/yshnpre.m3u8
-#EXTINF:-1  https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库频道 (高清)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库频道 (高清)
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F.png",睛彩中原频道 (高清)
-http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2.png",移动戏曲频道 (高清)
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=075d5b512c82ed03bfb2e8b8c9e449a2&wsTime=1685654103
+#EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F.png",睛彩中原频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41108/2300.m3u8
+#EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2.png",移动戏曲频道 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41109/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png",健康中原频道 (高清)
 http://ugo.kemei.henancatv.com:4000/hls/120HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8D%97%E5%85%9A%E6%95%99%E7%94%B5%E8%A7%86%E5%8F%B0.png",河南党教台
 http://media.hndyjyfw.gov.cn/live/jz-m-ycjy/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93.png",国学频道
 http://lu1.cc/itv/php/cqyx.php?id=gxpd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",郑州教育台 (高清)
+https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%9F%8E%E5%B8%82%E9%A2%91%E9%81%93.png",平顶山城市频道
 http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",平顶山公共频道
@@ -77,13 +85,11 @@ https://live.baoquangninh.com.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Ngh%E1%BB%87%20An%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",NTV - TH NGHỆ AN HD
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",郑州-1 | 新闻综合 (高清)
-https://live.zztv.tv/gbds/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E5%95%86%E9%83%BD%E9%A2%91%E9%81%93.png",郑州-2 | 商都频道 (高清)
-https://live.zztv.tv/zztv2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E6%96%87%E4%BD%93%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",郑州-3 | 文体旅游 (高清)
-https://live.zztv.tv/wtzzly/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%83%91%E5%B7%9E%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",郑州教育台 (高清)
-https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41112/2300.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%BC%80%E5%B0%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",开封-1 | 新闻综合 (高清)
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41114/2300.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%95%86%E4%B8%98%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",商丘-1 | 新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41125/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20TH%20TH%C3%81I%20NGUY%C3%8AN%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",TN1 - TH THÁI NGUYÊN HD
 http://103.90.220.236/tntvlive/tv1live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TRT%20World.png",TRT WORLD
@@ -196,16 +202,40 @@ https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w900671686.m3u8
 http://113.163.189.104:8135/liveevent.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BLTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu%20HD.png",BLTV - TH BẠC LIÊU HD
 https://tv.thbl.vn/live/tv/tv.m3u8
+安阳新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41117/2300.m3u8
+鹤壁新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41118/2300.m3u8
+焦作综合频道
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41120/2300.m3u8
+济源-1 | 新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41129/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B4%9B%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",洛阳-1 | 新闻综合 (高清)
 http://wshls.live.migucloud.com/live/3GWXF43U_C0/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B4%9B%E9%98%B3%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",洛阳-2 | 科教频道 (高清)
 http://wshls.live.migucloud.com/live/08095QP8_C0/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B4%9B%E9%98%B3%E6%96%87%E6%97%85%E9%A2%91%E9%81%93.png",洛阳-3 | 文旅频道 (高清)
 http://wshls.live.migucloud.com/live/X5LAHM2S_C0/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BF%AE%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",濮阳新闻综合
-http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_2480.m3u8?auth_key=4830532265-0-0-a23211dae85304b5f753cb511162a9df
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BC%AF%E6%B2%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",漯河新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41123/2300.m3u8
+南阳-1 | 新闻综合 (高清)
+http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8?auth_key=1685966773-0-0-5fbd764a8cc452f631c9510e9e8052c4
+#EXTINF:-1  tvg-id="http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_2480.m3u8?auth_key=4830532265-0-0-a23211dae85304b5f753cb511162a9df" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BF%AE%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",濮阳综合频道
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41121/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BF%AE%E9%98%B3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",濮阳公共频道
 http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=4830532402-0-0-8ddf5282fcd1a9f34372f9f57ce53ec1
+三门峡新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41124/2300.m3u8
+新乡新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41119/2300.m3u8
+信阳新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41128/2300.m3u8
+许昌综合频道
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41122/2300.m3u8
+周口新闻综合
+http://117.159.72.12:8081/live/2216261506805201716.m3u8
+驻马店-1 | 新闻综合
+http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41126/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",TVBS 新聞台
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",甘肃经济频道 (高清)
