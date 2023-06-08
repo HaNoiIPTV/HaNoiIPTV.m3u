@@ -172,6 +172,8 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BA%AFk%20L%E1%BA%AFk%20HD.png",DRT - TH ĐẮK LẮK HD
 https://live.drt.vn/drtlive/tv1live-transmux.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BA%AFk%20N%C3%B4ng%20HD.png",PTD - TH ĐẮK NÔNG HD
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BPTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc%201%20HD.png",BPTV1 - TH BÌNH PHƯỚC 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",LTV - TH LÂM ĐỒNG HD
