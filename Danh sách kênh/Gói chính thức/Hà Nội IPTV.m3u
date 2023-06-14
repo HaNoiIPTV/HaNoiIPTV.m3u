@@ -716,6 +716,8 @@ http://gg.gg/HaNoiIPTV-VOV3
 http://gg.gg/HaNoiIPTV-VOV4
 #EXTINF:-1  tvg-name="VOV6" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
 http://gg.gg/HaNoiIPTV-VOV6
+#EXTINF:-1  tvg-id="https://radio.thainguyentv.vn/hls/livestream.m3u8" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",VOT - PT THÁI NGUYÊN
+http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",LSTV - PT LẠNG SƠN
 http://gg.gg/HaNoiIPTVPlus-LSTV-Phat_thanh_Lang_Son
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Ph%C3%A1t%20thanh%20B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u.png",BRT - PT BÀ RỊA VŨNG TÀU
@@ -768,8 +770,6 @@ http://210.245.20.94/hls/radio.m3u8
 http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - PT BẮC KẠN
 http://14.224.167.97:8080/hls/radio.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",VOT - PT THÁI NGUYÊN
-http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - PT SƠN LA
 http://gg.gg/HaNoiIPTVPlus-STV-Phat_thanh_Son_La
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tuy%C3%AAn%20Quang%20HD.png",TTV - PT TUYÊN QUANG
