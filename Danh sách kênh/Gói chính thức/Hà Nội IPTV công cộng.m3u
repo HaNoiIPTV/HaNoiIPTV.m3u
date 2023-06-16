@@ -244,8 +244,6 @@ http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
 http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%A9%BB%E9%A9%AC%E5%BA%97%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",驻马店-3 | 科教频道
 http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",TVBS 新聞台
-https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",甘肃经济频道 (高清)
 http://lu1.cc/itv/gstv/gsxl.php?id=gsjj
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",甘肃文化影视 (高清)
@@ -258,6 +256,8 @@ http://lu1.cc/itv/gstv/gsxl.php?id=gsds
 http://lu1.cc/itv/gstv/gsxl.php?id=gsse
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png",甘肃移动电视
 http://lu1.cc/itv/gstv/gsxl.php?id=gsyd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 (高清)
+http://live.geermurmt.com/qhws/sd2/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视 (高清)
 https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%81%E5%A4%8F%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",宁夏公共频道 (高清)
@@ -266,8 +266,38 @@ http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3
 http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%81%E5%A4%8F%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",宁夏教育台 (高清)
 http://livepgc.cmc.ningxiahuangheyun.com/pgc/0b034c59a0f219bc7887840c8d78fe20.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 (高清)
-http://live.geermurmt.com/qhws/sd2/live.m3u8
+#EXTINF:-1  tvg-logo=" ",鄂州新闻综合 (高清)
+http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
+#EXTINF:-1  tvg-logo=" ",鄂州公共频道 (高清)
+http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
+#EXTINF:-1  tvg-logo=" ",黄冈新闻综合
+http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1704038399-0-0-467fc23b176dde216d3e41c725fd1b6b
+#EXTINF:-1  tvg-logo=" ",黄冈生活频道
+http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1704038399-0-0-6fa37070415efc6d085d8a432247eb4a
+#EXTINF:-1  tvg-logo=" ",黄石新闻综合 (高清)
+https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
+#EXTINF:-1  tvg-logo=" ",黄石都市频道 (高清)
+http://44721.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3032.m3u8?auth_key=1687024897-0-0-6f17f85ab42a4390ea67ad67f3e1c0b6
+#EXTINF:-1  tvg-logo=" ",荆州新闻综合
+http://180.163.40.36/jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1704038399-0-0-9b2442b7b11f661edfe71bc7a3a3a5a2
+#EXTINF:-1  tvg-logo=" ",荆州垄上频道
+http://180.163.40.36/jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1704038399-0-0-a0b56187fea04cf4f776c0b23cf5f547
+#EXTINF:-1  tvg-logo=" ",荆州公共频道
+http://180.163.40.36/jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=1704038399-0-0-35f354ebd7cf85af1104fa76d623c1c6
+#EXTINF:-1  tvg-logo=" ",咸宁综合频道 (高清)
+http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
+#EXTINF:-1  tvg-logo=" ",咸宁经济生活
+http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1704038399-0-0-57a073b16d0dbf7182a51df714d103f9
+#EXTINF:-1  tvg-logo=" ",襄阳综合频道
+http://lu1.cc/itv/hubtv/cjy.php?id=xyzh
+#EXTINF:-1  tvg-logo=" ",襄阳经济生活
+http://lu1.cc/itv/hubtv/cjy.php?id=xysh
+#EXTINF:-1  tvg-logo=" ",襄阳公共频道
+http://lu1.cc/itv/hubtv/cjy.php?id=xygg
+#EXTINF:-1  tvg-logo=" ",孝感新闻综合
+http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1704038399-0-0-71023ffd778812fa103ed72b64f4e067
+#EXTINF:-1  tvg-logo=" ",孝感生活频道
+http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png",康巴卫视 (高清)
 http://lu1.cc/itv/sctv/scxl.php?id=kbws
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",四川-2 | 文化旅游 (高清)
@@ -290,7 +320,5 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 http://xcm13.f3322.net:4000/udp/239.93.1.54:5140
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%87%AA%E8%B4%A1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",自贡综合频道 (高清)
 http://110.189.153.160:1001/zhpd.flv
-黄石新闻综合
-https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
-
-https://lu1.cc/itv/hntv1/xxxl.php?id=xxxwzh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",TVBS 新聞台
+https://www.youtube.com/watch?v=2mCSYvcfhtc
