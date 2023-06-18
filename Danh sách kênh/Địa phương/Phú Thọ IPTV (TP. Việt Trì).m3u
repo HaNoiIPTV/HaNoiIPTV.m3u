@@ -134,3 +134,43 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN1 - TH THÁI NGUYÊN HD
 http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD
+#EXTINF:-1  tvg-logo=" ",达州新闻综合 (高清)
+http://lu1.cc/itv/sctv1/dztv.php?id=dzxwzh
+#EXTINF:-1  tvg-logo=" ",达州文化生活 (高清)
+http://lu1.cc/itv/sctv1/dztv.php?id=dzwhsh
+#EXTINF:-1  tvg-logo=" ",达州通川频道 (高清)
+http://lu1.cc/itv/sctv1/dztv.php?id=dztc
+#EXTINF:-1  tvg-logo=" ",德阳新闻综合 (高清)
+http://scdytv.cn:1935/live/m_xwpd_livevideo/chunklist_w1723873706.m3u8
+#EXTINF:-1  tvg-logo=" ",德阳文旅科教 (高清)
+http://scdytv.cn:1935/live/m_ggpd_livevideo/chunklist_w64439466.m3u8
+#EXTINF:-1  tvg-logo=" ",广元综合频道 (高清)
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",广元文化生活 (高清)
+https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",泸州新闻综合 (高清)
+http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",泸州公共频道 (高清)
+http://file.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",泸州科教生活 (高清)
+http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",内江综合频道 (高清)
+https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
+#EXTINF:-1  tvg-logo=" ",内江科教生活 (高清)
+https://njzb.scnj.tv/hls_njtv_direct/5.m3u8
+#EXTINF:-1  tvg-logo=" ",内江公共频道 (高清)
+https://njzb.scnj.tv/hls_njtv_direct/9.m3u8
+#EXTINF:-1  tvg-logo=" ",攀枝花新闻综合 (高清)
+http://zb.pzhgd.com:9095/live/xwzh.m3u8
+#EXTINF:-1  tvg-logo=" ",攀枝花文旅生活 (高清)
+http://zb.pzhgd.com:9095/live/ggpd.m3u8
+#EXTINF:-1  tvg-logo=" ",遂宁综合频道 (高清)
+http://play.web.scsntv.com/live/xwzh/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",遂宁文化生活 (高清)
+http://play.web.scsntv.com/live/gggy/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",宜宾新闻综合 (高清)
+http://p8.vzan.com/slowlive/448662611288024675/live.m3u8
+#EXTINF:-1  tvg-logo=" ",宜宾公共频道 (高清)
+http://p8.vzan.com/slowlive/449184618795535908/live.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%87%AA%E8%B4%A1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",自贡综合频道 (高清)
+http://110.189.153.160:1001/zhpd.flv
