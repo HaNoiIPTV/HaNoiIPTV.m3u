@@ -758,6 +758,8 @@ http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lam_Dong
 https://hatinhtv.vn/phatthanh/m3u8/audio.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Ph%C3%A1t%20thanh%20B%E1%BA%BFn%20Tre.png",THBT - PT BẾN TRE
 http://gg.gg/HaNoiIPTVPlus-THBT-Phat_thanh_Ben_Tre
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD.png",NBTV - PT NINH BÌNH
+http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",PTQ - PT QUẢNG NGÃI
 http://gg.gg/HaNoiIPTVPlus-PTQ-Phat_thanh_Quang_Ngai
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ph%C3%A1t%20thanh%20Ngh%E1%BB%87%20An.png",NTV - PT NGHỆ AN
@@ -770,8 +772,6 @@ http://gg.gg/HaNoiIPTVPlus-HDTV-Phat_thanh_Hai_Duong
 http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a%20HD.png",KTV - PT KHÁNH HÒA
 http://210.245.20.94/hls/radio.m3u8
-#EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD.png",NBTV - PT NINH BÌNH
-http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",TBK - PT BẮC KẠN
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - PT SƠN LA
