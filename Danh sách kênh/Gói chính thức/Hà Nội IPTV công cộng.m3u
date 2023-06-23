@@ -73,7 +73,7 @@ http://ainm.cc/c/tv/hntv/hntv.php?id=wssj
 #EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png",文物宝库 (高清)
 http://ainm.cc/c/tv/hntv/hntv.php?id=wwbk
 #EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8 và http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41108/2300.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7%E9%A2%91%E9%81%93.png",中华特产频道 (高清)
-http://ainm.cc/c/tv/hntv/hntv.php?id=qczy
+http://ainm.cc/c/tv/hntv/hntv.php?id=jczy
 #EXTINF:-1  tvg-id="http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8 và http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41109/2300.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2.png",移动戏曲 (高清)
 http://ainm.cc/c/tv/hntv/hntv.php?id=ydxq
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png",健康中原 (高清)
@@ -248,14 +248,42 @@ http://wshls.live.migucloud.com/live/X5LAHM2S_C0/playlist.m3u8
 http://ainm.cc/c/tv/php/gdy.php?id=nygg
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E9%98%B3%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",南阳-3 | 科教频道
 http://ainm.cc/c/tv/php/gdy.php?id=nykj
+#EXTINF:-1  tvg-logo=" ",宝丰综合频道
+http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1  tvg-logo=" ",郏县综合频道
+http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1  tvg-logo=" ",鲁山电视台
+http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+#EXTINF:-1  tvg-logo=" ",汝州新闻综合
+http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+#EXTINF:-1  tvg-logo=" ",汝州科教频道
+http://live.dxhmt.cn:9081/tv/10482-2.m3u8
+#EXTINF:-1  tvg-logo=" ",舞钢新闻综合
+http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+#EXTINF:-1  tvg-logo=" ",舞钢社会生活
+http://live.dxhmt.cn:9080/13937510433/163e693acc664e7980b44f105d696a42.m3u8
+#EXTINF:-1  tvg-logo=" ",叶县-1 | 新闻综合
+http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 #EXTINF:-1  tvg-id="http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_2480.m3u8?auth_key=4830532265-0-0-a23211dae85304b5f753cb511162a9df" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BF%AE%E9%98%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",濮阳综合频道
 http://120.204.20.48/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41121/2300.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%BF%AE%E9%98%B3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",濮阳公共频道
 http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=4830532402-0-0-8ddf5282fcd1a9f34372f9f57ce53ec1
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%95%86%E4%B8%98%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",商丘-2 | 公共频道
-https://hw-kuai.vzan.com/live/467670500394272582.m3u8?auth_key=1688745600-187521-1167846487-8bee6962f8da94a6b2f209debabe05dd
+http://ainm.cc/c/tv/php/vzan.php?id=sqtv2
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%95%86%E4%B8%98%E6%96%87%E4%BD%93%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",商丘-3 | 文体科教
-https://hw-kuai.vzan.com/live/616515129359369329.m3u8?auth_key=1688745600-187521-1380517636-d7da2f6caf8da11327b762ee1174f5fb
+http://ainm.cc/c/tv/php/vzan.php?id=sqtv3
+#EXTINF:-1  tvg-logo=" ",睢县新闻综合
+http://ainm.cc/c/tv/php/hslm.php?id=sxxwzh
+#EXTINF:-1  tvg-logo=" ",睢县生活频道
+http://ainm.cc/c/tv/php/hslm.php?id=sxsh
+#EXTINF:-1  tvg-logo=" ",睢县戏曲影视
+http://ainm.cc/c/tv/php/hslm.php?id=sxxqys
+#EXTINF:-1  tvg-logo=" ",夏邑新闻综合
+http://live.dxhmt.cn:9081/tv/11426-1.m3u8
+#EXTINF:-1  tvg-logo=" ",永城新闻综合
+http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+#EXTINF:-1  tvg-logo=" ",永城卫健频道
+http://live.dxhmt.cn:9081/tv/11481-2.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E4%B9%A1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",新乡新闻综合
 http://ainm.cc/c/tv/hntv1/xxxl.php?id=xxxwzh
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E4%B9%A1%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",新乡公共频道
