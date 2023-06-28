@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-id="https://live.thhp.vn/hls/thpplus/index.m3u8" tvg-name="THP+ HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP+%20HD.png",THP+ HD
+#EXTINF:-1  tvg-id="https://live.thhp.vn/hls/thpplus/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP+%20HD.png",THP+ HD
 https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 #EXTINF:-1  tvg-id="https://live.thhp.vn/thp/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",THP - TH HẢI PHÒNG HD
 https://on.thhp.vn/thplive/tv1live-transmux.m3u8
@@ -14,23 +14,23 @@ http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视高清 | TH AN HUY HD
 http://ainm.cc/c/tv/ahtv/ahtv.php?id=ahws
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",安徽经视频道高清
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",安徽经视频道 (高清)
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png",安徽综艺体育高清
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E7%BB%BC%E8%89%BA%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93.png",安徽综艺体育 (高清)
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",安徽影视频道高清
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",安徽影视频道 (高清)
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",安徽公共频道高清
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",安徽公共频道 (高清)
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%86%9C%E4%B8%9A%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",安徽农业科教高清
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%86%9C%E4%B8%9A%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",安徽农业科教 (高清)
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",安徽国际频道
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png",安徽移动电视
 http://ainm.cc/c/tv/ahtv/ahtv.php?id=ahyd
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",安庆新闻综合
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",安庆新闻综合 (高清)
 http://ainm.cc/c/tv/php/gdy.php?id=aqxwzh2
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",安庆经济生活
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",安庆经济生活 (高清)
 http://ainm.cc/c/tv/php/gdy.php?id=aqjjsh2
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",安庆教育台
 http://120.210.216.73:8080/live/SD12-576P-aqhmx-jy/1.m3u8
@@ -38,3 +38,33 @@ http://120.210.216.73:8080/live/SD12-576P-aqhmx-jy/1.m3u8
 http://183.167.250.225:8081/live/0.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%BF%E6%9D%BE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",宿松新闻综合
 http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",固镇综合频道
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1  tvg-logo=" ",亳州-1 | 新闻综合 (高清)
+http://ainm.cc/c/tv/ahtv/bzxl.php?id=bzzh&fmt=flv
+#EXTINF:-1  tvg-logo=" ",亳州-2 | 农村频道 (高清)
+http://ainm.cc/c/tv/ahtv/bzxl.php?id=bznc&fmt=flv
+#EXTINF:-1  tvg-logo=" ",涡阳新闻综合
+http://111.39.71.77:8099/live/one/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",利辛新闻综合
+https://live.fst1994.net/hls/lixinxw/index.m3u8
+#EXTINF:-1  tvg-logo=" ",利辛影视娱乐
+https://live.fst1994.net/hls/lixinys/index.m3u8
+#EXTINF:-1  tvg-logo=" ",蒙城新闻频道
+http://mapi.plus.ahmctv.net/api/v1/channel.php?channel_id=5
+#EXTINF:-1  tvg-logo=" ",池州新闻综合
+http://cm.wshls.homecdn.com/live/4abdd.m3u8
+#EXTINF:-1  tvg-logo=" ",池州公共频道
+http://cm.wshls.homecdn.com/live/4abdf.m3u8
+#EXTINF:-1  tvg-logo=" ",东至新闻综合
+http://223.247.33.124:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",石台综合频道
+http://120.210.216.73:8080/live/SD12-576P-czst/1.m3u8
+#EXTINF:-1  tvg-logo=" ",定远新闻综合
+http://ssdyapp.cn/live/dyv1.m3u8
+#EXTINF:-1  tvg-logo=" ",来安新闻综合
+http://120.210.216.73:8080/live/SD12-576P-czla1pd/1.m3u8
+#EXTINF:-1  tvg-logo=" ",全椒综合频道
+http://120.210.216.73:8080/live/SD12-576P-qjzhpd/1.m3u8
+#EXTINF:-1  tvg-logo=" ",全椒生活频道
+http://120.210.216.73:8080/live/SD12-576P-qjshpd/1.m3u8
