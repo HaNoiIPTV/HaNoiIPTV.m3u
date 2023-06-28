@@ -40,7 +40,7 @@ http://183.167.250.225:8081/live/0.m3u8
 http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8
 #EXTINF:-1  tvg-logo=" ",固镇综合频道
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1  tvg-logo=" ",亳州-1 | 新闻综合 (高清)
+#EXTINF:-1  tvg-logo=" ",亳州-1 | 综合频道 (高清)
 http://ainm.cc/c/tv/ahtv/bzxl.php?id=bzzh&fmt=flv
 #EXTINF:-1  tvg-logo=" ",亳州-2 | 农村频道 (高清)
 http://ainm.cc/c/tv/ahtv/bzxl.php?id=bznc&fmt=flv
@@ -68,3 +68,35 @@ http://120.210.216.73:8080/live/SD12-576P-czla1pd/1.m3u8
 http://120.210.216.73:8080/live/SD12-576P-qjzhpd/1.m3u8
 #EXTINF:-1  tvg-logo=" ",全椒生活频道
 http://120.210.216.73:8080/live/SD12-576P-qjshpd/1.m3u8
+#EXTINF:-1  tvg-logo=" ",阜南新闻综合
+http://ainm.cc/c/tv/php/gdy.php?id=fnxwzh
+#EXTINF:-1  tvg-logo=" ",太和新闻综合
+https://p6.vzan.com/slowlive/262295622991059597/live.m3u8
+#EXTINF:-1  tvg-logo=" ",淮北新闻综合
+https://live.hbnews.net/video/xwzh/index.m3u8
+#EXTINF:-1  tvg-logo=" ",淮北公共频道
+https://live.hbnews.net/video/ggpd/index.m3u8
+#EXTINF:-1  tvg-logo=" ",濉溪综合频道
+http://stream.ahwanyun.cn/live/7f6926bc79174b03a212fe2aad0b62b6.flv
+#EXTINF:-1  tvg-logo=" ",濉溪经济生活
+http://stream.ahwanyun.cn/live/b4bd9bfcda3b467d8f358db687750226.flv
+#EXTINF:-1  tvg-logo=" ",淮南新闻综合 (高清)
+http://stream.ahwanyun.cn/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",淮南公共频道 (高清)
+http://stream.ahwanyun.cn/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",凤台综合频道
+http://111.39.175.241:8088/live/fengtai1.m3u8
+#EXTINF:-1  tvg-logo=" ",歙县综合频道
+http://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",屯溪融媒
+http://stream.ahwanyun.cn/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",休宁新闻综合
+http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8
+#EXTINF:-1  tvg-logo=" ",黟县电视台
+http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",霍邱新闻综合
+http://stream.ahwanyun.cn/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",舒城综合频道
+http://220.180.24.62:1935/live/live2/chunklist.m3u8
+#EXTINF:-1  tvg-logo=" ",舒城文化旅游
+http://220.180.24.62:1935/live/live1/chunklist.m3u8
