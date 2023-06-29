@@ -10,12 +10,14 @@ http://gg.gg/HaNoiIPTV-VTV4_HD
 http://gg.gg/HaNoiIPTV-VTV6_HD
 #EXTINF:-1  tvg-name="VTV7 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD.png" tvg-chno="6" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD
 http://gg.gg/HaNoiIPTV-VTV7_HD
-#EXTINF:-1  tvg-name="QTV1 - TH QUẢNG NINH 1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%201%20HD.png",QTV1 - Truyền hình Quảng Ninh 1 HD
+#EXTINF:-1  tvg-name="QTV1 - TH QUẢNG NINH 1 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%201%20HD.png",QTV1 HD
 http://gg.gg/HaNoiIPTV-QTV1-Truyen_hinh_Quang_Ninh_1_HD
-#EXTINF:-1  tvg-name="QTV3 - TH QUẢNG NINH 3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%203%20HD.png",QTV3 - Truyền hình Quảng Ninh 3 HD
+#EXTINF:-1  tvg-name="QTV3 - TH QUẢNG NINH 3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%203%20HD.png",QTV3 HD
 http://gg.gg/HaNoiIPTV-QTV3-Truyen_hinh_Quang_Ninh_3_HD
-#EXTINF:-1  tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视高清 - TH Hồ Nam HD
+#EXTINF:-1  tvg-name="湖南卫视高清" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视 | TH HỒ NAM
 http://gg.gg/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
+娄底综合
+http://live.ldntv.cn/zh/hd/live.m3u8
 #EXTINF:-1  tvg-name="金鹰卡通高清" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93.png",金鹰卡通频道高清
 http://gg.gg/HeNeiIPTV-Jin_Ying_Ka_Tong_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="湖南娱乐高清" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90%E9%A2%91%E9%81%93.png",湖南娱乐频道高清
@@ -42,7 +44,7 @@ http://gg.gg/HeNeiIPTV-Chang_Sha_Xin_Wen_Pin_Dao_Gao_Qing
 http://gg.gg/HeNeiIPTV-Chang_Sha_Zheng_Fa_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="长沙影视高清" tvg-logo=" ",长沙影视频道高清
 http://gg.gg/HeNeiIPTV-Chang_Sha_Ying_Shi_Pin_Dao_Gao_Qing
-#EXTINF:-1  tvg-name="长沙女性高清" tvg-logo=" ",长沙女性频道高清
+#EXTINF:-1  tvg-name="长沙女性高清" tvg-logo=" ",长沙女性频道 (高清)
 http://gg.gg/HeNeiIPTV-Chang_Sha_Nv_Xing_Pin_Dao_Gao_Qing
 #EXTINF:-1  tvg-name="浏阳台" tvg-logo=" ",浏阳电视台
 http://gg.gg/HeNeiIPTV-Liu_Yang_Dian_Shi_Tai
@@ -50,3 +52,23 @@ http://gg.gg/HeNeiIPTV-Liu_Yang_Dian_Shi_Tai
 http://gg.gg/HeNeiIPTV-Ning_Xiang_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-name="宁乡2套" tvg-logo=" ",宁乡公共频道
 http://gg.gg/HeNeiIPTV-Ning_Xiang_Gong_Gong_Pin_Dao
+#EXTINF:-1  tvg-logo=" ",常德新闻综合
+http://ainm.cc/c/tv/huntv/cdxl.php?id=xwzh
+#EXTINF:-1  tvg-logo=" ",常德公共频道
+http://ainm.cc/c/tv/huntv/cdxl.php?id=ggpd
+#EXTINF:-1  tvg-logo=" ",郴州新闻综合 (高清)
+http://ainm.cc/c/tv/huntv/czxl.php?id=czxwzh
+#EXTINF:-1  tvg-logo=" ",郴州公共频道 (高清)
+http://ainm.cc/c/tv/huntv/czxl.html?id=czgg
+#EXTINF:-1  tvg-logo=" ",衡阳新闻综合 (高清)
+http://ainm.cc/c/tv/huntv/hyxl.php?id=hyxwzh
+#EXTINF:-1  tvg-logo=" ",衡阳公共频道 (高清)
+http://ainm.cc/c/tv/huntv/hyxl.php?id=hygg
+#EXTINF:-1  tvg-logo=" ",邵阳新闻综合
+http://ainm.cc/c/tv/huntv/syxl.php?id=syxwzh
+#EXTINF:-1  tvg-logo=" ",邵阳公共频道
+http://ainm.cc/c/tv/huntv/syxl.html?id=sygg
+#EXTINF:-1  tvg-logo=" ",吉首综合频道
+https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+#EXTINF:-1  tvg-logo=" ",岳阳新闻综合
+http://ainm.cc/c/tv/php/gdy.php?id=yyxwzh2
