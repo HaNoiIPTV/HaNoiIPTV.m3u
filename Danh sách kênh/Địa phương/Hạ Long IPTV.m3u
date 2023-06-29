@@ -20,7 +20,7 @@ https://live.baoquangninh.com.vn/qtvlive/tv3live.m3u8
 https://natv.vncdn.vn/natvlive/tv1live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png",湖南卫视 | TH HỒ NAM
 http://gg.gg/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
-#EXTINF:-1  tvg-logo=" ",娄底综合频道 (高清)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%A8%84%E5%BA%95%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",娄底综合频道 (高清)
 http://live.ldntv.cn/zh/hd/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93.png",金鹰卡通频道 (高清)
 https://nettv.live/hls/mgtvhls.php?id=287
@@ -28,7 +28,7 @@ https://nettv.live/hls/mgtvhls.php?id=287
 https://nettv.live/hls/mgtvhls.php?id=344
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93.png",湖南电视剧频道 (高清)
 https://nettv.live/hls/mgtvhls.php?id=484
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",湖南爱晚频道 (高清)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A%E9%A2%91%E9%81%93.png",湖南爱晚频道 (高清)
 https://nettv.live/hls/mgtvhls.php?id=261
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85%E9%A2%91%E9%81%93.png",湖南国际频道 (高清)
 https://nettv.live/hls/mgtvhls.php?id=229
@@ -57,9 +57,9 @@ http://gg.gg/HeNeiIPTV-Ning_Xiang_Xin_Wen_Zong_He_Pin_Dao
 #EXTINF:-1  tvg-logo=" ",宁乡公共频道
 http://gg.gg/HeNeiIPTV-Ning_Xiang_Gong_Gong_Pin_Dao
 #EXTINF:-1  tvg-logo=" ",常德新闻综合
-http://ainm.cc/c/tv/huntv/cdxl.php?id=xwzh
+http://lu1.cc/itv/huntv/cdxl1.php?id=xwzh
 #EXTINF:-1  tvg-logo=" ",常德公共频道
-http://ainm.cc/c/tv/huntv/cdxl.php?id=ggpd
+http://lu1.cc/itv/huntv/cdxl1.php?id=ggpd
 #EXTINF:-1  tvg-logo=" ",郴州新闻综合 (高清)
 http://ainm.cc/c/tv/huntv/czxl.php?id=czxwzh
 #EXTINF:-1  tvg-logo=" ",郴州公共频道 (高清)
@@ -68,9 +68,9 @@ http://ainm.cc/c/tv/huntv/czxl.html?id=czgg
 http://ainm.cc/c/tv/huntv/hyxl.php?id=hyxwzh
 #EXTINF:-1  tvg-logo=" ",衡阳公共频道 (高清)
 http://ainm.cc/c/tv/huntv/hyxl.php?id=hygg
-#EXTINF:-1  tvg-logo=" ",邵阳新闻综合
+#EXTINF:-1  tvg-logo=" ",邵阳新闻综合 (高清)
 http://ainm.cc/c/tv/huntv/syxl.php?id=syxwzh
-#EXTINF:-1  tvg-logo=" ",邵阳公共频道
+#EXTINF:-1  tvg-logo=" ",邵阳公共频道 (高清)
 http://ainm.cc/c/tv/huntv/syxl.html?id=sygg
 #EXTINF:-1  tvg-logo=" ",吉首综合频道
 https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
