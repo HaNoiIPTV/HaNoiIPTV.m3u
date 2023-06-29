@@ -52,6 +52,18 @@ http://ainm.cc/c/tv/gdtv/gdtv.php?id=lnxq
 http://ainm.cc/c/tv/gdtv/gdtv.php?id=xdjy
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E4%B8%9C%E7%A7%BB%E5%8A%A8%E9%A2%91%E9%81%93.png",广东移动频道
 http://ainm.cc/c/tv/gdtv/gdtv.php?id=gdyd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",广州综合频道 (高清)
+http://justsometime.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png",广州新闻频道 (高清)
+http://justsometime.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",广州影视频道 (高清)
+https://justsometime.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93.png",广州法治频道 (高清)
+https://justsometime.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%BF%E5%B7%9E%E7%AB%9E%E8%B5%9B%E9%A2%91%E9%81%93.png",广州竞赛频道 (高清)
+https://justsometime.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",南国都市频道 4K
+https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1  tvg-name="HTV THỂ THAO HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao.png",HTV Thể Thao HD
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-name="KIX HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Kix%20HD.png",Kix HD
