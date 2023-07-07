@@ -90,8 +90,8 @@ http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4hd
 http://lu1.cc/itv/sctv/scxl.php?id=scxkgw
 #EXTINF:-1  tvg-name="QPVN - QUỐC PHÒNG VIỆT NAM HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BB%91c%20ph%C3%B2ng%20Vi%E1%BB%87t%20Nam%20HD.png",QPVN - Quốc phòng Việt Nam HD
 http://gg.gg/HaNoiIPTV-QPVN-Quoc_phong_Viet_Nam_HD
-#EXTINF:-1  tvg-name="TN2 - TH THÁI NGUYÊN 2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%202%20HD.png",TN2 - Truyền hình Thái Nguyên 2 HD
-http://gg.gg/HaNoiIPTV-TN2_HD-Khoa_giao_va_Giai_tri
+#EXTINF:-1  tvg-logo=" ",达州新闻综合 (高清)
+http://lu1.cc/itv/sctv1/dztv.php?id=dzxwzh
 #EXTINF:-1  tvg-name="ANTV - TH AN NINH HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ANTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%B4ng%20an%20Nh%C3%A2n%20d%C3%A2n%20HD.png",ANTV - Truyền hình An Ninh HD
 http://gg.gg/HaNoiIPTV-ANTV-Truyen_hinh_An_Ninh_HD
 #EXTINF:-1  tvg-name="STV - TH SƠN LA HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20S%C6%A1n%20La%20HD.png",STV - Truyền hình Sơn La HD
@@ -134,8 +134,6 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://gg.gg/HaNoiIPTV-QBTV-Truyen_hinh_Quang_Binh_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TN1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%A1i%20Nguy%C3%AAn%20HD.png",TN1 - TH THÁI NGUYÊN HD
 http://gg.gg/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD
-#EXTINF:-1  tvg-logo=" ",达州新闻综合 (高清)
-http://lu1.cc/itv/sctv1/dztv.php?id=dzxwzh
 #EXTINF:-1  tvg-logo=" ",达州文化生活 (高清)
 http://lu1.cc/itv/sctv1/dztv.php?id=dzwhsh
 #EXTINF:-1  tvg-logo=" ",达州通川频道 (高清)
@@ -174,3 +172,15 @@ http://p8.vzan.com/slowlive/448662611288024675/live.m3u8
 http://p8.vzan.com/slowlive/449184618795535908/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%87%AA%E8%B4%A1%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",自贡综合频道 (高清)
 http://110.189.153.160:1001/zhpd.flv
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E7%BB%8F%E6%B5%8E%E9%A2%91%E9%81%93.png",甘肃经济频道 (高清)
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gsjj
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E6%96%87%E5%8C%96%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png",甘肃文化影视 (高清)
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gswh
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5%E9%A2%91%E9%81%93.png",甘肃公共应急 (高清)
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gsgg
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.png",甘肃都市频道 (高清)
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gsds
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.png",甘肃少儿频道 (高清)
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gsse
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png",甘肃移动电视
+http://ainm.cc/c/tv/gstv/gsxl.php?id=gsyd
