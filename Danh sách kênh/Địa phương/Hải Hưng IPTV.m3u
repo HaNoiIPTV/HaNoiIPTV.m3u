@@ -32,10 +32,6 @@ http://ainm.cc/c/tv/ahtv/ahtv.php?id=ahyd
 http://ainm.cc/c/tv/php/gdy.php?id=aqxwzh2
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB%E9%A2%91%E9%81%93.png",安庆经济生活 (高清)
 http://ainm.cc/c/tv/php/gdy.php?id=aqjjsh2
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",安庆教育台
-http://120.210.216.73:8080/live/SD12-576P-aqhmx-jy/1.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BA%86%E7%9F%B3%E5%8C%96%E7%94%B5%E8%A7%86%E5%8F%B0.png",安庆石化台
-http://183.167.250.225:8081/live/0.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%BF%E6%9D%BE%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",宿松新闻综合
 http://112.30.194.221:20080/live/a8fd37c471fa46e18ec17b6ce4730eb7/hls.m3u8
 #EXTINF:-1  tvg-logo=" ",固镇综合频道
@@ -44,37 +40,21 @@ http://www.guzhenm.com:7001/hls/hd-live.m3u8
 http://ainm.cc/c/tv/ahtv/bzxl.php?id=bzzh&fmt=flv
 #EXTINF:-1  tvg-logo=" ",亳州-2 | 农村频道 (高清)
 http://ainm.cc/c/tv/ahtv/bzxl.php?id=bznc&fmt=flv
-#EXTINF:-1  tvg-logo=" ",涡阳新闻综合
-http://111.39.71.77:8099/live/one/playlist.m3u8
 #EXTINF:-1  tvg-logo=" ",利辛新闻综合
 https://live.fst1994.net/hls/lixinxw/index.m3u8
 #EXTINF:-1  tvg-logo=" ",利辛影视娱乐
 https://live.fst1994.net/hls/lixinys/index.m3u8
 #EXTINF:-1  tvg-logo=" ",蒙城新闻频道
-http://mapi.plus.ahmctv.net/api/v1/channel.php?channel_id=5
+http://ainm.cc/c/tv/ahtv/bz_mcxl.php
 #EXTINF:-1  tvg-logo=" ",池州新闻综合
 http://cm.wshls.homecdn.com/live/4abdd.m3u8
 #EXTINF:-1  tvg-logo=" ",池州公共频道
 http://cm.wshls.homecdn.com/live/4abdf.m3u8
-#EXTINF:-1  tvg-logo=" ",东至新闻综合
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1  tvg-logo=" ",石台综合频道
-http://120.210.216.73:8080/live/SD12-576P-czst/1.m3u8
-#EXTINF:-1  tvg-logo=" ",定远新闻综合
-http://ssdyapp.cn/live/dyv1.m3u8
-#EXTINF:-1  tvg-logo=" ",来安新闻综合
-http://120.210.216.73:8080/live/SD12-576P-czla1pd/1.m3u8
-#EXTINF:-1  tvg-logo=" ",全椒综合频道
-http://120.210.216.73:8080/live/SD12-576P-qjzhpd/1.m3u8
-#EXTINF:-1  tvg-logo=" ",全椒生活频道
-http://120.210.216.73:8080/live/SD12-576P-qjshpd/1.m3u8
-#EXTINF:-1  tvg-logo=" ",阜南新闻综合
-http://ainm.cc/c/tv/php/gdy.php?id=fnxwzh
 #EXTINF:-1  tvg-logo=" ",太和新闻综合
 https://p6.vzan.com/slowlive/262295622991059597/live.m3u8
-#EXTINF:-1  tvg-logo=" ",淮北新闻综合
+#EXTINF:-1  tvg-logo=" ",淮北新闻综合 (高清)
 https://live.hbnews.net/video/xwzh/index.m3u8
-#EXTINF:-1  tvg-logo=" ",淮北公共频道
+#EXTINF:-1  tvg-logo=" ",淮北公共频道 (高清)
 https://live.hbnews.net/video/ggpd/index.m3u8
 #EXTINF:-1  tvg-logo=" ",濉溪综合频道
 http://stream.ahwanyun.cn/live/7f6926bc79174b03a212fe2aad0b62b6.flv
@@ -84,19 +64,19 @@ http://stream.ahwanyun.cn/live/b4bd9bfcda3b467d8f358db687750226.flv
 http://stream.ahwanyun.cn/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 #EXTINF:-1  tvg-logo=" ",淮南公共频道 (高清)
 http://stream.ahwanyun.cn/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
-#EXTINF:-1  tvg-logo=" ",凤台综合频道
-http://111.39.175.241:8088/live/fengtai1.m3u8
 #EXTINF:-1  tvg-logo=" ",歙县综合频道
 http://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 #EXTINF:-1  tvg-logo=" ",屯溪融媒
 http://stream.ahwanyun.cn/live/63cfaf06e7064943b9a1b7d76d3470dd/hls.m3u8
-#EXTINF:-1  tvg-logo=" ",休宁新闻综合
-http://120.210.216.73:8080/ysten-business/live/hsxndst/1.m3u8
-#EXTINF:-1  tvg-logo=" ",黟县电视台
-http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8
 #EXTINF:-1  tvg-logo=" ",霍邱新闻综合
 http://stream.ahwanyun.cn/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
-#EXTINF:-1  tvg-logo=" ",舒城综合频道
-http://220.180.24.62:1935/live/live2/chunklist.m3u8
-#EXTINF:-1  tvg-logo=" ",舒城文化旅游
-http://220.180.24.62:1935/live/live1/chunklist.m3u8
+#EXTINF:-1  tvg-logo=" ",当涂新闻综合
+http://stream.ahwanyun.cn/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
+#EXTINF:-1  tvg-logo=" ",和县新闻综合
+https://live.fst1994.net/hls/hexianzh/index.m3u8
+#EXTINF:-1  tvg-logo=" ",灵璧新闻综合
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1  tvg-logo=" ",萧县新闻综合
+http://60.171.239.216:9080/hls/stream1.m3u8
+#EXTINF:-1  tvg-logo=" ",绩溪新闻频道
+http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
