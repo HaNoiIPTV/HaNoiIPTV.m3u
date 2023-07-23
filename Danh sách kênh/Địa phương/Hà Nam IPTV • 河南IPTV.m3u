@@ -72,6 +72,8 @@ http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9
 http://live.muzhifm.com/shuazhibo/room2983_pc.m3u8?auth_key=1785035772-0-0-e8ae97c4402a8d3cf8ba7d8c7441f515
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B9%B3%E9%A1%B6%E5%B1%B1%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png",平顶山教育台 (高清)
 http://219.150.204.175:81/hls/live1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",新密综合频道 (高清)
+http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%91%A8%E5%8F%A3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",周口-1 | 新闻综合 (高清)
 http://117.159.72.12:8081/live/2216261506805201716.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%91%A8%E5%8F%A3%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",周口-2 | 公共频道 (高清)
@@ -86,14 +88,34 @@ http://ainm.cc/c/tv/php/gdy.php?id=nyzh
 http://p6.vzan.com/slowlive/899859453853342538/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LA34%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Long%20An%20HD.png",LA34 - TH LONG AN HD
 https://la34.vncdn.vn/live/LA34AAA/chunklist_w1740615775.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%99%BB%E5%B0%81%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",登封综合频道
+http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B7%A9%E4%B9%89%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",巩义-1 | 综合频道
+http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%8A%E8%A1%97%E7%94%B5%E8%A7%86%E5%8F%B0.png",上街电视台
+http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%8D%A5%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",荥阳-1 | 新闻综合
+http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E9%83%91%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",新郑-1 | 综合频道 (高清)
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A6%E4%BD%9C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",焦作综合频道 (高清)
 http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A6%E4%BD%9C%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png",焦作公共频道 (高清)
 http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A6%E4%BD%9C%E6%95%99%E8%82%B2%E9%A2%91%E9%81%93.png",焦作教育频道
 http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%84%A6%E4%BD%9C%E6%95%99%E8%82%B2%E9%A2%91%E9%81%93.png",睛彩焦作频道
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%9D%9B%E5%BD%A9%E7%84%A6%E4%BD%9C%E9%A2%91%E9%81%93.png",睛彩焦作频道
 http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+#EXTINF:-1  tvg-logo=" ",孟州综合频道 (高清)
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1  tvg-logo=" ",沁阳新闻综合
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1  tvg-logo=" ",沁阳文化旅游
+http://live.qinyangtv.com:82/channel2/sd/live.m3u8
+#EXTINF:-1  tvg-logo=" ",武陟新闻综合
+http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+#EXTINF:-1  tvg-logo=" ",温县融媒
+http://live.dxhmt.cn:9081/tv/10825-1.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%B9%A4%E5%A3%81%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png",鹤壁新闻综合
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%BC%80%E5%B0%81%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8%E9%A2%91%E9%81%93.png",开封-2 | 文化旅游 (高清)
@@ -110,6 +132,22 @@ http://wshls.live.migucloud.com/live/X5LAHM2S_C0/playlist.m3u8
 http://ainm.cc/c/tv/php/gdy.php?id=nygg
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8D%97%E9%98%B3%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png",南阳-3 | 科教频道
 http://ainm.cc/c/tv/php/gdy.php?id=nykj
+#EXTINF:-1  tvg-logo=" ",邓州综合频道
+http://live.dxhmt.cn:9081/tv/11381-1.m3u8
+#EXTINF:-1  tvg-logo=" ",方城-1 | 新闻综合
+http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+#EXTINF:-1  tvg-logo=" ",内乡-1 | 综合频道
+http://live.dxhmt.cn:9081/tv/11325-1.m3u8
+#EXTINF:-1  tvg-logo=" ",桐柏-1 | 综合频道
+http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+#EXTINF:-1  tvg-logo=" ",唐河-1 | 新闻综合
+http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1  tvg-logo=" ",淅川-1 | 新闻综合 (高清)
+http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1  tvg-logo=" ",新野综合频道
+http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+#EXTINF:-1  tvg-logo=" ",镇平-1 | 新闻综合
+http://live.dxhmt.cn:9081/tv/11324-1.m3u8
 #EXTINF:-1  tvg-logo=" ",宝丰综合频道
 http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1  tvg-logo=" ",郏县综合频道
