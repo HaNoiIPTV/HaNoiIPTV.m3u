@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
-#EXTINF:-1  tvg-id="http://221.167.205.241:9981/stream/channelid/112" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20UHD.png",SBS HD • TRUYỀN HÌNH THỦ ĐÔ
+#EXTINF:-1  tvg-id="http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20UHD.png",SBS HD • TRUYỀN HÌNH THỦ ĐÔ
 http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
 #EXTINF:-1  tvg-id="https://livevt.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8 và https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv1hd/chunklist_b5128000.m3u8 và https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8 và https://api.anttv.xyz/get/vieon/vtv1-hd/playlist.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
@@ -80,8 +80,6 @@ http://gg.gg/HaNoiIPTV-VTVCab19-Vie_DRAMAS_HD
 http://gg.gg/HaNoiIPTV-ON_VFamily
 #EXTINF:-1  tvg-id="https://code.vthanhtivi.pw/getlink/cliptv/on-kids/chunklist_b5128000.m3u8 và https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20ON%20Kids%20HD.png",ON Kids HD
 http://gg.gg/HaNoiIPTV-ON_Kids_HD
-#EXTINF:-1  group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab22%20-%20ON%20Life%20HD.png",ON Life HD
-http://gg.gg/HaNoiIPTV-ON_Life_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-ON_Sports_HD và https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8 và http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1 và http://s2129133.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv304&offset=1&nodelay=1" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -130,6 +128,8 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-ON_Life_HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20t%C6%B0%C6%A1ng%20t%C3%A1c.png",TH HÀ NỘI 1 HD tương tác
+http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD_tuong_tac
 #EXTINF:-1  tvg-id="http://118.45.35.3:9981/stream/channel/50ce4bf6311e612f8a175d16648b1da2 và http://119.192.58.101:9981/stream/channel/76e5e21a45d9695817d2eba93ab14d88 và http://119.192.58.101:9981/stream/channel/a037574fa53f25050d20113cef02efaf và http://221.167.205.241:9981/stream/channelid/78 và http://49.167.236.190:9981/stream/channelid/38 và http://106.255.223.76:9981/stream/channelid/118" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 #EXTINF:-1  tvg-id="http://58.142.60.62:9981/stream/channelid/814405847 và http://221.167.205.241:9981/stream/channelid/39 và http://49.167.236.190:9981/stream/channelid/58 và http://106.255.223.76:9981/stream/channelid/107" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2024%20-%20tvN%20SHOW%20HD.png",tvN SHOW • GIẢI TRÍ HẤP DẪN
