@@ -112,6 +112,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8|Referer=https://s
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%207E.png",TH HÀ NỘI 1 HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%20H%C3%80%20N%E1%BB%98I%201%20th%E1%BB%AD%20nghi%E1%BB%87m%20l%E1%BA%A7n%20hai.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20l%E1%BA%A7n%20hai.png",TTV - TH THANH HÓA HD
+https://code.vthanhtivi.pw/getlink/dp/ttv/playlist.m3u8
 #EXTINF:-1  tvg-name="HTV2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png",HTV2 HD
 http://gg.gg/HaNoiIPTV-HTV2_HD
 #EXTINF:-1  tvg-name="HTV7 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png",HTV7 HD
