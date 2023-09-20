@@ -53,17 +53,11 @@ a) Đối với hệ điều hành Android
 ## LƯU Ý: Tất cả các smart TV trên hệ điều hành này đều không hỗ trợ một số kênh truyền hình của VTVCab, InTheBOX.TV, SCTV,.... nên quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
 
 # D. Kết nối với Hà Nội IPTV
-### Hà Nội IPTV hiện đang được kết nối với các tỉnh thành trong cả nước như:<br />
-### - [Hà Nội IPTV tại Hải Phòng](http://gg.gg/haiphongiptv)<br />
-Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
-Địa chỉ 2: Số 2 Đường Nguyễn Bình, phường Kênh Dương, quận Lê Chân, Hải Phòng<br />
-### - [Hà Nội IPTV tại Hà Nam](http://gg.gg/hanamiptv)<br />
-Địa chỉ: Số 215 Đường Trường Chinh, phường Hai Bà Trưng, TP. Phủ Lý, Hà Nam<br />
-### - [Hà Nội IPTV tại Nam Định](http://gg.gg/namdinhiptv)<br />
-Địa chỉ: Số 6 Đường Nguyễn Viết Xuân, phường Lộc Vượng, TP. Nam Định, Nam Định<br />
-### - [Hà Nội IPTV tại Thanh Hóa](http://gg.gg/thanhhoaiptv)<br />
-Địa chỉ 1: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
-Địa chỉ 2: Quốc lộ 1A (Đại lộ Hùng Vương), phường Đông Hải, TP. Thanh Hóa<br />
+### Hiện tại, dịch vụ đã có trên các tỉnh thành phố trong cả nước:<br />
+### - [Hải Phòng](http://gg.gg/haiphongiptv)<br />
+### - [Phủ Lý, Hà Nam](http://gg.gg/hanamiptv)<br />
+### - [Nam Định](http://gg.gg/namdinhiptv)<br />
+### - [Thanh Hóa](http://gg.gg/thanhhoaiptv)<br />
 ### Ngoài ra, Hà Nội IPTV còn hỗ trợ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý khán giả đã biết đến ngôn ngữ này (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道).
 
 # E. Những nội dung khác
@@ -73,11 +67,11 @@ a) Đối với hệ điều hành Android
 # G. Liên hệ
 ### Star Beer Mạnh An
 Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
-### Trung tâm Quản lý Dịch vụ
-Địa chỉ: Phòng 1604, Tầng 16, Tòa nhà COWA Tower, Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Cạnh chợ tự phát)<br />
+### Nhà ở Hà Nội IPTV
+Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Cạnh Khu tập thể)<br />
 ### Quê hương Hà Nội IPTV
-Cơ sở 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
-Cơ sở 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
+Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
+Địa chỉ 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
 ### Tiếp nhận thông tin
-Điện thoại, Zalo: 0353356981<br />
+Số điện thoại: 0353356981<br />
 Email: hoanghuymanh85@gmail.com<br />
