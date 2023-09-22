@@ -10,13 +10,14 @@ Hà Nội IPTV hiện đang có trên 300 kênh truyền hình trong nước & q
 
 # C. Làm quen với dịch vụ
 Dịch vụ trên đang áp dụng trọn vẹn hai gói bao gồm:<br />
-## I. [Gói chính thức](https://tinyurl.com/hanoiiptv)
+## I. [Gói chính thức](https://bit.ly/Ha_Noi_IPTV)
 Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình với tiêu chuẩn HD trên các lĩnh vực khác nhau.<br />
 - Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: Điểm hẹn HanoiTV, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, TH QUỐC HỘI HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, MNet - ÂM NHẠC CHUYÊN BIỆT, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
 - Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
 - Ngoài ra còn có các kênh truyền hình thiết yếu (bao gồm của Trung ương và Địa phương) với độ phân giải cao, bao gồm: VOVTV - TH TIẾNG NÓI VIỆT NAM HD, THP+ HD, TTV - TH THANH HÓA HD, QTV1 HD, NTV - TH NGHỆ AN HD, TN1 - TH THÁI NGUYÊN HD,....<br />
 => Chi tiết về các kênh nằm trong gói chính thức, mời quý vị và các bạn theo dõi [tại đây](https://fptuniversity-my.sharepoint.com/:b:/g/personal/manhhhth00327_fpt_edu_vn/EVj7F0P4VoFGhwKGi8eKYesB5TpL5ex7A5BA_FtllLgO5A?e=imNBmG).
-### * Lưu ý: Đối với gói chính thức, quý khán giả khuyên cài đặt các ứng dụng: Dimplay, Tivimate, OTT Navigator IPTV,.... trên hệ điều hành Android. Bắt đầu từ ngày 19/09/2023, [link cũ](http://gg.gg/hanoiiptv) của dịch vụ này đã bị gián đoạn do tên miền dừng hoạt động nên quý khán giả sẽ không thể theo dõi toàn bộ kênh trong vòng 1 tuần kể từ thời điểm trên và thay vào đó quý khán giả có thể theo dõi qua [link mới](https://bit.ly/Ha_Noi_IPTV) hoặc thay thế sang gói phụ cho đến khi tiếp tục cập nhật và chỉnh sửa file README.md.<br />
+### * Lưu ý: Đối với gói chính thức, quý khán giả khuyên cài đặt các ứng dụng: Dimplay, Tivimate, OTT Navigator IPTV,.... trên hệ điều hành Android.<br />
+- Bắt đầu từ ngày 19/09/2023, [link cũ](http://gg.gg/hanoiiptv) của dịch vụ này đã bị gián đoạn do tên miền đã bị xóa khỏi toàn bộ máy chủ (địa chỉ IP) sau 2 năm đưa vào sử dụng nên quý khán giả sẽ không thể theo dõi toàn bộ kênh trong vòng 1 tuần kể từ thời điểm trên và thay vào đó quý khán giả có thể theo dõi qua [link mới](https://bit.ly/Ha_Noi_IPTV) hoặc thay thế sang gói phụ cho đến khi tiếp tục cập nhật và chỉnh sửa file README.md.<br />
 ## II. [Gói phụ](https://cutt.ly/hanoiiptvplus) và [Gói dành cho một số thiết bị không được hỗ trợ một số kênh](https://cutt.ly/hanoiiptvpublic)
 - Sắp xếp bởi các kênh truyền hình cơ bản mà vẫn thu hút được nhiều người theo dõi để phục vụ quý khán giả trong trường hợp không thể truy cập vào gói chính thức.<br />
 
