@@ -3,23 +3,15 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
-https://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+https://qnetlive.nethubtv.vn/live/vtv1.smil/chunklist_b2128000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC1%20HD.png",VTC1 HD
-http://live-ali2.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",VTV CẦN THƠ HD
-https://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201%20HD.png",THVL1 HD
-http://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%203%20HD.png",THVL3 HD
-https://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%204%20HD.png",THVL4 HD
-https://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20th%E1%BB%AD%20nghi%E1%BB%87m.png",TH HÀ NỘI 1 thử nghiệm
+https://qnetlive.nethubtv.vn/live/vtc1.smil/chunklist_b2128000_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20th%E1%BB%AD%20nghi%E1%BB%87m.png",TH HÀ NỘI 1 SD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%20H%C3%80%20N%E1%BB%98I%201%20th%E1%BB%AD%20nghi%E1%BB%87m.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20th%E1%BB%AD%20nghi%E1%BB%87m.png",TH HÀ NỘI 2 thử nghiệm
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20th%E1%BB%AD%20nghi%E1%BB%87m.png",TH HÀ NỘI 2 SD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%20H%C3%80%20N%E1%BB%98I%202%20th%E1%BB%AD%20nghi%E1%BB%87m.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD%20%E2%80%A2%20B%E1%BA%A3n%203B.png",THP+ HD
-https://live.thhp.vn/hls/thpplus/index.m3u8
+https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab11%20-%20VGS%20SHOP.png",VTVCab11 - VGS SHOP
 https://5b0446c43ca13.streamlock.net/dn/_definst_/htvmuasam.stream/chunklist_w1423801143.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20Th%C3%B4ng%20t%E1%BA%A5n%20x%C3%A3%20Vi%E1%BB%87t%20Nam%20-%20VNews%20HD.png",TH TTXVN - VNEWS HD
