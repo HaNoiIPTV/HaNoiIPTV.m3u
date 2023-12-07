@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
-#EXTINF:-1  tvg-id="http://stream.khanggtivi.xyz/test/vtv1hd_vhls.smil/index.m3u8 và https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8 và https://qnetlive.nethubtv.vn/live/vtv1.smil/chunklist_b2128000_sleng.m3u8 và http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8 và https://livevt.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
+#EXTINF:-1  tvg-id="http://stream.khanggtivi.xyz/test/vtv1hd_vhls.smil/index.fmp4.m3u8 và https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8 và https://qnetlive.nethubtv.vn/live/vtv1.smil/chunklist_b2128000_sleng.m3u8 và http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8 và https://livevt.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 http://gg.gg/HaNoiIPTV-VTV1_HD
 #EXTINF:-1  tvg-id="https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV2 HD
 http://gg.gg/HaNoiIPTV-VTV2_HD
