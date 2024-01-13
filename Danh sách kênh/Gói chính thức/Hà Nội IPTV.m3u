@@ -22,8 +22,8 @@ http://gg.gg/HaNoiIPTV-VTV7_HD
 http://gg.gg/HaNoiIPTV-VTV8_HD
 #EXTINF:-1  tvg-id="http://antm.dynu.net:14285/rtp/232.84.2.35:10618" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV9%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV9 HD
 http://gg.gg/HaNoiIPTV-VTV9_HD
-#EXTINF:-1  tvg-id="http://gg.gg/Ha_Noi_IPTV_6-MNet-K-Pop_Chuyen_biet và http://220.71.114.212:9981/stream/channel/8ec551cbcf5802c657eaeb990c40d9a5 và http://221.167.205.241:9981/stream/channelid/83" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/%C4%90%E1%BA%BFn%20%C4%91%E1%BB%83%20y%C3%AAu%20H%C3%A0%20N%E1%BB%99i.png",Đến để yêu Hà Nội!
-http://gg.gg/Toan_canh_Giao_thong_Ha_Noi
+#EXTINF:-1  tvg-id="http://gg.gg/Toan_canh_Giao_thong_Ha_Noi và http://gg.gg/Ha_Noi_IPTV_6-MNet-K-Pop_Chuyen_biet và http://220.71.114.212:9981/stream/channel/8ec551cbcf5802c657eaeb990c40d9a5 và http://221.167.205.241:9981/stream/channelid/83" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/%C4%90%E1%BA%BFn%20%C4%91%E1%BB%83%20y%C3%AAu%20H%C3%A0%20N%E1%BB%99i.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Một ngày trải nghiệm đường sắt trên cao Cát Linh - Hà Đông
+https://s.id/Den_de_yeu_Ha_Noi
 #EXTINF:-1  tvg-id="https://ott4.nethubtv.vn/live/thuathienhue/chunklist_1.m3u8 và https://live.trt.com.vn/TRT-Online/chunklist.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",TRT - TH THỪA THIÊN HUẾ
 http://gg.gg/HaNoiIPTV-TRT-Truyen_hinh_Thua_Thien_Hue_HD
 #EXTINF:-1  tvg-id="http://antm.dynu.net:14285/rtp/232.84.3.143:10738 và http://1.52.153.139:13579/udp/225.1.2.186:30120 và https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_w363566969_b3128000_slen.m3u8 và https://ott2.nethubtv.vn/live/hanoi1/chunklist_1.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",TH HÀ NỘI 1 HD
@@ -514,50 +514,48 @@ http://gg.gg/Ha_Noi_IPTV_30-OLIFE-Du_lich_va_Cuoc_song
 http://gg.gg/Ha_Noi_IPTV_29-ONCE-Lich_su_Chuyen_biet
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/TVBS%20%E6%96%B0%E8%81%9E%E5%8F%B0%20HD.png",TVBS 新聞台
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1  tvg-id="https://code.vthanhtivi.pw/getlink/vieon/vtv5-tay-nguyen/playlist.m3u8 và https://code.vthanhtivi.pw/getlink/fptplay/vtv5-tay-nguyen/chunklist_b5000000.m3u8" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nguy%C3%AAn%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nguy%C3%AAn%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV5 TÂY NGUYÊN
 http://gg.gg/HaNoiIPTV-VTV5_Tay_Nguyen
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20T%C3%A2y%20Nam%20B%E1%BB%99%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",VTV5 TÂY NAM BỘ HD
 http://gg.gg/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E8%B4%AD%E7%89%A9%E9%A2%91%E9%81%93.png",东方购物 • MUA SẮM HÀNG ĐẦU
 http://gg.gg/HeNeiIPTV-Dong_Fang_Gou_Wu_Pin_Dao_Gao_Qing
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视高清 | TH BẮC KINH HD
-http://gg.gg/HaNoiIPTV-Bei_Jing_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.png",湖南卫视 | TH HỒ NAM
-http://gg.gg/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视高清 | TH CHIẾT GIANG HD
-http://gg.gg/HaNoiIPTV-Zhe_Jiang_Wei_Shi_HD
-#EXTINF:-1  tgroup-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视 | TH GIANG TÔ
-http://gg.gg/HaNoiIPTV-Jiang_Su_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.png",黑龙江卫视 | TH LONG GIANG
-http://gg.gg/HaNoiIPTV-Hei_Long_Jiang_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视高清 | TH CÁT LÂM HD
-http://gg.gg/HaNoiIPTV-Ji_Lin_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视 | TH LIÊU NINH
-http://gg.gg/HaNoiIPTV-Liao_Ning_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视 | TH THIÊN TÂN
-http://gg.gg/HaNoiIPTV-Tian_Jin_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视高清 | TH HÀ BẮC HD
-http://gg.gg/HaNoiIPTV-He_Bei_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视 | TH SƠN ĐÔNG
-http://gg.gg/HaNoiIPTV-Shan_Dong_Wei_Shi_HD
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Shan_Xi_Wei_Shi_HD và http://nettv.live/hls/cutv.php?id=sxws2" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视 | TH SƠN TÂY
-https://cutt.ly/HaNoiIPTV-Shan_Xi_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BB%84%E6%B2%B3%E5%8D%AB%E8%A7%86.png",黄河电视台 | TH HOÀNG HÀ
-https://cutt.ly/HeNeiIPTV-Huang_He_Dian_Shi_Tai_Gao_Qing
-#EXTINF:-1  tvg-id="http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 và http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6147E69AU319DA04BK783D34A5I4A7F16AFP2BF4M340EEFAV0Z339C9W16A66428F29987E8&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000512" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%EF%BC%88%E5%BE%AE%E8%B0%83%E7%89%88%EF%BC%89.png",陕西卫视 | TH THIỂM TÂY
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Bei_Jing_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",北京卫视高清 | TH BẮC KINH HD
+https://s.id/HaNoiIPTV-Bei_Jing_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Hu_Nan_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.png",湖南卫视 | TH HỒ NAM
+https://s.id/HaNoiIPTV-Hu_Nan_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Zhe_Jiang_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png",浙江卫视高清 | TH CHIẾT GIANG HD
+https://s.id/HaNoiIPTV-Zhe_Jiang_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Jiang_Su_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视 | TH GIANG TÔ
+https://s.id/HaNoiIPTV-Jiang_Su_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Hei_Long_Jiang_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.png",黑龙江卫视 | TH LONG GIANG
+https://s.id/HaNoiIPTV-Hei_Long_Jiang_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Ji_Lin_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png",吉林卫视高清 | TH CÁT LÂM HD
+https://s.id/HaNoiIPTV-Ji_Lin_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Liao_Ning_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png",辽宁卫视 | TH LIÊU NINH
+https://s.id/HaNoiIPTV-Liao_Ning_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Tian_Jin_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png",天津卫视 | TH THIÊN TÂN
+https://s.id/HaNoiIPTV-Tian_Jin_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-He_Bei_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png",河北卫视高清 | TH HÀ BẮC HD
+https://s.id/HaNoiIPTV-He_Bei_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Shan_Dong_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png",山东卫视 | TH SƠN ĐÔNG
+https://s.id/HaNoiIPTV-Shan_Dong_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Shan_Xi_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png",山西卫视 | TH SƠN TÂY
+https://s.id/HaNoiIPTV-Shan_Xi_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://120.204.20.48/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8 và http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R6147E69AU319DA04BK783D34A5I4A7F16AFP2BF4M340EEFAV0Z339C9W16A66428F29987E8&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000512" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%EF%BC%88%E5%BE%AE%E8%B0%83%E7%89%88%EF%BC%89.png",陕西卫视 | TH THIỂM TÂY
 http://gg.gg/HaNoiIPTV-Shaan_Xi_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视高清 | TH CAM TÚC HD
-http://gg.gg/HaNoiIPTV-Gan_Su_Wei_Shi_HD
-#EXTINF:-1  tvg-id="http://lu1.cc/itv/qhtv/gem.php?id=qhws và http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&playtoken=ABCDEFGHI&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&programid=4200000111.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 | TH THANH HẢI
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Gan_Su_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视高清 | TH CAM TÚC HD
+https://s.id/HaNoiIPTV-Gan_Su_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&playtoken=ABCDEFGHI&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&programid=4200000111.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 | TH THANH HẢI
 http://gg.gg/HaNoiIPTV-Qing_Hai_Wei_Shi_HD
-#EXTINF:-1  tvg-id="http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视 | TH TÂN CƯƠNG
-http://gg.gg/HaNoiIPTV-Xin_Jiang_Wei_Shi
-#EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视 | TH BINH ĐOÀN
-https://cutt.ly/HaNoiIPTV-Bing_Tuan_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视 | TH MÔNG CỔ
-http://gg.gg/HaNoiIPTV-Nei_Meng_Gu_Wei_Shi_HD
-#EXTINF:-1  group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视高清 | TH NINH HẠ HD
-https://cutt.ly/HaNoiIPTV-Ning_Xia_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Xin_Jiang_Wei_Shi" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视 | TH TÂN CƯƠNG
+https://s.id/HaNoiIPTV-Xin_Jiang_Wei_Shi
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Bing_Tuan_Wei_Shi_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视 | TH BINH ĐOÀN
+https://s.id/HaNoiIPTV-Bing_Tuan_Wei_Shi
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Nei_Meng_Gu_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png",内蒙古卫视 | TH MÔNG CỔ
+https://s.id/HaNoiIPTV-Nei_Meng_Gu_Wei_Shi_HD
+#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png",宁夏卫视高清 | TH NINH HẠ HD
+http://gg.gg/HaNoiIPTV-Ning_Xia_Wei_Shi_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png",湖北卫视高清 | TH HỒ BẮC HD
 http://gg.gg/HaNoiIPTV-Hu_Bei_Wei_Shi_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",安徽卫视高清 | TH AN HUY HD
