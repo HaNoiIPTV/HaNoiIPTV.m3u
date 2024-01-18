@@ -747,14 +747,18 @@ http://gg.gg/Ha_Noi_IPTV_116-Pag_Seu_Gyeong_Je_TV-Kinh_te_Hang_dau
 http://gg.gg/HaNoiIPTV-VOV_Giao_thong_Ha_Noi
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV1.png",VOV1
 http://gg.gg/HaNoiIPTV-VOV1
-#EXTINF:-1  group-title="KÊNH KHÁC" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV2.png",VOV2
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV2.png",VOV2
 http://gg.gg/HaNoiIPTV-VOV2
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV3.png",VOV3
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV3.png",VOV3
 http://gg.gg/HaNoiIPTV-VOV3
-#EXTINF:-1  group-title="KÊNH KHÁC" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV4.png",VOV4
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV4.png",VOV4
 http://gg.gg/HaNoiIPTV-VOV4
-#EXTINF:-1  group-title="KÊNH KHÁC" group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Kh%C3%A1c/Ph%C3%A1t%20thanh/VOV6.png",VOV6
 http://gg.gg/HaNoiIPTV-VOV6
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",FM 93,7 • PT HẢI PHÒNG
+https://iplogger.com/HaNoiIPTV-THP-Phat_thanh_Hai_Phong
+#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20-%20Ph%C3%A1t%20thanh%20H%E1%BA%A3i%20Ph%C3%B2ng%202.png",FM 102,2 • THP GIAO THÔNG - PT HẢI PHÒNG 2
+https://iplogger.com/HaNoiIPTV-THP_Giao_thong-Phat_thanh_Hai_Phong_2
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%E1%BA%A1ng%20S%C6%A1n%20HD.png",FM 88,6 • PT LẠNG SƠN
 https://iplogger.com/HaNoiIPTV-LSTV-Phat_thanh_Lang_Son
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BRT%20-%20Ph%C3%A1t%20thanh%20B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u.png",FM 92 • PT BÀ RỊA - VŨNG TÀU
@@ -771,8 +775,6 @@ http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong
 https://iplogger.com/HaNoiIPTV-HYTV-Phat_thanh_Hung_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",FM 93 • PT THỪA THIÊN HUẾ
 http://gg.gg/HaNoiIPTVPlus-TRT-Phat_thanh_Thua_Thien_Hue
-#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",FM 93,7 • PT HẢI PHÒNG
-https://iplogger.com/HaNoiIPTV-THP-Phat_thanh_Hai_Phong
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",FM 94 • PT YÊN BÁI
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",FM 94,1 • PT LAI CHÂU
@@ -795,6 +797,8 @@ http://gg.gg/HaNoiIPTVPlus-TBTV-Phat_thanh_Thai_Binh
 http://gg.gg/HaNoiIPTVPlus-HGTV-Phat_thanh_Ha_Giang
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",FM 97 • PT LÂM ĐỒNG
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lam_Dong
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",FM 97,3 • PT CẦN THƠ
+http://gg.gg/HaNoiIPTVPlus-THTPCT-Phat_thanh_Can_Tho
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201%20HD.png",FM 97,5 • PT ĐỒNG NAI
 http://gg.gg/HaNoiIPTVPlus-DNRTV-Phat_thanh_Dong_Nai
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Ph%C3%A1t%20thanh%20Qu%E1%BA%A3ng%20Nam.png",FM 97,6 • PT QUẢNG NAM
@@ -811,10 +815,10 @@ http://gg.gg/HaNoiIPTVPlus-THDT-Phat_thanh_Dong_Thap
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Ph%C3%A1t%20thanh%20Ngh%E1%BB%87%20An.png",FM 99,6 • VON - PT NGHỆ AN
 https://iplogger.com/HaNoiIPTV-VON-Phat_thanh_Nghe_An
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",FM 99,9 • PT BÌNH ĐỊNH
+http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Dinh
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THGL%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Gia%20Lai%20HD.png",FM 102 • PT GIA LAI
 http://113.161.25.3:8134/hls/radio/radio.m3u8
-#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20-%20Ph%C3%A1t%20thanh%20H%E1%BA%A3i%20Ph%C3%B2ng%202.png",FM 102,2 • THP GIAO THÔNG - PT HẢI PHÒNG 2
-https://iplogger.com/HaNoiIPTV-THP_Giao_thong-Phat_thanh_Hai_Phong_2
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",FM 102,9 • PT QUẢNG NGÃI
 http://gg.gg/HaNoiIPTVPlus-PTQ-Phat_thanh_Quang_Ngai
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Ph%C3%A1t%20thanh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng.png",FM 104,5 • PT HẢI DƯƠNG
@@ -823,3 +827,11 @@ http://gg.gg/HaNoiIPTVPlus-HDTV-Phat_thanh_Hai_Duong
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kh%C3%A1nh%20H%C3%B2a%20HD.png",FM 105,6 • PT KHÁNH HÒA
 http://210.245.20.94/hls/radio.m3u8
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",HBTV - PT HÒA BÌNH
+http://gg.gg/HaNoiIPTVPlus-HBTV-Phat_thanh_Hoa_Binh
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",QBTV - PT QUẢNG BÌNH
+http://gg.gg/HaNoiIPTVPlus-QBTV-Phat_thanh_Quang_Binh
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",BPTV - PT BÌNH PHƯỚC
+http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
+#EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo=" ",CTV - PT CÀ MAU
+http://gg.gg/HaNoiIPTVPlus-CTV-Phat_thanh_Ca_Mau
