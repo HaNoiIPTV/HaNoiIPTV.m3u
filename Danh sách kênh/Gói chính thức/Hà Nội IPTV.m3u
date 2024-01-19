@@ -176,7 +176,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 http://gg.gg/HaNoiIPTV-NTV-Truyen_hinh_Nghe_An_HD
 #EXTINF:-1  tvg-id="https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8 và https://live-on-sdrm-v2-akm.akamaized.net/manifest/vov-tv/playlist_720p.m3u8" group-title="KÊNH TƯƠNG TÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A0i%20G%C3%B2n%20h%C3%B4m%20nay%20%E2%80%A2%20Ban%20ng%C3%A0y.png",SÀI GÒN HÔM NAY • BAN NGÀY | Từ ngày 27/12/2023, kênh sẽ phát hành 18h thứ hai - thứ tư - thứ sáu hàng tuần!
 http://gg.gg/Sai_Gon_hom_nay-Ban_ngay
-#EXTINF:-1  group-title="KÊNH TƯƠNG TÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A0i%20G%C3%B2n%20h%C3%B4m%20nay%20%E2%80%A2%20Ban%20%C4%91%C3%AAm.png",SÀI GÒN HÔM NAY • BAN ĐÊM | Từ ngày 27/12/2023, kênh sẽ phát hành 18h thứ hai - thứ tư - thứ sáu hàng tuần!
+#EXTINF:-1  group-title="KÊNH TƯƠNG TÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A0i%20G%C3%B2n%20h%C3%B4m%20nay%20%E2%80%A2%20Ban%20%C4%91%C3%AAm.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Đường phố TP. Thủ Đức - Ninh Kiều (Cần Thơ) đêm cuối năm 2023 rất "đông vui"!
 http://gg.gg/Sai_gon_hom_nay-Ban_dem
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH THỂ THAO" group-title="KÊNH SCTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=https://sctvonline.vn/
@@ -548,8 +548,8 @@ https://s.id/HaNoiIPTV-Shan_Xi_Wei_Shi_HD
 http://gg.gg/HaNoiIPTV-Shaan_Xi_Wei_Shi_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Gan_Su_Wei_Shi_HD" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png",甘肃卫视高清 | TH CAM TÚC HD
 https://s.id/HaNoiIPTV-Gan_Su_Wei_Shi_HD
-#EXTINF:-1  tvg-id="http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&playtoken=ABCDEFGHI&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&programid=4200000111.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 | TH THANH HẢI
-http://gg.gg/HaNoiIPTV-Qing_Hai_Wei_Shi_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Qing_Hai_Wei_Shi_HD và http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&playtoken=ABCDEFGHI&protocol=http&accesstoken=R621C86FCU319FA04BK783FB5EBIFA29A0DEP2BF4M340CAC5V0Z339C9W16D7E5AFCA1ADFD1&programid=4200000111.m3u8" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png",青海卫视 | TH THANH HẢI
+https://s.id/HaNoiIPTV-Qing_Hai_Wei_Shi_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Xin_Jiang_Wei_Shi" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png",新疆卫视 | TH TÂN CƯƠNG
 https://s.id/HaNoiIPTV-Xin_Jiang_Wei_Shi
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Bing_Tuan_Wei_Shi_HD" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png",兵团卫视 | TH BINH ĐOÀN
