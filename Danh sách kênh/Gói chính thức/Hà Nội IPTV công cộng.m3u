@@ -40,8 +40,28 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/VTV9%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%201%20HD.png",THVL1 HD
+http://free.cvmtv.site/thvl1?token=live
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",THVL1 HD
+http://free.cvmtv.site/thvl2?token=live
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%203%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",THVL3 HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/THVL3%20HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%204%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",THVL4 HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/THVL4%20HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VOVTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20VOV%20HD.png",VOVTV - TH TIẾNG NÓI VIỆT NAM HD
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV9%20-%20An%20Vi%C3%AAn%20HD.png",BTV9 - TH AN VIÊN HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/BTV9%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Vi%C3%AAn%20HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%20HD.png",BTV1 HD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/BTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20D%C6%B0%C6%A1ng%201%20HD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD.png",HTV7 HD
+http://free.cvmtv.site/htv7?token=live
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD.png",HTV9 HD
+http://free.cvmtv.site/htv9?token=live
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",TH HÀ NỘI 1 SD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20SD.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD.png",TH HÀ NỘI 2 SD
+https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20SD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/To%C3%A0n%20c%E1%BA%A3nh%20Giao%20th%C3%B4ng%20H%C3%A0%20N%E1%BB%99i.png",HÌNH ẢNH ĐẶC SẮC | 102 phút toàn cảnh đường phố Hà Nội khi mùa đông đến giữa ngày và đêm
 https://ia902700.us.archive.org/6/items/ha-noi-hom-nay/H%C3%8CNH%20%E1%BA%A2NH%20%C4%90%E1%BA%B6C%20S%E1%BA%AEC%20CH%C3%80O%20N%C4%82M%20M%E1%BB%9AI%202024%20%E2%80%A2%20102%20ph%C3%BAt%20to%C3%A0n%20c%E1%BA%A3nh%20%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20khi%20m%C3%B9a%20%C4%91%C3%B4ng%20%C4%91%E1%BA%BFn%20gi%E1%BB%AFa%20ng%C3%A0y%20%26%20%C4%91%C3%AAm.mp4
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab11%20-%20VGS%20SHOP.png",VTVCab11 - VGS SHOP
