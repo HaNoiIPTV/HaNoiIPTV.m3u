@@ -340,7 +340,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=593
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-BBC_World_News" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20NEWS.png",BBC NEWS
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-BBC_News" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20NEWS.png",BBC NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=521
