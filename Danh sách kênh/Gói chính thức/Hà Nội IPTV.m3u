@@ -451,8 +451,8 @@ http://gg.gg/HaNoiIPTV-ATV-Truyen_hinh_An_Giang_HD
 http://gg.gg/HaNoiIPTV-THTPCT-Truyen_hinh_Thanh_pho_Can_Tho_HD
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh%20HD.png",THTV - TH TRÀ VINH HD
 http://gg.gg/HaNoiIPTV-THTV-Truyen_hinh_Tra_Vinh_HD
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-THTV2-Truyen_hinh_Tra_Vinh_2" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh%202.png",THTV2 - TH TRÀ VINH 2
-https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tr%C3%A0%20Vinh%202.png",THTV2 - TH TRÀ VINH 2
+http://gg.gg/HaNoiIPTV-THTV2-Truyen_hinh_Tra_Vinh_2
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-KG-Truyen_hinh_Kien_Giang_HD và https://la34.vncdn.vn/live/LA34AAA/chunklist_w1740615775.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ki%C3%AAn%20Giang%20HD.png",KG - TH KIÊN GIANG HD
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KG1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ki%C3%AAn%20Giang.png",KG1 - TH KIÊN GIANG 1 HD
@@ -555,33 +555,18 @@ http://gg.gg/HaNoiIPTV-Chong_Qing_Wei_Shi_HD
 http://gg.gg/HaNoiIPTV-Xi_Zang_Wei_Shi
 #EXTINF:-1  group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/AXN%20HD.png",AXN HD
 http://gg.gg/HaNoiIPTV-AXN_HD
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="http://gg.gg/HaNoiIPTV-Discovery_Asia_HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Asia%20HD.png",DISCOVERY ASIA HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=527
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="http://gg.gg/HaNoiIPTV-Discovery_Channel_HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Channel%20HD.png",DISCOVERY CHANNEL HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=594
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Asia%20HD.png",DISCOVERY ASIA HD
+http://gg.gg/HaNoiIPTV-Discovery_Asia_HD
+#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Discovery%20Channel%20HD.png",DISCOVERY CHANNEL HD
+http://gg.gg/HaNoiIPTV-Discovery_Channel_HD
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animal%20Planet%20HD.png",ANIMAL PLANET
 http://gg.gg/HaNoiIPTV-Animal_Planet_HD
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="http://gg.gg/HaNoiIPTV-TLC_HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TLC%20HD.png",TLC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=596
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-BBC_Lifestyle" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20Lifestyle%20HD.png",BBC LIFESTYLE
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.hqth.xyz/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZua55mZpmmk8KZn6aWlqenkZxpaF5naKM=&time=1689343770&mytv_msky&id=519
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="http://gg.gg/HaNoiIPTV-BBC_Earth_HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20Earth%20HD.png",BBC EARTH
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=517
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TLC%20HD.png",TLC
+http://gg.gg/HaNoiIPTV-TLC_HD
+#EXTINF:-1  tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd" group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20Lifestyle%20HD.png",BBC LIFESTYLE
+http://gg.gg/HaNoiIPTV-BBC_Lifestyle
+#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20Earth%20HD.png",BBC EARTH
+http://gg.gg/HaNoiIPTV-BBC_Earth_HD
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-id="https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8|Referer=http://sctvonline.vn/" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV10%20HD.png",SCTV10 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/s1/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-id="https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV16%20HD.png",SCTV16 HD
