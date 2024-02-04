@@ -1,4 +1,6 @@
-﻿#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 https://hqth.me/X3yb
