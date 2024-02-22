@@ -76,7 +76,7 @@ http://gg.gg/HaNoiIPTV-ON_Trending_TV
 http://gg.gg/HaNoiIPTV-VTVCab19-Vie_DRAMAS_HD
 #EXTINF:-1  tvg-id="http://cloud.vuducdong.uk:8383/rtp/232.84.3.69:11638 và https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sctvonline.vn/" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab20%20-%20ON%20VFamily.png",ON VFamily
 http://gg.gg/HaNoiIPTV-ON_VFamily
-#EXTINF:-1  tvg-id="https://code.vthanhtivi.pw/getlink/vieon2/vtvcab21-cartoon-kid/playlist.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTVCab" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20ON%20Kids%20HD.png",ON Kids HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTVCab" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20ON%20Kids%20HD.png",ON Kids HD
 http://gg.gg/HaNoiIPTV-ON_Kids_HD
 #EXTINF:-1  tvg-id="https://code.vthanhtivi.pw/getlink/onlive/onsports/85757.m3u8 và https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTVCab" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
 http://gg.gg/HaNoiIPTV-ON_Sports_HD
@@ -316,7 +316,7 @@ http://gg.gg/HaNoiIPTV-TRT WORLD
 http://gg.gg/HaNoiIPTV-CGTN
 #EXTINF:-1  group-title="KÊNH TIN TỨC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arirang.png",ARIRANG
 http://gg.gg/HaNoiIPTV-Arirang
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TIN TỨC" group-title="KÊNH THỬ NGHIỆM" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
 http://gg.gg/HaNoiIPTV-OPT1-Pervy_Kanal_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -357,8 +357,6 @@ http://gg.gg/HaNoiIPTV-BGTV-Truyen_hinh_Bac_Giang_HD
 http://gg.gg/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
 #EXTINF:-1  tvg-id="http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8 và https://live.khanggtivi.xyz/rtp/?dash=232.84.3.202:11134" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CRTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Cao%20B%E1%BA%B1ng%20HD.png",CRTV - TH CAO BẰNG HD
 http://gg.gg/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
-#EXTINF:-1  tvg-id="http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - TH LÀO CAI
-http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",HYTV HD - TH HƯNG YÊN
 http://gg.gg/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
 #EXTINF:-1  tvg-id="https://ott4.nethubtv.vn/live/haiduongtv/chunklist_1.m3u8 và http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HDTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20HD%2C%20PB%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",HDTV HD - TH HẢI DƯƠNG
@@ -373,6 +371,8 @@ http://gg.gg/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD
 http://gg.gg/HaNoiIPTV-THHN-Truyen_hinh_Ha_Nam_HD
 #EXTINF:-1  tvg-id="http://1.52.153.139:13579/udp/225.1.2.168:30120 và http://cloud.vuducdong.uk:8383/rtp/232.84.3.213:11200 và https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8 và https://live.khanggtivi.xyz/rtp/?dash=232.84.3.213:11200" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20t%E1%BB%89nh%20H%C3%B2a%20B%C3%ACnh%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",HBTV - TH HÒA BÌNH HD
 http://gg.gg/HaNoiIPTV-HBTV-Truyen_hinh_Hoa_Binh_HD
+#EXTINF:-1  tvg-id="http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai.png",THLC - TH LÀO CAI
+http://gg.gg/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai
 #EXTINF:-1  tvg-id="http://1.52.153.139:13579/udp/225.1.2.36:30120" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20TH%20LAI%20CH%C3%82U%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",LTV - TH LAI CHÂU HD
 http://gg.gg/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
 #EXTINF:-1  tvg-id="https://ott4.nethubtv.vn/live/dienbientv/chunklist_2.m3u8" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90TV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",ĐTV - TH ĐIỆN BIÊN HD
