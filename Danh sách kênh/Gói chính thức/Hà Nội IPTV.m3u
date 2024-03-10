@@ -304,11 +304,8 @@ http://gg.gg/HaNoiIPTV-CNN
 http://gg.gg/HaNoiIPTV-BBC_News
 #EXTINF:-1  tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Bloomberg.png",BLOOMBERG
 http://gg.gg/HaNoiIPTV-Bloomberg
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-ABC_Australia" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ABC%20AUSTRALIA.png",ABC AUSTRALIA
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZuapxrZZWjnMKcm6KZlqWdlKBkXmJqaA==&time=1688192349&mytv_msky&id=598
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1  tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd và http://gg.gg/HaNoiIPTV-ABC_Australia" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ABC%20AUSTRALIA.png",ABC AUSTRALIA
+https://s.id/HaNoiIPTV-ABC_Australia
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC14%20HD.png",VTC14 HD
 http://gg.gg/HaNoiIPTV-VTC14_HD
 #EXTINF:-1  group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC16%20HD.png",VTC16 HD
