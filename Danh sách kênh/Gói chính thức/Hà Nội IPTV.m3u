@@ -692,6 +692,8 @@ http://vncdn.mediatech.vn/qtvlive/qnr2.m3u8
 http://net-radio.vov.link:8000/xkhanhthien
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ NAM | FM 88,6 • PT LÝ NHÂN
 http://sohoa.truyenthanhthongminh.vn/sohoalynhan
+#EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc" group-title="KÊNH KHÁC" tvg-logo=" ",FM 89,4 • BPTV - PT BÌNH PHƯỚC
+http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",VĨNH PHÚC | FM 90,7 • PT VĨNH TƯỜNG
 http://truyenthanhip.vov.link:8000/8C4B1401A6E0
 #EXTINF:-1  group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 91,4 • PT QUAN SƠN - ĐÀI THỊ TRẤN SƠN LƯ
@@ -722,6 +724,8 @@ http://gg.gg/HaNoiIPTVPlus-THTV-Phat_thanh_Tra_Vinh
 http://gg.gg/HaNoiIPTVPlus-TRT-Phat_thanh_Thua_Thien_Hue
 #EXTINF:-1  tvg-id="http://42.1.64.42/490" group-title="KÊNH KHÁC" tvg-logo=" ",FM 93,1 • PT AN GIANG
 http://gg.gg/HaNoiIPTVPlus-ATV-Phat_thanh_An_Giang
+#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/244D34575002" group-title="KÊNH KHÁC" tvg-logo=" ",HBTV - PT HÒA BÌNH
+http://gg.gg/HaNoiIPTVPlus-HBTV-Phat_thanh_Hoa_Binh
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",FM 94 • PT YÊN BÁI
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",FM 94,1 • PT LAI CHÂU
@@ -732,6 +736,8 @@ http://sohoa.truyenthanhthongminh.vn/huyenvuban
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20Thu%E1%BA%ADn%20HD.png",FM 95 • PT NINH THUẬN
 http://gg.gg/HaNoiIPTVPlus-NTV-Phat_thanh_Ninh_Thuan
+#EXTINF:-1  tvg-id="http://123.16.189.138:1724/sohoanamdinh" group-title="KÊNH KHÁC" tvg-logo=" ",FM 95,1 • NTV - PT NAM ĐỊNH
+http://gg.gg/HaNoiIPTVPlus-NTV-Phat_thanh_Nam_Dinh
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/KRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Kon%20Tum.png",FM 95,1 • KRT - PT KON TUM
 http://gg.gg/HaNoiIPTVPlus-KRT-Phat_thanh_Kon_Tum
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tuy%C3%AAn%20Quang%20HD.png",FM 95,6 • PT TUYÊN QUANG
@@ -802,14 +808,8 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 http://210.245.20.94/hls/radio.m3u8
 #EXTINF:-1  tvg-id="http://42.1.64.42/s2707" group-title="KÊNH KHÁC" tvg-logo=" ",FM 106 • PTV - PT PHÚ THỌ
 http://gg.gg/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
-#EXTINF:-1  tvg-id="http://123.16.189.138:1724/sohoanamdinh" group-title="KÊNH KHÁC" tvg-logo=" ",NTV - PT NAM ĐỊNH
-http://gg.gg/HaNoiIPTVPlus-NTV-Phat_thanh_Nam_Dinh
-#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/244D34575002" group-title="KÊNH KHÁC" tvg-logo=" ",HBTV - PT HÒA BÌNH
-http://gg.gg/HaNoiIPTVPlus-HBTV-Phat_thanh_Hoa_Binh
 #EXTINF:-1  tvg-id="http://27.71.226.192:3000/quang_binh2" group-title="KÊNH KHÁC" tvg-logo=" ",QBTV - PT QUẢNG BÌNH
 http://gg.gg/HaNoiIPTVPlus-QBTV-Phat_thanh_Quang_Binh
-#EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc" group-title="KÊNH KHÁC" tvg-logo=" ",BPTV - PT BÌNH PHƯỚC
-http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
 #EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",HẬU GIANG | PT THỊ XÃ LONG MỸ
 http://sohoa.truyenthanhthongminh.vn/txlongmy
 #EXTINF:-1  tvg-id="http://42.1.64.42/MBF2029" group-title="KÊNH KHÁC" tvg-logo=" ",CTV - PT CÀ MAU
