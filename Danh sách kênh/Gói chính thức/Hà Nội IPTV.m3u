@@ -696,8 +696,6 @@ http://sohoa.truyenthanhthongminh.vn/sohoalynhan
 http://14.225.33.62:8000/40915104C4AC
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc" group-title="KÊNH KHÁC" tvg-logo=" ",FM 89,4 • BPTV - PT BÌNH PHƯỚC
 http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
-#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",HẬU GIANG | PT THỊ XÃ LONG MỸ
-http://sohoa.truyenthanhthongminh.vn/txlongmy
 #EXTINF:-1  group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 90,5 • PT NGHĨA ĐÀN
 http://net-radio.vov.link:8000/H_Nghia_Dan
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",VĨNH PHÚC | FM 90,7 • PT VĨNH TƯỜNG
@@ -786,6 +784,8 @@ http://gg.gg/HaNoiIPTVPlus-DNRTV-Phat_thanh_Dong_Nai
 http://net-radio.vov.link:8000/H_Ham_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Ph%C3%A1t%20thanh%20Qu%E1%BA%A3ng%20Nam.png",FM 97,6 • PT QUẢNG NAM
 http://gg.gg/HaNoiIPTVPlus-QRT-Phat_thanh_Quang_Nam
+#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",HẬU GIANG | FM 97,7 • PT THỊ XÃ LONG MỸ
+http://sohoa.truyenthanhthongminh.vn/txlongmy
 #EXTINF:-1  tvg-id="http://171.244.133.152:8000/hatinh" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20T%C4%A9nh%20HD.png",FM 97,8 • PT HÀ TĨNH
 http://gg.gg/HaNoiIPTVPlus-HTTV-Phat_thanh_Ha_Tinh
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",VĨNH PHÚC | FM 97,8 • PT LẬP THẠCH
