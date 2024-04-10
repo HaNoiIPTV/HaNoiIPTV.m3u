@@ -160,17 +160,17 @@ http://gg.gg/Sai_Gon_hom_nay-Ban_ngay
 http://gg.gg/Sai_gon_hom_nay-Ban_dem
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH THỂ THAO" group-title="KÊNH SCTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20BOX.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",BOX MOVIE 1 HD
-http://gg.gg/HaNoiIPTV-Box_Movie_1_HD
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",HOLLYWOOD CLASSICS HD
-http://gg.gg/HaNoiIPTV-Hollywood_Classics_HD
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Box_Movie_1_HD" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20BOX.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",BOX MOVIE 1 HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=https://sctvonline.vn/
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-Hollywood_Classics_HD" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",HOLLYWOOD CLASSICS HD
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png",BOX HITS HD
 http://gg.gg/HaNoiIPTV-BOX_Hits_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" group-title="KÊNH BOX" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",IN THE BOX CHANNEL
 http://gg.gg/HaNoiIPTV-In_The_Box_Channel
-#EXTINF:-1  tvg-id="http://viettel.nekocdn.xyz/HBO/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH PHIM TRUYỆN" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20phim%20truy%E1%BB%87n%20&%20gi%E1%BA%A3i%20tr%C3%AD.png" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH PHIM TRUYỆN" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20phim%20truy%E1%BB%87n%20&%20gi%E1%BA%A3i%20tr%C3%AD.png" tvg-id="https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HBO%20HD.png",HBO HD
 http://gg.gg/HaNoiIPTV-HBO_HD
-#EXTINF:-1  tvg-id="http://viettel.nekocdn.xyz/Cinemax/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",CINEMAX HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH PHIM TRUYỆN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png",CINEMAX HD
 http://gg.gg/HaNoiIPTV-Cinemax_HD
 #EXTINF:-1  group-title="KÊNH PHIM TRUYỆN" tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840 và https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cinema%20World%20HD.png",CINEMA WORLD HD
 http://gg.gg/HaNoiIPTV-Cinema_World_HD
