@@ -724,9 +724,7 @@ http://gg.gg/HaNoiIPTVPlus-BRT-Phat_thanh_Ba_Ria_Vung_Tau
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Bac_Ninh
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoahuyenbinhluchanam" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ NAM | FM 92,2 • PT BÌNH LỤC
 http://gg.gg/HaNoiIPTVPlus-FM92-2-Phat_thanh_Binh_Luc
-#EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Ph%C3%A1t%20thanh%20Thanh%20H%C3%B3a.png",FM 92,3 • PT THANH HÓA
-http://gg.gg/HaNoiIPTVPlus-TTV-Phat_thanh_Thanh_Hoa
-#EXTINF:-1  tvg-id="https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn%20HD.png",FM 92,3 • PT BÌNH THUẬN
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-TTV-Phat_thanh_Thanh_Hoa và https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn%20HD.png",FM 92,3 • PT BÌNH THUẬN
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Thuan
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhduong" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png",FM 92,5 • PT BÌNH DƯƠNG
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong
@@ -734,6 +732,8 @@ http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong
 http://gg.gg/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="http://sohoa.truyenthanhthongminh.vn/tinhtravinh",FM 92,7 • PT TRÀ VINH
 http://gg.gg/HaNoiIPTVPlus-THTV-Phat_thanh_Tra_Vinh
+#EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 92,8 • PT HẢI HẬU
+http://sohoa.truyenthanhthongminh.vn/sohoahaihau
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TRT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Th%E1%BB%ABa%20Thi%C3%AAn%20Hu%E1%BA%BF.png",FM 93 • PT THỪA THIÊN HUẾ
 http://gg.gg/HaNoiIPTVPlus-TRT-Phat_thanh_Thua_Thien_Hue
 #EXTINF:-1  tvg-id="http://42.1.64.42/490" group-title="KÊNH KHÁC" tvg-logo=" ",FM 93,1 • PT AN GIANG
@@ -784,10 +784,14 @@ http://gg.gg/HaNoiIPTVPlus-HGTV-Phat_thanh_Ha_Giang
 http://gg.gg/HaNoiIPTVPlus-FM97-Phat_thanh_Trang_Dinh
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",FM 97 • PT LÂM ĐỒNG
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lam_Dong
+#EXTINF:-1  tvg-id="http://net-radio.vov.link:8000/H_Do_Luong" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 97,2 • PT ĐÔ LƯƠNG
+http://sohoa.truyenthanhthongminh.vn/sohoahuyendoluong
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/tpcantho" group-title="KÊNH KHÁC" tvg-logo=" ",FM 97,3 • PT CẦN THƠ
 http://gg.gg/HaNoiIPTVPlus-THTPCT-Phat_thanh_Can_Tho
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90N1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%E1%BB%93ng%20Nai%201%20HD.png",FM 97,5 • PT ĐỒNG NAI
 http://gg.gg/HaNoiIPTVPlus-DNRTV-Phat_thanh_Dong_Nai
+#EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ NAM | FM 97,6 • PT THỊ XÃ DUY TIÊN
+http://sohoa.truyenthanhthongminh.vn/sohoaduytien
 #EXTINF:-1  tvg-id="http://net-radio.vov.link:8000/H_Ham_Yen" group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",TUYÊN QUANG | FM 97,6 • PT HÀM YÊN
 http://gg.gg/HaNoiIPTVPlus-FM97-6-Phat_thanh_Ham_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QRT%20-%20Ph%C3%A1t%20thanh%20Qu%E1%BA%A3ng%20Nam.png",FM 97,6 • PT QUẢNG NAM
