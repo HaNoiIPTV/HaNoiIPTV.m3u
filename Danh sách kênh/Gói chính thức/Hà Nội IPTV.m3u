@@ -726,8 +726,10 @@ http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Bac_Ninh
 http://gg.gg/HaNoiIPTVPlus-FM92-2-Phat_thanh_Binh_Luc
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-TTV-Phat_thanh_Thanh_Hoa và https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/playlist.m3u8" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%ACnh%20Thu%E1%BA%ADn%20HD.png",FM 92,3 • PT BÌNH THUẬN
 http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Thuan
-#EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhduong" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png",FM 92,5 • PT BÌNH DƯƠNG
-http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-BTV-Phat_thanh_Binh_Duong" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Ph%C3%A1t%20thanh%20B%C3%ACnh%20D%C6%B0%C6%A1ng.png",FM 92,5 • PT BÌNH DƯƠNG
+http://sohoa.truyenthanhthongminh.vn/sohoabinhduong
+#EXTINF:-1  group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 92,6 • PT ĐÔNG SƠN
+http://27.71.226.192:3000/535820977564162
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Ph%C3%A1t%20thanh%20H%C6%B0ng%20Y%C3%AAn.png",FM 92,7 • PT HƯNG YÊN
 http://gg.gg/HaNoiIPTVPlus-HYTV-Phat_thanh_Hung_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="http://sohoa.truyenthanhthongminh.vn/tinhtravinh",FM 92,7 • PT TRÀ VINH
