@@ -30,7 +30,7 @@ http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
 #EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.198:11110 và http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg12.hni" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20trong%20n%C6%B0%E1%BB%9Bc%20&%20%C4%91%E1%BB%8Ba%20ph%C6%B0%C6%A1ng.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c%20th%E1%BB%A9%20n%C4%83m.png",TTV - TH THANH HÓA HD
 http://gg.gg/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-id="https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.3.83:11554 và http://1.52.153.139:13579/udp/225.1.1.113:30120" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD%20%E2%80%A2%20B%E1%BA%A3n%203B.png",THP+ HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-id="https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.3.83:11554 và http://1.52.153.139:13579/udp/225.1.1.113:30120" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/THP+%20HD/THP+%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1.png",THP+ HD
 http://gg.gg/HaNoiIPTV-THP_Plus_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-id="https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.3.142:10780 và http://1.52.153.139:13579/udp/225.1.1.44:30120" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20th%E1%BB%A9%20hai.png",THP - TH HẢI PHÒNG HD
 http://gg.gg/HaNoiIPTV-THP-Truyen_hinh_Hai_Phong_HD
@@ -708,6 +708,8 @@ http://gg.gg/HaNoiIPTVPlus-LSTV-Phat_thanh_Lang_Son
 http://gg.gg/HaNoiIPTVPlus-FM89-1-Phat_thanh_Bach_Thong
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc" group-title="KÊNH KHÁC" tvg-logo=" ",FM 89,4 • BPTV - PT BÌNH PHƯỚC
 http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
+#EXTINF:-1  group-title="KÊNH RADIO ĐÔNG NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",BÌNH DƯƠNG | FM 90,4 • PT THỦ DẦU MỘT
+http://sohoa.truyenthanhthongminh.vn/sohoatdm
 #EXTINF:-1  tvg-id="http://net-radio.vov.link:8000/H_Nghia_Dan" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 90,5 • PT NGHĨA ĐÀN
 http://gg.gg/HaNoiIPTVPlus-FM90-5-Phat_thanh_Nghia_Dan
 #EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/8C4B1401A6E0" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD/VP%20-%20Ph%C3%A1t%20thanh%20V%C4%A9nh%20Ph%C3%BAc.png",VĨNH PHÚC | FM 90,7 • PT VĨNH TƯỜNG
@@ -754,6 +756,8 @@ http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lai_Chau
 http://gg.gg/HaNoiIPTVPlus-FM94-1-Phat_thanh_Thanh_Chuong
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/huyenvuban" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 94,2 • PT VỤ BẢN
 http://gg.gg/HaNoiIPTVPlus-FM94-2-Phat_thanh_Vu_Ban
+#EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 94,5 • PT XUÂN TRƯỜNG
+http://27.71.226.192:3000/638276930529900-1
 #EXTINF:-1  tvg-id="http://42.1.64.42/MBF2029 và http://tv.ctvcamau.vn/live/radio/radio.m3u8" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau%20HD.png",FM 94,6 • PT CÀ MAU
 http://gg.gg/HaNoiIPTVPlus-CTV-Phat_thanh_Ca_Mau
 #EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/hsinho và http://truyenthanhip.vov.link:8000/0CDC7E1D4750" group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",LAI CHÂU | FM 94,7 • PT SÌN HỒ
