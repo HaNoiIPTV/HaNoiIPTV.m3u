@@ -442,6 +442,8 @@ http://gg.gg/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_1_HD
 http://gg.gg/HaNoiIPTV-STV2-Truyen_hinh_Soc_Trang_2_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-BLTV-Truyen_hinh_Bac_Lieu_HD" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BLTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu%20HD.png",BLTV - TH BẠC LIÊU HD
 https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1  group-title="KÊNH RADIO BẢN ĐỊA" group-title="KÊNH KHÁC" tvg-logo=" ",FM 93,8 • PT SÓC SƠN
+http://171.244.141.88:8000/0CDC7E224984
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH THỂ THAO" group-title="KÊNH SCTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV22%20HD.png",SCTV22 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="http://49.167.236.190:9981/stream/channelid/68" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%2020%20-%20tvN%20SPORTS%20HD.png",tvN SPORTS • THỂ THAO HÀNG ĐẦU
@@ -818,6 +820,8 @@ http://gg.gg/HaNoiIPTVPlus-FM97-Phat_thanh_Trang_Dinh
 http://gg.gg/HaNoiIPTVPlus-TBTV-Phat_thanh_Thai_Binh
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A2m%20%C4%90%E1%BB%93ng%20HD.png",FM 97 • PT LÂM ĐỒNG
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lam_Dong
+FM 97,2
+http://171.244.141.88:8000/083AF27CEEAC
 #EXTINF:-1  tvg-id="http://net-radio.vov.link:8000/H_Do_Luong" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 97,2 • PT ĐÔ LƯƠNG
 http://sohoa.truyenthanhthongminh.vn/sohoahuyendoluong
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/tpcantho" group-title="KÊNH KHÁC" tvg-logo=" ",FM 97,3 • PT CẦN THƠ
