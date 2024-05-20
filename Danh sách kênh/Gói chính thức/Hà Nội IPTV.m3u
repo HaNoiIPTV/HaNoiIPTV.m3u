@@ -710,6 +710,8 @@ http://gg.gg/HaNoiIPTVPlus-LSTV-Phat_thanh_Lang_Son
 http://gg.gg/HaNoiIPTVPlus-FM89-1-Phat_thanh_Bach_Thong
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc" group-title="KÊNH KHÁC" tvg-logo=" ",FM 89,4 • BPTV - PT BÌNH PHƯỚC
 http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
+#EXTINF:-1  group-title="KÊNH PHÁT THANH ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ NAM | FM 90,2 • PT KIM BẢNG
+http://sohoa.truyenthanhthongminh.vn/huyenkimbang
 #EXTINF:-1  group-title="KÊNH RADIO ĐÔNG NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",BÌNH DƯƠNG | FM 90,4 • PT THỦ DẦU MỘT
 http://sohoa.truyenthanhthongminh.vn/sohoatdm
 #EXTINF:-1  tvg-id="http://net-radio.vov.link:8000/H_Nghia_Dan" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 90,5 • PT NGHĨA ĐÀN
@@ -752,8 +754,10 @@ http://sohoa.truyenthanhthongminh.vn/sohoahaihau
 http://gg.gg/HaNoiIPTVPlus-TRT-Phat_thanh_Thua_Thien_Hue
 #EXTINF:-1  tvg-id="http://42.1.64.42/490" group-title="KÊNH KHÁC" tvg-logo=" ",FM 93,1 • PT AN GIANG
 http://gg.gg/HaNoiIPTVPlus-ATV-Phat_thanh_An_Giang
-#EXTINF:-1  group-title="KÊNH PHÁT THANH ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NINH BÌNH | FM 93,2 PT KIM SƠN • ĐÀI XÃ KIM HẢI
+#EXTINF:-1  group-title="KÊNH PHÁT THANH ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NINH BÌNH | FM 93,2 • PT KIM SƠN - ĐÀI XÃ KIM HẢI
 http://net-radio.vov.link:8000/000.32.24.H42_kim-hai
+#EXTINF:-1  group-title="KÊNH PHÁT THANH ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HẢI DƯƠNG | FM 93,4 • PT THÀNH PHỐ HẢI DƯƠNG
+http://truyenthanhip.vov.link:8000/1C9DC2FCCEA0
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/livesohoahoahuyendienchau" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 93,4 • PT DIỄN CHÂU
 http://gg.gg/HaNoiIPTVPlus-FM93-4-Phat_thanh_Dien_Chau
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",FM 93,7 • PT HẢI PHÒNG
