@@ -118,7 +118,7 @@ https://hqth.me/Kr8Wnq
 https://hqth.me/5Rn
 #EXTINF:-1  tvg-name="DTV - HA NOI 2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1.png",TH HÀ NỘI 2 HD
 https://hqth.me/UqYdmE
-#EXTINF:-1  tvg-name="DTV - HAI PHONG + HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD%20%E2%80%A2%20B%E1%BA%A3n%203B.png",THP+ HD
+#EXTINF:-1  tvg-name="DTV - THP+ HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%2B%20HD%20%E2%80%A2%20B%E1%BA%A3n%203B.png",THP+ HD
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1  tvg-name="DTV - HA NAM HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THHN%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Nam%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",THHN - TH HÀ NAM HD | Hiện tại kênh đang tạm dừng phát sóng để chờ xét duyệt hạ tầng, mong quý khán giả thông cảm!
 https://hqth.me/SmL50
@@ -136,3 +136,9 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-name="DTV - PHU THO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ph%C3%BA%20Th%E1%BB%8D%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5.png",PTV - TH PHÚ THỌ HD
 http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1  tvg-logo=" ",FM 92,4 • PT PHÚC THỌ
+http://27.71.226.192:3000/213975307969799
+#EXTINF:-1  tvg-logo=" ",FM 93,8 • PT SÓC SƠN
+http://171.244.141.88:8000/0CDC7E224984
+#EXTINF:-1  tvg-logo=" ",FM 94,1 • PT ỨNG HÒA
+http://net-radio.vov.link:8000/H_Ung_Hoa
