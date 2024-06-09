@@ -136,9 +136,9 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist_w508825293.m3u8
 #EXTINF:-1  tvg-name="DTV - PHU THO" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ph%C3%BA%20Th%E1%BB%8D%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5.png",PTV - TH PHÚ THỌ HD
 http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
-#EXTINF:-1  tvg-logo=" ",FM 92,4 • PT PHÚC THỌ
+#EXTINF:-1  tvg-name="FM 92.4 - PHUC THO" tvg-logo=" ",FM 92,4 • PT PHÚC THỌ
 http://27.71.226.192:3000/213975307969799
-#EXTINF:-1  tvg-logo=" ",FM 93,8 • PT SÓC SƠN
+#EXTINF:-1  tvg-name="FM 93.8 - SOC SON" tvg-logo=" ",FM 93,8 • PT SÓC SƠN
 http://171.244.141.88:8000/0CDC7E224984
-#EXTINF:-1  tvg-logo=" ",FM 94,1 • PT ỨNG HÒA
+#EXTINF:-1  tvg-name="FM 94.1 - TT. VAN DINH" tvg-logo=" ",FM 94,1 • PT ỨNG HÒA - ĐÀI THỊ TRẤN VÂN ĐÌNH
 http://net-radio.vov.link:8000/H_Ung_Hoa
