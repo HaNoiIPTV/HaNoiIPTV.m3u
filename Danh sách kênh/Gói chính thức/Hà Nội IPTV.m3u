@@ -120,7 +120,7 @@ http://gg.gg/Hai_Phong_ngay_nay
 http://gg.gg/Hai_Phong_ngay_nay-Ban_dem
 #EXTINF:-1  tvg-id="http://gg.gg/Ha_Noi_IPTV_6-MNet-K-Pop_Chuyen_biet và http://220.71.114.212:9981/stream/channel/8ec551cbcf5802c657eaeb990c40d9a5 và http://221.167.205.241:9981/stream/channelid/83" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/%C4%90%E1%BA%BFn%20%C4%91%E1%BB%83%20y%C3%AAu%20H%C3%A0%20N%E1%BB%99i.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Đường phố Hà Nội sau vài giờ kỷ lục "454 cú sét" đánh xuống mặt đất
 http://gg.gg/Den_de_yeu_Ha_Noi
-#EXTINF:-1  tvg-id="http://220.118.153.181:9981/stream/channelid/26 và http://221.167.205.241:9981/stream/channelid/61" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20&%20c%E1%BA%A3%20n%C6%B0%E1%BB%9Bc.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Đổi thay trên quê hương các huyện Tứ Kỳ - Gia Lộc & TP. Hải Dương đầu năm 2024
+#EXTINF:-1  tvg-id="http://220.118.153.181:9981/stream/channelid/26 và http://221.167.205.241:9981/stream/channelid/61" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20&%20c%E1%BA%A3%20n%C6%B0%E1%BB%9Bc.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Nút giao Pháp Vân vào ban đêm khi quận Hoàng Mai tròn 20 năm thành lập
 http://gg.gg/Ha_Noi_va_ca_nuoc
 #EXTINF:-1  tvg-id="http://nettv.live/hls/shanghai.php?id=dfws và http://ainm.cc/a/play/php/ysp.php?id=dfws và http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8 và http://ainm.cc/a/play/php/ynyd.php?id=dfhd và http://ainm.cc/a/play/php/gudou1.php?id=dfhd và http://ainm.cc/a/play/php/cqyx.php?id=dfws" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH GIẢI TRÍ" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20phim%20truy%E1%BB%87n%20&%20gi%E1%BA%A3i%20tr%C3%AD.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视 | TH THƯỢNG HẢI
 http://gg.gg/HaNoiIPTV-Dong_Fang_Wei_Shi_HD
@@ -448,6 +448,8 @@ https://hqth.me/EJE
 https://hqth.me/TtZKCp
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 94,1 • PT ỨNG HÒA - ĐÀI THỊ TRẤN VÂN ĐÌNH
 https://hqth.me/zJeZ8F
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 95,1 • PT THẠCH THẤT - ĐÀI XÃ BÌNH PHÚ
+https://hqth.me/0yjhi
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 99,4 • PT ĐÔNG ANH - ĐÀI XÃ LIÊN HÀ
 https://hqth.me/IQt
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC QUÊ QUÁN" group-title="KÊNH KHÁC" tvg-logo=" ",tvg-logo=" ",THANH HÓA | FM 90,3 • PT HOẰNG HÓA - ĐÀI XÃ HOẰNG PHỤ
@@ -897,7 +899,7 @@ http://yenbai.vov.link:8000/txnghialo
 #EXTINF:-1  tvg-id="http://14.225.33.62:8000/245634463017 và http://171.244.141.88:8000/245634463017" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/VP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Ph%C3%BAc%20HD/VP%20-%20Ph%C3%A1t%20thanh%20V%C4%A9nh%20Ph%C3%BAc.png",VĨNH PHÚC | FM 97,8 • PT LẬP THẠCH
 http://gg.gg/HaNoiIPTVPlus-FM97-8-Phat_thanh_Lap_Thach
 #EXTINF:-1  group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 97,8 • PT TRIỆU SƠN
-http://27.71.226.192:3000/801788035006279
+https://hqth.me/V3Z
 #EXTINF:-1  group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ TĨNH | PT LỘC HÀ - ĐÀI XÃ ÍCH HẬU
 http://truyenthanhip.vov.link:8000/245634254117
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/sohoabentre" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBT%20-%20Ph%C3%A1t%20thanh%20B%E1%BA%BFn%20Tre.png",FM 97,9 • PT BẾN TRE
@@ -909,7 +911,7 @@ http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",PHÚ THỌ | FM 98,2 • PT LÂM THAO
 http://sohoa.truyenthanhthongminh.vn/lamthaopth
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 98,2 • PT MỸ LỘC
-http://net-radio.vov.link:8000/H_My_Loc
+https://hqth.me/f71h
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/fmdongthap" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T%20-%20Ph%C3%A1t%20thanh%20%C4%90%E1%BB%93ng%20Th%C3%A1p.png",FM 98,4 • PT ĐỒNG THÁP
 http://gg.gg/HaNoiIPTVPlus-THDT-Phat_thanh_Dong_Thap
 #EXTINF:-1  tvg-id="http://yenbai.vov.link:8000/H_Van_Yen" group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",YÊN BÁI | FM 98,5 • PT VĂN YÊN
@@ -968,11 +970,13 @@ http://gg.gg/HaNoiIPTVPlus-HBTV-Phat_thanh_Hoa_Binh
 http://gg.gg/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",FM 106,5 • VOT - PT THÁI NGUYÊN
 https://radio.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TIỀN GIANG | FM 107,5 • PT CHÂU THÀNH
+https://hqth.me/CcXRO
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG NINH | PT THÀNH PHỐ HẠ LONG
 http://27.71.226.192:3000/863674040604504
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG NINH | PT ĐẦM HÀ
 http://27.71.226.192:3000/863674040609453
-#EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | PT NHƯ XUÂN
+#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/57242" group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | PT NHƯ XUÂN
 http://171.244.141.88:8000/245634564115
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | PT CẨM THỦY
 http://171.244.141.88:8000/24D7EB9F9900
@@ -980,3 +984,5 @@ http://171.244.141.88:8000/24D7EB9F9900
 http://27.71.226.192:3000/968469325583666
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG BÌNH | PT LỆ THỦY
 http://27.71.226.192:3000/054875540351287
+#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",CÀ MAU | PT NĂM CĂN
+https://hqth.me/FD6I
