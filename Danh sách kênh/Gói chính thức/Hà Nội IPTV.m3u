@@ -98,9 +98,9 @@ https://hqth.me/dK0
 https://hqth.me/R6EDBM
 #EXTINF:-1  tvg-id="http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1 và https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd" group-title="KÊNH K+" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2BSPORT%202%20HD.png",K+SPORT2 HD
 https://hqth.me/jtC3hc
-#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-ON_Life_HD và https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TƯƠNG TÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20t%C6%B0%C6%A1ng%20t%C3%A1c.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Một ngày trải nghiệm ghi hình tại trường quay của Đài PT-TH Hà Nội cuối năm 2023
+#EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-ON_Life_HD và https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TƯƠNG TÁC" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20t%C6%B0%C6%A1ng%20t%C3%A1c.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20t%C6%B0%C6%A1ng%20t%C3%A1c.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Một ngày trải nghiệm ghi hình tại trường quay của Đài PT-TH Hà Nội cuối năm 2023
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD_tuong_tac
-#EXTINF:-1  tvg-id="http://183.99.22.189:9981/stream/channel/6c2a04434af2410725360f300a24079e và http://220.118.153.181:9981/stream/channelid/17 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH TƯƠNG TÁC" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20t%C6%B0%C6%A1ng%20t%C3%A1c.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C3%94n%20thi%20t%E1%BB%91t%20nghi%E1%BB%87p%20Trung%20h%E1%BB%8Dc%20Ph%E1%BB%95%20th%C3%B4ng.png",KÍNH THƯA QUÝ PHỤ HUYNH VÀ CÁC EM HỌC SINH | 10 tuần học sắp trôi qua, 1 tuần nữa chương trình ôn thi tốt nghiệp THPT năm 2024 sẽ kết thúc phát sóng. Kính mong các bậc phụ huynh và các em học sinh khẩn trương theo dõi trước khi khép lại chương trình!
+#EXTINF:-1  tvg-id="http://183.99.22.189:9981/stream/channel/6c2a04434af2410725360f300a24079e và http://220.118.153.181:9981/stream/channelid/17 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH TƯƠNG TÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20t%C6%B0%C6%A1ng%20t%C3%A1c.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Đường phố Hà Nội dưới trời mưa dông tháng 6 năm 2024 vào sáng sớm & chiều tối
 http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD_tuong_tac
 #EXTINF:-1  tvg-id="http://220.71.114.212:9981/stream/channel/a029eea8d752b905cd4aba12c0e841db và http://118.45.35.3:9981/stream/channel/50ce4bf6311e612f8a175d16648b1da2 và http://221.167.205.241:9981/stream/channelid/78 và http://49.167.236.190:9981/stream/channelid/38" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH tvN" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%205%20-%20tvN%20HD.png",tvN • GIẢI TRÍ HÀNG ĐẦU
 http://gg.gg/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
@@ -870,6 +870,8 @@ http://gg.gg/HaNoiIPTVPlus-NTV-Phat_thanh_Nam_Dinh
 http://gg.gg/HaNoiIPTVPlus-KRT-Phat_thanh_Kon_Tum
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 95,3 • PT YÊN MỸ
 https://hqth.me/F78JA
+#EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ TĨNH | FM 95,3 • PT CẨM XUYÊN
+https://hqth.me/s0mDs
 #EXTINF:-1  group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",LẠNG SƠN | FM 95,5 • PT VĂN LÃNG
 http://gg.gg/HaNoiIPTVPlus-FM95-5-Phat_thanh_Van_Lang
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",PHÚ THỌ | FM 95,6 • PT TAM NÔNG
@@ -890,6 +892,8 @@ http://gg.gg/HaNoiIPTVPlus-STV-Phat_thanh_Son_La
 http://gg.gg/HaNoiIPTVPlus-FM96-Phat_thanh_Van_Chan
 #EXTINF:-1  group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG NINH | FM 96 • PT HẢI HÀ
 http://27.71.226.192:3000/638371036574699-1
+#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",KIÊN GIANG | FM 96 • PT AN BIÊN
+https://hqth.me/Itn
 #EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/245434553911 và http://truyenthanhip.vov.link:8000/244D34415302" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 96,1 • PT VĨNH LỘC - ĐÀI THỊ TRẤN VĨNH LỘC
 http://gg.gg/HaNoiIPTVPlus-FM96-1-Phat_thanh_Vinh_Loc
 #EXTINF:-1  tvg-id="http://27.71.226.192:3000/quang_binh2" group-title="KÊNH KHÁC" tvg-logo=" ",FM 96,1 • PT QUẢNG BÌNH
@@ -900,6 +904,8 @@ https://hqth.me/1Oi4DE
 http://gg.gg/HaNoiIPTVPlus-THTG-Phat_thanh_Tien_Giang
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",YÊN BÁI | FM 96,7 • PT MÙ CANG CHẢI
 https://hqth.me/foq
+#EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG TRỊ | FM 96,8 • PT VĨNH LINH - ĐÀI XÃ VĨNH HÒA
+https://hqth.me/JzE
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/THLC%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20L%C3%A0o%20Cai%20HD/THLC%20-%20Ph%C3%A1t%20thanh%20L%C3%A0o%20Cai.png",FM 97 • PT LÀO CAI
 http://gg.gg/HaNoiIPTVPlus-THLC-Phat_thanh_Lao_Cai
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",FM 97 • PT HÀ GIANG
