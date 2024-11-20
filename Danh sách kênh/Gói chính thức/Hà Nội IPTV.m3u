@@ -721,7 +721,7 @@ http://gg.gg/HaNoiIPTVPlus-FM92-6-Phat_thanh_Dong_Son
 #EXTINF:-1  tvg=id="http://stream.truyenthanhso.com:3001/1720066687417 và http://stream.truyenthanhso.com:3001/863462068424728" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20-%20Ph%C3%A1t%20thanh%20H%C6%B0ng%20Y%C3%AAn.png",FM 92,7 • PT HƯNG YÊN
 https://iplogger.com/HaNoiIPTV-HYTV-Phat_thanh_Hung_Yen
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="http://sohoa.truyenthanhthongminh.vn/tinhtravinh",FM 92,7 • PT TRÀ VINH
-http://gg.gg/HaNoiIPTVPlus-THTV-Phat_thanh_Tra_Vinh
+https://iplogger.com/HaNoiIPTVPlus-THTV-Phat_thanh_Tra_Vinh
 #EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",CÀ MAU | FM 92,7 • PT NĂM CĂN
 https://hqth.me/FD6I
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HẢI PHÒNG | FM 92,8 • PT AN LÃO
@@ -830,6 +830,8 @@ http://gg.gg/HaNoiIPTVPlus-QBTV-Phat_thanh_Quang_Binh
 https://hqth.me/1Oi4DE
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THTG%20-%20Ph%C3%A1t%20thanh%20Ti%E1%BB%81n%20Giang.png",FM 96,2 • PT TIỀN GIANG
 http://gg.gg/HaNoiIPTVPlus-THTG-Phat_thanh_Tien_Giang
+#EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 96,3 • PT THÀNH PHỐ NAM ĐỊNH
+https://iplogger.com/HaNoiIPTVPlus-FM96-3_Phat_thanh_Thanh_pho_Nam_Dinh
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",KHÁNH HOÀ | FM 96,5 • PT KHÁNH SƠN
 http://truyenthanhip.vov.link:8000/48E729B578F0
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",KON TUM | FM 96,5 • PT ĐẮK GLEI
@@ -896,8 +898,6 @@ https://hqth.me/xeu
 http://gg.gg/HaNoiIPTVPlus-NBTV-Phat_thanh_Ninh_Binh
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",PHÚ THỌ | FM 98,2 • PT LÂM THAO
 http://sohoa.truyenthanhthongminh.vn/lamthaopth
-#EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 98,2 • PT MỸ LỘC
-https://hqth.me/f71h
 #EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/fmdongthap" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TH%C4%90T%20-%20Ph%C3%A1t%20thanh%20%C4%90%E1%BB%93ng%20Th%C3%A1p.png",FM 98,4 • PT ĐỒNG THÁP
 http://gg.gg/HaNoiIPTVPlus-THDT-Phat_thanh_Dong_Thap
 #EXTINF:-1  tvg-id="http://yenbai.vov.link:8000/H_Van_Yen và http://sohoa.truyenthanhthongminh.vn/vanyenyb" group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",YÊN BÁI | FM 98,5 • PT VĂN YÊN
@@ -976,5 +976,7 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 https://hqth.me/CcXRO
 #EXTINF:-1  group-title="KÊNH RADIO THU ĐƯỢC THEO THỜI ĐIỂM" group-title="KÊNH KHÁC" tvg-logo=" ",PHÚ THỌ | ĐÀI TRUYỀN THANH TT. HƯNG HÓA - H. TAM NÔNG
 https://iplogger.com/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Hung_Hoa
+#EXTINF:-1  group-title="KÊNH RADIO THU ĐƯỢC THEO THỜI ĐIỂM" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | ĐÀI TRUYỀN THANH X. TRỰC ĐẠO - H. TRỰC NINH
+https://iplogger.com/HaNoiIPTVPlus-Phat_thanh_xa_Truc_Dao
 #EXTINF:-1  group-title="KÊNH RADIO THU ĐƯỢC THEO THỜI ĐIỂM" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | ĐÀI TRUYỀN THANH TT. XUÂN TRƯỜNG - H. XUÂN TRƯỜNG
 https://iplogger.com/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Xuan_Truong
