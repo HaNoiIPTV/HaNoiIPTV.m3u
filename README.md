@@ -1,5 +1,5 @@
 Hà Nội IPTV xin kính chào quý khách! Hiện nay, chúng tôi đang có cả 3 gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Hà Nội IPTV](
-https://ia801707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u), [Hà Nội IPTV+](https://cutt.ly/hanoiiptvplus) và [Hà Nội IPTV công cộng](https://ia601707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u)).
+https://ia801707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u), [Hà Nội IPTV+](https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV%2B.m3u) và [Hà Nội IPTV công cộng](https://ia601707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u)).
 =======
 Tròn 3 năm ra mắt (2020 - 2023), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Hàn Quốc có sự giới hạn về khu vực mà dịch vụ cung cấp như SBS HD - TRUYỀN HÌNH THỦ ĐÔ, MBC HD - ĐẶC SẮC QUỐC GIA, KBS1 - TỔNG HỢP QUỐC GIA và KBS2 - GIẢI TRÍ QUỐC GIA nên bắt đầu từ 0h ngày 11/08/2023, các kênh đã không còn phát sóng trên dịch vụ nữa. Thay vào đó, Hà Nội IPTV chính thức quay trở lại phát sóng các kênh độc quyền về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ các thành phố khác trên cả nước [thông qua website](http://web.archive.org). Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
@@ -11,8 +11,7 @@ Hà Nội IPTV hiện đang có trên 300 kênh truyền hình trong nước & q
 
 # C. Làm quen với dịch vụ
 Dịch vụ trên đang áp dụng trọn vẹn hai gói bao gồm:<br />
-## I. [Gói chính thức](
-https://ia801707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u)
+## I. [Gói chính thức](https://ia801707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u)
 Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình với tiêu chuẩn HD trên các lĩnh vực khác nhau.<br />
 - Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: Điểm hẹn HanoiTV, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, TH QUỐC HỘI HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
 - Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
@@ -20,7 +19,7 @@ Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình vớ
 
 ### * Lưu ý: Đối với gói chính thức, quý khán giả khuyên cài đặt các ứng dụng: Dimplay, Tivimate, OTT Navigator IPTV,.... trên hệ điều hành Android.<br />
 
-## II. [Gói phụ](https://iplogger.com/hanoiiptvplus) và [Gói dành cho một số thiết bị không được hỗ trợ một số kênh](https://ia601707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u)
+## II. [Gói phụ](https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV%2B.m3u) và [Gói dành cho một số thiết bị không được hỗ trợ một số kênh](https://ia601707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u)
 - Sắp xếp bởi các kênh truyền hình cơ bản mà vẫn thu hút được nhiều người theo dõi để phục vụ quý khán giả trong trường hợp không thể truy cập vào gói chính thức.<br />
 
 # D. Hướng dẫn dò kênh
@@ -31,7 +30,7 @@ Cụ thể như sau:<br />
 ## I. Đối với hệ điều hành Android
 ### Cách 1:
 a) Vào Cửa hàng Play, chọn phần tìm kiếm, gõ với từ khóa IPTV và sau đó bạn có thể lựa chọn và cài đặt một trong các ứng dụng sau đây:<br />
-- Dimplay: Sau khi mở được ứng dụng này, để có thể theo dõi được các kênh truyền hình được cung cấp từ dịch vụ thì trước tiên bạn phải copy cho link gốc [tại đây](https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/G%C3%B3i%20ch%C3%ADnh%20th%E1%BB%A9c/H%C3%A0%20N%E1%BB%99i%20IPTV.m3u), sau đó nhấn vào biểu tượng dấu "+" thì bạn chọn "Add list from URL" và nhấn Paste để dán vào link gốc vừa copy (Nếu trong trường hợp không thể hỗ trợ [nguồn](https://iplogger.com) để tiến hành dò kênh tự động). Sau khi copy và dán vào link gốc xong, trên màn hình của ứng dụng sẽ xuất hiện dòng chữ "Hà Nội IPTV" và bạn chỉ cần click vào đó, sau đó chọn nhóm kênh được xuất hiện trong dịch vụ hoặc bạn có thể vào phần "Search" và gõ vào kênh mà bạn cần xem sau đó chọn kênh tương ứng với nhóm và từ khóa mà bạn đã tìm kiếm.<br />
+- Dimplay: Sau khi mở được ứng dụng này, để có thể theo dõi được các kênh truyền hình được cung cấp từ dịch vụ thì trước tiên bạn phải copy cho link gốc [tại đây](https://ia601707.us.archive.org/26/items/ha-noi-hom-nay-p3/H%C3%A0%20N%E1%BB%99i%20IPTV%20c%C3%B4ng%20c%E1%BB%99ng.m3u), sau đó nhấn vào biểu tượng dấu "+" thì bạn chọn "Add list from URL" và nhấn Paste để dán vào link gốc vừa copy (Nếu trong trường hợp không thể hỗ trợ [nguồn](https://iplogger.com) để tiến hành dò kênh tự động). Sau khi copy và dán vào link gốc xong, trên màn hình của ứng dụng sẽ xuất hiện dòng chữ "Hà Nội IPTV" và bạn chỉ cần click vào đó, sau đó chọn nhóm kênh được xuất hiện trong dịch vụ hoặc bạn có thể vào phần "Search" và gõ vào kênh mà bạn cần xem sau đó chọn kênh tương ứng với nhóm và từ khóa mà bạn đã tìm kiếm.<br />
 - OTT Navigator IPTV<br />
 - Tivimate<br />
 b) Nếu bạn đã chắc chắn cài đặt xong ứng dụng nào thì mở ngay ứng dụng đó và bạn có thể "Gỡ cài đặt/Xóa ứng dụng" bằng cách nhấn nút "Gỡ cài đặt" ở nút bên trái sau nút "Mở" trên kho ứng dụng của Cửa hàng Play hoặc bạn vào menu, sau đó ngón tay của bạn phải bấm và giữ biểu tượng của bất kỳ ứng dụng nào, rồi nhấn nút X và xác nhận việc gỡ cài đặt.<br />
