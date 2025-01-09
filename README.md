@@ -12,9 +12,10 @@ Hà Nội IPTV hiện đang có trên 300 kênh truyền hình trong nước & q
 Dịch vụ trên đang áp dụng trọn vẹn hai gói bao gồm:<br />
 ## I. [Gói chính thức](https://HaNoiIPTV.short.gy/HaNoiIPTV)
 Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình với tiêu chuẩn HD trên các lĩnh vực khác nhau.<br />
-- Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: Điểm hẹn HanoiTV, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, TH QUỐC HỘI HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
+- Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: Điểm hẹn HanoiTV, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
 - Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
 - Ngoài ra còn có các kênh truyền hình thiết yếu (bao gồm của Trung ương và Địa phương) với độ phân giải cao, bao gồm: THP+ HD, TTV - TH THANH HÓA HD, QTV1 HD, NTV - TH NGHỆ AN HD, TN1 - TH THÁI NGUYÊN HD,....<br />
+- Độc quyền phát sóng công khai đối với 5 kênh K+, 1 kênh địa phương: THHN - TH HÀ NAM HD, 1 kênh tổng hợp chuẩn phát sóng HD cho 新疆卫视 | TH TÂN CƯƠNG cùng hàng loạt chương trình phát/truyền thanh cấp xã, huyện.<br />
 
 ### * Lưu ý: Đối với gói chính thức, quý khán giả khuyên cài đặt các ứng dụng: Dimplay, Tivimate, OTT Navigator IPTV,.... trên hệ điều hành Android.<br />
 
