@@ -287,7 +287,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-CGTN
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CGTN_Documentary
 #EXTINF:-1  group-title="KÊNH TIN TỨC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Arirang.png",ARIRANG
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Arirang
-#EXTINF:-1  tvg-id="https://shorturl.gg/tdR0AG6 và https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
+#EXTINF:-1  tvg-id="http://178.163.14.160:4022/udp/234.0.0.172:2000 và https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-OPT1-Pervy_Kanal_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-NHK_World" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK WORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
@@ -429,39 +429,35 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HGTV-Truyen_hinh_Hau_Giang_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-STV1-Truyen_hinh_Soc_Trang_1_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-BLTV-Truyen_hinh_Bac_Lieu_HD" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BLTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%A1c%20Li%C3%AAu%20HD.png",BLTV - TH BẠC LIÊU HD
 https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",CHƯƠNG TRÌNH TRUYỀN THANH CỦA UBND P. KIM GIANG - Q. THANH XUÂN
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 92,4 • PT PHÚC THỌ
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 92,4 • PT PHÚC THỌ - ĐÀI XÃ XUÂN PHÚ
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM92-4-Phat_thanh_Phuc_Tho
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 93,8 • PT SÓC SƠN
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/36021" group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 94,1 • PT ỨNG HÒA - ĐÀI THỊ TRẤN VÂN ĐÌNH
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 95,1 • PT THẠCH THẤT - ĐÀI XÃ BÌNH PHÚ
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93-8-Phat_thanh_Soc_Son
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 98,2 • PT ĐAN PHƯỢNG
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 98,2 • PT ĐAN PHƯỢNG - ĐÀI XÃ LIÊN HÀ
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM98-2-Phat_thanh_Dan_Phuong
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 103,3 • PT VĂN GIANG
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 100,5 • PT KHOÁI CHÂU - ĐÀI XÃ TỨ DÂN (Tiếp giáp với xã Lê Lợi, huyện Thường Tín)
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 100,5 • PT KHOÁI CHÂU - ĐÀI XÃ BÌNH MINH (Tiếp giáp với xã Hồng Vân, huyện Thường Tín)
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 100,5 • PT KHOÁI CHÂU - ĐÀI XÃ TÂN CHÂU (Tiếp giáp với xã Thống Nhất, huyện Thường Tín)
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 100,5 • PT KHOÁI CHÂU - ĐÀI XÃ ĐẠI TẬP (Tiếp giáp với xã Đại Gia, huyện Phú Xuyên)
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 100,5 • PT KHOÁI CHÂU - ĐÀI XÃ THÀNH CÔNG (Tiếp giáp với xã Hồng Thái, huyện Phú Xuyên)
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC QUÊ QUÁN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 90,3 • PT HOẰNG HÓA - ĐÀI XÃ HOẰNG PHỤ
-https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM103-3-Phat_thanh_Van_Giang
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC QUÊ QUÁN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 94,6 • PT HẬU LỘC
 https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC QUÊ QUÁN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | FM 95,4 • PT QUẢNG XƯƠNG
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ XUÂN PHÚ - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Xuan_Phu-Huyen_Phuc_Tho
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ LIÊN HÀ - HUYỆN ĐAN PHƯỢNG
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Lien_Ha-Huyen_Dan_Phuong
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | PT XÃ TỨ DÂN - HUYỆN KHOÁI CHÂU
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | PT XÃ BÌNH MINH - HUYỆN KHOÁI CHÂU
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | PT XÃ TÂN CHÂU - HUYỆN KHOÁI CHÂU
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | PT XÃ ĐẠI TẬP - HUYỆN KHOÁI CHÂU
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | PT XÃ THÀNH CÔNG - HUYỆN KHOÁI CHÂU
+https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
+#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/36021" group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT THỊ TRẤN VÂN ĐÌNH - HUYỆN ỨNG HÒA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Van_Dinh-Huyen_Ung_Hoa
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC QUÊ QUÁN" group-title="KÊNH KHÁC" tvg-logo=" ",THANH HÓA | PT XÃ HOẰNG PHỤ - HUYỆN HOẰNG HÓA
 https://archive.org/download/ha-noi-hom-nay-p3/TH%C3%94NG%20B%C3%81O%20T%E1%BA%A0M%20D%E1%BB%AANG%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20T%C3%80I%20KHO%E1%BA%A2N%20GitHub%20%40HaNoiIPTV.mp3
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH THỂ THAO" group-title="KÊNH SCTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV22%20HD.png",SCTV22 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8|Referer=http://sctvonline.vn/
