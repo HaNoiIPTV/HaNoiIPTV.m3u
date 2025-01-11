@@ -171,9 +171,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/K%2B%20%20SPORT%201%20HD.png",K+ SPORT 1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-K_SPORT_1_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-TVB_Fei_Cui_Tai
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/TVB+.png",TVB+
 https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-TVB_Plus
@@ -204,13 +201,13 @@ https://hqth.me/2PNr3l
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E6%BE%B3%E9%96%80/%E6%BE%B3%E9%96%80%E7%B6%9C%E8%97%9D.png",澳門綜藝
 https://hqth.me/I5wFR
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/ViuTVsix.png",ViuTVsix
-https://hqth.me/z8ad
+https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-ViuTVsix
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E6%BE%B3%E9%96%80/%E6%BE%B3%E9%96%80%20-%20Macau.png",澳門 - MACAU 衛星頻道
 https://hqth.me/3ykXof
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",HOLLYWOOD CLASSICS HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Hollywood_Classics_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%AD%E5%9B%BD/%E6%B8%AF%E6%BE%B3%E5%8F%B0/%E9%A6%99%E6%B8%AF/ViuTV.png",ViuTV
-https://hqth.me/6AmnG
+https://HaNoiIPTV.short.gy/Que_huong_HaNoiIPTV-ViuTV
 #EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Happy%20Kids%20HD.png",HAPPY KIDS HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Happy_Kids_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Cartoon%20Network%20HD.png",CARTOON NETWORK HD
