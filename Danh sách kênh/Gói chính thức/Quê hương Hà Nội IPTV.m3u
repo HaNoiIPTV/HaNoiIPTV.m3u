@@ -1,6 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
+#EXTM3U url-tvg="https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://HaNoiIPTV.short.gy/HeNeiIPTV-Jie_Mu_Biao" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=2
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD
@@ -230,9 +229,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV2_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV15_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20n%C4%83m.png",TH HÀ NỘI 1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png",TH HÀ NỘI 2 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5%20th%E1%BB%A9%20hai.png",TTV - TH THANH HÓA HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5%20th%E1%BB%A9%20hai.png",TTV - TH THANH HÓA HD thử nghiệm
+https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD_thu_nghiem
+#EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD thử nghiệm | CHỈ DÀNH CHO NHÀ MẠNG VNPT & Viettel" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5%20th%E1%BB%A9%20hai.png",TTV - TH THANH HÓA HD thử nghiệm
 https://2ly.link/21vl2
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png",HTV2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV2_HD
@@ -254,39 +253,39 @@ https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_ngay
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Bu%E1%BB%95i%20t%E1%BB%91i.png",HÀ NỘI HÔM NAY • BAN ĐÊM
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_dem
-#EXTINF:-1  tvg-logo=" ",FM 88,6 • PT THỊ TRẤN THỐNG NHẤT - HUYỆN YÊN ĐỊNH
-http://14.225.252.38:5000/343
+#EXTINF:-1  tvg-link="http://14.225.252.38:5000/343" tvg-logo=" ",FM 88,6 • PT THỊ TRẤN THỐNG NHẤT - HUYỆN YÊN ĐỊNH
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Thong_Nhat-Huyen_Yen_Dinh
 #EXTINF:-1  tvg-logo=" ",FM 90,8 • PT THỊ TRẤN HÀ TRUNG - HUYỆN HÀ TRUNG
-https://hqth.me/RFAOW
-#EXTINF:-1  tvg-logo=" ",FM 90,8 • PT XÃ HÀ LĨNH - HUYỆN HÀ TRUNG
-http://14.225.252.38:5000/306
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Ha_Trung-Huyen_Ha_Trung
+#EXTINF:-1  tvg-link="http://14.225.252.38:5000/306" tvg-logo=" ",FM 90,8 • PT XÃ HÀ LĨNH - HUYỆN HÀ TRUNG
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Ha_Linh-Huyen_Ha_Trung
 #EXTINF:-1  tvg-logo=" ",FM 91,4 • PT THỊ TRẤN SƠN LƯ - HUYỆN QUAN SƠN
-https://hqth.me/E9U
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT THỊ TRẤN RỪNG THÔNG - HUYỆN ĐÔNG SƠN
-http://stream.radiotech.vn:3000/888248561648479
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG MINH - HUYỆN ĐÔNG SƠN
-http://27.71.226.192:3000/866228809983573
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG PHÚ - HUYỆN ĐÔNG SƠN
-http://stream.radiotech.vn:3000/029905186394430
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG QUANG - HUYỆN ĐÔNG SƠN
-http://stream.radiotech.vn:3000/365549242463450
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG TIẾN - HUYỆN ĐÔNG SƠN
-http://stream.radiotech.vn:3000/422446901290564
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG THỊNH - HUYỆN ĐÔNG SƠN
-http://27.71.226.192:3000/062172998696763
-#EXTINF:-1  tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG VĂN - HUYỆN ĐÔNG SƠN
-http://27.71.226.192:3000/288110852708129
-#EXTINF:-1  tvg-logo=" ",FM 93,1 • PT PHƯỜNG AN HOẠCH - TP. THANH HÓA
-http://14.225.252.38:5000/309
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Son_Lu-Huyen_Quan_Son
+#EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/888248561648479" tvg-logo=" ",FM 92,6 • PT PHƯỜNG RỪNG THÔNG - HUYỆN ĐÔNG SƠN
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_Rung_Thong-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://27.71.226.192:3000/866228809983573" tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG MINH - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Minh-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/029905186394430" tvg-logo=" ",PT XÃ ĐÔNG PHÚ - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Phu-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/365549242463450" tvg-logo=" ",PT XÃ ĐÔNG QUANG - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Quang-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/422446901290564" tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG TIẾN - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Tien-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://27.71.226.192:3000/062172998696763" tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG THỊNH - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Thinh-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://27.71.226.192:3000/288110852708129" tvg-logo=" ",FM 92,6 • PT XÃ ĐÔNG VĂN - HUYỆN ĐÔNG SƠN
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Van-Thanh_pho_Thanh_Hoa
+#EXTINF:-1  tvg-link="http://14.225.252.38:5000/309" tvg-logo=" ",FM 93,1 • PT PHƯỜNG AN HOẠCH - TP. THANH HÓA
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_An_Hoach-Thanh_pho_Thanh_Hoa
 #EXTINF:-1  tvg-logo=" ",FM 94,6 • PT THỊ TRẤN HẬU LỘC - HUYỆN HẬU LỘC 
-https://hqth.me/PpXtej
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Hau_Loc-Huyen_Hau_Loc
 #EXTINF:-1  tvg-logo=" ",FM 95,5 • PT XÃ THIỆU TRUNG - HUYỆN THIỆU HÓA
-https://hqth.me/DJJ3
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Thieu_Trung-Huyen_Thieu_Hoa
 #EXTINF:-1  tvg-logo=" ",FM 96,1 • PT THỊ TRẤN VĨNH LỘC - HUYỆN VĨNH LỘC
-https://hqth.me/uqkwl
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Vinh_Loc-Huyen_Vinh_Loc
 #EXTINF:-1  tvg-logo=" ",FM 97,6 • PT XÃ NGA LIÊN - HUYỆN NGA SƠN
-https://hqth.me/GnS
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Nga_Lien-Huyen_Nga_Son
 #EXTINF:-1  tvg-logo=" ",FM 97,8 • PT THỊ TRẤN NƯA - HUYỆN TRIỆU SƠN
-https://hqth.me/3ujrY0
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Nua-Huyen_Trieu_Son
 #EXTINF:-1  tvg-logo=" ",FM 97,8 • PT XÃ VÂN SƠN - HUYỆN TRIỆU SƠN
-https://hqth.me/gxNypo
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Son-Huyen_Trieu_Son
