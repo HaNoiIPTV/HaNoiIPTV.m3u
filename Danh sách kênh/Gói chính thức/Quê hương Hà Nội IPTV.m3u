@@ -13,8 +13,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",VTV CẦN THƠ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/K%C3%AAnh%207%20-%20H%C3%A0%20N%E1%BB%99i%20S.png",KÊNH 7 - HÀ NỘI S
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Kenh_7-Ha_Noi_Studio
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c%20th%E1%BB%A9%20ba.png",TTV - TH THANH HÓA HD
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/T%E1%BA%A1m%20d%E1%BB%ABng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV7 HD
@@ -25,8 +23,10 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV8_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV9_HD
 #EXTINF:-1  tvg-id="http://stream.radiotech.vn:3000/863674041012517" tvg-logo=" ",FM 92,3 • PT THANH HÓA
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TTV-Phat_thanh_Thanh_Hoa
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/OTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ho%E1%BA%B1ng%20H%C3%B3a%202%20HD.png",FM 90,3 • PT XÃ HOẰNG PHỤ - HUYỆN HOẰNG HÓA
+#EXTINF:-1  tvg-name="OTV2 - TH HOẰNG HÓA 2 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/OTV2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ho%E1%BA%B1ng%20H%C3%B3a%202%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",FM 90,3 • PT XÃ HOẰNG PHỤ - HUYỆN HOẰNG HÓA
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_xa_Hoang_Phu-huyen_Hoang_Hoa
+#EXTINF:-1  tvg-name="OTV3 - TH HOẰNG HÓA 3 HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/OTV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ho%E1%BA%B1ng%20H%C3%B3a%203%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",OTV3 - TH HOẰNG HÓA 3 HD
+https://2ly.link/21vl2
 #EXTINF:-1  tvg-logo=" ",FM 88,2 • PT CẨM THỦY
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM88_2-Phat_thanh_Cam_Thuy
 #EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/57242" tvg-logo=" ",FM 89 • PT NHƯ XUÂN
@@ -228,11 +228,11 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV2_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV15%20HD.png",SCTV15 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV15_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20ph%E1%BB%A5%20th%E1%BB%A9%20n%C4%83m.png",TH HÀ NỘI 1 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_1_HD_thu_nghiem
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD/Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20N%E1%BB%99i%202%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png",TH HÀ NỘI 2 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD_thu_nghiem
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5%20th%E1%BB%A9%20hai.png",TTV - TH THANH HÓA HD thử nghiệm
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD_thu_nghiem
-#EXTINF:-1  tvg-name="TTV - TH THANH HÓA HD thử nghiệm | CHỈ DÀNH CHO NHÀ MẠNG VNPT & Viettel" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD%2C%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5%20th%E1%BB%A9%20hai.png",TTV - TH THANH HÓA HD thử nghiệm
-https://2ly.link/21vl2
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png",HTV2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV2_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%204.png",HTV7 HD
