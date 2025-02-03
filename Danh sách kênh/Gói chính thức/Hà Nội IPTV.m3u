@@ -596,7 +596,7 @@ http://gg.gg/HaNoiIPTV-XONE_Radio
 http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%204.png",FM 94,7 | QNR2 - PT QUẢNG NINH 2
 http://vncdn.mediatech.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1  group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",BẮC GIANG | FM 87,5 • PT LẠNG GIANG
+#EXTINF:-1  tvg-link="http://27.71.226.192:3000/441411202087249 và http://stream.radiotech.vn:3000/196411588265818" group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",BẮC GIANG | FM 87,5 • PT LẠNG GIANG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM87-5-Phat_thanh_Lang_Giang
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG BÌNH | FM 88 • PT THỊ XÃ BA ĐỒN
 https://hqth.me/PYrg
