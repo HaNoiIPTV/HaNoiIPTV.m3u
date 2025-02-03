@@ -930,8 +930,8 @@ http://113.161.25.3:8134/hls/radio/radio.m3u8
 http://gg.gg/HaNoiIPTVPlus-THP_Giao_thong-Phat_thanh_Hai_Phong_2
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTQ%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ng%C3%A3i.png",FM 102,9 • PT QUẢNG NGÃI
 http://gg.gg/HaNoiIPTVPlus-PTQ-Phat_thanh_Quang_Ngai
-#EXTINF:-1  tvg-id="http://stream.radiotech.vn:3000/185411260911171" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 103 • PT KIM ĐỘNG
-https://iplogger.com/HaNoiIPTVPlus-FM103-Phat_thanh_Kim_Dong
+#EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/185411260911171 và http://stream.truyenthanhso.com:3001/32fa2e7b29f24b6480da33d345539169" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HƯNG YÊN | FM 103 • PT KIM ĐỘNG
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM103-Phat_thanh_Kim_Dong
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV11%20-%20Ph%C3%A1t%20thanh%20T%C3%A2y%20Ninh.png",FM 103,1 • PT TÂY NINH
 https://hqth.me/Xhjj
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",THÁI BÌNH | FM 103,2 • PT TIỀN HẢI
