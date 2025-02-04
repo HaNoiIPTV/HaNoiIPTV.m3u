@@ -596,7 +596,7 @@ http://gg.gg/HaNoiIPTV-XONE_Radio
 http://vncdn.mediatech.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Ninh%204.png",FM 94,7 | QNR2 - PT QUẢNG NINH 2
 http://vncdn.mediatech.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1  tvg-link="http://27.71.226.192:3000/441411202087249 và http://stream.radiotech.vn:3000/196411588265818" group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",BẮC GIANG | FM 87,5 • PT LẠNG GIANG
+#EXTINF:-1  tvg-link="http://27.71.226.192:3000/196411588265818 và http://27.71.226.192:3000/426606945547587 và http://27.71.226.192:3000/462558356154660 và http://27.71.226.192:3000/712893205745490" group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",BẮC GIANG | FM 87,5 • PT LẠNG GIANG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM87-5-Phat_thanh_Lang_Giang
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG BÌNH | FM 88 • PT THỊ XÃ BA ĐỒN
 https://hqth.me/PYrg
@@ -731,7 +731,7 @@ https://hqth.me/phZQsb
 #EXTINF:-1  group-title="KÊNH VOV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%E1%BA%A3i%20Ph%C3%B2ng%20HD.png",FM 93,7 • PT HẢI PHÒNG
 http://gg.gg/HaNoiIPTV-THP-Phat_thanh_Hai_Phong
 #EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TRÀ VINH | FM 93,7 • PT CHÂU THÀNH
-https://hqth.me/Qip9
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93-7-Phat_thanh_Chau_Thanh
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG BÌNH | FM 93,9 • PT BỐ TRẠCH
 http://gg.gg/HaNoiIPTVPlus-FM93-9-Phat_thanh_Bo_Trach
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/YTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Y%C3%AAn%20B%C3%A1i%20HD.png",FM 94 • PT YÊN BÁI
@@ -897,7 +897,7 @@ http://27.71.226.192:3000/860262051524374
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD.png",FM 99,3 • PT BẮC KẠN
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TRÀ VINH | FM 99,3 • PT TIỂU CẦN
-https://hqth.me/6Hr
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM99-3-Phat_thanh_Tieu_Can
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",LÀO CAI | FM 99,4 • PT THỊ XÃ SA PA
 http://42.1.64.42/txsapa
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",HÀ GIANG | FM 99,5 • PT MÈO VẠC
@@ -920,7 +920,7 @@ http://net-radio.vov.link:8000/xdongson
 http://103.179.172.206:8001/thixadienban
 #EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TRÀ VINH | FM 101,4 • PT CẦU KÈ
 https://hqth.me/P6eUO
-#EXTINF:-1  group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TRÀ VINH | FM 101,5 • PT DUYÊN HẢI
+#EXTINF:-1  tvg-link="http://42.1.64.42/s7709 và http://27.71.226.192:3000/863462068420262" group-title="KÊNH RADIO TÂY NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TRÀ VINH | FM 101,5 • PT THỊ XÃ DUYÊN HẢI
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM101-5-Phat_thanh_Thi_xa_Duyen_Hai
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",SƠN LA | FM 102 • PT MƯỜNG LA
 https://hqth.me/V2iZ
