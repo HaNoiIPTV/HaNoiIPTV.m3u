@@ -119,12 +119,18 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HTVC_Gia_Dinh
 https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV4%20HD.png",SCTV4 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-SCTV4_HD
+#EXTINF:-1  tvg-logo=" ",BÀI TUYÊN TRUYỀN | V/v: "Quản lý sử dụng các loại vũ khí, công cụ hỗ trợ và pháo"
+https://HaNoiIPTV.short.gy/HungYenIPTV-Bai_Tuyen_truyen_ve_viec_quan_ly-su_dung_cac_loai_vu_khi-cong_cu_ho_tro_va_phao
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HYTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C6%B0ng%20Y%C3%AAn%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",HƯNG YÊN | FM 89,5 • PT THÀNH PHỐ HƯNG YÊN
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-5-Phat_thanh_Thanh_pho_Hung_Yen
+#EXTINF:-1  tvg-logo=" ",PT PHƯỜNG LAM SƠN - TP. HƯNG YÊN
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_Lam_Son-Thanh_pho_Hung_Yen
 #EXTINF:-1  tvg-logo=" ",PT XÃ HỒNG CƯỜNG - TP. HƯNG YÊN
-https://iplogger.com/HaNoiIPTVPlus-Phat_thanh_xa_Hong_Cuong-Thanh_pho_Hung_Yen
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_xa_Hong_Cuong-Thanh_pho_Hung_Yen
 #EXTINF:-1  tvg-logo=" ",PT XÃ PHÚ CƯỜNG - TP. HƯNG YÊN
-https://iplogger.com/HaNoiIPTVPlus-Phat_thanh_xa_Phu_Cuong-Thanh_pho_Hung_Yen
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_xa_Phu_Cuong-Thanh_pho_Hung_Yen
+#EXTINF:-1  tvg-logo=" ",PT XÃ BẢO KHÊ - TP. HƯNG YÊN
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Bao_Khe-Thanh_pho_Hung_Yen
 #EXTINF:-1  tvg-logo=" ",FM 95,3 • PT YÊN MỸ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM95-3-Phat_thanh_Yen_My
 #EXTINF:-1  tvg-logo=" ",FM 100,5 • PT KHOÁI CHÂU
@@ -139,6 +145,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM100-5-Phat_thanh_Khoai_Chau
 
 #EXTINF:-1  tvg-logo=" ",PT XÃ THÀNH CÔNG - HUYỆN KHOÁI CHÂU
 
+#EXTINF:-1  tvg-logo=" ",PT XÃ CHÍ MINH - HUYỆN KHOÁI CHÂU
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Chi_Minh-Huyen_Khoai_Chau
 #EXTINF:-1  tvg-logo=" ",FM 91,3 • PT ÂN THI
 https://hqth.me/grz
 #EXTINF:-1  tvg-link="http://stream.radiotech.vn:3000/185411260911171 và http://stream.truyenthanhso.com:3001/32fa2e7b29f24b6480da33d345539169" tvg-logo=" ",HƯNG YÊN | FM 103 • PT KIM ĐỘNG
