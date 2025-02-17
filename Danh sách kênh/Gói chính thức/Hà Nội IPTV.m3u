@@ -728,10 +728,10 @@ http://gg.gg/HaNoiIPTVPlus-FM93-9-Phat_thanh_Bo_Trach
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1  group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20HD%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Lai%20Ch%C3%A2u.png",FM 94,1 • PT LAI CHÂU
 http://gg.gg/HaNoiIPTVPlus-LTV-Phat_thanh_Lai_Chau
-#EXTINF:-1  tvg-id="http://truyenthanhip.vov.link:8000/thanhchuong" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 94,1 • PT THANH CHƯƠNG
+#EXTINF:-1  tvg-link="http://truyenthanhip.vov.link:8000/thanhchuong" group-title="KÊNH RADIO VÙNG DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",NGHỆ AN | FM 94,1 • PT THANH CHƯƠNG
 http://gg.gg/HaNoiIPTVPlus-FM94-1-Phat_thanh_Thanh_Chuong
-#EXTINF:-1  tvg-id="http://sohoa.truyenthanhthongminh.vn/huyenvuban" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 94,2 • PT VỤ BẢN
-http://gg.gg/HaNoiIPTVPlus-FM94-2-Phat_thanh_Vu_Ban
+#EXTINF:-1  tvg-link="http://sohoa.truyenthanhthongminh.vn/huyenvuban" group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NAM ĐỊNH | FM 94,2 • PT VỤ BẢN
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM94-2-Phat_thanh_Vu_Ban
 #EXTINF:-1  group-title="KÊNH RADIO DUYÊN HẢI MIỀN TRUNG - TÂY NGUYÊN" group-title="KÊNH KHÁC" tvg-logo=" ",THỪA THIÊN HUẾ | FM 94,3 • PT QUẢNG ĐIỀN
 https://hqth.me/h5Yu
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NINH BÌNH | FM 94,4 • PT NHO QUAN
