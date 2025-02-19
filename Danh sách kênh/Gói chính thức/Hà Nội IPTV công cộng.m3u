@@ -104,23 +104,25 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-HBTV-Truyen_hinh_Hoa_Binh_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VP-Truyen_hinh_Vinh_Phuc_HD
 #EXTINF:-1  tvg-name="DTV - PHU THO HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/PTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ph%C3%BA%20Th%E1%BB%8D%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20ph%E1%BB%A5.png",PTV - TH PHÚ THỌ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-PTV-Truyen_hinh_Phu_Tho_HD
-#EXTINF:-1  tvg-name="KIM GIANG" tvg-logo=" ",CHƯƠNG TRÌNH TRUYỀN THANH CỦA UBND P. KIM GIANG - Q. THANH XUÂN
-https://hqth.me/wTT
 #EXTINF:-1  tvg-name="FM 90 - TIN TUC & GIAO THONG HA NOI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM90%20Mhz%20%E2%80%A2%20TIN%20T%E1%BB%A8C%20GIAO%20TH%C3%94NG.png",FM90 • TIN TỨC & GIAO THÔNG HÀ NỘI
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM90-Tin_tuc_va_Giao_thong_Ha_Noi
 #EXTINF:-1  tvg-name="FM 92.4 - PHUC THO" tvg-logo=" ",FM 92,4 • PT PHÚC THỌ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM92-4-Phat_thanh_Phuc_Tho
-#EXTINF:-1  tvg-name="FM 92.4 - XUAN PHU" tvg-logo=" ",FM 92,4 • PT XÃ XUÂN PHÚ - HUYỆN PHÚC THỌ
+#EXTINF:-1  tvg-name="SEN PHUONG" tvg-logo=" ",PT XÃ SEN PHƯƠNG - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Sen_Phuong-Huyen_Phuc_Tho
+#EXTINF:-1  tvg-name="TAM HIEP" tvg-logo=" ",PT XÃ TAM HIỆP - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Tam_Hiep-Huyen_Phuc_Tho
+#EXTINF:-1  tvg-name="VAN HA" tvg-logo=" ",PT XÃ VÂN HÀ - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Ha-Huyen_Phuc_Tho
+#EXTINF:-1  tvg-name="XUAN PHU" tvg-logo=" ",PT XÃ XUÂN PHÚ - HUYỆN PHÚC THỌ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Xuan_Phu-Huyen_Phuc_Tho
 #EXTINF:-1  tvg-name="FM 93.8 - SOC SON" tvg-logo=" ",FM 93,8 • PT SÓC SƠN
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93-8-Phat_thanh_Soc_Son
-#EXTINF:-1  tvg-name="FM 94.1 - TT. VAN DINH" tvg-logo=" ",FM 94,1 • PT THỊ TRẤN VÂN ĐÌNH - HUYỆN ỨNG HÒA
+#EXTINF:-1  tvg-name="TT. VAN DINH" tvg-logo=" ",FM 94,1 • PT THỊ TRẤN VÂN ĐÌNH - HUYỆN ỨNG HÒA
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Van_Dinh-Huyen_Ung_Hoa
 #EXTINF:-1  tvg-name="FM 96 - TIN TUC & AM NHAC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/FM96%20Mhz%20%E2%80%A2%20K%C3%8ANH%20PH%E1%BB%A4.png",FM96 • THỜI SỰ TỔNG HỢP
 https://HaNoiIPTV.short.gy/HaNoiIPTV-FM96-Thoi_su_Ha_Noi
 #EXTINF:-1  tvg-name="FM 98.2 - DAN PHUONG" tvg-logo=" ",FM 98,2 • PT ĐAN PHƯỢNG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM98-2-Phat_thanh_Dan_Phuong
-#EXTINF:-1  tvg-name="FM 98.2 - LIEN HA" tvg-logo=" ",FM 99,4 • PT XÃ LIÊN HÀ - HUYỆN ĐAN PHƯỢNG
-https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Lien_Ha-Huyen_Dan_Phuong
 #EXTINF:-1  tvg-name="FM 103.3 - VAN GIANG (HUNG YEN)" tvg-logo=" ",HƯNG YÊN | FM 103,3 • PT VĂN GIANG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM103-3-Phat_thanh_Van_Giang
