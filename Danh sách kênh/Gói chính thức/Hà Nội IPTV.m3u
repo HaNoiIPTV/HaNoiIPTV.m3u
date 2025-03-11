@@ -14,7 +14,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV4_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD
 #EXTINF:-1  tvg-id="vtv6hd" tvg-link="https://bit.ly/HaNoiIPTV-VTV_Can_Tho và http://4.3.2.1:0000/rtp/232.84.1.119:10266 và http://4.3.2.1:0000/udp/225.1.3.3:30120 và https://tthd.site/360/98/index.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png" catchup-days="3" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho_catchup",VTV CẦN THƠ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho
-#EXTINF:-1  tvg-name="KÊNH 7 - HÀ NỘI S" tvg-link="https://shorturl.gg/rpea" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/V%C3%AC%20t%C3%ACnh%20y%C3%AAu%20H%C3%A0%20N%E1%BB%99i%20-%20Ph%E1%BA%A7n%201.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Series phim "Vì tình yêu Hà Nội" | Phần 1 - Mật lệnh Hoa sữa | Bắt đầu từ tập 16 sẽ có những diễn biến ác liệt khi xô xát Hưng "Cầu chì"
+#EXTINF:-1  tvg-name="KÊNH 7 - HÀ NỘI S" tvg-link="https://shorturl.gg/rpea" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/V%C3%AC%20t%C3%ACnh%20y%C3%AAu%20H%C3%A0%20N%E1%BB%99i%20-%20Ph%E1%BA%A7n%201.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Series phim "Vì tình yêu Hà Nội" | Phần 1 - Mật lệnh Hoa sữa | Bắt đầu từ tập 21 sẽ có những diễn biến ác liệt khi xô xát Hưng "Cầu chì"
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Kenh_7-Ha_Noi_Studio
 #EXTINF:-1  tvg-id="vtv7hd" tvg-link="http://4.3.2.1:0000/rtp/232.84.2.202:10996 và http://4.3.2.1:0000/udp/225.1.2.96:30120" group-title="KÊNH DẠY HỌC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png" catchup-days="3" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD_catchup",VTV7 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV7_HD
@@ -470,8 +470,10 @@ https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM101-4-Phat_thanh_Ha_Dong
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM103-3-Phat_thanh_Van_Giang
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 103,6 • PT MÊ LINH
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM103-6-Phat_thanh_Me_Linh
-#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ VÂN HÀ - HUYỆN PHÚC THỌ
-https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Ha-Huyen_Phuc_Tho
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ VÂN PHÚC - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Phuc-Huyen_Phuc_Tho
+#EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ NAM HÀ - HUYỆN PHÚC THỌ
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Nam_Ha-Huyen_Phuc_Tho
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ TAM HIỆP - HUYỆN PHÚC THỌ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Tam_Hiep-Huyen_Phuc_Tho
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",PT XÃ THỌ LỘC - HUYỆN PHÚC THỌ
