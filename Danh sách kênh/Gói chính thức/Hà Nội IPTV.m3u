@@ -370,7 +370,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-DTV-Truyen_hinh_Dien_Bien_HD
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1  tvg-id="http://4.3.2.1:0000/udp/225.1.2.188:30120 và https://tthd.site/360/92/index.m3u8 và https://live.tuyenquangtv.vn/hls/ttv.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tuy%C3%AAn%20Quang%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",TTV - TH TUYÊN QUANG HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Tuyen_Quang_HD
-#EXTINF:-1  tvg-id="http://4.3.2.1:0000/udp/225.1.1.62:30120" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",HGTV - TH HÀ GIANG HD
+#EXTINF:-1  tvg-id="http://4.3.2.1:0000/udp/225.1.1.62:30120" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20H%C3%A0%20Giang%20HD.png",TTV - TH TUYÊN QUANG HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HGTV-Truyen_hinh_Ha_Giang_HD
 #EXTINF:-1  tvg-id="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.94:11488 và https://tthd.site/360/37/index.m3u8 và https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&token=1111&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TBK%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20K%E1%BA%A1n%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",TN1 - TH THÁI NGUYÊN HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TBK-Truyen_hinh_Bac_Kan_HD
@@ -643,13 +643,13 @@ http://gg.gg/HaNoiIPTVPlus-BPTV-Phat_thanh_Binh_Phuoc
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",PHÚ THỌ | FM 89,5 • PT LẠC THUỶ
 https://hqth.me/2lf9Ex
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",HẢI PHÒNG | FM 89,6 • PT TỨ KỲ
-https://hqth.me/Lv8i
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-6-Phat_thanh_Tu_Ky
 #EXTINF:-1  group-title="KÊNH VOV" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG NINH | FM 89,7 • PT THÀNH PHỐ HẠ LONG
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-7-Phat_thanh_Thanh_pho_Ha_Long
 #EXTINF:-1  group-title="KÊNH RADIO ĐÔNG BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",QUẢNG NINH | FM 89,9 • PT HẢI HÀ
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-9-Phat_thanh_Hai_Ha
 #EXTINF:-1  group-title="KÊNH RADIO ĐỒNG BẰNG SÔNG HỒNG" group-title="KÊNH KHÁC" tvg-logo=" ",NINH BÌNH | FM 90,2 • PT KIM BẢNG
-http://gg.gg/HaNoiIPTVPlus-FM90-2-Phat_thanh_Kim_Bang
+https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM90-2-Phat_thanh_Kim_Bang
 #EXTINF:-1  group-title="KÊNH RADIO ĐÔNG NAM BỘ" group-title="KÊNH KHÁC" tvg-logo=" ",TP.HCM | FM 90,4 • PT THỦ DẦU MỘT
 http://gg.gg/HaNoiIPTVPlus-FM90-4-Phat_thanh_Thu_Dau_Mot
 #EXTINF:-1  group-title="KÊNH RADIO TÂY BẮC" group-title="KÊNH KHÁC" tvg-logo=" ",LÀO CAI | FM 90,4 • PT TRẤN YÊN
