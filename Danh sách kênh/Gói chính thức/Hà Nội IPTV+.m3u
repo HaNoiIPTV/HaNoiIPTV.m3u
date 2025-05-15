@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="https://HaNoiIPTV.short.gy/HaNoiIPTV-Lich_phat_song" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://HaNoiIPTV.short.gy/HeNeiIPTV-Jie_Mu_Biao" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
@@ -40,9 +40,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Style_TV_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Music_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/AXN%20HD.png",AXN HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-AXN_HD
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",WOMAN HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-WOMAN_HD
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",MUSIC BOX HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",MUSIC BOX HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Music_BOX_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png",MAN
 https://HaNoiIPTV.short.gy/HaNoiIPTV-MAN
@@ -55,7 +55,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_E_Channel_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab20%20-%20VFamily.png",ON VFamily
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_VFamily_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png",东方卫视高清 - TH THƯỢNG HẢI HD
-http://gg.gg/HaNoiIPTV-Dong_Fang_Wei_Shi_HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Dong_Fang_Wei_Shi_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20Yeah1%20TV.png",ON Trending TV
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Trending_TV
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png",ON Golf
@@ -68,9 +68,9 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab6%20-%20On%20Sports%2B%20HD.png",On Sports+ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_Plus_HD
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr.Fit HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr.Fit HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Dr_Fit_HD
-#EXTINF:-1  tvg-id="https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",PLANET EARTH HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",PLANET EARTH HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Planet_Earth_HD
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Animal%20Planet%20HD.png",ANIMAL PLANET
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Animal_Planet
