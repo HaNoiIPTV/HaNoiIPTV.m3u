@@ -366,7 +366,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Viva_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai
 #EXTINF:-1  tvg-link="http://iptvquan.duckdns.org:9876/udp/225.1.2.36:30120 và https://tv.TruyenHinh.Click/CoBan/157/TuyetDoiKhongKinhDoanh" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/LTV%20-%20TH%20LAI%20CH%C3%82U%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",LTV - TH LAI CHÂU HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
-#EXTINF:-1  tvg-link="http://iptvquan.duckdns.org:9876/udp/225.1.1.74:30120 và https://ott4.nethubtv.vn/live/dienbientv/chunklist_2.m3u8" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90TV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",ĐTV - TH BÁO ĐIỆN BIÊN PHỦ HD
+#EXTINF:-1  tvg-link="http://iptvquan.duckdns.org:9876/udp/225.1.1.74:30120 và https://ott4.nethubtv.vn/live/dienbientv/chunklist_2.m3u8" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/TH%C4%90BP%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A1o%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20HD.png",ĐTV - TH BÁO ĐIỆN BIÊN PHỦ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-DTV-Truyen_hinh_Dien_Bien_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/SBT%20HD.png",SBT HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Sistema_Brasileiro_HD
@@ -442,8 +442,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-THTPCT-Truyen_hinh_Thanh_pho_Can_Tho_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Canal_Saude_HD
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Canal%20Gov%20HD.png",CANAL GOV HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Canal_Gov_HD
-#EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/TV%20Senado%20HD.png",TV SENADO HD
-https://www.youtube.com/watch?v=tSUqwSMEQ1A
+#EXTINF:-1  group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/ARD%20Alpha%20HD.png",ARD ALPHA HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-ARD_Alpha_HD
 #EXTINF:-1  group-title="KÊNH TỔNG HỢP" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/TV%20Câmara%20HD.png",TV CÂMARA HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TV_Camara_HD
 #EXTINF:-1  group-title="HỆ THỐNG TRUYỀN THANH KHU VỰC HÀ NỘI" group-title="KÊNH KHÁC" tvg-logo=" ",FM 91,8 • PT NAM TỪ LIÊM
