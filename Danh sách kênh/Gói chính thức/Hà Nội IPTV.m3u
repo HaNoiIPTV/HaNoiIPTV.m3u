@@ -50,8 +50,8 @@ https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_ngay
 #EXTINF:-1  tvg-name="KÊNH 24 - HÀ NỘI HÔM NAY • BAN ĐÊM" tvg-link="http://183.99.22.189:9981/stream/channel/29d26f93e4871148f699dd124761a4e6 và http://220.118.153.181:9981/stream/channelid/20 và http://49.167.236.190:9981/stream/channelid/21 và https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Bu%E1%BB%95i%20t%E1%BB%91i.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Loạt các tuyến đường phố khi về đêm trước khi sáp nhập các phường
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_dem
-#EXTINF:-1  tvg-name="KÊNH 25 - HÀ NỘI HÔM NAY • SỰ KIỆN" tvg-link="http://183.99.22.189:9981/stream/channel/6c2a04434af2410725360f300a24079e và http://220.118.153.181:9981/stream/channelid/17 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%E1%BB%B1%20ki%E1%BB%87n%20H%C3%A0%20N%E1%BB%99i%20%E2%80%A2%20Ban%20ng%C3%A0y.png",MỜI QUÝ KHÁN GIẢ THEO DÕI LẠI | Lễ Công bố các Nghị quyết về việc: "Kết thúc hoạt động của 30 quận huyện, sắp xếp 126 đơn vị hành chính cấp xã thuộc TP. Hà Nội"
-https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Su_kien
+#EXTINF:-1  tvg-name="KÊNH 25 - HÀ NỘI HÔM NAY • SỰ KIỆN" tvg-link="https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Su_kien và http://183.99.22.189:9981/stream/channel/6c2a04434af2410725360f300a24079e và http://220.118.153.181:9981/stream/channelid/17 và http://221.167.205.241:9981/stream/channelid/112" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%E1%BB%B1%20ki%E1%BB%87n%20H%C3%A0%20N%E1%BB%99i%20%E2%80%A2%20Ban%20ng%C3%A0y.png",MỜI QUÝ KHÁN GIẢ THEO DÕI LẠI | Bản tin Nóng: "Cơn bão số 3 - Wipha: Cơn bão hay Siêu bão?"
+https://www.youtube.com/watch?v=8PDsT6Uyr9I
 #EXTINF:-1  tvg-name="KÊNH 26 - HÀ NỘI HÔM NAY • SỰ KIỆN BAN ĐÊM" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%E1%BB%B1%20ki%E1%BB%87n%20H%C3%A0%20N%E1%BB%99i%20%E2%80%A2%20Ban%20%C4%91%C3%AAm.png",MỜI QUÝ KHÁN GIẢ THEO DÕI LẠI | Hà Nội Concert: "Hòa nhạc Mùa hè 2025"
 https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Su_kien_Ban_dem
 #EXTINF:-1  tvg-name="KÊNH 27 - HẢI PHÒNG NGÀY NAY" group-title="KÊNH HÀ NỘI IPTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/H%E1%BA%A3i%20Ph%C3%B2ng%20ng%C3%A0y%20nay.png",MỜI QUÝ KHÁN GIẢ THEO DÕI | Những ngày đầu sau sáp nhập TP. Hải Phòng (mới)
@@ -348,6 +348,10 @@ https://HaNoiIPTV.short.gy/Ha_Noi_IPTV_58-SBS_Biz-Kinh_te_Tai_chinh
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  tvg-id="https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TV5MONDE%20ASIE.png",TV5 MONDE
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TV5_MONDE_ASIE
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Das%20Arste%20HD.png",DAS ARSTE HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Das_Arste_HD
+#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Tagesschau%2024%20HD.png",TAGESSCHAU 24 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-Tagesschau_24_HD
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-DW" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/DW.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1  tvg-id="http://gg.gg/HaNoiIPTV-France_24" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/France%2024.png",FRANCE 24
@@ -360,8 +364,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HCATV1-HiTV_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH THIẾU NHI" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Gloob%20HD.png",GLOOB HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Gloob_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Das%20Arste%20HD.png",DAS ARSTE HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Das_Arste_HD
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV+%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%202%20HD.png",BTV+ - TH BẮC NINH 2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BTV_Plus-Truyen_hinh_Bac_Ninh_2_HD
 #EXTINF:-1  tvg-link="http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1055472684_b1384000.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.2.245:10506 và http://iptvquan.duckdns.org:9876/udp/225.1.1.164:30120 và http://iptvzin.asuscomm.com:9876/rtp/232.84.3.100:11452" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%E1%BA%AFc%20Ninh%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh%20g%E1%BB%91c.png",BTV - TH BẮC NINH HD
@@ -400,8 +402,6 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Record_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Record%20News%20HD.png",RECORD NEWS HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Record_News_HD
-#EXTINF:-1  group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/S%C3%A9rie%20de%20canais%20muda%20a%20transmiss%C3%A3o%20para%20dissolver%20as%20prov%C3%ADncias/Tagesschau%2024%20HD.png",TAGESSCHAU 24 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-Tagesschau_24_HD
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Qu%E1%BA%A3ng%20Tr%E1%BB%8B%20HD.png",QTTV - TH QUẢNG TRỊ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-QTTV-Truyen_hinh_Quang_Tri_HD
 #EXTINF:-1  tvg-id="hue" tvg-link="https://tv.TruyenHinh.Click/CoBan/152/TuyetDoiKhongKinhDoanh và https://abcd.site/360/63/index.m3u8 và https://live.trt.com.vn/TRT-Online/chunklist.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF/HueTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20TP.%20Hu%E1%BA%BF%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1%20g%E1%BB%91c%20th%E1%BB%A9%20hai.png",HueTV - TH THÀNH PHỐ HUẾ HD
@@ -470,6 +470,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-TV_Brasil_HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Rede_Minas_HD
 #EXTINF:-1  tvg-link="http://4.3.2.1:0000/udp/225.1.1.132:30120 và https://live.canthotv.vn/live/tv_web/playlist.m3u8" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBCT%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A1o%20C%E1%BA%A7n%20Th%C6%A1%20HD.png",THTPCT - TH CẦN THƠ HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THTPCT-Truyen_hinh_Thanh_pho_Can_Tho_HD
+#EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/THBCT3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A1o%20C%E1%BA%A7n%20Th%C6%A1%203%20HD.png",THTPCT3 - TH CẦN THƠ 3 HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-THTPCT3-Truyen_hinh_Can_Tho_3_HD
 #EXTINF:-1  group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ATV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang%201%20HD.png",ATV1 - TH AN GIANG 1 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ATV1-Truyen_hinh_An_Giang_1_HD
 #EXTINF:-1  group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/ATV3%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20An%20Giang%203%20HD.png",ATV3 - TH AN GIANG 3 HD
