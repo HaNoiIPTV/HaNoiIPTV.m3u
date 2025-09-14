@@ -181,7 +181,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-THVL1_HD
 #EXTINF:-1  tvg-id="vinhlong2hd" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.3.164:10888 và http://iptvquan.duckdns.org:9876/udp/225.1.1.154:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%202%20HD.png",THVL2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THVL2_HD
 #EXTINF:-1  tvg-id="vinhlong5hd" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png",THVL5 HD
-https://HaNoiIPTV.short.gy/HaNoiIPTV-BRT-Truyen_hinh_Ba_Ria_Vung_Tau_HD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-THVL5_HD
 #EXTINF:-1  tvg-id="htv2hd" tvg-link="http://iptvzin.asuscomm.com:9876/rtp/232.84.2.182:9306" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH HTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV2%20-%20Vie%20CHANNEL%20HD.png",HTV2 HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV2_HD
 #EXTINF:-1  tvg-id="htv7hd" tvg-link="http://str1.cvtv.xyz/htv7?token=live và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.223:9312 và http://iptvquan.duckdns.org:9876/udp/225.1.1.192:30120" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG" group-title="KÊNH HTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%204.png"  catchup-days="3" catchup-source="https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV7_HD_catchup",HTV7 HD
@@ -686,6 +686,7 @@ http://210.245.20.94/hls/radio.m3u8
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-PTV-Phat_thanh_Phu_Tho
 #EXTINF:-1  tvg-id="thainguyenradio" tvg-link="http://gg.gg/HaNoiIPTVPlus-VOT-Phat_thanh_Thai_Nguyen" group-title="KÊNH KHÁC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/TNTV%20-%20Ph%C3%A1t%20thanh%20Th%C3%A1i%20Nguy%C3%AAn.png",FM 106,5 • VOT - PT THÁI NGUYÊN
 https://radio.thainguyentv.vn/hls/livestream.m3u8
+
 
 
 
