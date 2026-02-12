@@ -1,6 +1,6 @@
 Hà Nội IPTV xin kính chào quý khách! Hiện nay, chúng tôi đang có cả 3 gói cơ bản áp dụng theo hình thức công khai từ GitHub của chúng tôi (Bao gồm: [Hà Nội IPTV](https://HaNoiIPTV.short.gy/HaNoiIPTV), [Hà Nội IPTV+](https://HaNoiIPTV.short.gy/HaNoiIPTVplus) và [Hà Nội IPTV công cộng](https://HaNoiIPTV.short.gy/HaNoiIPTVpublic).
 =======
-Tròn 5 năm ra mắt (2020 - 2025), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Hàn Quốc có sự giới hạn về khu vực mà dịch vụ cung cấp như SBS HD - TRUYỀN HÌNH THỦ ĐÔ, MBC HD - ĐẶC SẮC QUỐC GIA, KBS1 - TỔNG HỢP QUỐC GIA và KBS2 - GIẢI TRÍ QUỐC GIA nên bắt đầu từ 0h ngày 11/08/2023, các kênh đã không còn phát sóng trên dịch vụ nữa. Thay vào đó, Hà Nội IPTV chính thức quay trở lại phát sóng các kênh độc quyền về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ các thành phố khác trên cả nước [thông qua website](http://web.archive.org). Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
+Tròn 6 năm ra mắt (2020 - 2026), quý khách đã có một khoảng thời gian dài để đồng hành cùng chúng tôi. Do tín hiệu của các kênh truyền hình tại Hàn Quốc có sự giới hạn về khu vực mà dịch vụ cung cấp như SBS HD - TRUYỀN HÌNH THỦ ĐÔ, MBC HD - ĐẶC SẮC QUỐC GIA, KBS1 - TỔNG HỢP QUỐC GIA và KBS2 - GIẢI TRÍ QUỐC GIA nên bắt đầu từ 0h ngày 11/08/2023, các kênh đã không còn phát sóng trên dịch vụ nữa. Thay vào đó, Hà Nội IPTV chính thức quay trở lại phát sóng các kênh độc quyền về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ các thành phố khác trên cả nước [thông qua website](http://web.archive.org). Sau đây mời quý vị và các bạn cùng theo dõi qua lời mở đầu về dịch vụ trên thông qua văn bản sau đây:<br />
 
 # A. Hà Nội IPTV là gì?
 Dịch vụ truyền hình số thế hệ mới - Hà Nội IPTV bắt đầu cho ra mắt công khai kể từ năm 2020 - thời điểm đại dịch Covid-19 của nước ta đang trong giai đoạn phong tỏa/giãn cách, gây ảnh hưởng đến đời sống về kinh tế, văn hóa, xã hội của con người, là nơi để tận hưởng cuộc sống hoàn toàn khác biệt dành cho cả gia đình.<br />
@@ -12,10 +12,10 @@ Hà Nội IPTV hiện đang có trên 300 kênh truyền hình trong nước & q
 Dịch vụ trên đang áp dụng trọn vẹn hai gói bao gồm:<br />
 ## I. [Gói chính thức](https://HaNoiIPTV.short.gy/HaNoiIPTV)
 Hơn 300 kênh truyền hình, trong đó có hơn 100 kênh truyền hình với tiêu chuẩn HD trên các lĩnh vực khác nhau.<br />
-- Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: KÊNH 7 - HÀ NỘI S, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, K+SPORT 1, tvN - GIẢI TRÍ HÀNG ĐẦU, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
+- Hội tụ kho kênh truyền hình đặc sắc đã và đang được quý khán giả quan tâm và ưa chuộng khi theo dõi qua dịch vụ trong suốt thời gian qua như: KÊNH 7 - HÀ NỘI S, VTV1 HD, VTV2 HD, VTV3 HD, VTV5 HD, VTV CẦN THƠ, TH HÀ NỘI 1 HD, ON Phim Việt, ON E Channel, ON Sports HD, ON Football HD, ON Sports News, ON Golf, ON Sports+, tvN - GIẢI TRÍ HÀNG ĐẦU, THVL1 HD, HTV2 HD, HTV7 HD, HTV9 HD, BOX Movie 1 HD, Hollywood Classics HD, BOX Hits, InTheBOX Channel, MAN,....<br />
 - Đăng tải và phát sóng liên tục những hình ảnh về toàn cảnh giao thông trên địa bàn thành phố Hà Nội và nhìn từ kinh nghiệm của các thành phố trên cả nước.<br />
-- Ngoài ra còn có các kênh truyền hình thiết yếu (bao gồm của Trung ương và Địa phương) với độ phân giải cao, bao gồm: THP+ HD, TTV - TH THANH HÓA HD, QTV1 HD, NTV - TH NGHỆ AN HD, TN1 - TH THÁI NGUYÊN HD,....<br />
-- Độc quyền phát sóng công khai đối với 5 kênh K+, 1 kênh địa phương: THHN - TH HÀ NAM HD, 1 kênh tổng hợp chuẩn phát sóng HD cho 新疆卫视 | TH TÂN CƯƠNG cùng hàng loạt chương trình phát/truyền thanh cấp xã, huyện với chất lượng được đảm bảo.<br />
+- Ngoài ra còn có các kênh truyền hình thiết yếu (bao gồm của Trung ương và Địa phương) với độ phân giải cao, bao gồm: THP3 HD, TTV - TH THANH HÓA HD, QTV1 HD, QTV3 HD, NTV - TH NGHỆ AN HD, TN1 - TH THÁI NGUYÊN HD,....<br />
+- Độc quyền phát sóng công khai đối với một số kênh truyền hình với tiêu chuẩn phát sóng HD được đảm bảo.<br />
 - Cập nhật thường xuyên và liên tục, không để khán giả chờ đợi kéo dài.<br />
 
 ### * Lưu ý: Đối với gói chính thức, quý khán giả khuyên cài đặt các ứng dụng: Dimplay, Tivimate, OTT Navigator IPTV,.... trên hệ điều hành Android.<br />
@@ -53,15 +53,15 @@ b) Sau khi cài đặt ứng dụng<br />
 Nếu Smart TV của bạn sử dụng hệ điều hành này thì hiện tại không có ứng dụng nào hỗ trợ sử dụng hoàn toàn miễn phí để theo dõi dịch vụ. Thay vào đó bạn phải cài đặt ứng dụng trên smartphone (Android hoặc iOS) để chia sẻ lên Smart TV đó. Cụ thể như sau:<br />
 a) Đối với hệ điều hành Android
 - Cài đặt ứng dụng [tại đây](https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster), sau đó bạn mở ứng dụng đó để chọn biểu tượng IPTV, nhấn biểu tượng dấu "+" để copy, dán vào link [tại đây](https://HaNoiIPTV.short.gy/HaNoiIPTV) và nhấn Lưu. Sau đó bạn vào Hà Nội IPTV.m3u và chọn kênh mà bạn muốn xem cũng như TV của bạn đang sử dụng để tiến hành kết nối và theo dõi được kênh mà bạn đang lựa chọn.<br />
-## LƯU Ý: Tất cả các smart TV trên hệ điều hành này đều không hỗ trợ một số kênh truyền hình của VTVCab, InTheBOX.TV, SCTV,.... nên quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
+## LƯU Ý: Tất cả các smart TV trên hệ điều hành này quý khán giả chỉ có thể thực hiện thao tác chia sẻ màn hình smartphone của bạn sang smart TV để thay thế cho việc chia sẻ IPTV và theo dõi trực tiếp.
 
 # D. Kết nối với Hà Nội IPTV
 ### Hiện tại, dịch vụ đã có trên các tỉnh thành phố trong cả nước:<br />
-### - [Hải Phòng](http://gg.gg/haiphongiptv)<br />
-### - [Phủ Lý, Hà Nam](http://gg.gg/hanamiptv)<br />
-### - [Nam Định](http://gg.gg/namdinhiptv)<br />
-### - [Thanh Hóa](http://gg.gg/thanhhoaiptv)<br />
-### Ngoài ra, Hà Nội IPTV còn hỗ trợ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý khán giả đã biết đến ngôn ngữ này (河内IPTV支持[中文](http://gg.gg/heneiiptv)语言用于观众知道/河內IPTV支持[中文](http://gg.gg/heneiiptv)語言用於觀眾知道).
+### - [Hải Phòng](http://HaNoiIPTV.short.gy/haiphongiptv)<br />
+### - [Phủ Lý](http://HaNoiIPTV.short.gy/hanamiptv)<br />
+### - [Nam Định](http://HaNoiIPTV.short.gy/namdinhiptv)<br />
+### - [Thanh Hóa](http://HaNoiIPTV.short.gy/thanhhoaiptv)<br />
+### Ngoài ra, Hà Nội IPTV còn hỗ trợ [tiếng Trung Quốc](http://gg.gg/heneiiptv) dành cho quý khán giả đã biết đến ngôn ngữ này (河内IPTV支持[中文](https://HaNoiIPTV.short.gy/heneiiptv)语言用于观众知道/河內IPTV支持[中文](https://HaNoiIPTV.short.gy/heneiiptv)語言用於觀眾知道).
 
 # E. Những nội dung khác
 - [Thông báo](https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Tin%20t%E1%BB%A9c/Th%C3%B4ng%20b%C3%A1o.md): Thường xuyên theo dõi các thông báo mới nhất của Hà Nội IPTV.<br />
@@ -69,12 +69,12 @@ a) Đối với hệ điều hành Android
 
 # G. Liên hệ
 ### Star Beer Mạnh An
-Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
+Địa chỉ: Số 62 Phố Nguyễn Đổng Chi, phường Từ Liêm, Hà Nội (Gần Trường Tiểu học Cầu Diễn)<br />
 ### Nhà ở Hà Nội IPTV
-Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội (Cạnh Khu tập thể)<br />
+Địa chỉ: Phòng 1603, Tầng 16, Chung cư COWA Tower - Số 1 Ngõ 199 Đường Hồ Tùng Mậu, phường Từ Liêm, Hà Nội (Đối diện Trung tâm Văn hóa và Ban Chỉ huy Quân sự phường Từ Liêm)<br />
 ### Quê hương Hà Nội IPTV
-Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, thị trấn Tiên Lãng, huyện Tiên Lãng, Hải Phòng<br />
-Địa chỉ 2: Số 23 Đường Hoằng Đồng 1, thôn 1 Hồng Thái, xã Hoằng Đồng, huyện Hoằng Hóa, Thanh Hóa<br />
+Địa chỉ 1: Số 1 Ngõ 27 Phố Phạm Đình Nguyên, xã Tiên Lãng, TP. Hải Phòng (Cạnh GYM Khuê Nhung)<br />
+Địa chỉ 2: Số 23 Đường/Xóm Hoằng Đồng 1 - thôn 1 Hồng Thái, xã Hoằng Hóa, tỉnh Thanh Hóa (Đối diện Nhà hàng Hương Rừng Quán)<br />
 ### Tiếp nhận thông tin
 Số điện thoại: 0353356981<br />
 Email: hoanghuymanh85@gmail.com<br />
