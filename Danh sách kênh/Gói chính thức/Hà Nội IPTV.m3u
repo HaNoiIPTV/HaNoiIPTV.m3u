@@ -351,8 +351,8 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-CGTN_Documentary
 https://HaNoiIPTV.short.gy/HaNoiIPTV-Arirang
 #EXTINF:-1  tvg-link="http://178.163.14.160:4022/udp/234.0.0.172:2000 và https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20HD.png",Первый Канал HD
 https://HaNoiIPTV.short.gy/HaNoiIPTV-OPT1-Pervy_Kanal_HD
-#EXTINF:-1  tvg-id="nhkworld" tvg-link="http://gg.gg/HaNoiIPTV-NHK_World" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK WORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF:-1  tvg-id="nhkworld" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/NHK%20World%20Japan.png",NHK WORLD
+https://HaNoiIPTV.short.gy/HaNoiIPTV-NHK_World
 #EXTINF:-1  tvg-id="cnn" tvg-link="https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8 và https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/CNN.png",CNN
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CNN
 #EXTINF:-1  tvg-id="bbcworldnews" tvg-link="http://gg.gg/HaNoiIPTV-BBC_News và https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd" group-title="KÊNH TIN TỨC" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BBC%20NEWS.png",BBC NEWS
